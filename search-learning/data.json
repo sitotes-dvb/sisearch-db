@@ -1,94 +1,74 @@
 {
   "meta": {
-    "last_updated": 1769237295556
+    "version": 2,
+    "last_updated": 1706005000000,
+    "strategy": "prefix-grouped"
   },
-  "data": [
-    {
-      "id": "kw001",
-      "keyword": "wifi gratis indonesia",
-      "weight": 100,
-      "impressions": 1502,
-      "clicks": 300,
-      "last_search": 1769237278738,
-      "created_at": 1700000000000,
-      "locale": "id-ID",
-      "tags": [
-        "internet",
-        "wifi",
-        "gratis"
-      ]
-    },
-    {
-      "id": "kw002",
-      "keyword": "cara membuat website",
-      "weight": 80,
-      "impressions": 1200,
-      "clicks": 250,
-      "last_search": 1706001000000,
-      "created_at": 1700000500000,
-      "locale": "id-ID",
-      "tags": [
-        "web",
-        "tutorial",
-        "coding"
-      ]
-    },
-    {
-      "id": "kw003",
-      "keyword": "resep masakan sederhana",
-      "weight": 90,
-      "impressions": 1800,
-      "clicks": 400,
-      "last_search": 1706002000000,
-      "created_at": 1700001000000,
-      "locale": "id-ID",
-      "tags": [
-        "makanan",
-        "resep",
-        "masak"
-      ]
-    },
-    {
-      "id": "kw004",
-      "keyword": "berita terkini",
-      "weight": 70,
-      "impressions": 2001,
-      "clicks": 501,
-      "last_search": 1769237179624,
-      "created_at": 1700001500000,
-      "locale": "id-ID",
-      "tags": [
-        "berita",
-        "terkini"
-      ]
-    },
-    {
-      "id": "kw005",
-      "keyword": "hotel murah jakarta",
-      "weight": 110,
-      "impressions": 2500,
-      "clicks": 600,
-      "last_search": 1706004000000,
-      "created_at": 1700002000000,
-      "locale": "id-ID",
-      "tags": [
-        "travel",
-        "akomodasi",
-        "jakarta"
-      ]
-    },
-    {
-      "id": "b39d6296-148a-48a1-9de0-911b8689eecb",
-      "keyword": "Wirang",
-      "weight": 50,
-      "locale": "id-ID",
-      "tags": [
-        "Lagu"
-      ],
-      "created_at": 1769235411639,
-      "impressions": 3,
-      "clicks": 2,
-      "last_search": 1769237278739
-    }
-  ]
+  "index": {
+    "w": [
+      {
+        "id": "kw001",
+        "keyword": "wifi gratis indonesia",
+        "weight": 100,
+        "impressions": 1500,
+        "clicks": 300,
+        "last_search": 1706000000000,
+        "created_at": 1700000000000,
+        "locale": "id-ID",
+        "tags": ["internet", "wifi", "gratis"]
+      }
+    ],
+    "c": [
+      {
+        "id": "kw002",
+        "keyword": "cara membuat website",
+        "weight": 80,
+        "impressions": 1200,
+        "clicks": 250,
+        "last_search": 1706001000000,
+        "created_at": 1700000500000,
+        "locale": "id-ID",
+        "tags": ["web", "tutorial", "coding"]
+      }
+    ],
+    "r": [
+      {
+        "id": "kw003",
+        "keyword": "resep masakan sederhana",
+        "weight": 90,
+        "impressions": 1800,
+        "clicks": 400,
+        "last_search": 1706002000000,
+        "created_at": 1700001000000,
+        "locale": "id-ID",
+        "tags": ["makanan", "resep", "masak"]
+      }
+    ],
+    "b": [
+      {
+        "id": "kw004",
+        "keyword": "berita terkini",
+        "weight": 70,
+        "impressions": 2000,
+        "clicks": 500,
+        "last_search": 1706003000000,
+        "created_at": 1700001500000,
+        "locale": "id-ID",
+        "tags": ["berita", "terkini"]
+      }
+    ],
+    "h": [
+      {
+        "id": "kw005",
+        "keyword": "hotel murah jakarta",
+        "weight": 110,
+        "impressions": 2500,
+        "clicks": 600,
+        "last_search": 1706004000000,
+        "created_at": 1700002000000,
+        "locale": "id-ID",
+        "tags": ["travel", "akomodasi", "jakarta"]
+      }
+    ]
+  }
 }
