@@ -1,15 +1,15 @@
 {
   "meta": {
-    "last_updated": 1769237031128
+    "last_updated": 1769237118771
   },
   "data": [
     {
       "id": "kw001",
       "keyword": "wifi gratis indonesia",
       "weight": 100,
-      "impressions": 1500,
+      "impressions": 1501,
       "clicks": 300,
-      "last_search": 1706000000000,
+      "last_search": 1769237088883,
       "created_at": 1700000000000,
       "locale": "id-ID",
       "tags": [
@@ -86,9 +86,9 @@
         "Lagu"
       ],
       "created_at": 1769235411639,
-      "impressions": 0,
+      "impressions": 4,
       "clicks": 0,
-      "last_search": null
+      "last_search": 1769237093400
     }
   ]
 }
