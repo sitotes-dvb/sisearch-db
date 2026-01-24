@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769248806798,
+    "last_updated": 1769249963124,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -73,8 +73,8 @@
         "keyword": "berita terkini",
         "weight": 70,
         "impressions": 2000,
-        "clicks": 500,
-        "last_search": 1706003000000,
+        "clicks": 501,
+        "last_search": 1769249933118,
         "created_at": 1700001500000,
         "locale": "id-ID",
         "tags": [
