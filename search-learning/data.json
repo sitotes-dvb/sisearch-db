@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": 1769241132413,
-    "strategy": "prefix-grouped-with-typos",
-    "version": 2.1
+    "last_updated": 1769242852627,
+    "strategy": "prefix-grouped",
+    "version": 2
   },
   "index": {
     "0": [
@@ -61,16 +61,6 @@
         "keyword": "0widodari",
         "is_typo": true,
         "original_keyword": "Widodari",
-        "weight": 45,
-        "impressions": 0,
-        "clicks": 0,
-        "last_search": null
-      },
-      {
-        "id": "01884795-c297-4977-81d6-c018527ad3e9",
-        "keyword": "0undamani",
-        "is_typo": true,
-        "original_keyword": "Cundamani",
         "weight": 45,
         "impressions": 0,
         "clicks": 0,
