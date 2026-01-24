@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769238181965,
+    "last_updated": 1769238271965,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -13,6 +13,17 @@
         "locale": "id-ID",
         "tags": [],
         "created_at": 1769238162884,
+        "impressions": 0,
+        "clicks": 0,
+        "last_search": null
+      },
+      {
+        "id": "c75130fb-00a4-42f6-b6da-4be03fd29ac3",
+        "keyword": "Worowati",
+        "weight": 50,
+        "locale": "id-ID",
+        "tags": [],
+        "created_at": 1769238252824,
         "impressions": 0,
         "clicks": 0,
         "last_search": null
