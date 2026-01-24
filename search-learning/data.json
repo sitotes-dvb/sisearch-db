@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769250153867,
+    "last_updated": 1769279757106,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -29,8 +29,8 @@
         "tags": [],
         "created_at": 1769248783441,
         "impressions": 0,
-        "clicks": 0,
-        "last_search": null
+        "clicks": 1,
+        "last_search": 1769279733211
       }
     ],
     "c": [
