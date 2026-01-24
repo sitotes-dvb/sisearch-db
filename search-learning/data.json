@@ -1,15 +1,15 @@
 {
   "meta": {
-    "last_updated": 1769237118771
+    "last_updated": 1769237144652
   },
   "data": [
     {
       "id": "kw001",
       "keyword": "wifi gratis indonesia",
       "weight": 100,
-      "impressions": 1501,
+      "impressions": 1500,
       "clicks": 300,
-      "last_search": 1769237088883,
+      "last_search": 1706000000000,
       "created_at": 1700000000000,
       "locale": "id-ID",
       "tags": [
@@ -52,9 +52,9 @@
       "id": "kw004",
       "keyword": "berita terkini",
       "weight": 70,
-      "impressions": 2000,
+      "impressions": 2001,
       "clicks": 500,
-      "last_search": 1706003000000,
+      "last_search": 1769237124545,
       "created_at": 1700001500000,
       "locale": "id-ID",
       "tags": [
@@ -86,9 +86,9 @@
         "Lagu"
       ],
       "created_at": 1769235411639,
-      "impressions": 4,
+      "impressions": 0,
       "clicks": 0,
-      "last_search": 1769237093400
+      "last_search": null
     }
   ]
 }
