@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769238271965,
+    "last_updated": 1769238374158,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -24,6 +24,17 @@
         "locale": "id-ID",
         "tags": [],
         "created_at": 1769238252824,
+        "impressions": 0,
+        "clicks": 0,
+        "last_search": null
+      },
+      {
+        "id": "8935e59b-c183-48ed-ad59-943371f55f9a",
+        "keyword": "Widodari",
+        "weight": 50,
+        "locale": "id-ID",
+        "tags": [],
+        "created_at": 1769238356823,
         "impressions": 0,
         "clicks": 0,
         "last_search": null
