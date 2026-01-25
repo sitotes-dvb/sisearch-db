@@ -1,9 +1,135 @@
 {
   "meta": {
-    "last_updated": 1769328393541,
+    "last_updated": 1769347150298,
     "strategy": "prefix-grouped",
     "version": 2
   },
   "index": {
+    "d": [
+      {
+        "id": "kw_e603f7e8-fac9-4e42-8d0a-2eb2c54c673d",
+        "keyword": "Denny Caknan - Tunggal Eka ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347120289,
+        "created_at": 1769347120288,
+        "locale": "id"
+      }
+    ],
+    "k": [
+      {
+        "id": "kw_631e4674-02b7-4969-9570-543a5b2a0f78",
+        "keyword": "Kumpulan Gitar Denny Caknan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347120290,
+        "created_at": 1769347120289,
+        "locale": "id"
+      }
+    ],
+    "p": [
+      {
+        "id": "kw_b29f6127-ee3f-4867-83fe-bd480cb0d1d8",
+        "keyword": "Pujiono - Manisnya Negeriku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347120290,
+        "created_at": 1769347120290,
+        "locale": "id"
+      }
+    ],
+    "r": [
+      {
+        "id": "kw_0c98969a-5d0e-412e-8f72-6fcd136971a5",
+        "keyword": "Rhoma Irama - 135 Juta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347120290,
+        "created_at": 1769347120290,
+        "locale": "id"
+      }
+    ],
+    "m": [
+      {
+        "id": "kw_e0f64dd3-bdd3-4980-86ae-ff887388e146",
+        "keyword": "Mars Madrasah ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347120290,
+        "created_at": 1769347120290,
+        "locale": "id"
+      },
+      {
+        "id": "kw_aa997873-77b1-4ccb-bc93-5e86544e84af",
+        "keyword": "Marjinal - Jaga Sara (Suku, Agama, Ras Dan Antar ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347120291,
+        "created_at": 1769347120291,
+        "locale": "id"
+      }
+    ],
+    "s": [
+      {
+        "id": "kw_51e3f4c4-0e29-4a0d-a161-92daad82fb12",
+        "keyword": "Stand Here Alone - Satu indonesia ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347120290,
+        "created_at": 1769347120290,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5f275d9a-cde1-4dd5-aafd-e52e51c63454",
+        "keyword": "Shaggydog - Jangan Gontok Gontokan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347120291,
+        "created_at": 1769347120291,
+        "locale": "id"
+      }
+    ],
+    "c": [
+      {
+        "id": "kw_9157bd89-97c1-4dcd-ac49-fb75dfb2526b",
+        "keyword": "Cokelat - Anak Garuda",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347120290,
+        "created_at": 1769347120290,
+        "locale": "id"
+      }
+    ],
+    "a": [
+      {
+        "id": "kw_dd281dbf-5d04-45ac-808a-0f6813c8a179",
+        "keyword": "Arinaga Family - Semangat Merdeka ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347120291,
+        "created_at": 1769347120291,
+        "locale": "id"
+      }
+    ]
   }
 }
