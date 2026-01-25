@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769348962017,
+    "last_updated": 1769349381279,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -22,9 +22,9 @@
         "keyword": "Denny Caknan - Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769348962016,
+        "last_search": 1769349381266,
         "created_at": 1769347230918,
         "locale": "id"
       },
@@ -33,9 +33,9 @@
         "keyword": "Denny Caknan - Cundamani ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769348962016,
+        "last_search": 1769349381265,
         "created_at": 1769348962015,
         "locale": "id"
       },
@@ -44,9 +44,9 @@
         "keyword": "Denny Caknan - Langgeng Dayaning Rasa (LDR ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769348962016,
+        "last_search": 1769349381265,
         "created_at": 1769348962016,
         "locale": "id"
       },
@@ -55,9 +55,9 @@
         "keyword": "Denny Caknan - Sigar",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769348962016,
+        "last_search": 1769349381266,
         "created_at": 1769348962016,
         "locale": "id"
       },
@@ -66,9 +66,9 @@
         "keyword": "Denny Caknan - Kalih Welasku ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769348962016,
+        "last_search": 1769349381266,
         "created_at": 1769348962016,
         "locale": "id"
       },
@@ -77,10 +77,21 @@
         "keyword": "Denny Caknan - Sugeng Dalu ...",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769349381266,
+        "created_at": 1769348962016,
+        "locale": "id"
+      },
+      {
+        "id": "kw_92122421-5a12-4501-8dda-52ad722554fe",
+        "keyword": "Denny Caknan",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769348962016,
-        "created_at": 1769348962016,
+        "last_search": 1769349381265,
+        "created_at": 1769349381265,
         "locale": "id"
       }
     ],
@@ -90,10 +101,21 @@
         "keyword": "Kumpulan Gitar Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769348962016,
+        "last_search": 1769349381265,
         "created_at": 1769347120289,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4120fb76-71f1-4426-a3e6-ceb4891add3f",
+        "keyword": "Kalih Welasku ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769349381266,
+        "created_at": 1769349381266,
         "locale": "id"
       }
     ],
@@ -114,10 +136,21 @@
         "keyword": "Pakdhe Baz - AJRIH",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769349381265,
+        "created_at": 1769348962016,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1e761075-38eb-42c5-b211-461e827c97fb",
+        "keyword": "Pakdhe Baz",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769348962016,
-        "created_at": 1769348962016,
+        "last_search": 1769349381265,
+        "created_at": 1769349381265,
         "locale": "id"
       }
     ],
@@ -138,10 +171,21 @@
         "keyword": "Rasah Bali - LAVORA Ft Ena Vika ...",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769349381266,
+        "created_at": 1769348962016,
+        "locale": "id"
+      },
+      {
+        "id": "kw_894b1b24-70c4-4c96-9df0-5afeeb67e986",
+        "keyword": "Rasah Bali",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769348962016,
-        "created_at": 1769348962016,
+        "last_search": 1769349381266,
+        "created_at": 1769349381266,
         "locale": "id"
       }
     ],
@@ -213,6 +257,28 @@
         "last_search": 1769347436410,
         "created_at": 1769347230919,
         "locale": "id"
+      },
+      {
+        "id": "kw_bf29d5df-4125-4db1-b44c-ee0f3472059c",
+        "keyword": "Sigar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769349381266,
+        "created_at": 1769349381266,
+        "locale": "id"
+      },
+      {
+        "id": "kw_762a4143-2103-4868-a9da-e0463a5c5bf9",
+        "keyword": "Sugeng Dalu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769349381266,
+        "created_at": 1769349381266,
+        "locale": "id"
       }
     ],
     "c": [
@@ -226,6 +292,17 @@
         "last_search": 1769347120290,
         "created_at": 1769347120290,
         "locale": "id"
+      },
+      {
+        "id": "kw_7c7dc4eb-0ec4-4b34-b8f7-952436714985",
+        "keyword": "Cundamani ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769349381265,
+        "created_at": 1769349381265,
+        "locale": "id"
       }
     ],
     "a": [
@@ -238,6 +315,17 @@
         "clicks": 0,
         "last_search": 1769347120291,
         "created_at": 1769347120291,
+        "locale": "id"
+      },
+      {
+        "id": "kw_00641d89-bef2-49fd-b7f6-bb34b3e30225",
+        "keyword": "AJRIH",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769349381265,
+        "created_at": 1769349381265,
         "locale": "id"
       }
     ],
@@ -319,10 +407,32 @@
         "keyword": "Wahyu F Giri - Lamunan",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769349381266,
+        "created_at": 1769348962016,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8956e479-69a3-4b4e-9aef-b72a3a61bbf6",
+        "keyword": "Wirang",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769348962016,
-        "created_at": 1769348962016,
+        "last_search": 1769349381266,
+        "created_at": 1769349381266,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b66481fa-88e5-46de-a7f3-4d2a70c0f8fc",
+        "keyword": "Wahyu F Giri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769349381266,
+        "created_at": 1769349381266,
         "locale": "id"
       }
     ],
@@ -336,6 +446,41 @@
         "clicks": 0,
         "last_search": 1769347436410,
         "created_at": 1769347230920,
+        "locale": "id"
+      }
+    ],
+    "l": [
+      {
+        "id": "kw_ad1b10de-c06c-4023-9713-3a8d09ac9502",
+        "keyword": "Langgeng Dayaning Rasa (LDR ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769349381265,
+        "created_at": 1769349381265,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c26ed07b-52ac-46a5-aab5-04f9b8f99097",
+        "keyword": "Lamunan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769349381266,
+        "created_at": 1769349381266,
+        "locale": "id"
+      },
+      {
+        "id": "kw_398cda6e-2c94-4682-88d7-a3a9181e310c",
+        "keyword": "LAVORA Ft Ena Vika ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769349381266,
+        "created_at": 1769349381266,
         "locale": "id"
       }
     ]
