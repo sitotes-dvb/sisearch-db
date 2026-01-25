@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769354018070,
+    "last_updated": 1769359994217,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -59,6 +59,28 @@
         "clicks": 0,
         "last_search": 1769354018053,
         "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b62802eb-6d66-4010-924d-fc97ddf7151a",
+        "keyword": "Dosni Roha feat. Icha Annisa - Andai Tak Berpisah ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994199,
+        "created_at": 1769359994199,
+        "locale": "id"
+      },
+      {
+        "id": "kw_075bd39a-26d5-4d3b-8723-c9a38d514c00",
+        "keyword": "Dosni Roha feat. Icha Annisa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994199,
+        "created_at": 1769359994199,
         "locale": "id"
       }
     ],
@@ -120,6 +142,17 @@
         "clicks": 0,
         "last_search": 1769354018053,
         "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bd781a21-494f-4c2d-b4c5-21f120d413f9",
+        "keyword": "Pisah ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994200,
+        "created_at": 1769359994200,
         "locale": "id"
       }
     ],
@@ -191,6 +224,17 @@
         "last_search": 1769354018053,
         "created_at": 1769354018053,
         "locale": "id"
+      },
+      {
+        "id": "kw_1a2bf898-e9b2-401d-b4e8-99ff3e180da9",
+        "keyword": "Harus Terpisah ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994199,
+        "created_at": 1769359994199,
+        "locale": "id"
       }
     ],
     "j": [
@@ -250,6 +294,28 @@
         "last_search": 1769354018053,
         "created_at": 1769354018053,
         "locale": "id"
+      },
+      {
+        "id": "kw_01d24cef-10dc-4778-b601-adbf958e937e",
+        "keyword": "GuyonWaton Official - Pisah ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994200,
+        "created_at": 1769359994200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_21259fb4-8907-4eba-90d7-6566016c9352",
+        "keyword": "GuyonWaton Official",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994200,
+        "created_at": 1769359994200,
+        "locale": "id"
       }
     ],
     "n": [
@@ -296,6 +362,28 @@
         "last_search": 1769354018053,
         "created_at": 1769354018053,
         "locale": "id"
+      },
+      {
+        "id": "kw_ef59c209-a711-4ee2-9bde-79ba0fe66108",
+        "keyword": "Ndarboy Genk - Tak Kan Berpisah ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994200,
+        "created_at": 1769359994200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7f0f30c6-3c16-4840-bea7-89b4df486903",
+        "keyword": "Ndarboy Genk",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994200,
+        "created_at": 1769359994200,
+        "locale": "id"
       }
     ],
     "b": [
@@ -308,6 +396,249 @@
         "clicks": 0,
         "last_search": 1769354018053,
         "created_at": 1769354018053,
+        "locale": "id"
+      }
+    ],
+    "t": [
+      {
+        "id": "kw_3bd52639-ecd1-4f87-9a30-bed5e26da5b1",
+        "keyword": "Takkan Pisah - Eren ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994199,
+        "created_at": 1769359994199,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cce3ddec-8ea4-4bfd-b16f-00cbcfd176a2",
+        "keyword": "Takkan Pisah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994199,
+        "created_at": 1769359994199,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a68d3ab7-d47c-405f-a985-313157be5d06",
+        "keyword": "Takkan Pisah 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994199,
+        "created_at": 1769359994199,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1f0b06e7-9f0b-42a1-96a2-1c448a41f5ca",
+        "keyword": "Tak Kan Berpisah ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994200,
+        "created_at": 1769359994200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_82cb3c08-f5c5-4f34-9ffd-61c362e735b2",
+        "keyword": "Tak Ingin Pisah Lagi ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994200,
+        "created_at": 1769359994200,
+        "locale": "id"
+      }
+    ],
+    "e": [
+      {
+        "id": "kw_e4eb08e6-dd01-4768-bdee-615a0b26160c",
+        "keyword": "Eren ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994199,
+        "created_at": 1769359994199,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1380d8f9-d9ce-49d5-9dfc-3e9d68cddf83",
+        "keyword": "Eren - Takkan Pisah 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994199,
+        "created_at": 1769359994199,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7b4622e0-c15d-49a8-bc13-83e9b03c7d0a",
+        "keyword": "Eren",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994199,
+        "created_at": 1769359994199,
+        "locale": "id"
+      }
+    ],
+    "w": [
+      {
+        "id": "kw_fb261a19-201b-4977-b3b3-ee93f1f71f09",
+        "keyword": "WALI - Takkan Pisah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994199,
+        "created_at": 1769359994199,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1a360d8f-0c2c-48fb-aa08-791e40a1868d",
+        "keyword": "WALI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994199,
+        "created_at": 1769359994199,
+        "locale": "id"
+      }
+    ],
+    "c": [
+      {
+        "id": "kw_b3ddad71-d697-469c-bfda-afcbb3c59df9",
+        "keyword": "Cakra Khan - Harus Terpisah ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994199,
+        "created_at": 1769359994199,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2d1947e7-c7ec-4a62-b23d-d608de26ad80",
+        "keyword": "Cakra Khan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994199,
+        "created_at": 1769359994199,
+        "locale": "id"
+      }
+    ],
+    "a": [
+      {
+        "id": "kw_60ad3741-1c74-45d0-8ab5-fe8931efe2ae",
+        "keyword": "Andai Tak Berpisah ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994200,
+        "created_at": 1769359994199,
+        "locale": "id"
+      },
+      {
+        "id": "kw_34467bac-c0f8-4fdc-9705-7da9de7c21a7",
+        "keyword": "Andai Tak Berpisah - Andra Respati feat. Gisma Wandira ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994200,
+        "created_at": 1769359994200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f4e0083d-0cf0-4512-abe0-97c0400b78d1",
+        "keyword": "Andai Tak Berpisah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994200,
+        "created_at": 1769359994200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1285aaad-fde3-4d87-a1e2-0b68a38bb1f6",
+        "keyword": "Andra Respati feat. Gisma Wandira ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994200,
+        "created_at": 1769359994200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8e268ad6-ad33-4f3d-9eb3-494ff19b8a81",
+        "keyword": "Annisa Maha Dewi - Rintihan Dalam Setia ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994200,
+        "created_at": 1769359994200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_760b15ce-5039-4900-aaee-edbbbc67f03c",
+        "keyword": "Annisa Maha Dewi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994200,
+        "created_at": 1769359994200,
+        "locale": "id"
+      }
+    ],
+    "r": [
+      {
+        "id": "kw_790d877a-b2e5-4757-b8bd-f0c83a381bd3",
+        "keyword": "Rintihan Dalam Setia ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994200,
+        "created_at": 1769359994200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c786301b-20e3-47b2-b1f2-2b8112722bd3",
+        "keyword": "Rizky Febian Feat. Marion Jola - Tak Ingin Pisah Lagi ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994200,
+        "created_at": 1769359994200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0549d8ee-761d-4c74-b4d6-25d7bb49b2cb",
+        "keyword": "Rizky Febian Feat. Marion Jola",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769359994200,
+        "created_at": 1769359994200,
         "locale": "id"
       }
     ]
