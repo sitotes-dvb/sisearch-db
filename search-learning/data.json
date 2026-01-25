@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769359994217,
+    "last_updated": 1769360020318,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -82,6 +82,39 @@
         "last_search": 1769359994199,
         "created_at": 1769359994199,
         "locale": "id"
+      },
+      {
+        "id": "kw_fcc2f110-2c10-455c-b341-0a71dbd6b893",
+        "keyword": "D'Bagindas ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3c4afbfc-ce8a-485d-b5bd-f6fd35f84ec4",
+        "keyword": "Demeises - Biar Saja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0c6e87c3-f56a-4680-a2ac-1bb4df744dcc",
+        "keyword": "Demeises",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
       }
     ],
     "l": [
@@ -118,6 +151,61 @@
         "clicks": 0,
         "last_search": 1769354018053,
         "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7aabd030-8f00-486b-bf3b-6a49bff1a23f",
+        "keyword": "Kemarin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ea8be09d-7f7a-4bb6-bed6-40587e5d0ee1",
+        "keyword": "Ku Cinta Kau Lebih Dari Kemarin - Abdul And The ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_875a7e8a-6b7c-4c3b-9219-b2da2cd0ba86",
+        "keyword": "Ku Cinta Kau Lebih Dari Kemarin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6e6aedd0-f2cd-4b16-87fe-82cc4ff02e16",
+        "keyword": "KapthenpureK - Jang Tahan Sa ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_24e4125b-3eca-4ec3-8807-79c06e35076f",
+        "keyword": "KapthenpureK",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
         "locale": "id"
       }
     ],
@@ -235,6 +323,17 @@
         "last_search": 1769359994199,
         "created_at": 1769359994199,
         "locale": "id"
+      },
+      {
+        "id": "kw_93d82822-246e-45fa-9f41-2bfa12752387",
+        "keyword": "Hujan Kemarin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
       }
     ],
     "j": [
@@ -280,6 +379,17 @@
         "clicks": 0,
         "last_search": 1769354018053,
         "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2d8d1b61-35b1-497a-88f1-5f82556fdf0a",
+        "keyword": "Jang Tahan Sa ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
         "locale": "id"
       }
     ],
@@ -384,6 +494,17 @@
         "last_search": 1769359994200,
         "created_at": 1769359994200,
         "locale": "id"
+      },
+      {
+        "id": "kw_b0499719-cbfd-48d0-a320-3abb9aa50461",
+        "keyword": "NOAH",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
       }
     ],
     "b": [
@@ -396,6 +517,50 @@
         "clicks": 0,
         "last_search": 1769354018053,
         "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d35df329-64c7-4de0-b6a5-13bd09647480",
+        "keyword": "Bila Kemarin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5b19f4ac-beef-47b6-8c50-e32173011e58",
+        "keyword": "Biar Saja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_32d30b6e-eb2b-4202-afce-0c0ff9e82ff9",
+        "keyword": "Boomerang - Seumur Hidupku ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6a9990f6-5f9b-490d-a7e7-e0e012e685bd",
+        "keyword": "Boomerang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
         "locale": "id"
       }
     ],
@@ -453,6 +618,50 @@
         "clicks": 0,
         "last_search": 1769359994200,
         "created_at": 1769359994200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2e64b1ee-8d5f-4979-ae91-aea038e42963",
+        "keyword": "Taxi Band - Hujan Kemarin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_99f85975-fd9d-4b09-9ddc-d015631493d6",
+        "keyword": "Taxi Band",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fdf82413-ba41-40a0-a5bf-c564658f91e3",
+        "keyword": "Tak Seindah Malam Kemarin - D'Bagindas ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_887a582e-7acf-4258-b6c3-98b7c451824a",
+        "keyword": "Tak Seindah Malam Kemarin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
         "locale": "id"
       }
     ],
@@ -605,6 +814,17 @@
         "last_search": 1769359994200,
         "created_at": 1769359994200,
         "locale": "id"
+      },
+      {
+        "id": "kw_ea89a327-e6cb-4807-ac0a-24803d7171bf",
+        "keyword": "Abdul And The ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
       }
     ],
     "r": [
@@ -639,6 +859,111 @@
         "clicks": 0,
         "last_search": 1769359994200,
         "created_at": 1769359994200,
+        "locale": "id"
+      }
+    ],
+    "s": [
+      {
+        "id": "kw_e0fdb64d-f7ad-4e94-8c5d-1ca2a0481fb5",
+        "keyword": "Seventeen - Kemarin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f267c6f9-c776-4a3c-9a13-250898100544",
+        "keyword": "Seventeen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1dce5a2c-9150-49cc-91ee-2179a835c163",
+        "keyword": "Seperti Kemarin - NOAH",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_60324c86-a3c6-4ae4-8649-988935477ca1",
+        "keyword": "Seperti Kemarin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9d2e80e7-8339-4724-a568-e6a5ac6f3424",
+        "keyword": "Seumur Hidupku ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      }
+    ],
+    "y": [
+      {
+        "id": "kw_3ba8b8b1-b1f3-4c46-ae43-3bf0e5021c7c",
+        "keyword": "Yotari - Bila Kemarin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f84671ac-f845-4c45-bb87-cb9b791af950",
+        "keyword": "Yotari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      }
+    ],
+    "f": [
+      {
+        "id": "kw_28896a05-e699-46f3-926f-95b8b9ad7f0c",
+        "keyword": "Franky Sahilatua - Kemarin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c346d0fc-e79c-4f6c-91e3-2ff51428652f",
+        "keyword": "Franky Sahilatua",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360020300,
+        "created_at": 1769360020300,
         "locale": "id"
       }
     ]
