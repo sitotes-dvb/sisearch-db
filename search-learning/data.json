@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769279757106,
+    "last_updated": 1769327753606,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -48,6 +48,20 @@
           "tutorial",
           "coding"
         ]
+      },
+      {
+        "id": "kw_916d1034-ffc9-41a4-8850-55d68148a12a",
+        "keyword": "contoh keyword",
+        "tags": [
+          "tag1",
+          "tag2"
+        ],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769327723605,
+        "created_at": 1769327723604,
+        "locale": "id"
       }
     ],
     "r": [
@@ -98,6 +112,21 @@
           "akomodasi",
           "jakarta"
         ]
+      }
+    ],
+    "k": [
+      {
+        "id": "kw_8c68aa6c-f171-4889-b238-2e5d266823c5",
+        "keyword": "keyword lainnya",
+        "tags": [
+          "tag3"
+        ],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769327723606,
+        "created_at": 1769327723605,
+        "locale": "id"
       }
     ]
   }
