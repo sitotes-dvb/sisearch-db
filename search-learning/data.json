@@ -1,9 +1,315 @@
 {
   "meta": {
-    "last_updated": 1769353374703,
+    "last_updated": 1769354018070,
     "strategy": "prefix-grouped",
     "version": 2
   },
   "index": {
+    "d": [
+      {
+        "id": "kw_2f672d54-f92c-442a-a3d3-dccb13f7a3bc",
+        "keyword": "Damara De - Luncas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018052,
+        "created_at": 1769354018052,
+        "locale": "id"
+      },
+      {
+        "id": "kw_60f32191-bfe7-4df3-b2ce-935911ce5848",
+        "keyword": "Damara De",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018052,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e3d8f927-6ed8-45cb-8792-9d58f075bba5",
+        "keyword": "Damara De - Pedhot Janji",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_98cae2c4-2fee-4e0e-9908-812879711817",
+        "keyword": "Damara De - Kelangan Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_894bc6bd-4657-436e-a8ac-4b111d974ba0",
+        "keyword": "Damara De feat. Tadeus Lavora ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      }
+    ],
+    "l": [
+      {
+        "id": "kw_636d4e4d-aad5-4c32-93c1-4867942542c6",
+        "keyword": "Luncas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      }
+    ],
+    "k": [
+      {
+        "id": "kw_ac5065ab-1e93-49ca-8029-e512411f2329",
+        "keyword": "Kumpulan Gitar Damara De",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_49cc113d-256d-4bd6-8790-db33ddc4bf4e",
+        "keyword": "Kelangan Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      }
+    ],
+    "p": [
+      {
+        "id": "kw_1c555c45-9733-4cf0-b23e-712135e6c9c3",
+        "keyword": "Pedhot Janji",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5ee7c122-5ca8-4a0e-9998-a082dce983d2",
+        "keyword": "Pisah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      }
+    ],
+    "m": [
+      {
+        "id": "kw_3b8d68c4-7452-4d21-9075-a4b6ec7e8f40",
+        "keyword": "Mahesa - Hayang Jajan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f8b3fad1-0b3f-4b48-ac9f-2fcb6bec606e",
+        "keyword": "Mahesa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ce12ccfd-123e-4cd4-b5cb-433f63cfa27e",
+        "keyword": "Mardua Rupa ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9a74dec0-89f0-48be-a084-5588a2b906d3",
+        "keyword": "Macak Kelaran - Damara De feat. Tadeus Lavora ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_25a5d6bf-c77f-437b-b27d-2ee4f8f195ec",
+        "keyword": "Macak Kelaran",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      }
+    ],
+    "h": [
+      {
+        "id": "kw_6736b9c9-ca50-4e0a-9c37-df1b7633914a",
+        "keyword": "Hayang Jajan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      }
+    ],
+    "j": [
+      {
+        "id": "kw_4c5d505a-1048-4aaf-b852-047ea5f5fec7",
+        "keyword": "Jingga Senja - Glenn Sebastian X VavaVeez ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d81d73e1-def3-453d-887e-8919ec7bb242",
+        "keyword": "Jingga Senja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6891869e-68d8-4d01-969b-da985ae89fb4",
+        "keyword": "Jen Manurung feat Marco Sihaloho - Mardua Rupa ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_53d4955c-b0de-42f8-b84c-229a18758b64",
+        "keyword": "Jen Manurung feat Marco Sihaloho",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      }
+    ],
+    "g": [
+      {
+        "id": "kw_c36cfb3f-2f9d-484b-b2ef-f9299a0e8d79",
+        "keyword": "Glenn Sebastian X VavaVeez ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      }
+    ],
+    "n": [
+      {
+        "id": "kw_65e3ef8a-b7e8-4a85-96c3-e65cb19eb36c",
+        "keyword": "Nadin Amizah - Beranjak Dewasa ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3213b28c-39c9-44ce-a639-ec21d353eac9",
+        "keyword": "Nadin Amizah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_24fd83d0-7e89-4948-8de0-7335360226ea",
+        "keyword": "Novita Charla - Pisah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5a14a3c2-aa61-4979-af8d-3ed960ad25b5",
+        "keyword": "Novita Charla",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      }
+    ],
+    "b": [
+      {
+        "id": "kw_364dba53-179c-4376-aefb-b92e2195c6c8",
+        "keyword": "Beranjak Dewasa ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769354018053,
+        "created_at": 1769354018053,
+        "locale": "id"
+      }
+    ]
   }
 }
