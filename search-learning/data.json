@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769360020318,
+    "last_updated": 1769360249323,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -115,6 +115,39 @@
         "last_search": 1769360020300,
         "created_at": 1769360020300,
         "locale": "id"
+      },
+      {
+        "id": "kw_3a2b7ad0-8e22-4963-af46-4c3e35314611",
+        "keyword": "Demi Kowe",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a32c1bad-e06a-4664-8c53-5de32a3f0280",
+        "keyword": "Dory Harsa - Demi Kowe",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0190c6b0-bf6a-4067-be81-ecaf68d9a611",
+        "keyword": "Dory Harsa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
+        "locale": "id"
       }
     ],
     "l": [
@@ -127,6 +160,17 @@
         "clicks": 0,
         "last_search": 1769354018053,
         "created_at": 1769354018053,
+        "locale": "id"
+      },
+      {
+        "id": "kw_95d75ba4-0d79-4224-92ea-b707ccd9c379",
+        "keyword": "Laiyo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249303,
+        "created_at": 1769360249303,
         "locale": "id"
       }
     ],
@@ -207,6 +251,17 @@
         "last_search": 1769360020300,
         "created_at": 1769360020300,
         "locale": "id"
+      },
+      {
+        "id": "kw_5fc60c94-f7d5-48b6-8339-0a49bbeaf20b",
+        "keyword": "Kowe Selawase ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
+        "locale": "id"
       }
     ],
     "p": [
@@ -241,6 +296,39 @@
         "clicks": 0,
         "last_search": 1769359994200,
         "created_at": 1769359994200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ff274722-9789-4e15-8b26-998687d70615",
+        "keyword": "Pendhoza - Demi Kowe",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ccad71fa-8495-4b4e-b4f7-f10dc4f9a232",
+        "keyword": "Pendhoza",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
+        "locale": "id"
+      },
+      {
+        "id": "kw_14d4fde0-a395-49b9-8e41-7bc80d1e6d97",
+        "keyword": "Prei Layangan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
         "locale": "id"
       }
     ],
@@ -299,6 +387,28 @@
         "last_search": 1769354018053,
         "created_at": 1769354018053,
         "locale": "id"
+      },
+      {
+        "id": "kw_9d0600ec-4286-4d27-8f40-3ef7b5b1775e",
+        "keyword": "Masdddho - Tenang Lan Sabar ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
+        "locale": "id"
+      },
+      {
+        "id": "kw_06f68fcf-3928-487c-87c1-84bed1212b38",
+        "keyword": "Masdddho",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
+        "locale": "id"
       }
     ],
     "h": [
@@ -333,6 +443,50 @@
         "clicks": 0,
         "last_search": 1769360020300,
         "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_823f2b4a-9dae-4c46-932c-29b421f11c0d",
+        "keyword": "Happy Asmara - Prei Layangan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6aafc934-9931-45b6-a3b1-cdbf4d0f51bf",
+        "keyword": "Happy Asmara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8f820c18-db3c-4d92-9064-b9a77eb724b1",
+        "keyword": "Hana Permatasari - Kowe Selawase ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f8293572-bc9c-4896-92fd-51d6d2ec3eb6",
+        "keyword": "Hana Permatasari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
         "locale": "id"
       }
     ],
@@ -390,6 +544,28 @@
         "clicks": 0,
         "last_search": 1769360020300,
         "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_28abf0af-bd42-450a-be3c-e08e04e1f058",
+        "keyword": "Jihan Audy - Berjuang Demi Kowe ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0ed96af9-f793-45a3-929e-06a610e444d1",
+        "keyword": "Jihan Audy",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
         "locale": "id"
       }
     ],
@@ -505,6 +681,17 @@
         "last_search": 1769360020300,
         "created_at": 1769360020300,
         "locale": "id"
+      },
+      {
+        "id": "kw_bf1ecfca-0526-4f5d-bfcc-38d33236289a",
+        "keyword": "Njathil Sak Modare ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249303,
+        "created_at": 1769360249303,
+        "locale": "id"
       }
     ],
     "b": [
@@ -561,6 +748,28 @@
         "clicks": 0,
         "last_search": 1769360020300,
         "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_94ebe0f7-fbd9-44b5-95de-3ddfc4117ccc",
+        "keyword": "Berjuang Demi Kowe ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ba639c3d-f8cb-47bf-96e6-09c4e8cc4b58",
+        "keyword": "Bakal Teko Nong Aku ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249303,
+        "created_at": 1769360249303,
         "locale": "id"
       }
     ],
@@ -662,6 +871,17 @@
         "clicks": 0,
         "last_search": 1769360020300,
         "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_73317a0b-039c-4b26-b108-7d4b3aed468b",
+        "keyword": "Tenang Lan Sabar ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
         "locale": "id"
       }
     ],
@@ -825,6 +1045,39 @@
         "last_search": 1769360020300,
         "created_at": 1769360020300,
         "locale": "id"
+      },
+      {
+        "id": "kw_e0ca82cb-9d8d-4e86-892e-410ee7cdc234",
+        "keyword": "Aku Seng Berjuang Arek Kae Seng Nyayang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bc3198ec-b727-4282-8c72-264c5ddfade9",
+        "keyword": "Anggun Pramudita - Bakal Teko Nong Aku ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249303,
+        "created_at": 1769360249303,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bdf5808c-0471-49cd-87a7-123b7925d93e",
+        "keyword": "Anggun Pramudita",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249303,
+        "created_at": 1769360249303,
+        "locale": "id"
       }
     ],
     "r": [
@@ -964,6 +1217,76 @@
         "clicks": 0,
         "last_search": 1769360020300,
         "created_at": 1769360020300,
+        "locale": "id"
+      }
+    ],
+    "i": [
+      {
+        "id": "kw_f62f5edb-ed7a-471c-b14d-39a1a29222d9",
+        "keyword": "Ilux ID - Aku Seng Berjuang Arek Kae Seng Nyayang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bc18b43e-0a25-416a-9947-80a9d08135a0",
+        "keyword": "Ilux ID",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249302,
+        "created_at": 1769360249302,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1a6c772e-7567-4ff4-92ac-2b4cabaf6668",
+        "keyword": "Intan Cha Cha - Njathil Sak Modare ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249303,
+        "created_at": 1769360249303,
+        "locale": "id"
+      },
+      {
+        "id": "kw_af24be6d-a2d0-4f23-b176-00a8be8d54ab",
+        "keyword": "Intan Cha Cha",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249303,
+        "created_at": 1769360249303,
+        "locale": "id"
+      }
+    ],
+    "o": [
+      {
+        "id": "kw_10fe021c-62e6-4d2b-a12b-d28d27c939a2",
+        "keyword": "Ochi Alvira - Laiyo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249303,
+        "created_at": 1769360249303,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d21761d2-6865-4f5c-a507-f6029003c0ff",
+        "keyword": "Ochi Alvira",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769360249303,
+        "created_at": 1769360249303,
         "locale": "id"
       }
     ]
