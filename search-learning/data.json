@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769327753606,
+    "last_updated": 1769328393541,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -57,9 +57,9 @@
           "tag2"
         ],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769327723605,
+        "last_search": 1769328363535,
         "created_at": 1769327723604,
         "locale": "id"
       }
@@ -122,9 +122,9 @@
           "tag3"
         ],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769327723606,
+        "last_search": 1769328363536,
         "created_at": 1769327723605,
         "locale": "id"
       }
