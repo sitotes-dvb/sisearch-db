@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769347150298,
+    "last_updated": 1769347240312,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -15,6 +15,17 @@
         "clicks": 0,
         "last_search": 1769347120289,
         "created_at": 1769347120288,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fc6e7e99-a06d-41f8-a1af-ed296f404719",
+        "keyword": "Denny Caknan - Wirang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347230919,
+        "created_at": 1769347230918,
         "locale": "id"
       }
     ],
@@ -79,6 +90,17 @@
         "last_search": 1769347120291,
         "created_at": 1769347120291,
         "locale": "id"
+      },
+      {
+        "id": "kw_f1c4d3cc-8dd8-4d92-8036-0fb440c27076",
+        "keyword": "Maharani - Selire Welas ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347230920,
+        "created_at": 1769347230920,
+        "locale": "id"
       }
     ],
     "s": [
@@ -102,6 +124,17 @@
         "clicks": 0,
         "last_search": 1769347120291,
         "created_at": 1769347120291,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0ab93487-5d46-4d9e-a256-11ad834ac506",
+        "keyword": "Sultan Trenggono - Dagang Pindang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347230919,
+        "created_at": 1769347230919,
         "locale": "id"
       }
     ],
@@ -128,6 +161,93 @@
         "clicks": 0,
         "last_search": 1769347120291,
         "created_at": 1769347120291,
+        "locale": "id"
+      }
+    ],
+    "t": [
+      {
+        "id": "kw_e68bc785-4ae7-4993-9413-136702c2908e",
+        "keyword": "Tutupe Wirang - Demy ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347230919,
+        "created_at": 1769347230919,
+        "locale": "id"
+      }
+    ],
+    "h": [
+      {
+        "id": "kw_1d2d4a0d-32fb-4dfd-911f-8daf7cb7ee8f",
+        "keyword": "Happy Asmara - Wirang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347230919,
+        "created_at": 1769347230919,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9bfc6151-9dc5-4dba-880d-8b4ce7e0a062",
+        "keyword": "Hendras Laros - Suruh Kemangi ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347230920,
+        "created_at": 1769347230920,
+        "locale": "id"
+      }
+    ],
+    "n": [
+      {
+        "id": "kw_5954ccfa-6d7e-48b8-a58c-3f4f516d963d",
+        "keyword": "Nadya Jessica - Semebyar ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347230919,
+        "created_at": 1769347230919,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d6cbb228-78b6-4ab0-8bae-2aee8d76e6db",
+        "keyword": "Nanda Sari - Omah Suwung ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347230920,
+        "created_at": 1769347230920,
+        "locale": "id"
+      }
+    ],
+    "w": [
+      {
+        "id": "kw_59c64c7c-377a-4e37-af1b-21db6e1608b1",
+        "keyword": "Watak - Alindra Musik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347230919,
+        "created_at": 1769347230919,
+        "locale": "id"
+      }
+    ],
+    "j": [
+      {
+        "id": "kw_24840a73-353d-4447-9f11-62c352f08f85",
+        "keyword": "James AP - Kelangan Terakhir ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769347230920,
+        "created_at": 1769347230920,
         "locale": "id"
       }
     ]
