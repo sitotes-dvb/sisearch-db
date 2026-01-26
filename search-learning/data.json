@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769408285666,
+    "last_updated": 1769408301635,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -854,6 +854,17 @@
         "last_search": 1769408285659,
         "created_at": 1769408229030,
         "locale": "id"
+      },
+      {
+        "id": "kw_ba881be1-76f4-47b5-8525-368b7e7b3a79",
+        "keyword": "Daftar Koleksi / Nur Hanifa @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
+        "locale": "id"
       }
     ],
     "l": [
@@ -976,6 +987,17 @@
         "clicks": 0,
         "last_search": 1769408177176,
         "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_36c3f684-08fc-48cd-acd0-28ce6494c05e",
+        "keyword": "Lagu Thailand (Nathan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
         "locale": "id"
       }
     ],
@@ -1331,6 +1353,39 @@
         "last_search": 1769408229030,
         "created_at": 1769408229030,
         "locale": "id"
+      },
+      {
+        "id": "kw_4908da58-16d6-47e0-8ec9-29bdc3f5c05b",
+        "keyword": "KADRI - Bareh Solok ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cf44e83b-116b-4952-8327-86fbc102ff43",
+        "keyword": "KADRI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c1f13a43-8aaa-45a0-ad30-3268a3794f26",
+        "keyword": "Kumpulan Gitar Ayu Ting Ting",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
+        "locale": "id"
       }
     ],
     "p": [
@@ -1618,6 +1673,28 @@
         "clicks": 0,
         "last_search": 1769408177176,
         "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_148e48f4-ffb6-4963-9aa1-53b3cb62bef5",
+        "keyword": "Pinki Prananda - Usah kawan Mahino Juo ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_527844cf-c339-499e-9558-116ab1689ef0",
+        "keyword": "Pinki Prananda",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
         "locale": "id"
       }
     ],
@@ -3367,6 +3444,28 @@
         "last_search": 1769408177176,
         "created_at": 1769408177176,
         "locale": "id"
+      },
+      {
+        "id": "kw_5a7e8fdb-f3c3-40bc-8aa7-63d2dbef9952",
+        "keyword": "Nur Hanifa - Cinto Samba Lado ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a0d7e85e-0975-4f9c-a9d2-c87332c73cfd",
+        "keyword": "Nur Hanifa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
+        "locale": "id"
       }
     ],
     "b": [
@@ -3555,6 +3654,17 @@
         "clicks": 0,
         "last_search": 1769408285659,
         "created_at": 1769408285659,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7775d291-311c-4722-9be4-4e630bc89678",
+        "keyword": "Bareh Solok",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
         "locale": "id"
       }
     ],
@@ -3965,6 +4075,17 @@
         "last_search": 1769408285659,
         "created_at": 1769408285659,
         "locale": "id"
+      },
+      {
+        "id": "kw_1604c102-7e6f-4b85-bcad-53c10171c627",
+        "keyword": "Tambah Pitih Balanjo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
+        "locale": "id"
       }
     ],
     "e": [
@@ -4043,6 +4164,28 @@
         "clicks": 0,
         "last_search": 1769407631223,
         "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_140c1869-47c9-423e-abcc-acc0fb6f6896",
+        "keyword": "Eno Viola & Ridho Zulma - Urang Awak ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7265190c-2394-4eaf-ac1b-b5ff805a4341",
+        "keyword": "Eno Viola & Ridho Zulma",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
         "locale": "id"
       }
     ],
@@ -4376,6 +4519,28 @@
         "last_search": 1769407902838,
         "created_at": 1769407902838,
         "locale": "id"
+      },
+      {
+        "id": "kw_a475eda8-5aa7-4392-9dbf-6faf0469d813",
+        "keyword": "Wik Wik Wik Ahh Ahh - Lagu Thailand (Nathan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7af805f2-5067-412f-a038-4a48e5c1478e",
+        "keyword": "Wik Wik Wik Ahh Ahh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
+        "locale": "id"
       }
     ],
     "c": [
@@ -4575,6 +4740,17 @@
         "clicks": 0,
         "last_search": 1769407810239,
         "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b20fc0d2-29ec-445c-8f26-f5fc3456dee0",
+        "keyword": "Cinto Samba Lado",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
         "locale": "id"
       }
     ],
@@ -5024,9 +5200,9 @@
         "keyword": "Ayu Ting Ting - SambaLado ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769408285659,
+        "last_search": 1769408301632,
         "created_at": 1769408229030,
         "locale": "id"
       },
@@ -5035,9 +5211,9 @@
         "keyword": "Ayu Ting Ting",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769408285659,
+        "last_search": 1769408301632,
         "created_at": 1769408229030,
         "locale": "id"
       },
@@ -5083,6 +5259,28 @@
         "clicks": 0,
         "last_search": 1769408285659,
         "created_at": 1769408285659,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2114139c-d62f-4767-882c-604c694d6f79",
+        "keyword": "Ayu Amanda Ft Roby Gensuz - Tambah Pitih Balanjo ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0a0fc8da-2904-44d8-be15-5b718ebd8967",
+        "keyword": "Ayu Amanda Ft Roby Gensuz",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
         "locale": "id"
       }
     ],
@@ -6018,9 +6216,9 @@
         "keyword": "SambaLado",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769408285659,
+        "last_search": 1769408301632,
         "created_at": 1769408229030,
         "locale": "id"
       },
@@ -6231,9 +6429,9 @@
         "keyword": "Fauzana",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407784909,
+        "last_search": 1769408301632,
         "created_at": 1769407784909,
         "locale": "id"
       },
@@ -6268,6 +6466,17 @@
         "clicks": 0,
         "last_search": 1769408285659,
         "created_at": 1769408285659,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d30ab966-b0be-49ab-a7b8-9562e75fb1de",
+        "keyword": "Fauzana - Urang Awak",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
         "locale": "id"
       }
     ],
@@ -6542,6 +6751,28 @@
         "clicks": 0,
         "last_search": 1769408285659,
         "created_at": 1769408285659,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f1de2a4c-60aa-4cba-b876-492d9fb1a0db",
+        "keyword": "Urang Awak",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e3945ad3-7ef7-499b-aedb-51420394af25",
+        "keyword": "Usah kawan Mahino Juo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408301632,
+        "created_at": 1769408301632,
         "locale": "id"
       }
     ]
