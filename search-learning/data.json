@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769403661103,
+    "last_updated": 1769406982900,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -423,6 +423,61 @@
         "last_search": 1769403661096,
         "created_at": 1769403661096,
         "locale": "id"
+      },
+      {
+        "id": "kw_fa154aa3-ed60-4a48-84ff-6754f713cd5e",
+        "keyword": "DIalog Senja ft Wira Nagara - Dendam ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982897,
+        "created_at": 1769406982897,
+        "locale": "id"
+      },
+      {
+        "id": "kw_772401d7-883a-4e9f-9d55-8cfa3fe729a2",
+        "keyword": "DIalog Senja ft Wira Nagara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982897,
+        "created_at": 1769406982897,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c625e525-1989-4850-80b7-331303d24b6c",
+        "keyword": "Dendam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6be3081d-7389-4482-8a9e-72d550b0a8bb",
+        "keyword": "Dek Wira - Pelih Ngubuh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b07e6196-6c7b-43c0-a180-afa300c2f46a",
+        "keyword": "Dek Wira",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
+        "locale": "id"
       }
     ],
     "l": [
@@ -669,6 +724,28 @@
         "last_search": 1769403661096,
         "created_at": 1769403661096,
         "locale": "id"
+      },
+      {
+        "id": "kw_ca85f714-7a54-49ee-9ef3-116439ee4c57",
+        "keyword": "Kenangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982897,
+        "created_at": 1769406982897,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7b1a09b7-5202-4d51-a46b-a8f01a802974",
+        "keyword": "Kala Luka Berpesta ft. Wira Nagara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
+        "locale": "id"
       }
     ],
     "p": [
@@ -803,6 +880,28 @@
         "last_search": 1769398806466,
         "created_at": 1769398806466,
         "locale": "id"
+      },
+      {
+        "id": "kw_4cab437b-2582-44c6-afad-39152744ed40",
+        "keyword": "Pelih Ngubuh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0be7f0fc-f22e-4985-b45d-8d1127860816",
+        "keyword": "Pura-Pura",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
+        "locale": "id"
       }
     ],
     "m": [
@@ -914,6 +1013,17 @@
         "clicks": 0,
         "last_search": 1769398806467,
         "created_at": 1769398806466,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b87b6c17-4565-4508-bfb1-bea9a30e17e5",
+        "keyword": "Mati Alon Alon",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
         "locale": "id"
       }
     ],
@@ -1884,6 +1994,61 @@
         "last_search": 1769398806467,
         "created_at": 1769398806467,
         "locale": "id"
+      },
+      {
+        "id": "kw_4f09cb8d-e860-4f8e-a455-08aa182e34e0",
+        "keyword": "Tika Pagraky Ft. Wira Krisna - Kenangan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982897,
+        "created_at": 1769406982897,
+        "locale": "id"
+      },
+      {
+        "id": "kw_84861d75-e436-4b50-99f9-efb52dea9efa",
+        "keyword": "Tika Pagraky Ft. Wira Krisna",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982897,
+        "created_at": 1769406982897,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8a6a943f-33d0-46b0-b8ec-3e4a37c1b6f9",
+        "keyword": "Tenang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9534f28c-d490-41d1-a1bb-b66c7163c875",
+        "keyword": "Tresnomu Membo Membo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9134d96c-1752-43bc-8137-d0e89648e80e",
+        "keyword": "Tika Pagraky Ft. Wira Krisna - Ingkar Janji ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
+        "locale": "id"
       }
     ],
     "e": [
@@ -2063,6 +2228,94 @@
         "clicks": 0,
         "last_search": 1769403661095,
         "created_at": 1769403661095,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4fd8ba41-99ef-41a6-80c0-bb1bcdca7645",
+        "keyword": "Wira Nagara - Mati Alon Alon ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
+        "locale": "id"
+      },
+      {
+        "id": "kw_424bd436-b64c-44b7-a5cb-7c75b1f46fe5",
+        "keyword": "Wira Nagara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b1fd2371-39dc-484f-8e08-2758d1b51a1b",
+        "keyword": "Wira Nagara - Tenang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eb840761-e726-4612-a464-6e0d21a9427f",
+        "keyword": "Wira YH - Tresnomu Membo Membo ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
+        "locale": "id"
+      },
+      {
+        "id": "kw_afb4ce28-3d71-4540-9578-e259f270878b",
+        "keyword": "Wira YH",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cddc5b83-ab45-4539-a38a-c9a044f7e9cf",
+        "keyword": "Wira Nagara - Antah Berantah ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
+        "locale": "id"
+      },
+      {
+        "id": "kw_69347d71-1d47-4279-a825-4eb6b9121df8",
+        "keyword": "Wira Krisna - Pura-Pura",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fca26a84-34c7-47e3-ae07-a103bb4c235d",
+        "keyword": "Wira Krisna",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
         "locale": "id"
       }
     ],
@@ -2353,6 +2606,17 @@
         "clicks": 0,
         "last_search": 1769398806467,
         "created_at": 1769398806467,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3711da23-0e54-4520-99fd-6e1c17f72954",
+        "keyword": "Antah Berantah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
         "locale": "id"
       }
     ],
@@ -2901,6 +3165,28 @@
         "last_search": 1769396521655,
         "created_at": 1769396521655,
         "locale": "id"
+      },
+      {
+        "id": "kw_31bf1958-d89b-460c-92c3-e416b9d796b9",
+        "keyword": "for Revenge - Kala Luka Berpesta ft. Wira Nagara ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cb9eda89-3ec1-4b06-b708-24536664e08d",
+        "keyword": "for Revenge",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
+        "locale": "id"
       }
     ],
     "i": [
@@ -2946,6 +3232,17 @@
         "clicks": 0,
         "last_search": 1769360249303,
         "created_at": 1769360249303,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5b928904-3842-4bae-9b91-72caf76dbe7d",
+        "keyword": "Ingkar Janji",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769406982898,
+        "created_at": 1769406982898,
         "locale": "id"
       }
     ],
