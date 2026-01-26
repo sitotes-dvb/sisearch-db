@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769407672120,
+    "last_updated": 1769407733907,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -178,9 +178,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1769407509350,
+        "last_search": 1769407733906,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -579,6 +579,28 @@
         "last_search": 1769407672119,
         "created_at": 1769407672119,
         "locale": "id"
+      },
+      {
+        "id": "kw_0ab613e7-31ec-49e2-8fbe-86acd8fd580a",
+        "keyword": "Denny Caknan - Crito Mustahil ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5a6040d4-d196-4088-8646-3b410e6997a6",
+        "keyword": "Denny Caknan - Langgeng Dayaning Rasa (LDR ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
+        "locale": "id"
       }
     ],
     "l": [
@@ -609,9 +631,9 @@
         "keyword": "Langgeng Dayaning Rasa (LDR",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769395971034,
+        "last_search": 1769407733906,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -1269,6 +1291,28 @@
         "last_search": 1769407672119,
         "created_at": 1769407672119,
         "locale": "id"
+      },
+      {
+        "id": "kw_a818ea93-6824-4b10-b955-3931e8643d55",
+        "keyword": "Meyda Rahma - Remek",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733905,
+        "created_at": 1769407733905,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fee32ee1-8a52-4c54-97b1-ca589c77168f",
+        "keyword": "Meyda Rahma",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
+        "locale": "id"
       }
     ],
     "h": [
@@ -1424,6 +1468,28 @@
         "clicks": 0,
         "last_search": 1769406986139,
         "created_at": 1769406986139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1d0b9e0a-81b8-4645-a587-7f59a93bb358",
+        "keyword": "Heris Hydrawan - Rekasane ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4bb3b40e-0b07-43ea-8db2-591e515b230b",
+        "keyword": "Heris Hydrawan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
         "locale": "id"
       }
     ],
@@ -1624,6 +1690,17 @@
         "clicks": 0,
         "last_search": 1769407672119,
         "created_at": 1769407672119,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6738c76c-20bd-43c1-811c-a76985d28f20",
+        "keyword": "Jarak lan Wektu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
         "locale": "id"
       }
     ],
@@ -1932,9 +2009,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769396521655,
+        "last_search": 1769407733906,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -2212,6 +2289,50 @@
         "last_search": 1769407672118,
         "created_at": 1769407672118,
         "locale": "id"
+      },
+      {
+        "id": "kw_d96bb31f-2a75-48da-bc9a-b3dca457b65b",
+        "keyword": "NDX AKA - Ngertenono Ati ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fe368547-4a33-4010-9cfb-da1eaadc9712",
+        "keyword": "Ngertenono Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
+        "locale": "id"
+      },
+      {
+        "id": "kw_467384f7-a21a-44cc-b326-f13a26756e86",
+        "keyword": "Northsle ft Helmi Anwar - Jarak lan Wektu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d2325e03-9ef1-4772-9c6a-1409bcbd2282",
+        "keyword": "Northsle ft Helmi Anwar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
+        "locale": "id"
       }
     ],
     "b": [
@@ -2312,6 +2433,28 @@
         "clicks": 0,
         "last_search": 1769407672119,
         "created_at": 1769407672119,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e82f4450-25bd-4571-b126-ecd0e6efd413",
+        "keyword": "Bondho Ndonyo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
+        "locale": "id"
+      },
+      {
+        "id": "kw_20e4b88d-a8c5-4335-8e66-c2c3aa6163f4",
+        "keyword": "Buruh COD",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
         "locale": "id"
       }
     ],
@@ -2600,6 +2743,39 @@
         "clicks": 0,
         "last_search": 1769407672119,
         "created_at": 1769407672119,
+        "locale": "id"
+      },
+      {
+        "id": "kw_efb69c3e-036d-4d45-9c30-7400791bf945",
+        "keyword": "Tiara Linggar - Teteg Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733905,
+        "created_at": 1769407733905,
+        "locale": "id"
+      },
+      {
+        "id": "kw_19a435c5-a081-40d7-a81d-01a732ddfecb",
+        "keyword": "Tiara Linggar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733905,
+        "created_at": 1769407733905,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8ecbc7b8-9918-4c22-8c94-0cd20f672e3c",
+        "keyword": "Teteg Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733905,
+        "created_at": 1769407733905,
         "locale": "id"
       }
     ],
@@ -2954,9 +3130,9 @@
         "keyword": "Crito Mustahil",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769397199479,
+        "last_search": 1769407733906,
         "created_at": 1769397199463,
         "locale": "id"
       },
@@ -3264,9 +3440,9 @@
         "keyword": "Aftershine",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769398806467,
+        "last_search": 1769407733906,
         "created_at": 1769398806467,
         "locale": "id"
       },
@@ -3312,6 +3488,50 @@
         "clicks": 0,
         "last_search": 1769407509350,
         "created_at": 1769407471827,
+        "locale": "id"
+      },
+      {
+        "id": "kw_76b20c20-083d-4097-a0ce-8363ef460e93",
+        "keyword": "Agus Panuntun feat. Dhimas Tedjo - Bondho Ndonyo ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fe6f1d63-8627-4013-8e3d-7b7b97adcedb",
+        "keyword": "Agus Panuntun feat. Dhimas Tedjo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dcddc6aa-ed4d-44db-af8c-1d2711ce7c33",
+        "keyword": "AKU ORA NGAPUSI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ddebaf16-6fdf-40c4-90cd-2504bd84558c",
+        "keyword": "Aftershine - Buruh COD",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
         "locale": "id"
       }
     ],
@@ -3435,6 +3655,28 @@
         "clicks": 0,
         "last_search": 1769407509350,
         "created_at": 1769407471814,
+        "locale": "id"
+      },
+      {
+        "id": "kw_df7c52e3-a712-4f34-932f-c0260c372c25",
+        "keyword": "Remek",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cfe98da1-dc1d-47d3-b20b-3d8cda47da16",
+        "keyword": "Rekasane",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
         "locale": "id"
       }
     ],
@@ -3921,6 +4163,28 @@
         "clicks": 0,
         "last_search": 1769407672119,
         "created_at": 1769407672119,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d4050ac7-798f-4e21-8384-37762b75682b",
+        "keyword": "Sri Susilo - AKU ORA NGAPUSI ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d9bd2d44-e6e3-43d6-a923-8f9db702c61b",
+        "keyword": "Sri Susilo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407733906,
+        "created_at": 1769407733906,
         "locale": "id"
       }
     ],
