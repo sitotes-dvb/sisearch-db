@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769409730877,
+    "last_updated": 1769410290386,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -68,9 +68,9 @@
         "keyword": "Damara De feat. Tadeus Lavora",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769354018053,
+        "last_search": 1769410290383,
         "created_at": 1769354018053,
         "locale": "id"
       },
@@ -931,6 +931,17 @@
         "last_search": 1769409730862,
         "created_at": 1769409730862,
         "locale": "id"
+      },
+      {
+        "id": "kw_318679b5-f973-49db-8b37-45575db18cad",
+        "keyword": "Durung Ikhlas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290383,
+        "created_at": 1769410290383,
+        "locale": "id"
       }
     ],
     "l": [
@@ -1064,6 +1075,160 @@
         "clicks": 0,
         "last_search": 1769408301632,
         "created_at": 1769408301632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fc2a209a-74ac-453f-8d69-912412283ea1",
+        "keyword": "LAVORA Ft WAWES - Asing ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290382,
+        "created_at": 1769410290382,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eb058a1c-fc60-42da-a660-1c3557ba67cb",
+        "keyword": "LAVORA Ft WAWES",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290382,
+        "created_at": 1769410290382,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3fcbf213-399e-4bea-b8f0-c47b9393241f",
+        "keyword": "LAVORA - HTS",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290382,
+        "created_at": 1769410290382,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7cae2e88-b3a4-40bc-9089-3ee67369d2f5",
+        "keyword": "LAVORA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290382,
+        "created_at": 1769410290382,
+        "locale": "id"
+      },
+      {
+        "id": "kw_badc20e8-d69f-4e20-923a-8fe3175e8948",
+        "keyword": "Lavora ft. Destya Eka - Sewates Konco ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290382,
+        "created_at": 1769410290382,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2841127e-b634-4b4c-a35f-72598f942dd1",
+        "keyword": "Lavora ft. Destya Eka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290382,
+        "created_at": 1769410290382,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e23069a1-05d7-485e-b05f-d6a415b49e35",
+        "keyword": "LAVORA - Rapercoyo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290382,
+        "created_at": 1769410290382,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1accb0f0-99cf-445a-9efe-47c1dbcbce9a",
+        "keyword": "LAVORA Ft. Damara De - Nresnani ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290382,
+        "created_at": 1769410290382,
+        "locale": "id"
+      },
+      {
+        "id": "kw_914362d2-c480-4409-92ae-14d218f49f52",
+        "keyword": "LAVORA Ft. Damara De",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290382,
+        "created_at": 1769410290382,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8813f493-f6cf-42ae-b4da-12a58a3f3357",
+        "keyword": "LAVORA - Durung Ikhlas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290383,
+        "created_at": 1769410290383,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cc370ab5-a59b-4cbd-92bd-3f1fb1317405",
+        "keyword": "LAVORA Ft Ratih SDE - Ora Ngemis Bali ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290383,
+        "created_at": 1769410290383,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b910a081-340d-4424-81e2-af6b1c5e35e6",
+        "keyword": "LAVORA Ft Ratih SDE",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290383,
+        "created_at": 1769410290383,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0c4c91ee-8f38-4890-a3fc-4e0959543842",
+        "keyword": "LAVORA feat. Sasa Salsabila - Sewates Mantan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290383,
+        "created_at": 1769410290383,
+        "locale": "id"
+      },
+      {
+        "id": "kw_014cf5bb-7469-45fd-a8d7-0979ead96f4e",
+        "keyword": "LAVORA feat. Sasa Salsabila",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290383,
+        "created_at": 1769410290383,
         "locale": "id"
       }
     ],
@@ -1485,6 +1650,17 @@
         "last_search": 1769409730862,
         "created_at": 1769409730861,
         "locale": "id"
+      },
+      {
+        "id": "kw_9336fefc-13ec-4fe3-b836-755535a16efd",
+        "keyword": "Kumpulan Gitar LAVORA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290382,
+        "created_at": 1769410290382,
+        "locale": "id"
       }
     ],
     "p": [
@@ -1847,9 +2023,9 @@
         "keyword": "Macak Kelaran",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769354018053,
+        "last_search": 1769410290383,
         "created_at": 1769354018053,
         "locale": "id"
       },
@@ -2204,6 +2380,17 @@
         "last_search": 1769408384618,
         "created_at": 1769408366286,
         "locale": "id"
+      },
+      {
+        "id": "kw_790888e6-ce39-4162-8758-9995d65fdd8e",
+        "keyword": "Macak Kelaran - Damara De feat. Tadeus Lavora ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290383,
+        "created_at": 1769410290383,
+        "locale": "id"
       }
     ],
     "h": [
@@ -2414,6 +2601,17 @@
         "clicks": 0,
         "last_search": 1769408384618,
         "created_at": 1769408366286,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c95cec94-16bd-431c-9ef9-c6128875e747",
+        "keyword": "HTS",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290382,
+        "created_at": 1769410290382,
         "locale": "id"
       }
     ],
@@ -3608,6 +3806,17 @@
         "clicks": 0,
         "last_search": 1769408301632,
         "created_at": 1769408301632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_515ea7f5-bd55-40fe-9612-92198f93d1e3",
+        "keyword": "Nresnani",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290383,
+        "created_at": 1769410290382,
         "locale": "id"
       }
     ],
@@ -5689,6 +5898,17 @@
         "last_search": 1769409730862,
         "created_at": 1769409730862,
         "locale": "id"
+      },
+      {
+        "id": "kw_9b80b008-23a2-4ca0-8a6e-50eee7ae4cf4",
+        "keyword": "Asing",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290382,
+        "created_at": 1769410290382,
+        "locale": "id"
       }
     ],
     "r": [
@@ -5910,6 +6130,17 @@
         "clicks": 0,
         "last_search": 1769407902838,
         "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ee0266b0-9390-45cb-b706-4fbc352856e2",
+        "keyword": "Rapercoyo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290382,
+        "created_at": 1769410290382,
         "locale": "id"
       }
     ],
@@ -6738,6 +6969,28 @@
         "last_search": 1769409730862,
         "created_at": 1769409730862,
         "locale": "id"
+      },
+      {
+        "id": "kw_90557740-f2bc-48c3-9bde-3b016c7c2ef9",
+        "keyword": "Sewates Konco",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290382,
+        "created_at": 1769410290382,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fc2f0643-b0fd-43a5-b262-592041f1c7c2",
+        "keyword": "Sewates Mantan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290383,
+        "created_at": 1769410290383,
+        "locale": "id"
       }
     ],
     "y": [
@@ -7218,6 +7471,17 @@
         "clicks": 0,
         "last_search": 1769409653444,
         "created_at": 1769409653444,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d9b499ca-8568-4a65-afcd-66cf52fe5542",
+        "keyword": "Ora Ngemis Bali",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769410290383,
+        "created_at": 1769410290383,
         "locale": "id"
       }
     ],
