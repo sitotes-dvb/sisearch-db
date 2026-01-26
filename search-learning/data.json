@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769407509352,
+    "last_updated": 1769407631224,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -502,6 +502,28 @@
         "last_search": 1769407509350,
         "created_at": 1769407471814,
         "locale": "id"
+      },
+      {
+        "id": "kw_29b7f878-ecda-4fa8-abf7-f0fe1dc36f3b",
+        "keyword": "Daftar Koleksi / Denny Caknan @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_21af6757-ad94-4a89-b477-351880100647",
+        "keyword": "Daftar Koleksi / Gus Dur @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
+        "locale": "id"
       }
     ],
     "l": [
@@ -770,6 +792,17 @@
         "last_search": 1769406982898,
         "created_at": 1769406982898,
         "locale": "id"
+      },
+      {
+        "id": "kw_1da3aad5-fe38-4cac-a207-91a40156f68f",
+        "keyword": "Kumpulan Gitar Shinta Arsinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
+        "locale": "id"
       }
     ],
     "p": [
@@ -948,6 +981,28 @@
         "last_search": 1769407509350,
         "created_at": 1769407471814,
         "locale": "id"
+      },
+      {
+        "id": "kw_d1320016-f87b-42d0-923e-7840d3db7cf8",
+        "keyword": "Padang Bulan - Maya Sari ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8ae2c802-e85e-452f-adb4-d099b3daf3a5",
+        "keyword": "Padang Bulan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
+        "locale": "id"
       }
     ],
     "m": [
@@ -1125,6 +1180,17 @@
         "clicks": 0,
         "last_search": 1769407509350,
         "created_at": 1769407471815,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ca163807-8309-437c-8ff2-bea9bc15a390",
+        "keyword": "Maya Sari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
         "locale": "id"
       }
     ],
@@ -1550,6 +1616,39 @@
         "last_search": 1769403661095,
         "created_at": 1769403661095,
         "locale": "id"
+      },
+      {
+        "id": "kw_a287835f-1ad9-4291-9654-b33d63864c54",
+        "keyword": "Gusdur Pendekar Rakyat",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1ed18efe-575d-40c4-ad4a-2a1c914a112f",
+        "keyword": "Gus Dur - Syi'ir Tanpo Waton ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ab4f2bdd-2533-4536-ad17-71baea43e17b",
+        "keyword": "Gus Dur",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
+        "locale": "id"
       }
     ],
     "n": [
@@ -1903,6 +2002,72 @@
         "clicks": 0,
         "last_search": 1769406986139,
         "created_at": 1769406986139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_11275efb-e72b-43c1-87c7-f2c04cd6c8f4",
+        "keyword": "Ngamen 10",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_31621de2-9cf7-4f8f-b4a4-f022ea67acee",
+        "keyword": "Ngamen 5 - Eny Sagita",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7901ab44-68b1-48d0-83f5-f7058921e033",
+        "keyword": "Ngamen 5",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0b3fc50a-b016-40f2-8eec-1d5e3d28ed54",
+        "keyword": "Ngamen 4",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a32edfdd-6f6e-4cd2-a7bc-964d7237bb64",
+        "keyword": "Ngamen 2 - Eny Sagita",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f44c4181-ab6f-4927-b416-44a05586ae81",
+        "keyword": "Ngamen 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
         "locale": "id"
       }
     ],
@@ -2283,6 +2448,39 @@
         "clicks": 0,
         "last_search": 1769395894349,
         "created_at": 1769395894349,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1b7702e6-1a17-4fab-b26a-76a1ecfb7901",
+        "keyword": "Eny Sagita - Ngamen 10",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cbbd9f4a-8c33-4965-b578-718666ab9d7a",
+        "keyword": "Eny Sagita",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_56f2e971-6102-4151-bf2c-5ac7be8b4bf6",
+        "keyword": "Eny Sagita - Ngamen 4",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
         "locale": "id"
       }
     ],
@@ -3393,6 +3591,39 @@
         "clicks": 0,
         "last_search": 1769407509350,
         "created_at": 1769407471827,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cb30fc0b-f86d-4a10-80c0-11136ea90614",
+        "keyword": "Shinta Arsinta - Gusdur Pendekar Rakyat ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_df6f3d8b-f554-4ba2-9937-20ee50b22cf9",
+        "keyword": "Shinta Arsinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1fcabfad-42bb-4871-9faf-2827d74a5d44",
+        "keyword": "Syi'ir Tanpo Waton",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407631223,
+        "created_at": 1769407631223,
         "locale": "id"
       }
     ],
