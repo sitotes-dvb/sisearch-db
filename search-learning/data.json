@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769407810241,
+    "last_updated": 1769407836967,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -167,9 +167,9 @@
         "keyword": "Denny Caknan - Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769407751811,
+        "last_search": 1769407836965,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -178,9 +178,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 11,
+        "impressions": 12,
         "clicks": 0,
-        "last_search": 1769407751811,
+        "last_search": 1769407836965,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -233,9 +233,9 @@
         "keyword": "Denny Caknan - Sigar",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769407751811,
+        "last_search": 1769407836965,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -508,9 +508,9 @@
         "keyword": "Daftar Koleksi / Denny Caknan @Chordtela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407631223,
+        "last_search": 1769407836965,
         "created_at": 1769407631223,
         "locale": "id"
       },
@@ -730,9 +730,9 @@
         "keyword": "LAVORA Ft Ena Vika",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314317,
+        "last_search": 1769407836965,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -1011,6 +1011,50 @@
         "clicks": 0,
         "last_search": 1769407810239,
         "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8091159f-a9f0-4b76-b743-07ea2162da58",
+        "keyword": "Kisinan 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407836965,
+        "created_at": 1769407836965,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5588af95-594f-41b3-9450-ec4462a5611c",
+        "keyword": "KISINAN - Masdddho",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407836965,
+        "created_at": 1769407836965,
+        "locale": "id"
+      },
+      {
+        "id": "kw_53058151-6cd6-44fb-abc8-24803e7a4c4b",
+        "keyword": "KISINAN",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407836965,
+        "created_at": 1769407836965,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8539660d-f272-49a9-b761-489916654a98",
+        "keyword": "Kumpulan Gitar Masdddho",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407836965,
+        "created_at": 1769407836965,
         "locale": "id"
       }
     ],
@@ -1319,9 +1363,9 @@
         "keyword": "Masdddho",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769360249302,
+        "last_search": 1769407836965,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -1521,6 +1565,28 @@
         "clicks": 0,
         "last_search": 1769407810239,
         "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_62b4ef3e-5a42-4048-81c1-517d88040001",
+        "keyword": "Masdddho - Kisinan 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407836965,
+        "created_at": 1769407836965,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dee43b1a-8131-464c-952c-24c6d6259039",
+        "keyword": "Masdddho - Samar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407836965,
+        "created_at": 1769407836965,
         "locale": "id"
       }
     ],
@@ -2251,9 +2317,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769407733906,
+        "last_search": 1769407836965,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -2339,9 +2405,9 @@
         "keyword": "Nemen HipHop Dangdut Version",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769396521655,
+        "last_search": 1769407836965,
         "created_at": 1769396521655,
         "locale": "id"
       },
@@ -2629,6 +2695,28 @@
         "clicks": 0,
         "last_search": 1769407810239,
         "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0b681608-fcb3-468a-8371-d9b7e120df78",
+        "keyword": "Northsle Ft Agiff",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407836965,
+        "created_at": 1769407836965,
+        "locale": "id"
+      },
+      {
+        "id": "kw_651004f3-4c14-4d4f-99a3-4f36a9bef694",
+        "keyword": "NDX AKA - Nemen HipHop Dangdut Version ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407836965,
+        "created_at": 1769407836965,
         "locale": "id"
       }
     ],
@@ -3096,6 +3184,28 @@
         "last_search": 1769407733905,
         "created_at": 1769407733905,
         "locale": "id"
+      },
+      {
+        "id": "kw_b7e8799a-0e7a-4f01-988d-e8cce4573f1e",
+        "keyword": "Tresno Liyane - Northsle Ft Agiff ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407836965,
+        "created_at": 1769407836965,
+        "locale": "id"
+      },
+      {
+        "id": "kw_90af5d25-f790-423d-aa2e-e5a9f41e7243",
+        "keyword": "Tresno Liyane",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407836965,
+        "created_at": 1769407836965,
+        "locale": "id"
       }
     ],
     "e": [
@@ -3205,9 +3315,9 @@
         "keyword": "Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769407751811,
+        "last_search": 1769407836965,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -4069,9 +4179,9 @@
         "keyword": "Rasah Bali",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314317,
+        "last_search": 1769407836965,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -4206,6 +4316,17 @@
         "last_search": 1769407810239,
         "created_at": 1769407810239,
         "locale": "id"
+      },
+      {
+        "id": "kw_a9e3d851-2bd1-4d74-a875-19f5b2339902",
+        "keyword": "Rasah Bali - LAVORA Ft Ena Vika ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407836965,
+        "created_at": 1769407836965,
+        "locale": "id"
       }
     ],
     "s": [
@@ -4324,9 +4445,9 @@
         "keyword": "Sigar",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769407751811,
+        "last_search": 1769407836965,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -4779,6 +4900,17 @@
         "clicks": 0,
         "last_search": 1769407784909,
         "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1b88a96c-456e-4de9-8077-bdb51dcb6d4b",
+        "keyword": "Samar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407836965,
+        "created_at": 1769407836965,
         "locale": "id"
       }
     ],
