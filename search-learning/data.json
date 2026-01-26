@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769396521658,
+    "last_updated": 1769397199481,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -154,9 +154,9 @@
         "keyword": "Denny Caknan - Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769395971034,
+        "last_search": 1769397199479,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -165,9 +165,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769395971034,
+        "last_search": 1769397199463,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -198,9 +198,9 @@
         "keyword": "Denny Caknan - Cundamani ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314316,
+        "last_search": 1769397199479,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -220,9 +220,9 @@
         "keyword": "Denny Caknan - Sigar",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769395971034,
+        "last_search": 1769397199479,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -297,9 +297,9 @@
         "keyword": "Denny Caknan - Sugeng Dalu ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395894349,
+        "last_search": 1769397199479,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -323,6 +323,61 @@
         "clicks": 0,
         "last_search": 1769395971034,
         "created_at": 1769395971034,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2d6a3c7b-5290-4f4a-8439-d25f17b5e868",
+        "keyword": "Denny Caknan - Crito Mustahil ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769397199463,
+        "created_at": 1769397199463,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dd5860ae-9210-48e6-91f1-1ecb278bcdbb",
+        "keyword": "Denny Caknan - Jangan Tutup Lagi ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769397199479,
+        "created_at": 1769397199479,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2679c3d7-01a9-4cce-8ab3-fada4a7dd2b6",
+        "keyword": "Denny Caknan - Jajalen Aku ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769397199479,
+        "created_at": 1769397199479,
+        "locale": "id"
+      },
+      {
+        "id": "kw_95b6fa21-f03a-4655-af92-d696499f3313",
+        "keyword": "Denny Caknan feat. Guyon Waton - Widodari ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769397199479,
+        "created_at": 1769397199479,
+        "locale": "id"
+      },
+      {
+        "id": "kw_36da6f0e-9558-49ef-84cc-bb1d4f30052b",
+        "keyword": "Denny Caknan feat. Guyon Waton",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769397199479,
+        "created_at": 1769397199479,
         "locale": "id"
       }
     ],
@@ -499,9 +554,9 @@
         "keyword": "Kumpulan Gitar Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769395971034,
+        "last_search": 1769397199479,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -984,6 +1039,28 @@
         "clicks": 0,
         "last_search": 1769395121055,
         "created_at": 1769395121055,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f3e1aeec-4273-4a8c-9079-1d4b0aa4452a",
+        "keyword": "Jangan Tutup Lagi ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769397199479,
+        "created_at": 1769397199479,
+        "locale": "id"
+      },
+      {
+        "id": "kw_da3e18db-f4be-45c7-8a4f-e05cf04801ea",
+        "keyword": "Jajalen Aku ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769397199479,
+        "created_at": 1769397199479,
         "locale": "id"
       }
     ],
@@ -1576,6 +1653,17 @@
         "last_search": 1769395894349,
         "created_at": 1769395894349,
         "locale": "id"
+      },
+      {
+        "id": "kw_79bde4b8-5e2c-4dc6-b28c-0c06ad9c365d",
+        "keyword": "Tepi Campuhan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769397199479,
+        "created_at": 1769397199479,
+        "locale": "id"
       }
     ],
     "e": [
@@ -1652,9 +1740,9 @@
         "keyword": "Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769395971034,
+        "last_search": 1769397199479,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -1712,6 +1800,17 @@
         "last_search": 1769395971034,
         "created_at": 1769395314317,
         "locale": "id"
+      },
+      {
+        "id": "kw_08d7fcc0-0ee2-4ebe-b7d6-74773cad3a37",
+        "keyword": "Widodari ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769397199479,
+        "created_at": 1769397199479,
+        "locale": "id"
       }
     ],
     "c": [
@@ -1742,9 +1841,9 @@
         "keyword": "Cundamani ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314316,
+        "last_search": 1769397199479,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -1757,6 +1856,17 @@
         "clicks": 0,
         "last_search": 1769396521655,
         "created_at": 1769396521655,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e6a48feb-6c0e-4a9a-91cc-a7bc9b5ba6c5",
+        "keyword": "Crito Mustahil ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769397199479,
+        "created_at": 1769397199463,
         "locale": "id"
       }
     ],
@@ -2166,9 +2276,9 @@
         "keyword": "Sigar",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769395971034,
+        "last_search": 1769397199479,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -2188,9 +2298,9 @@
         "keyword": "Sugeng Dalu ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395894349,
+        "last_search": 1769397199479,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -2236,6 +2346,28 @@
         "clicks": 0,
         "last_search": 1769396521656,
         "created_at": 1769396521656,
+        "locale": "id"
+      },
+      {
+        "id": "kw_01d6def5-6d9c-41fb-bfe8-9ef8b2d523d7",
+        "keyword": "Slank - Tepi Campuhan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769397199479,
+        "created_at": 1769397199479,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1e93e691-e3ad-417e-98b2-9da2f4a728e2",
+        "keyword": "Slank",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769397199479,
+        "created_at": 1769397199479,
         "locale": "id"
       }
     ],
