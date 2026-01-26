@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769409653447,
+    "last_updated": 1769409730877,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -876,6 +876,61 @@
         "last_search": 1769408384618,
         "created_at": 1769408366286,
         "locale": "id"
+      },
+      {
+        "id": "kw_7198dd5f-2f4a-4111-8725-c16c0814dbf4",
+        "keyword": "DENOK - Cindi Cintya feat Sadewok ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730861,
+        "created_at": 1769409730861,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d050b505-b904-42a7-a302-4315004a603e",
+        "keyword": "DENOK",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730861,
+        "created_at": 1769409730861,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5bbe9bd0-649f-4948-9fd2-328cba43026f",
+        "keyword": "Denny Caknan Feat. Abah Lala - Delik Delikan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730862,
+        "created_at": 1769409730862,
+        "locale": "id"
+      },
+      {
+        "id": "kw_03f08762-a757-4a07-9bb2-675fed9d1bc6",
+        "keyword": "Denny Caknan Feat. Abah Lala",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730862,
+        "created_at": 1769409730862,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bccefd4b-5a77-4e06-81ce-e59d1d9b3f05",
+        "keyword": "Delik Delikan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730862,
+        "created_at": 1769409730862,
+        "locale": "id"
       }
     ],
     "l": [
@@ -1407,6 +1462,28 @@
         "clicks": 0,
         "last_search": 1769408384618,
         "created_at": 1769408366286,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4bf7ad7d-a674-4f16-89b5-97b1d8196c47",
+        "keyword": "Kere Munggah Bale - Iwan Anoman ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730861,
+        "created_at": 1769409730861,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6c3048b0-00bb-4b01-8759-5833d4e8dbc2",
+        "keyword": "Kere Munggah Bale",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730862,
+        "created_at": 1769409730861,
         "locale": "id"
       }
     ],
@@ -2412,9 +2489,9 @@
         "keyword": "Jihan Audy",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769360249302,
+        "last_search": 1769409730862,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -2625,6 +2702,17 @@
         "clicks": 0,
         "last_search": 1769408285659,
         "created_at": 1769408285659,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c7358676-241f-4167-926c-f6bca9b61efa",
+        "keyword": "Jihan Audy - Sultan Mah Bebas ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730862,
+        "created_at": 1769409730862,
         "locale": "id"
       }
     ],
@@ -3721,6 +3809,28 @@
         "last_search": 1769408301632,
         "created_at": 1769408301632,
         "locale": "id"
+      },
+      {
+        "id": "kw_fa7fec1a-f2b4-41b5-a646-db84b4b21fd6",
+        "keyword": "Banondari - Azmy Z Feat. Giriharja Dua Putu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730862,
+        "created_at": 1769409730862,
+        "locale": "id"
+      },
+      {
+        "id": "kw_52a07b82-e109-433d-bc3f-dc890bcb4035",
+        "keyword": "Banondari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730862,
+        "created_at": 1769409730862,
+        "locale": "id"
       }
     ],
     "t": [
@@ -4141,6 +4251,28 @@
         "last_search": 1769408301632,
         "created_at": 1769408301632,
         "locale": "id"
+      },
+      {
+        "id": "kw_763e8d21-9d35-4668-a010-96d61cb94d5e",
+        "keyword": "Tresno Marang Tonggo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730861,
+        "created_at": 1769409730861,
+        "locale": "id"
+      },
+      {
+        "id": "kw_51f81cdb-b31e-440e-90fc-dfc979d0e160",
+        "keyword": "Tupang X Ayu Octavia feat Dyan Bro",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730862,
+        "created_at": 1769409730862,
+        "locale": "id"
       }
     ],
     "e": [
@@ -4241,6 +4373,17 @@
         "clicks": 0,
         "last_search": 1769408301632,
         "created_at": 1769408301632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_61718f4a-cfdb-46e4-a2a4-d34ac8394343",
+        "keyword": "Esa Risty ft Erlangga Gusfian",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730861,
+        "created_at": 1769409730861,
         "locale": "id"
       }
     ],
@@ -4817,6 +4960,72 @@
         "clicks": 0,
         "last_search": 1769408384618,
         "created_at": 1769408366286,
+        "locale": "id"
+      },
+      {
+        "id": "kw_14a6cabb-4519-4110-819f-3e86b0ab42b4",
+        "keyword": "Cindi Cintya feat Sadewok",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730861,
+        "created_at": 1769409730861,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a906f3d0-5bf9-419f-b88e-30f45944ffb2",
+        "keyword": "Cinta Tak Terpisahkan - Cak Diqin ft Safitri ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730861,
+        "created_at": 1769409730861,
+        "locale": "id"
+      },
+      {
+        "id": "kw_11aa5330-b851-4d56-8830-cbec1305d708",
+        "keyword": "Cinta Tak Terpisahkan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730861,
+        "created_at": 1769409730861,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1e8923a4-86e2-47fe-b918-41465f9aa890",
+        "keyword": "Cak Diqin ft Safitri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730861,
+        "created_at": 1769409730861,
+        "locale": "id"
+      },
+      {
+        "id": "kw_38ccb248-3d19-4a38-b8d8-cb058200d00b",
+        "keyword": "Cek Cek Cek - Tupang X Ayu Octavia feat Dyan Bro ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730862,
+        "created_at": 1769409730862,
+        "locale": "id"
+      },
+      {
+        "id": "kw_71cde899-3cc6-4345-a642-1aef1e0508b7",
+        "keyword": "Cek Cek Cek",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730862,
+        "created_at": 1769409730862,
         "locale": "id"
       }
     ],
@@ -5446,6 +5655,39 @@
         "clicks": 0,
         "last_search": 1769408384618,
         "created_at": 1769408366286,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2b4e88dd-26fc-4988-a639-8f3361148181",
+        "keyword": "Arya Satria Dan Denok - Tresno Marang Tonggo ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730861,
+        "created_at": 1769409730861,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6b83a252-e7fb-4486-aa9d-509e2664dab8",
+        "keyword": "Arya Satria Dan Denok",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730861,
+        "created_at": 1769409730861,
+        "locale": "id"
+      },
+      {
+        "id": "kw_77ece16b-126b-4f4d-b1ba-cf7b746d88d4",
+        "keyword": "Azmy Z Feat. Giriharja Dua Putu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730862,
+        "created_at": 1769409730862,
         "locale": "id"
       }
     ],
@@ -6441,6 +6683,61 @@
         "last_search": 1769408384618,
         "created_at": 1769408366286,
         "locale": "id"
+      },
+      {
+        "id": "kw_559711f6-fa7b-4872-859c-6ec16f04b612",
+        "keyword": "Santri Pekok - Esa Risty ft Erlangga Gusfian ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730861,
+        "created_at": 1769409730861,
+        "locale": "id"
+      },
+      {
+        "id": "kw_938a1837-502d-4c63-8bb7-eafcc7a5b9da",
+        "keyword": "Santri Pekok",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730861,
+        "created_at": 1769409730861,
+        "locale": "id"
+      },
+      {
+        "id": "kw_228334e9-6a92-497c-b0a5-4418206da285",
+        "keyword": "Slintutan - Fendik Adella ft Difarina Indra ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730862,
+        "created_at": 1769409730862,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9e7bcb1a-e866-4c61-9f49-e9ef33f43db4",
+        "keyword": "Slintutan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730862,
+        "created_at": 1769409730862,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6fb5ba22-a777-4588-848c-487e2568b461",
+        "keyword": "Sultan Mah Bebas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730862,
+        "created_at": 1769409730862,
+        "locale": "id"
       }
     ],
     "y": [
@@ -6687,6 +6984,17 @@
         "last_search": 1769409653444,
         "created_at": 1769409653444,
         "locale": "id"
+      },
+      {
+        "id": "kw_62ed6690-3824-464f-ba6b-9ab5a9b504f1",
+        "keyword": "Fendik Adella ft Difarina Indra",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730862,
+        "created_at": 1769409730862,
+        "locale": "id"
       }
     ],
     "i": [
@@ -6765,6 +7073,17 @@
         "clicks": 0,
         "last_search": 1769407784909,
         "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_56205a93-f9a1-43f4-9f1d-4d9488166015",
+        "keyword": "Iwan Anoman",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769409730862,
+        "created_at": 1769409730862,
         "locale": "id"
       }
     ],
