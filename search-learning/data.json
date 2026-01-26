@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769407883533,
+    "last_updated": 1769407902840,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -178,9 +178,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 14,
+        "impressions": 15,
         "clicks": 0,
-        "last_search": 1769407883531,
+        "last_search": 1769407902838,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -695,9 +695,9 @@
         "keyword": "Dadi Siji",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407883531,
+        "last_search": 1769407902838,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -761,9 +761,9 @@
         "keyword": "Denny Caknan - Kalih Welasku ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407883531,
+        "last_search": 1769407902838,
         "created_at": 1769407883531,
         "locale": "id"
       }
@@ -996,9 +996,9 @@
         "keyword": "Kalih Welasku",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769407883531,
+        "last_search": 1769407902838,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -1143,6 +1143,28 @@
         "clicks": 0,
         "last_search": 1769407836965,
         "created_at": 1769407836965,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ef39638e-574e-4498-9834-e5f3d32c5e27",
+        "keyword": "Kehalang Restu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407902838,
+        "created_at": 1769407902838,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8ca8cfe5-053d-45c4-b4ad-10cf3c2e8c0d",
+        "keyword": "Kedaden",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407902838,
+        "created_at": 1769407902838,
         "locale": "id"
       }
     ],
@@ -1704,9 +1726,9 @@
         "keyword": "Miqbal GA ft. Siska Amanda - Dadi Siji ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407883531,
+        "last_search": 1769407902838,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -1715,9 +1737,9 @@
         "keyword": "Miqbal GA ft. Siska Amanda",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407883531,
+        "last_search": 1769407902838,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -2515,9 +2537,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769407853710,
+        "last_search": 1769407902838,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -2900,9 +2922,9 @@
         "keyword": "Northsle Ft Agiff",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769407883531,
+        "last_search": 1769407902838,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -2926,6 +2948,39 @@
         "clicks": 0,
         "last_search": 1769407883531,
         "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_16ed9621-758a-4e6f-ac38-9d657b891807",
+        "keyword": "NORTHSLE Ft. Alya Sekar - WES ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407902838,
+        "created_at": 1769407902838,
+        "locale": "id"
+      },
+      {
+        "id": "kw_13c14d3f-4675-4506-a21c-3578794a12b5",
+        "keyword": "NORTHSLE Ft. Alya Sekar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407902838,
+        "created_at": 1769407902838,
+        "locale": "id"
+      },
+      {
+        "id": "kw_59d8c0f1-ec41-41e9-b5fc-0219b5908695",
+        "keyword": "NDX AKA - Tresno Tekan Mati ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407902838,
+        "created_at": 1769407902838,
         "locale": "id"
       }
     ],
@@ -3071,6 +3126,28 @@
         "clicks": 0,
         "last_search": 1769407810239,
         "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4175794c-ff4b-4ecb-9fd4-e91a3cf555e3",
+        "keyword": "Bagas Putra feat. Tika Meylani - Sepurane (Pilihane ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407902838,
+        "created_at": 1769407902838,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c634be1a-27d4-468c-be9b-468b5aff17cd",
+        "keyword": "Bagas Putra feat. Tika Meylani",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407902838,
+        "created_at": 1769407902838,
         "locale": "id"
       }
     ],
@@ -3399,9 +3476,9 @@
         "keyword": "Tresno Liyane - Northsle Ft Agiff ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407836965,
+        "last_search": 1769407902838,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -3410,9 +3487,9 @@
         "keyword": "Tresno Liyane",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407836965,
+        "last_search": 1769407902838,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -3447,6 +3524,17 @@
         "clicks": 0,
         "last_search": 1769407883531,
         "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eeac3ba7-6f8b-4109-8d6e-b8a3c175e3cb",
+        "keyword": "Tresno Tekan Mati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407902838,
+        "created_at": 1769407902838,
         "locale": "id"
       }
     ],
@@ -3847,6 +3935,17 @@
         "clicks": 0,
         "last_search": 1769407883531,
         "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0ae8ab6f-e290-4f0a-a1fb-07230377dea2",
+        "keyword": "WES",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407902838,
+        "created_at": 1769407902838,
         "locale": "id"
       }
     ],
@@ -4424,6 +4523,28 @@
         "last_search": 1769407883531,
         "created_at": 1769407883531,
         "locale": "id"
+      },
+      {
+        "id": "kw_85f349d3-dcac-491e-b4cf-386aa3ae3ab0",
+        "keyword": "Arya Galih - Kedaden",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407902838,
+        "created_at": 1769407902838,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cd890bc5-9192-43eb-b438-be1e75284e80",
+        "keyword": "Arya Galih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407902838,
+        "created_at": 1769407902838,
+        "locale": "id"
       }
     ],
     "r": [
@@ -4630,9 +4751,9 @@
         "keyword": "Raiso Dadi Siji - Sarah Brilian feat. Stress Royal ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407883531,
+        "last_search": 1769407902838,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -4641,9 +4762,9 @@
         "keyword": "Raiso Dadi Siji",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407883531,
+        "last_search": 1769407902838,
         "created_at": 1769407883531,
         "locale": "id"
       }
@@ -5248,10 +5369,65 @@
         "keyword": "Sarah Brilian feat. Stress Royal",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769407902838,
+        "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_36e02a33-68ab-462b-adbb-e19284037b44",
+        "keyword": "SisiKitaa - Kehalang Restu",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769407883531,
-        "created_at": 1769407883531,
+        "last_search": 1769407902838,
+        "created_at": 1769407902838,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3d8cbac6-ed01-4b26-853a-7694679d2900",
+        "keyword": "SisiKitaa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407902838,
+        "created_at": 1769407902838,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c22a2791-1c86-43ed-b302-214f1d8b511f",
+        "keyword": "Sombat Sambat ft. Mayratri - Ora Jodo ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407902838,
+        "created_at": 1769407902838,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9b9d8e63-45ae-4dee-a21c-84d0a15313be",
+        "keyword": "Sombat Sambat ft. Mayratri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407902838,
+        "created_at": 1769407902838,
+        "locale": "id"
+      },
+      {
+        "id": "kw_189848e5-1390-4b42-ab5e-f90e8ff881bf",
+        "keyword": "Sepurane (Pilihane",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407902838,
+        "created_at": 1769407902838,
         "locale": "id"
       }
     ],
@@ -5612,6 +5788,17 @@
         "clicks": 0,
         "last_search": 1769403661096,
         "created_at": 1769403661096,
+        "locale": "id"
+      },
+      {
+        "id": "kw_561487f6-87e6-4718-bc3e-51a0e40a924f",
+        "keyword": "Ora Jodo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407902838,
+        "created_at": 1769407902838,
         "locale": "id"
       }
     ],
