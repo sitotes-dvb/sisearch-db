@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769397199481,
+    "last_updated": 1769398806468,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -379,6 +379,17 @@
         "last_search": 1769397199479,
         "created_at": 1769397199479,
         "locale": "id"
+      },
+      {
+        "id": "kw_49282964-d19e-4fee-9ebd-808c77885bd9",
+        "keyword": "Daftar Koleksi / Ndarboy Genk • Laman 2 dari 2 ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806467,
+        "created_at": 1769398806467,
+        "locale": "id"
       }
     ],
     "l": [
@@ -442,9 +453,9 @@
         "keyword": "Lanang Tenan ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395894349,
+        "last_search": 1769398806467,
         "created_at": 1769395894349,
         "locale": "id"
       }
@@ -592,6 +603,17 @@
         "last_search": 1769395971034,
         "created_at": 1769395971034,
         "locale": "id"
+      },
+      {
+        "id": "kw_9b6c9182-86d7-45ba-8fe3-7dcde701645e",
+        "keyword": "Kumpulan Gitar Ndarboy Genk",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806466,
+        "created_at": 1769398806466,
+        "locale": "id"
       }
     ],
     "p": [
@@ -726,6 +748,17 @@
         "last_search": 1769396521656,
         "created_at": 1769396521656,
         "locale": "id"
+      },
+      {
+        "id": "kw_32f363d4-cebc-4c97-b486-4db3c9e85241",
+        "keyword": "Pipise Ngomong ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806466,
+        "created_at": 1769398806466,
+        "locale": "id"
       }
     ],
     "m": [
@@ -826,6 +859,17 @@
         "clicks": 0,
         "last_search": 1769395121055,
         "created_at": 1769395121055,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d80d24ed-44d8-47da-90d9-d4eabacbb22c",
+        "keyword": "Munemah Uwes ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806467,
+        "created_at": 1769398806466,
         "locale": "id"
       }
     ],
@@ -1215,9 +1259,9 @@
         "keyword": "Ndarboy Genk",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769395894349,
+        "last_search": 1769398806466,
         "created_at": 1769359994200,
         "locale": "id"
       },
@@ -1325,9 +1369,9 @@
         "keyword": "Ndarboy Genk - Lanang Tenan ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395894349,
+        "last_search": 1769398806467,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -1417,6 +1461,72 @@
         "clicks": 0,
         "last_search": 1769396521656,
         "created_at": 1769396521656,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5fedb58e-d0da-4fff-a018-5a1214887223",
+        "keyword": "Ndarboy Genk - Sikep (Siap Kelangan Pengarep Arep ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806466,
+        "created_at": 1769398806466,
+        "locale": "id"
+      },
+      {
+        "id": "kw_52d95ab9-18e4-48be-999c-7ea43c57363c",
+        "keyword": "Nabila Ellisa - Munemah Uwes ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806466,
+        "created_at": 1769398806466,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d5703d79-60c5-4c9a-a7b1-644bbe495037",
+        "keyword": "Nabila Ellisa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806466,
+        "created_at": 1769398806466,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f9bbe355-79ca-4329-a9ae-8d1bede4b8ad",
+        "keyword": "Ndarboy Genk - Wong Sepele ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806467,
+        "created_at": 1769398806467,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4018c96a-a2c2-4bb1-b7a0-1c90355543df",
+        "keyword": "Ndarboy Genk - Sendiri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806467,
+        "created_at": 1769398806467,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f9c1585b-f3c0-489d-875d-acc592982601",
+        "keyword": "Ndarboy Genk - Ojo Nangis",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806467,
+        "created_at": 1769398806467,
         "locale": "id"
       }
     ],
@@ -1664,6 +1774,17 @@
         "last_search": 1769397199479,
         "created_at": 1769397199479,
         "locale": "id"
+      },
+      {
+        "id": "kw_c20053ec-b0b7-4000-91d2-0e699d445314",
+        "keyword": "Tekan Semene",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806467,
+        "created_at": 1769398806467,
+        "locale": "id"
       }
     ],
     "e": [
@@ -1810,6 +1931,39 @@
         "clicks": 0,
         "last_search": 1769397199479,
         "created_at": 1769397199479,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4e2290eb-326e-4ae3-8cc4-c87a443b518a",
+        "keyword": "Widi Widiana - Pipise Ngomong ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806466,
+        "created_at": 1769398806466,
+        "locale": "id"
+      },
+      {
+        "id": "kw_79a31770-341b-4a14-bc78-c987a7baa7d9",
+        "keyword": "Widi Widiana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806466,
+        "created_at": 1769398806466,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7c51eb19-3372-4401-a0d0-a12a403e1b93",
+        "keyword": "Wong Sepele ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806467,
+        "created_at": 1769398806467,
         "locale": "id"
       }
     ],
@@ -2056,6 +2210,28 @@
         "clicks": 0,
         "last_search": 1769396521655,
         "created_at": 1769396521655,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f39eb52a-6b02-4e56-9547-f6b2af3bc1ca",
+        "keyword": "Aftershine - Tekan Semene",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806467,
+        "created_at": 1769398806467,
+        "locale": "id"
+      },
+      {
+        "id": "kw_270648fa-472b-435c-86ee-0d8f80dead19",
+        "keyword": "Aftershine",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806467,
+        "created_at": 1769398806467,
         "locale": "id"
       }
     ],
@@ -2369,6 +2545,28 @@
         "last_search": 1769397199479,
         "created_at": 1769397199479,
         "locale": "id"
+      },
+      {
+        "id": "kw_d82c9ae8-55e2-4bd9-896e-5d00de41846b",
+        "keyword": "Sikep (Siap Kelangan Pengarep Arep ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806466,
+        "created_at": 1769398806466,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f0934bd8-6219-4ed4-a786-7c1c835d071a",
+        "keyword": "Sendiri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806467,
+        "created_at": 1769398806467,
+        "locale": "id"
       }
     ],
     "y": [
@@ -2585,6 +2783,17 @@
         "clicks": 0,
         "last_search": 1769396521656,
         "created_at": 1769396521656,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d4c9bc84-7ff9-49a7-9665-90a75bf48c19",
+        "keyword": "Ojo Nangis",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769398806467,
+        "created_at": 1769398806467,
         "locale": "id"
       }
     ],
