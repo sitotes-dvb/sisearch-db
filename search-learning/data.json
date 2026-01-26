@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769430306103,
+    "last_updated": 1769437339686,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1019,6 +1019,28 @@
         "last_search": 1769430306099,
         "created_at": 1769430306099,
         "locale": "id"
+      },
+      {
+        "id": "kw_f6e5ef87-79b2-4507-9a0b-ddb18448adb6",
+        "keyword": "Dessy Anggreini Bangun - Kam Nina Pusuhku ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339681,
+        "created_at": 1769437339681,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bc0aea9a-0457-4d5a-ae3d-d9f097770c06",
+        "keyword": "Dessy Anggreini Bangun",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339681,
+        "created_at": 1769437339681,
+        "locale": "id"
       }
     ],
     "l": [
@@ -1306,6 +1328,28 @@
         "clicks": 0,
         "last_search": 1769410290383,
         "created_at": 1769410290383,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eaae1b75-6055-4ab2-a564-91f640eb0b42",
+        "keyword": "Luv Me A Little",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339681,
+        "created_at": 1769437339681,
+        "locale": "id"
+      },
+      {
+        "id": "kw_642304ea-bd4e-4f18-8e15-46ecf9e6cd5e",
+        "keyword": "Layung",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339682,
+        "created_at": 1769437339682,
         "locale": "id"
       }
     ],
@@ -1869,6 +1913,28 @@
         "clicks": 0,
         "last_search": 1769430306099,
         "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8302fa72-dc9e-49f4-9d3c-a8970d57dffc",
+        "keyword": "Kam Nina Pusuhku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339681,
+        "created_at": 1769437339681,
+        "locale": "id"
+      },
+      {
+        "id": "kw_22082027-acc9-4a62-80af-e81a46ed2b65",
+        "keyword": "Kamana Cintana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339682,
+        "created_at": 1769437339682,
         "locale": "id"
       }
     ],
@@ -4280,6 +4346,116 @@
         "last_search": 1769430306099,
         "created_at": 1769430306099,
         "locale": "id"
+      },
+      {
+        "id": "kw_1c0357bd-e4cf-4193-b47a-50538b16e0a5",
+        "keyword": "Nina Belum Bobo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339681,
+        "created_at": 1769437339681,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ff32a74f-cc9e-4f6d-978e-11c22f6311ee",
+        "keyword": "Nina Wang feat. Dodhy - Aku Pamit Pergi ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339681,
+        "created_at": 1769437339681,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1e30ba4e-58c0-42b4-acd0-859676090064",
+        "keyword": "Nina Wang feat. Dodhy",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339681,
+        "created_at": 1769437339681,
+        "locale": "id"
+      },
+      {
+        "id": "kw_98f66d5d-d6d3-4895-bd9e-efe52038a0da",
+        "keyword": "Nina",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339682,
+        "created_at": 1769437339682,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ab2e2134-c5f5-4967-b6e3-ed68cb7909e7",
+        "keyword": "Nina - Kamana Cintana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339682,
+        "created_at": 1769437339682,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e3d08baf-a85e-4c6c-8a18-472d56f533c4",
+        "keyword": "Nina - Ninggalkeun Rasa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339682,
+        "created_at": 1769437339682,
+        "locale": "id"
+      },
+      {
+        "id": "kw_82b99ece-cac4-46a1-b2bf-bdc12585bd59",
+        "keyword": "Ninggalkeun Rasa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339682,
+        "created_at": 1769437339682,
+        "locale": "id"
+      },
+      {
+        "id": "kw_69c37393-ce88-406f-85f2-4e113cbc876a",
+        "keyword": "Nina - Beurat",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339682,
+        "created_at": 1769437339682,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eb3ff68a-fc5a-43ce-9855-0c15ac0cdeb7",
+        "keyword": "Nina - Layung",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339682,
+        "created_at": 1769437339682,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6f1a221c-a6b1-4f41-a198-39bf84b6416b",
+        "keyword": "Nina - Teu Puguh Rasa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339682,
+        "created_at": 1769437339682,
+        "locale": "id"
       }
     ],
     "b": [
@@ -4523,6 +4699,17 @@
         "clicks": 0,
         "last_search": 1769423057828,
         "created_at": 1769423057828,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7f58911a-7f51-461a-b8d2-28fc46f8e3cf",
+        "keyword": "Beurat",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339682,
+        "created_at": 1769437339682,
         "locale": "id"
       }
     ],
@@ -5010,6 +5197,17 @@
         "last_search": 1769430306099,
         "created_at": 1769430306099,
         "locale": "id"
+      },
+      {
+        "id": "kw_6fb7cae1-7407-4f0b-9746-fc6a873163e5",
+        "keyword": "Teu Puguh Rasa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339682,
+        "created_at": 1769437339682,
+        "locale": "id"
       }
     ],
     "e": [
@@ -5394,9 +5592,9 @@
         "keyword": "Wali",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407784909,
+        "last_search": 1769437339681,
         "created_at": 1769407784909,
         "locale": "id"
       },
@@ -5486,6 +5684,17 @@
         "clicks": 0,
         "last_search": 1769408301632,
         "created_at": 1769408301632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_791961fc-9101-4711-b4d8-38087464f16f",
+        "keyword": "Wali - Nina Belum Bobo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339681,
+        "created_at": 1769437339681,
         "locale": "id"
       }
     ],
@@ -6568,6 +6777,17 @@
         "clicks": 0,
         "last_search": 1769430306099,
         "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9ef9196b-d063-493d-b461-c74eab815ac5",
+        "keyword": "Aku Pamit Pergi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339681,
+        "created_at": 1769437339681,
         "locale": "id"
       }
     ],
@@ -8217,6 +8437,28 @@
         "clicks": 0,
         "last_search": 1769409730862,
         "created_at": 1769409730862,
+        "locale": "id"
+      },
+      {
+        "id": "kw_63274c5a-bf01-4e22-a2aa-8e117474ab71",
+        "keyword": "ILLENIUM - Luv Me A Little ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339681,
+        "created_at": 1769437339681,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2d850687-cf42-4b82-ba35-e13dd68cb00f",
+        "keyword": "ILLENIUM",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437339681,
+        "created_at": 1769437339681,
         "locale": "id"
       }
     ],
