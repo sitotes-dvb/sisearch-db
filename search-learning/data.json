@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769437339686,
+    "last_updated": 1769437428426,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1041,6 +1041,17 @@
         "last_search": 1769437339681,
         "created_at": 1769437339681,
         "locale": "id"
+      },
+      {
+        "id": "kw_609e4948-4500-46f5-a54b-f40cd19d3fd1",
+        "keyword": "Daftar Koleksi / Feast @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437428365,
+        "created_at": 1769437428365,
+        "locale": "id"
       }
     ],
     "l": [
@@ -1935,6 +1946,28 @@
         "clicks": 0,
         "last_search": 1769437339682,
         "created_at": 1769437339682,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6d5b9316-baa6-4d23-a59f-678b14c68908",
+        "keyword": "Kumpulan Gitar Feast",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437428365,
+        "created_at": 1769437428365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_16c8f487-972b-4745-a3a2-c59622f9453b",
+        "keyword": "Kita ke Sana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437428366,
+        "created_at": 1769437428366,
         "locale": "id"
       }
     ],
@@ -3019,6 +3052,72 @@
         "clicks": 0,
         "last_search": 1769423057828,
         "created_at": 1769423057828,
+        "locale": "id"
+      },
+      {
+        "id": "kw_472614f1-bba0-4844-8813-531d557802b0",
+        "keyword": "Hindia - Rumah Ke Rumah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437428365,
+        "created_at": 1769437428365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1c1676de-aa3a-4225-a64d-5a34826e9571",
+        "keyword": "Hindia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437428365,
+        "created_at": 1769437428365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ff973c0d-3719-4ede-a15e-342b22c2a584",
+        "keyword": "Hindia - Evaluasi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437428365,
+        "created_at": 1769437428365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_40952657-f93f-4520-b012-1a0ba3cc2e1b",
+        "keyword": "Hindia - everything u are",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437428365,
+        "created_at": 1769437428365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7fad1810-b3d9-4e41-9a75-69b2364d4534",
+        "keyword": "Hindia - Cincin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437428366,
+        "created_at": 1769437428366,
+        "locale": "id"
+      },
+      {
+        "id": "kw_86b17f84-6c15-43f4-9f52-9667b32aac52",
+        "keyword": "Hindia - Kita ke Sana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437428366,
+        "created_at": 1769437428366,
         "locale": "id"
       }
     ],
@@ -4385,9 +4484,9 @@
         "keyword": "Nina",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769437339682,
+        "last_search": 1769437428365,
         "created_at": 1769437339682,
         "locale": "id"
       },
@@ -5331,6 +5430,28 @@
         "last_search": 1769423057828,
         "created_at": 1769423057828,
         "locale": "id"
+      },
+      {
+        "id": "kw_175662f0-35fd-4c44-9fa8-0fbbe25eeb87",
+        "keyword": "Evaluasi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437428365,
+        "created_at": 1769437428365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ca32d350-8d70-43a3-a112-56255657af46",
+        "keyword": "everything u are",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437428365,
+        "created_at": 1769437428365,
+        "locale": "id"
       }
     ],
     "w": [
@@ -5983,6 +6104,17 @@
         "clicks": 0,
         "last_search": 1769409730862,
         "created_at": 1769409730862,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ed469c47-d3c2-465a-aa56-5e3e0dfef39c",
+        "keyword": "Cincin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437428366,
+        "created_at": 1769437428366,
         "locale": "id"
       }
     ],
@@ -7077,6 +7209,17 @@
         "last_search": 1769428790060,
         "created_at": 1769428790060,
         "locale": "id"
+      },
+      {
+        "id": "kw_676b4bfb-8ffd-4ccb-88f5-305adf457eca",
+        "keyword": "Rumah Ke Rumah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437428365,
+        "created_at": 1769437428365,
+        "locale": "id"
       }
     ],
     "s": [
@@ -8036,6 +8179,17 @@
         "last_search": 1769430306099,
         "created_at": 1769430306099,
         "locale": "id"
+      },
+      {
+        "id": "kw_e05d4095-fc7f-40c6-ae05-51f1e877e683",
+        "keyword": "Serana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437428366,
+        "created_at": 1769437428366,
+        "locale": "id"
       }
     ],
     "y": [
@@ -8348,6 +8502,28 @@
         "last_search": 1769430306099,
         "created_at": 1769430306099,
         "locale": "id"
+      },
+      {
+        "id": "kw_e155f6e1-ceb3-4f05-aa48-2f54eee1b113",
+        "keyword": "For Revenge - Serana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437428366,
+        "created_at": 1769437428366,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2b3af5f6-de7c-40b3-b976-5d74ba61409a",
+        "keyword": "For Revenge",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437428366,
+        "created_at": 1769437428366,
+        "locale": "id"
       }
     ],
     "i": [
@@ -8604,6 +8780,17 @@
         "clicks": 0,
         "last_search": 1769410290383,
         "created_at": 1769410290383,
+        "locale": "id"
+      },
+      {
+        "id": "kw_165eb172-4bc9-4a9d-8230-944943a2fc7a",
+        "keyword": "o,Tuan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769437428365,
+        "created_at": 1769437428365,
         "locale": "id"
       }
     ],
