@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769395314330,
+    "last_updated": 1769395894368,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -165,9 +165,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769395314316,
+        "last_search": 1769395894349,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -258,6 +258,50 @@
         "last_search": 1769395314317,
         "created_at": 1769395314317,
         "locale": "id"
+      },
+      {
+        "id": "kw_c9f7da2c-b4f0-480e-8799-1bb581328d9c",
+        "keyword": "DENNY CAKNAN X NDX AKA - ROPANG (Roda ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
+        "locale": "id"
+      },
+      {
+        "id": "kw_223f53fa-fdab-448d-a7ef-4fa0b4009753",
+        "keyword": "DENNY CAKNAN X NDX AKA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0d2dff4a-41da-4912-b765-4d28859663c5",
+        "keyword": "Denny Caknan - Tunggal Eka ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
+        "locale": "id"
+      },
+      {
+        "id": "kw_693e0ded-1cd0-4290-a6d5-c483566abbc5",
+        "keyword": "Denny Caknan - Sugeng Dalu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
+        "locale": "id"
       }
     ],
     "l": [
@@ -314,6 +358,17 @@
         "clicks": 0,
         "last_search": 1769395314317,
         "created_at": 1769395314317,
+        "locale": "id"
+      },
+      {
+        "id": "kw_676fecfc-7055-4e75-853e-4009dd7aea30",
+        "keyword": "Lanang Tenan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
         "locale": "id"
       }
     ],
@@ -422,9 +477,9 @@
         "keyword": "Kumpulan Gitar Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314316,
+        "last_search": 1769395894349,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -437,6 +492,17 @@
         "clicks": 0,
         "last_search": 1769395314317,
         "created_at": 1769395314317,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c5c1f54a-d4fb-484e-bbed-1b436f5ca473",
+        "keyword": "Kumpulan Gitar NDX A.K.A",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
         "locale": "id"
       }
     ],
@@ -527,6 +593,39 @@
         "clicks": 0,
         "last_search": 1769395314316,
         "created_at": 1769395314316,
+        "locale": "id"
+      },
+      {
+        "id": "kw_35416379-5f7b-466b-91d2-34bbecaef2be",
+        "keyword": "Pusma Shakira feat Royhan Ni Amillah - EGO WONG ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cc78b5b6-546d-46c1-9990-ac8fa068813a",
+        "keyword": "Pusma Shakira feat Royhan Ni Amillah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
+        "locale": "id"
+      },
+      {
+        "id": "kw_164e9291-dbd4-4cd5-98f1-f66ca5e41f31",
+        "keyword": "Prapatan Malioboro ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
         "locale": "id"
       }
     ],
@@ -940,9 +1039,9 @@
         "keyword": "Ndarboy Genk",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769359994200,
+        "last_search": 1769395894349,
         "created_at": 1769359994200,
         "locale": "id"
       },
@@ -1010,6 +1109,50 @@
         "clicks": 0,
         "last_search": 1769395121055,
         "created_at": 1769395121055,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bb4c6fef-164f-4378-8e70-d0ff3959eb8f",
+        "keyword": "NDX AKA - Ropang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bea47adc-082d-429e-93e6-54054ffa2337",
+        "keyword": "NDX AKA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cfe21498-b76c-4d93-8803-37fa8ca3f8c5",
+        "keyword": "NDX AKA - Prapatan Malioboro ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f66e6360-f793-4ce9-a922-fec00cf42f41",
+        "keyword": "Ndarboy Genk - Lanang Tenan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
         "locale": "id"
       }
     ],
@@ -1224,6 +1367,28 @@
         "last_search": 1769395121042,
         "created_at": 1769395121042,
         "locale": "id"
+      },
+      {
+        "id": "kw_313fee90-f02e-401d-902f-5eee70a107a8",
+        "keyword": "Tunggal Eka ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
+        "locale": "id"
+      },
+      {
+        "id": "kw_469d7e33-9644-48ef-9ccb-242eddd75f44",
+        "keyword": "Tamu Undangan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
+        "locale": "id"
       }
     ],
     "e": [
@@ -1258,6 +1423,17 @@
         "clicks": 0,
         "last_search": 1769359994199,
         "created_at": 1769359994199,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2af8f95e-25be-4275-9271-a0e263dbdf3c",
+        "keyword": "EGO WONG ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
         "locale": "id"
       }
     ],
@@ -1575,6 +1751,28 @@
         "last_search": 1769395314317,
         "created_at": 1769395314317,
         "locale": "id"
+      },
+      {
+        "id": "kw_72cdb0ec-0521-4a61-8d60-9ec084b0252e",
+        "keyword": "ROPANG (Roda ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7f752411-8fd4-4c36-91ed-fc835b4c91ee",
+        "keyword": "Ropang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
+        "locale": "id"
       }
     ],
     "s": [
@@ -1709,6 +1907,17 @@
         "last_search": 1769395314317,
         "created_at": 1769395314317,
         "locale": "id"
+      },
+      {
+        "id": "kw_e9eb8f98-6068-477a-8f78-6dc556f7c875",
+        "keyword": "Sugeng Dalu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
+        "locale": "id"
       }
     ],
     "y": [
@@ -1837,6 +2046,30 @@
         "clicks": 0,
         "last_search": 1769395121055,
         "created_at": 1769395121055,
+        "locale": "id"
+      }
+    ],
+    "x": [
+      {
+        "id": "kw_545bf6a8-64aa-4c53-9f9a-b780b9be15e8",
+        "keyword": "XALUNA Feat. NIA Kecil - Tamu Undangan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ac7abf0b-6dce-44c1-ae33-b2cbee3732bc",
+        "keyword": "XALUNA Feat. NIA Kecil",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395894349,
+        "created_at": 1769395894349,
         "locale": "id"
       }
     ]
