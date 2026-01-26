@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769407751813,
+    "last_updated": 1769407784911,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -634,6 +634,17 @@
         "last_search": 1769407751811,
         "created_at": 1769407751811,
         "locale": "id"
+      },
+      {
+        "id": "kw_8099728d-e888-4961-9dfa-1c283f8a5547",
+        "keyword": "Daftar Koleksi / India @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
+        "locale": "id"
       }
     ],
     "l": [
@@ -734,6 +745,17 @@
         "clicks": 0,
         "last_search": 1769407751811,
         "created_at": 1769407751811,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b179cd48-8619-4665-9327-744dc068e4ab",
+        "keyword": "Lebih Suina",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
         "locale": "id"
       }
     ],
@@ -842,9 +864,9 @@
         "keyword": "Kumpulan Gitar Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1769407751811,
+        "last_search": 1769407784909,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -934,6 +956,17 @@
         "clicks": 0,
         "last_search": 1769407631223,
         "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_92e08a89-2eca-466d-b9cb-ec5c353bd774",
+        "keyword": "Keras Kepala",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
         "locale": "id"
       }
     ],
@@ -1379,6 +1412,28 @@
         "last_search": 1769407733906,
         "created_at": 1769407733906,
         "locale": "id"
+      },
+      {
+        "id": "kw_b114773f-8c97-448f-a618-9e6888774244",
+        "keyword": "Meiska - Keras Kepala",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_38c3bd66-45d7-4e5d-9b8c-d42e2820ff1c",
+        "keyword": "Meiska",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
+        "locale": "id"
       }
     ],
     "h": [
@@ -1789,6 +1844,17 @@
         "clicks": 0,
         "last_search": 1769407751811,
         "created_at": 1769407751811,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5be90554-ac99-4111-ab40-117fe722c8de",
+        "keyword": "Janji Hanyo Di Muluik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
         "locale": "id"
       }
     ],
@@ -2963,9 +3029,9 @@
         "keyword": "WALI",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769359994199,
+        "last_search": 1769407784909,
         "created_at": 1769359994199,
         "locale": "id"
       },
@@ -3177,6 +3243,39 @@
         "last_search": 1769407751811,
         "created_at": 1769407751811,
         "locale": "id"
+      },
+      {
+        "id": "kw_39544cde-1099-4d6e-b637-f47b137211cd",
+        "keyword": "WALI - Si Udin Bertanya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_40ae1c5f-b07e-4f25-aa13-817d8f8323bb",
+        "keyword": "Wali - Cari Berkah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_579a0c57-f8be-441e-95a7-cc0c3f09dd0a",
+        "keyword": "Wali",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
+        "locale": "id"
       }
     ],
     "c": [
@@ -3332,6 +3431,39 @@
         "clicks": 0,
         "last_search": 1769407672119,
         "created_at": 1769407672119,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8363132c-9897-4f61-87eb-b9aef13e666b",
+        "keyword": "Ciinan Bana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_422ab244-f174-460a-ac1b-60b013ced966",
+        "keyword": "Cindai",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ccaf1e80-e902-4cc4-ae77-d254c2dca25d",
+        "keyword": "Cari Berkah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
         "locale": "id"
       }
     ],
@@ -3776,6 +3908,17 @@
         "clicks": 0,
         "last_search": 1769407733906,
         "created_at": 1769407733906,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d7bb68f8-b73f-4358-9e16-5d80dc097771",
+        "keyword": "Risa Solihah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
         "locale": "id"
       }
     ],
@@ -4318,6 +4461,39 @@
         "last_search": 1769407751811,
         "created_at": 1769407751811,
         "locale": "id"
+      },
+      {
+        "id": "kw_766f936b-2498-45a7-816f-b565a07ebe05",
+        "keyword": "Siti Nurhaliza - Cindai",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8d209559-1fe8-457d-bb9e-2edd73a23fe8",
+        "keyword": "Siti Nurhaliza",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bc8247a0-15ff-4aeb-9466-28745dad5976",
+        "keyword": "Si Udin Bertanya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
+        "locale": "id"
       }
     ],
     "y": [
@@ -4341,6 +4517,28 @@
         "clicks": 0,
         "last_search": 1769360020300,
         "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_84c9911a-6344-4840-a9aa-3d8e7757960a",
+        "keyword": "Yasir Lana - Risa Solihah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8437c115-b6a0-49e4-9bfe-036dc47f18e0",
+        "keyword": "Yasir Lana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
         "locale": "id"
       }
     ],
@@ -4454,6 +4652,39 @@
         "last_search": 1769406982898,
         "created_at": 1769406982898,
         "locale": "id"
+      },
+      {
+        "id": "kw_98daf445-a99a-4eae-9c01-30b4e62ae36c",
+        "keyword": "Fauzana - Ciinan Bana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6d683d8d-3b03-4b54-8b69-c249f062348e",
+        "keyword": "Fauzana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_98a12aad-3aef-4cea-8bc4-2fa0747eb6ac",
+        "keyword": "Fauzana - Janji Hanyo Di Muluik ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
+        "locale": "id"
       }
     ],
     "i": [
@@ -4510,6 +4741,28 @@
         "clicks": 0,
         "last_search": 1769406982898,
         "created_at": 1769406982898,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5a9ed3be-0b6a-4bd5-8249-6af884e8db04",
+        "keyword": "Iche Br Ginting - Lebih Suina ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cc650b38-326d-4b85-a501-598131f0c970",
+        "keyword": "Iche Br Ginting",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407784909,
+        "created_at": 1769407784909,
         "locale": "id"
       }
     ],
