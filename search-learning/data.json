@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769407784911,
+    "last_updated": 1769407810241,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -101,9 +101,9 @@
         "keyword": "D'Bagindas",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769360020300,
+        "last_search": 1769407810239,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -645,6 +645,39 @@
         "last_search": 1769407784909,
         "created_at": 1769407784909,
         "locale": "id"
+      },
+      {
+        "id": "kw_f7f8903f-67bd-4003-9129-2da2b1057003",
+        "keyword": "Dini Kurnia - Ayang Ayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bcb114ed-4376-4f42-b9fa-66737bac34ba",
+        "keyword": "Dini Kurnia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_128b430b-cec5-4731-b0b1-34250cec9c87",
+        "keyword": "D'Bagindas - Ay",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
       }
     ],
     "l": [
@@ -968,6 +1001,17 @@
         "last_search": 1769407784909,
         "created_at": 1769407784909,
         "locale": "id"
+      },
+      {
+        "id": "kw_c2ae57d4-b9a9-4d77-92b7-432b70546e1a",
+        "keyword": "Kelilip Angen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
       }
     ],
     "p": [
@@ -1189,6 +1233,17 @@
         "clicks": 0,
         "last_search": 1769407751811,
         "created_at": 1769407751811,
+        "locale": "id"
+      },
+      {
+        "id": "kw_20dccb1b-8f29-496d-98d7-1d6315998ba2",
+        "keyword": "Prameswari Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
         "locale": "id"
       }
     ],
@@ -1433,6 +1488,39 @@
         "clicks": 0,
         "last_search": 1769407784909,
         "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6adb4305-7a06-4d08-bb07-63ab01647242",
+        "keyword": "Mageh Welas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3d72c9cc-9b78-40b2-8310-67e0821c824c",
+        "keyword": "Mala Agatha - Kelilip Angen ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0d299d60-c8bf-4476-a591-a8b2b1dbb6bb",
+        "keyword": "Mala Agatha",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
         "locale": "id"
       }
     ],
@@ -2119,9 +2207,9 @@
         "keyword": "Nadya Jessica",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769406986139,
+        "last_search": 1769407810239,
         "created_at": 1769395121055,
         "locale": "id"
       },
@@ -2487,6 +2575,61 @@
         "last_search": 1769407733906,
         "created_at": 1769407733906,
         "locale": "id"
+      },
+      {
+        "id": "kw_0ac58dd0-09ad-41f8-ac9c-f0f9c2e9980e",
+        "keyword": "Nadya Jessica - Mageh Welas ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6d38d230-0b8c-4894-95ae-618b5621f5e2",
+        "keyword": "Nguber Ayang Ayang - Syahiba Saufa ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_da2b68f3-54dc-4b5f-9e7c-1c6bd93943d1",
+        "keyword": "Nguber Ayang Ayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_feec115d-c4b4-4a65-a663-b7fa6697efca",
+        "keyword": "Nogling Feat. Yulia Vanesa - Cerita Kenangan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b5576ef8-c697-4e3c-a9ae-c59bb60446fa",
+        "keyword": "Nogling Feat. Yulia Vanesa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
       }
     ],
     "b": [
@@ -2609,6 +2752,28 @@
         "clicks": 0,
         "last_search": 1769407733906,
         "created_at": 1769407733906,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1b3afd35-f3ad-4a72-a0ba-4f63c23b0b4c",
+        "keyword": "Biya Pink Pink - Ayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_47a8001c-506b-4d9e-8387-25d5bf8019d4",
+        "keyword": "Biya Pink Pink",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
         "locale": "id"
       }
     ],
@@ -3276,6 +3441,28 @@
         "last_search": 1769407784909,
         "created_at": 1769407784909,
         "locale": "id"
+      },
+      {
+        "id": "kw_0aa48342-4170-40a4-9337-1a9234ed9593",
+        "keyword": "Widi Widiana Feat Dek Ulik - Rindu Ayang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eec43fea-be55-4972-b3ac-b2bc3cf6411e",
+        "keyword": "Widi Widiana Feat Dek Ulik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
       }
     ],
     "c": [
@@ -3464,6 +3651,17 @@
         "clicks": 0,
         "last_search": 1769407784909,
         "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_93a2af59-0c2b-4386-9a80-387427334d48",
+        "keyword": "Cerita Kenangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
         "locale": "id"
       }
     ],
@@ -3764,6 +3962,61 @@
         "last_search": 1769407733906,
         "created_at": 1769407733906,
         "locale": "id"
+      },
+      {
+        "id": "kw_7e1ae001-e7c1-4585-a48f-ae6068130292",
+        "keyword": "Ayang Ayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_42dc34f4-059a-49d5-b1c5-9f4c8a5baff9",
+        "keyword": "Ayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ca79186a-2bc2-4ea1-8f23-846fc7cc9268",
+        "keyword": "Abiel Jatnika - Prameswari Ati ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c39eb8ee-36bb-4d70-bfbb-163517dadb49",
+        "keyword": "Abiel Jatnika",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c388dd02-33bb-462b-8e0e-664cc41e500e",
+        "keyword": "Ay",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
       }
     ],
     "r": [
@@ -3919,6 +4172,39 @@
         "clicks": 0,
         "last_search": 1769407784909,
         "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5c12a1bc-36a3-4619-9b83-ad83c115e1fc",
+        "keyword": "Risang Gotho - Ayang Ayang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_df952776-2607-44e0-8f7c-ed6dd768be5b",
+        "keyword": "Risang Gotho",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
+        "locale": "id"
+      },
+      {
+        "id": "kw_02ed1820-17c3-47bb-a874-2d1e1e7bd9c6",
+        "keyword": "Rindu Ayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407810239,
+        "created_at": 1769407810239,
         "locale": "id"
       }
     ],
@@ -4104,9 +4390,9 @@
         "keyword": "Syahiba Saufa",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769407751811,
+        "last_search": 1769407810239,
         "created_at": 1769396521656,
         "locale": "id"
       },
