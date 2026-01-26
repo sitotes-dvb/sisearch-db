@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769407733907,
+    "last_updated": 1769407751813,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -167,9 +167,9 @@
         "keyword": "Denny Caknan - Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769406986139,
+        "last_search": 1769407751811,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -178,9 +178,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1769407733906,
+        "last_search": 1769407751811,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -233,9 +233,9 @@
         "keyword": "Denny Caknan - Sigar",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769397199479,
+        "last_search": 1769407751811,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -585,9 +585,9 @@
         "keyword": "Denny Caknan - Crito Mustahil ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407733906,
+        "last_search": 1769407751811,
         "created_at": 1769407733906,
         "locale": "id"
       },
@@ -600,6 +600,39 @@
         "clicks": 0,
         "last_search": 1769407733906,
         "created_at": 1769407733906,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e9eedb89-7a50-4e64-804e-76a729ec2999",
+        "keyword": "Denny Caknan - Jajalen Aku ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407751811,
+        "created_at": 1769407751811,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eb41fc66-5e04-45bd-a464-97b95edc60b2",
+        "keyword": "Denny Caknan - Cundamani ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407751811,
+        "created_at": 1769407751811,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7e4434e3-cbfb-44ae-b302-b44c6ea0e5c4",
+        "keyword": "Denny Caknan - SATRU 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407751811,
+        "created_at": 1769407751811,
         "locale": "id"
       }
     ],
@@ -679,6 +712,28 @@
         "clicks": 0,
         "last_search": 1769403661096,
         "created_at": 1769403661096,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fea8ccde-af80-42a5-9934-581c06995bba",
+        "keyword": "Laufey - Promise",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407751811,
+        "created_at": 1769407751811,
+        "locale": "id"
+      },
+      {
+        "id": "kw_005752e5-cab9-4ae1-b7df-b4963dd43a2c",
+        "keyword": "Laufey",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407751811,
+        "created_at": 1769407751811,
         "locale": "id"
       }
     ],
@@ -787,9 +842,9 @@
         "keyword": "Kumpulan Gitar Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1769407509350,
+        "last_search": 1769407751811,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -1090,6 +1145,17 @@
         "clicks": 0,
         "last_search": 1769407672119,
         "created_at": 1769407672119,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2e888ae5-e6ed-42ef-81fe-370603087fd5",
+        "keyword": "Promise",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407751811,
+        "created_at": 1769407751811,
         "locale": "id"
       }
     ],
@@ -1609,9 +1675,9 @@
         "keyword": "Jajalen Aku",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769397199479,
+        "last_search": 1769407751811,
         "created_at": 1769397199479,
         "locale": "id"
       },
@@ -1701,6 +1767,28 @@
         "clicks": 0,
         "last_search": 1769407733906,
         "created_at": 1769407733906,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9bb34943-b6e3-4641-9d2a-6e614d3f11c6",
+        "keyword": "Jajal Kowe Dadi Aku - Syahiba Saufa ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407751811,
+        "created_at": 1769407751811,
+        "locale": "id"
+      },
+      {
+        "id": "kw_66da972f-218a-4605-b740-8c63624699e6",
+        "keyword": "Jajal Kowe Dadi Aku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407751811,
+        "created_at": 1769407751811,
         "locale": "id"
       }
     ],
@@ -2886,9 +2974,9 @@
         "keyword": "Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769406986139,
+        "last_search": 1769407751811,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -3078,6 +3166,17 @@
         "last_search": 1769406982898,
         "created_at": 1769406982898,
         "locale": "id"
+      },
+      {
+        "id": "kw_6f27d949-076f-403d-a243-371c788a3e39",
+        "keyword": "Wakanda Konoha",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407751811,
+        "created_at": 1769407751811,
+        "locale": "id"
       }
     ],
     "c": [
@@ -3108,9 +3207,9 @@
         "keyword": "Cundamani",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769397199479,
+        "last_search": 1769407751811,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -3130,9 +3229,9 @@
         "keyword": "Crito Mustahil",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769407733906,
+        "last_search": 1769407751811,
         "created_at": 1769397199463,
         "locale": "id"
       },
@@ -3796,9 +3895,9 @@
         "keyword": "Sigar",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769397199479,
+        "last_search": 1769407751811,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -3862,9 +3961,9 @@
         "keyword": "Syahiba Saufa",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769396521656,
+        "last_search": 1769407751811,
         "created_at": 1769396521656,
         "locale": "id"
       },
@@ -4185,6 +4284,39 @@
         "clicks": 0,
         "last_search": 1769407733906,
         "created_at": 1769407733906,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c82e761f-007a-4160-b5ea-a25302c40436",
+        "keyword": "Shepin Misa - Wakanda Konoha ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407751811,
+        "created_at": 1769407751811,
+        "locale": "id"
+      },
+      {
+        "id": "kw_858d087e-ea41-4bde-8f20-c6d9766c0cde",
+        "keyword": "Shepin Misa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407751811,
+        "created_at": 1769407751811,
+        "locale": "id"
+      },
+      {
+        "id": "kw_05529a22-d00e-46e5-906a-0f6671fdce32",
+        "keyword": "SATRU 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407751811,
+        "created_at": 1769407751811,
         "locale": "id"
       }
     ],
