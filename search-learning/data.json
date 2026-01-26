@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769423057832,
+    "last_updated": 1769428790080,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1749,6 +1749,105 @@
         "last_search": 1769423057828,
         "created_at": 1769423057828,
         "locale": "id"
+      },
+      {
+        "id": "kw_cd8484e5-d7f1-4685-b234-f0223a1fe9ee",
+        "keyword": "Kalah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d5a5cb7a-91ba-495f-a2ad-3e5ffd338af6",
+        "keyword": "Kalah Awu (OST. Film Series Kalah Awu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fe7ab1eb-05ef-4f8f-939d-899cab30ba2a",
+        "keyword": "Kalah Cepet",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6130b10a-484a-4e27-b020-9f87f7a9e58a",
+        "keyword": "Kalah Mekejang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_988e3c71-6bc6-4cb4-aaa9-d503ca63ee15",
+        "keyword": "Kalah Cinto Dek Harato",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2b92c156-aba7-42d8-bc61-f83af9664877",
+        "keyword": "Kalah Di Umur",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_01b99a0d-aad2-4f1d-b6ed-f4f8648c3c54",
+        "keyword": "Kalah Kelas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2022af47-8216-42d3-8ef3-4d24041e23e0",
+        "keyword": "Kalah Bondo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_947713fb-d137-4a1f-9d56-28bda792e363",
+        "keyword": "Kalah Dikalangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
       }
     ],
     "p": [
@@ -2058,6 +2157,28 @@
         "clicks": 0,
         "last_search": 1769408301632,
         "created_at": 1769408301632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9e13427f-4955-4801-b3b7-4c127aeaf585",
+        "keyword": "Pepeh Sadboy - Kalah Bondo ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_55a5b6aa-1e6e-42b1-9e1b-1607c6e483c2",
+        "keyword": "Pepeh Sadboy",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
         "locale": "id"
       }
     ],
@@ -2522,6 +2643,28 @@
         "clicks": 0,
         "last_search": 1769423057828,
         "created_at": 1769423057828,
+        "locale": "id"
+      },
+      {
+        "id": "kw_258d84f5-4902-4293-94e0-eba6ae978699",
+        "keyword": "Made Gunawan - Kalah Dikalangan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_86b7d2c2-737f-467d-b47b-26ce29e9aad1",
+        "keyword": "Made Gunawan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
         "locale": "id"
       }
     ],
@@ -3277,6 +3420,50 @@
         "last_search": 1769408285659,
         "created_at": 1769408229030,
         "locale": "id"
+      },
+      {
+        "id": "kw_e0c8f834-e7b7-45be-8aef-34e8d3c9747a",
+        "keyword": "Gus Konong - Kalah Mekejang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7d7cf9e0-1cef-47c5-b888-09547465219e",
+        "keyword": "Gus Konong",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8e3fc654-1d1e-4576-a9d8-0b8e79e4c821",
+        "keyword": "Gus Jody - Kalah Di Umur",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0959ca8b-a5be-40a6-9da3-1e8df73da7b3",
+        "keyword": "Gus Jody",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
       }
     ],
     "n": [
@@ -3340,9 +3527,9 @@
         "keyword": "Ndarboy Genk",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769407949709,
+        "last_search": 1769428790060,
         "created_at": 1769359994200,
         "locale": "id"
       },
@@ -3971,6 +4158,39 @@
         "clicks": 0,
         "last_search": 1769410290383,
         "created_at": 1769410290382,
+        "locale": "id"
+      },
+      {
+        "id": "kw_271d3470-ab78-4893-b705-346d4d12f231",
+        "keyword": "Ndarboy Genk - Kalah Awu (OST. Film Series Kalah Awu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6fa1e697-4add-4060-b44b-a8b96059a2dc",
+        "keyword": "Nella Kharisma - Kalah Cepet ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dca9e6b9-c1dd-4a22-b06d-442c140bc843",
+        "keyword": "Nella Kharisma",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
         "locale": "id"
       }
     ],
@@ -6162,6 +6382,28 @@
         "last_search": 1769423057828,
         "created_at": 1769423057828,
         "locale": "id"
+      },
+      {
+        "id": "kw_cd487a51-c005-461c-932f-e7764f6a66aa",
+        "keyword": "Aftershine ft. Restianade - Kalah ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790059,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4c9347ac-b869-48a3-ac14-adcf0b400410",
+        "keyword": "Aftershine ft. Restianade",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
       }
     ],
     "r": [
@@ -6438,6 +6680,17 @@
         "clicks": 0,
         "last_search": 1769423057828,
         "created_at": 1769423057828,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b35e2d78-a866-4331-a265-27bdfdeeb4b9",
+        "keyword": "Rasa Su Kalah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
         "locale": "id"
       }
     ],
@@ -7288,6 +7541,28 @@
         "last_search": 1769410290383,
         "created_at": 1769410290383,
         "locale": "id"
+      },
+      {
+        "id": "kw_2b7df8d1-a5b0-478f-a495-3fe3623b4608",
+        "keyword": "Sri Aditya - Kalah Kelas ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e007ebbe-e185-4247-a2f4-c5f40bddcc1f",
+        "keyword": "Sri Aditya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
       }
     ],
     "y": [
@@ -7544,6 +7819,50 @@
         "clicks": 0,
         "last_search": 1769409730862,
         "created_at": 1769409730862,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6581449b-c437-450e-aa42-85dc75a269b1",
+        "keyword": "Fresly Nikijuluw - Rasa Su Kalah ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_60b1d29f-af43-4429-a8f0-746322d3e069",
+        "keyword": "Fresly Nikijuluw",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_27bfa079-4162-41b2-b014-721ef7db5fb2",
+        "keyword": "Frans Ariesta - Kalah Cinto Dek Harato ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a2a12739-8a89-48e0-9136-890a9724a038",
+        "keyword": "Frans Ariesta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769428790060,
+        "created_at": 1769428790060,
         "locale": "id"
       }
     ],
