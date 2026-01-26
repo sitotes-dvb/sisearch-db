@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769410290386,
+    "last_updated": 1769423057832,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -101,9 +101,9 @@
         "keyword": "D'Bagindas",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769407810239,
+        "last_search": 1769423057828,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -673,9 +673,9 @@
         "keyword": "D'Bagindas - Ay",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407810239,
+        "last_search": 1769423057828,
         "created_at": 1769407810239,
         "locale": "id"
       },
@@ -941,6 +941,72 @@
         "clicks": 0,
         "last_search": 1769410290383,
         "created_at": 1769410290383,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0a3c803c-f14e-4b50-a246-45abc16d2791",
+        "keyword": "Doel Sumbang Ft Nini Carlina",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057827,
+        "created_at": 1769423057827,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1021fb73-678b-4662-bc1b-77a2c6647bb5",
+        "keyword": "Dadali - Di Saat Sendiri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057827,
+        "created_at": 1769423057827,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ba358392-4767-48f7-a671-2683af77e385",
+        "keyword": "Dadali",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057827,
+        "created_at": 1769423057827,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b9af10e1-9ff5-4151-91f7-bd8f5f5609b8",
+        "keyword": "Di Saat Sendiri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057827,
+        "created_at": 1769423057827,
+        "locale": "id"
+      },
+      {
+        "id": "kw_80ec2619-d765-488f-8fdd-d0588fd06189",
+        "keyword": "Dewa 19 - Kangen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4ff835f7-3b6a-457f-9f82-e8f5998413bc",
+        "keyword": "Dewa 19",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
         "locale": "id"
       }
     ],
@@ -1660,6 +1726,28 @@
         "clicks": 0,
         "last_search": 1769410290382,
         "created_at": 1769410290382,
+        "locale": "id"
+      },
+      {
+        "id": "kw_063a2c82-7a4e-425e-8301-ec7136c8edf8",
+        "keyword": "Kangen Kamu Rindu Kamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7d715e83-03ba-4810-878d-7a19ccfea872",
+        "keyword": "Kangen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
         "locale": "id"
       }
     ],
@@ -2391,6 +2479,50 @@
         "last_search": 1769410290383,
         "created_at": 1769410290383,
         "locale": "id"
+      },
+      {
+        "id": "kw_3c973828-68ab-40e6-874f-880e915b9e1a",
+        "keyword": "Mahalini - Rindu Ku Rindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0e3ea1a8-1d20-4306-9607-1af2af78e711",
+        "keyword": "Mahalini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4ced43e6-63dd-4801-b1e9-be861f89bfe2",
+        "keyword": "Melodi Band - Kangen Kamu Rindu Kamu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9af6e300-888e-4529-b3ff-80127adcbd32",
+        "keyword": "Melodi Band",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
+        "locale": "id"
       }
     ],
     "h": [
@@ -2612,6 +2744,28 @@
         "clicks": 0,
         "last_search": 1769410290382,
         "created_at": 1769410290382,
+        "locale": "id"
+      },
+      {
+        "id": "kw_137d370c-38e2-4fc5-bf02-b24be9e96909",
+        "keyword": "Harmonia - Rindu Kamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3493b4a5-6583-4e58-aca0-e1b545fb076a",
+        "keyword": "Harmonia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
         "locale": "id"
       }
     ],
@@ -4040,6 +4194,28 @@
         "last_search": 1769409730862,
         "created_at": 1769409730862,
         "locale": "id"
+      },
+      {
+        "id": "kw_dae5b29f-db78-4d67-9861-2a8d1cf693f2",
+        "keyword": "Bastian Steel - Aku Rindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7dffa6e9-0ce8-4771-9037-307d5b037200",
+        "keyword": "Bastian Steel",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
+        "locale": "id"
       }
     ],
     "t": [
@@ -4593,6 +4769,17 @@
         "clicks": 0,
         "last_search": 1769409730861,
         "created_at": 1769409730861,
+        "locale": "id"
+      },
+      {
+        "id": "kw_68e19a38-7270-40c6-bf66-bd5a215c4499",
+        "keyword": "Evi Tamala",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
         "locale": "id"
       }
     ],
@@ -5585,9 +5772,9 @@
         "keyword": "Ay",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407810239,
+        "last_search": 1769423057828,
         "created_at": 1769407810239,
         "locale": "id"
       },
@@ -5909,6 +6096,72 @@
         "last_search": 1769410290382,
         "created_at": 1769410290382,
         "locale": "id"
+      },
+      {
+        "id": "kw_83265eff-7a62-40f6-8646-2964adcc8c83",
+        "keyword": "Aku Rindu Padamu - Evi Tamala ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4a73de19-fc34-4ac2-b132-227f55fc46ef",
+        "keyword": "Aku Rindu Padamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6efd79b3-1e86-4c3c-b7ba-ed8a7cf26153",
+        "keyword": "Aku Rindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2610c172-9fa4-446b-b7bc-ee99a1a3ed68",
+        "keyword": "Alexa Key - Aku Kangen Aku Rindu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e2e2c7c4-213b-4c12-9eed-58a8084435d4",
+        "keyword": "Alexa Key",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
+        "locale": "id"
+      },
+      {
+        "id": "kw_42970eb9-f176-40ec-b6dc-5fbac14c1cbf",
+        "keyword": "Aku Kangen Aku Rindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
+        "locale": "id"
       }
     ],
     "r": [
@@ -6141,6 +6394,50 @@
         "clicks": 0,
         "last_search": 1769410290382,
         "created_at": 1769410290382,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e6eb5022-d7fa-4bf1-ac63-9a6876dd6b71",
+        "keyword": "Rindu Aku Rindu Kamu - Doel Sumbang Ft Nini Carlina ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057827,
+        "created_at": 1769423057827,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4da4b068-2906-48b2-bc4b-0b1ae5fd1817",
+        "keyword": "Rindu Aku Rindu Kamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057827,
+        "created_at": 1769423057827,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0458efa2-71af-4f02-a949-076588fbf2f0",
+        "keyword": "Rindu Kamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7047bffa-adee-4b74-8915-588f13b0e8de",
+        "keyword": "Rindu Ku Rindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769423057828,
+        "created_at": 1769423057828,
         "locale": "id"
       }
     ],
