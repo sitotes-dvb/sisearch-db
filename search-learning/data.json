@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769407853712,
+    "last_updated": 1769407883533,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -178,9 +178,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 13,
+        "impressions": 14,
         "clicks": 0,
-        "last_search": 1769407853710,
+        "last_search": 1769407883531,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -431,9 +431,9 @@
         "keyword": "Denny Caknan - Sampek Tuwek ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769403661096,
+        "last_search": 1769407883531,
         "created_at": 1769403661096,
         "locale": "id"
       },
@@ -689,6 +689,83 @@
         "last_search": 1769407853710,
         "created_at": 1769407853710,
         "locale": "id"
+      },
+      {
+        "id": "kw_c10cb25c-2ddd-42b3-88e1-697a3fdc5c88",
+        "keyword": "Dadi Siji",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4af2cfe9-4170-4084-83ed-a8f0bcdd11ad",
+        "keyword": "Dini Kurnia Feat. Mufly Key - DADI SIJI ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_32d63939-35f6-4d9b-abad-64f5b2cf3bcf",
+        "keyword": "Dini Kurnia Feat. Mufly Key",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2d226aee-9b95-4cf1-8e1c-b9afa225bde2",
+        "keyword": "DADI SIJI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ff87a2d1-8703-460b-b7ff-893fe8d3c82f",
+        "keyword": "DADI SIJI LORO - Miqbal GA Ft. Ratih SDE ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_27cfde49-5b78-4247-9216-ebe65b76451f",
+        "keyword": "DADI SIJI LORO",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5091184e-072a-4a25-8916-bf0d67871fea",
+        "keyword": "Denny Caknan - Kalih Welasku ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
+        "locale": "id"
       }
     ],
     "l": [
@@ -919,9 +996,9 @@
         "keyword": "Kalih Welasku",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314317,
+        "last_search": 1769407883531,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -1311,6 +1388,17 @@
         "last_search": 1769407853710,
         "created_at": 1769407853710,
         "locale": "id"
+      },
+      {
+        "id": "kw_1e3e7d2f-cc2b-4d78-b8ad-b763ea774c54",
+        "keyword": "Pilihane Wong Tuamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
+        "locale": "id"
       }
     ],
     "m": [
@@ -1609,6 +1697,50 @@
         "clicks": 0,
         "last_search": 1769407836965,
         "created_at": 1769407836965,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5cdf6dcd-bff2-4839-8c70-d10fb11ddc81",
+        "keyword": "Miqbal GA ft. Siska Amanda - Dadi Siji ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f6015280-2b5b-4099-a1a1-f530af793996",
+        "keyword": "Miqbal GA ft. Siska Amanda",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c6ef31d0-4fae-46d1-8821-f0620fd2082d",
+        "keyword": "Miqbal GA Ft. Ratih SDE",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_104261b4-441f-466c-9ca5-ac1d9f8083ca",
+        "keyword": "Mbalek Dadi Siji",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
         "locale": "id"
       }
     ],
@@ -2768,9 +2900,9 @@
         "keyword": "Northsle Ft Agiff",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407836965,
+        "last_search": 1769407883531,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -2783,6 +2915,17 @@
         "clicks": 0,
         "last_search": 1769407853710,
         "created_at": 1769407836965,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7f6cf9e4-ec25-4222-8f00-71a2c8df77d1",
+        "keyword": "Northsle Ft Agiff - Tresno Liyane 2 ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
         "locale": "id"
       }
     ],
@@ -3272,6 +3415,39 @@
         "last_search": 1769407836965,
         "created_at": 1769407836965,
         "locale": "id"
+      },
+      {
+        "id": "kw_37737524-118e-4b69-a50a-3716e60fa787",
+        "keyword": "TEKOMLAKU - Pilihane Wong Tuamu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_93ef88b3-190a-4aaa-90d6-28a7924703f2",
+        "keyword": "TEKOMLAKU",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c6c5a576-f211-4806-9f65-5fb8eed2f3ee",
+        "keyword": "Tresno Liyane 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
+        "locale": "id"
       }
     ],
     "e": [
@@ -3660,6 +3836,17 @@
         "clicks": 0,
         "last_search": 1769407853710,
         "created_at": 1769407853710,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ca9314c7-916a-4265-aa3e-ee47882d92d6",
+        "keyword": "Wp Pro Channel",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
         "locale": "id"
       }
     ],
@@ -4215,6 +4402,28 @@
         "last_search": 1769407810239,
         "created_at": 1769407810239,
         "locale": "id"
+      },
+      {
+        "id": "kw_f5955bd4-a00a-44cc-a706-4c37c5eac52a",
+        "keyword": "Aku Tenang - Wp Pro Channel ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ff0081db-011d-4468-9cc8-b019b6bc8cbf",
+        "keyword": "Aku Tenang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
+        "locale": "id"
       }
     ],
     "r": [
@@ -4414,6 +4623,28 @@
         "clicks": 0,
         "last_search": 1769407836965,
         "created_at": 1769407836965,
+        "locale": "id"
+      },
+      {
+        "id": "kw_29cc42e3-5d61-40c3-8ea4-f8bf3b7ec199",
+        "keyword": "Raiso Dadi Siji - Sarah Brilian feat. Stress Royal ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_53bbedea-82cb-4bfe-b244-9c609537c59a",
+        "keyword": "Raiso Dadi Siji",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
         "locale": "id"
       }
     ],
@@ -4742,9 +4973,9 @@
         "keyword": "Sampek Tuwek",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769403661096,
+        "last_search": 1769407883531,
         "created_at": 1769403661096,
         "locale": "id"
       },
@@ -5010,6 +5241,17 @@
         "clicks": 0,
         "last_search": 1769407853710,
         "created_at": 1769407853710,
+        "locale": "id"
+      },
+      {
+        "id": "kw_58bded17-f8e0-4ac4-811c-d310e92563ab",
+        "keyword": "Sarah Brilian feat. Stress Royal",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
         "locale": "id"
       }
     ],
@@ -5394,6 +5636,30 @@
         "clicks": 0,
         "last_search": 1769395894349,
         "created_at": 1769395894349,
+        "locale": "id"
+      }
+    ],
+    "v": [
+      {
+        "id": "kw_fa0ba5d9-0b8a-4d12-89ec-be2092aac847",
+        "keyword": "Vayz Luluk - Mbalek Dadi Siji ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1b3d2b9c-6dff-46e6-a60b-e544502fc912",
+        "keyword": "Vayz Luluk",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407883531,
+        "created_at": 1769407883531,
         "locale": "id"
       }
     ]
