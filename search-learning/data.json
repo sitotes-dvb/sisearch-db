@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769408177178,
+    "last_updated": 1769408229032,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -810,6 +810,50 @@
         "last_search": 1769408177176,
         "created_at": 1769408177176,
         "locale": "id"
+      },
+      {
+        "id": "kw_d86951c1-6ad2-4661-942d-a86c907c4e2d",
+        "keyword": "Duo Anggrek - Goyang Nasi Padang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408229030,
+        "created_at": 1769408229030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5e9e1651-7102-45b6-96c3-ab480d094d5d",
+        "keyword": "Duo Anggrek",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408229030,
+        "created_at": 1769408229030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b6140094-c822-4485-9e13-9737f67426aa",
+        "keyword": "David Iztambul & Ovhi Firsty - Minyak Habih Samba Tak ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408229030,
+        "created_at": 1769408229030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dea74a49-056d-4bfa-bc82-77412e0139b3",
+        "keyword": "David Iztambul & Ovhi Firsty",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408229030,
+        "created_at": 1769408229030,
+        "locale": "id"
       }
     ],
     "l": [
@@ -1264,6 +1308,28 @@
         "clicks": 0,
         "last_search": 1769408177176,
         "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_283bd590-333c-4994-a089-7b9a673d9a96",
+        "keyword": "Kawan Panjilek",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408229030,
+        "created_at": 1769408229030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_87d3ee70-933e-45e1-81c4-6c563c9828f7",
+        "keyword": "Kumpulan Gitar Bunga Citra Lestari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408229030,
+        "created_at": 1769408229030,
         "locale": "id"
       }
     ],
@@ -1906,6 +1972,17 @@
         "clicks": 0,
         "last_search": 1769407949709,
         "created_at": 1769407949709,
+        "locale": "id"
+      },
+      {
+        "id": "kw_22c8b45b-2e24-4bb2-a3f3-8e19f94f05dd",
+        "keyword": "Minyak Habih Samba Tak",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408229030,
+        "created_at": 1769408229030,
         "locale": "id"
       }
     ],
@@ -2550,6 +2627,17 @@
         "clicks": 0,
         "last_search": 1769407853710,
         "created_at": 1769407853710,
+        "locale": "id"
+      },
+      {
+        "id": "kw_87fa4dc3-5d87-4af2-9b51-f397789a7190",
+        "keyword": "Goyang Nasi Padang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408229030,
+        "created_at": 1769408229030,
         "locale": "id"
       }
     ],
@@ -4831,6 +4919,39 @@
         "last_search": 1769408177176,
         "created_at": 1769408177176,
         "locale": "id"
+      },
+      {
+        "id": "kw_347f252b-5e58-46ad-a61d-4ec8078d5836",
+        "keyword": "Ayu Ting Ting - SambaLado ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408229030,
+        "created_at": 1769408229030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_29496350-86e2-48b0-a73d-9e42c9369968",
+        "keyword": "Ayu Ting Ting",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408229030,
+        "created_at": 1769408229030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_133d6bf6-8624-445b-ab96-c4c965915b93",
+        "keyword": "Ayu Ting Ting - Sik Asik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408229030,
+        "created_at": 1769408229030,
+        "locale": "id"
       }
     ],
     "r": [
@@ -5736,6 +5857,50 @@
         "clicks": 0,
         "last_search": 1769408177176,
         "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d629eb37-abba-4e74-9fa5-85974258460f",
+        "keyword": "Sandra Palama feat. Erwin Chan - Kawan Panjilek ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408229030,
+        "created_at": 1769408229030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2255ba1e-6e80-422d-826c-8296b84fbcfc",
+        "keyword": "Sandra Palama feat. Erwin Chan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408229030,
+        "created_at": 1769408229030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_21b2883e-ce10-4a30-86cd-b81b87d3e11b",
+        "keyword": "SambaLado",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408229030,
+        "created_at": 1769408229030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a6ff675f-93b4-44ab-9f70-d9007f27458d",
+        "keyword": "Sik Asik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408229030,
+        "created_at": 1769408229030,
         "locale": "id"
       }
     ],
