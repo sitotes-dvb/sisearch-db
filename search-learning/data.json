@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769395121057,
+    "last_updated": 1769395314330,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -154,9 +154,9 @@
         "keyword": "Denny Caknan - Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395121042,
+        "last_search": 1769395314316,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -165,9 +165,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395121042,
+        "last_search": 1769395314316,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -192,6 +192,72 @@
         "last_search": 1769395121042,
         "created_at": 1769395121042,
         "locale": "id"
+      },
+      {
+        "id": "kw_9721c8d9-701b-4a9a-aaba-0daffd836b44",
+        "keyword": "Denny Caknan - Cundamani ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314316,
+        "created_at": 1769395314316,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c2bb4545-68dd-414d-9d25-2b9378543976",
+        "keyword": "Denny Caknan - Langgeng Dayaning Rasa (LDR ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314316,
+        "created_at": 1769395314316,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1ec7adf8-68b6-4189-a884-df1bb6bad8bc",
+        "keyword": "Denny Caknan - Sigar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314316,
+        "created_at": 1769395314316,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e9657757-a4e1-411b-b9cb-5c477a058d0e",
+        "keyword": "Denny Caknan - Kalih Welasku ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314317,
+        "created_at": 1769395314317,
+        "locale": "id"
+      },
+      {
+        "id": "kw_01f9c3ec-b1c1-48e3-84a5-7f100ea65843",
+        "keyword": "Denny Caknan Feat Bella Bonita - SINARENGAN ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314317,
+        "created_at": 1769395314317,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5059af3f-bea3-4196-b735-58de2effb703",
+        "keyword": "Denny Caknan Feat Bella Bonita",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314317,
+        "created_at": 1769395314317,
+        "locale": "id"
       }
     ],
     "l": [
@@ -215,6 +281,39 @@
         "clicks": 0,
         "last_search": 1769360249303,
         "created_at": 1769360249303,
+        "locale": "id"
+      },
+      {
+        "id": "kw_20213241-cc73-4da9-aa59-3cb0608c259e",
+        "keyword": "Langgeng Dayaning Rasa (LDR ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314316,
+        "created_at": 1769395314316,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cd18b509-58ad-4c6e-8cba-a0343ba5d238",
+        "keyword": "Lamunan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314317,
+        "created_at": 1769395314317,
+        "locale": "id"
+      },
+      {
+        "id": "kw_04869113-155a-45a7-9bab-1a21b4c5cca6",
+        "keyword": "LAVORA Ft Ena Vika ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314317,
+        "created_at": 1769395314317,
         "locale": "id"
       }
     ],
@@ -317,6 +416,28 @@
         "last_search": 1769395121055,
         "created_at": 1769395121055,
         "locale": "id"
+      },
+      {
+        "id": "kw_883ccee8-7faf-43fd-ad23-3bbbfb526169",
+        "keyword": "Kumpulan Gitar Denny Caknan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314316,
+        "created_at": 1769395314316,
+        "locale": "id"
+      },
+      {
+        "id": "kw_552635dc-4561-44fc-ba98-c8f955508748",
+        "keyword": "Kalih Welasku ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314317,
+        "created_at": 1769395314317,
+        "locale": "id"
       }
     ],
     "p": [
@@ -384,6 +505,28 @@
         "clicks": 0,
         "last_search": 1769360249302,
         "created_at": 1769360249302,
+        "locale": "id"
+      },
+      {
+        "id": "kw_93dec245-39b6-4823-b9f4-39e1628ae8e6",
+        "keyword": "Pakdhe Baz - AJRIH",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314316,
+        "created_at": 1769395314316,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f8deb88b-0902-4843-a4e2-4d2c61fd31bb",
+        "keyword": "Pakdhe Baz",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314316,
+        "created_at": 1769395314316,
         "locale": "id"
       }
     ],
@@ -1146,9 +1289,9 @@
         "keyword": "Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395121042,
+        "last_search": 1769395314316,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -1184,6 +1327,28 @@
         "last_search": 1769395121055,
         "created_at": 1769395121055,
         "locale": "id"
+      },
+      {
+        "id": "kw_af80f8ae-afbc-485c-b0c0-bdc8d1971b89",
+        "keyword": "Wahyu F Giri - Lamunan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314317,
+        "created_at": 1769395314317,
+        "locale": "id"
+      },
+      {
+        "id": "kw_584051cd-9881-46b1-ae3b-00492bde4c59",
+        "keyword": "Wahyu F Giri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314317,
+        "created_at": 1769395314317,
+        "locale": "id"
       }
     ],
     "c": [
@@ -1207,6 +1372,17 @@
         "clicks": 0,
         "last_search": 1769359994199,
         "created_at": 1769359994199,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8ccd62b5-c175-4742-a77b-0c30fe645aa3",
+        "keyword": "Cundamani ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314316,
+        "created_at": 1769395314316,
         "locale": "id"
       }
     ],
@@ -1331,6 +1507,17 @@
         "last_search": 1769395121055,
         "created_at": 1769395121055,
         "locale": "id"
+      },
+      {
+        "id": "kw_b1805267-57e9-4781-8e6c-9d2f06e125a7",
+        "keyword": "AJRIH",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314316,
+        "created_at": 1769395314316,
+        "locale": "id"
       }
     ],
     "r": [
@@ -1365,6 +1552,28 @@
         "clicks": 0,
         "last_search": 1769359994200,
         "created_at": 1769359994200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c064de5c-8469-42a6-ad56-5290719dae18",
+        "keyword": "Rasah Bali - LAVORA Ft Ena Vika ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314317,
+        "created_at": 1769395314317,
+        "locale": "id"
+      },
+      {
+        "id": "kw_afc1a3da-5165-429e-a637-e46ddb1e9943",
+        "keyword": "Rasah Bali",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314317,
+        "created_at": 1769395314317,
         "locale": "id"
       }
     ],
@@ -1477,6 +1686,28 @@
         "clicks": 0,
         "last_search": 1769395121055,
         "created_at": 1769395121055,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a3f23ecc-12fc-46fc-bda5-ddce3905f2f1",
+        "keyword": "Sigar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314317,
+        "created_at": 1769395314317,
+        "locale": "id"
+      },
+      {
+        "id": "kw_48f00af5-1425-4988-b750-d414453f255a",
+        "keyword": "SINARENGAN ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395314317,
+        "created_at": 1769395314317,
         "locale": "id"
       }
     ],
