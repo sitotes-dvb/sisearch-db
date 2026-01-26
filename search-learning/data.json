@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769395894368,
+    "last_updated": 1769395971035,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -154,9 +154,9 @@
         "keyword": "Denny Caknan - Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769395314316,
+        "last_search": 1769395971034,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -165,9 +165,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769395894349,
+        "last_search": 1769395971034,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -209,9 +209,9 @@
         "keyword": "Denny Caknan - Langgeng Dayaning Rasa (LDR ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314316,
+        "last_search": 1769395971034,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -220,9 +220,9 @@
         "keyword": "Denny Caknan - Sigar",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314316,
+        "last_search": 1769395971034,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -302,6 +302,28 @@
         "last_search": 1769395894349,
         "created_at": 1769395894349,
         "locale": "id"
+      },
+      {
+        "id": "kw_ed8396ac-483a-4867-9d48-4530076ee570",
+        "keyword": "Denny Caknan - Sekti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395971034,
+        "created_at": 1769395971034,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9263e7ae-22bc-4446-922a-639f5911ae45",
+        "keyword": "Daftar Koleksi / Resty Reynida @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395971034,
+        "created_at": 1769395971034,
+        "locale": "id"
       }
     ],
     "l": [
@@ -332,9 +354,9 @@
         "keyword": "Langgeng Dayaning Rasa (LDR ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314316,
+        "last_search": 1769395971034,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -343,9 +365,9 @@
         "keyword": "Lamunan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314317,
+        "last_search": 1769395971034,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -477,9 +499,9 @@
         "keyword": "Kumpulan Gitar Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769395894349,
+        "last_search": 1769395971034,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -503,6 +525,17 @@
         "clicks": 0,
         "last_search": 1769395894349,
         "created_at": 1769395894349,
+        "locale": "id"
+      },
+      {
+        "id": "kw_30dac347-cab7-4de0-86b5-488f6d3ed6a1",
+        "keyword": "Kalah Sekti ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395971034,
+        "created_at": 1769395971034,
         "locale": "id"
       }
     ],
@@ -1154,6 +1187,17 @@
         "last_search": 1769395894349,
         "created_at": 1769395894349,
         "locale": "id"
+      },
+      {
+        "id": "kw_16ea8ac9-438e-4f5c-a76e-700263b85cf9",
+        "keyword": "NYAWIJI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395971034,
+        "created_at": 1769395971034,
+        "locale": "id"
       }
     ],
     "b": [
@@ -1465,9 +1509,9 @@
         "keyword": "Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769395314316,
+        "last_search": 1769395971034,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -1509,9 +1553,9 @@
         "keyword": "Wahyu F Giri - Lamunan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314317,
+        "last_search": 1769395971034,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -1520,9 +1564,9 @@
         "keyword": "Wahyu F Giri",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314317,
+        "last_search": 1769395971034,
         "created_at": 1769395314317,
         "locale": "id"
       }
@@ -1694,6 +1738,28 @@
         "last_search": 1769395314316,
         "created_at": 1769395314316,
         "locale": "id"
+      },
+      {
+        "id": "kw_e51ad40c-a87c-4557-95fc-e23d774b12eb",
+        "keyword": "Abah Lala - SALEHO",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395971034,
+        "created_at": 1769395971034,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2765d727-60e3-4995-b784-69cce6abb05a",
+        "keyword": "Abah Lala",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395971034,
+        "created_at": 1769395971034,
+        "locale": "id"
       }
     ],
     "r": [
@@ -1772,6 +1838,28 @@
         "clicks": 0,
         "last_search": 1769395894349,
         "created_at": 1769395894349,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2aaabdd3-ace8-4efa-8c9a-75d304457f93",
+        "keyword": "Resty Reynida - Kalah Sekti ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395971034,
+        "created_at": 1769395971034,
+        "locale": "id"
+      },
+      {
+        "id": "kw_37e71741-9b99-4afa-8e5b-97be8691e7ad",
+        "keyword": "Resty Reynida",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395971034,
+        "created_at": 1769395971034,
         "locale": "id"
       }
     ],
@@ -1891,9 +1979,9 @@
         "keyword": "Sigar",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314317,
+        "last_search": 1769395971034,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -1917,6 +2005,28 @@
         "clicks": 0,
         "last_search": 1769395894349,
         "created_at": 1769395894349,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6f276fd2-a301-42cd-9aef-f9b5a6271f0d",
+        "keyword": "Sekti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395971034,
+        "created_at": 1769395971034,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ae5f96ab-68d3-4428-9759-541e2232c72c",
+        "keyword": "SALEHO",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395971034,
+        "created_at": 1769395971034,
         "locale": "id"
       }
     ],
@@ -1965,6 +2075,28 @@
         "clicks": 0,
         "last_search": 1769360020300,
         "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ad144453-c43c-40c4-a52f-f234ca55b079",
+        "keyword": "Farel Prayoga - NYAWIJI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395971034,
+        "created_at": 1769395971034,
+        "locale": "id"
+      },
+      {
+        "id": "kw_93cc7216-04be-4e3e-b2fc-752688d8eacc",
+        "keyword": "Farel Prayoga",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395971034,
+        "created_at": 1769395971034,
         "locale": "id"
       }
     ],
