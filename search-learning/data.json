@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769407902840,
+    "last_updated": 1769407949711,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1764,6 +1764,17 @@
         "last_search": 1769407883531,
         "created_at": 1769407883531,
         "locale": "id"
+      },
+      {
+        "id": "kw_0de9f503-3c46-419b-ab11-d93d32302412",
+        "keyword": "Mendung Tanpo Udan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407949709,
+        "created_at": 1769407949709,
+        "locale": "id"
       }
     ],
     "h": [
@@ -2449,9 +2460,9 @@
         "keyword": "Ndarboy Genk",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769398806466,
+        "last_search": 1769407949709,
         "created_at": 1769359994200,
         "locale": "id"
       },
@@ -2981,6 +2992,17 @@
         "clicks": 0,
         "last_search": 1769407902838,
         "created_at": 1769407902838,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6aff83ac-d8ac-4ae1-aa08-2d0f6f766341",
+        "keyword": "Ndarboy Genk - Mendung Tanpo Udan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407949709,
+        "created_at": 1769407949709,
         "locale": "id"
       }
     ],
@@ -3535,6 +3557,17 @@
         "clicks": 0,
         "last_search": 1769407902838,
         "created_at": 1769407902838,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f143398d-4a54-4fab-98f7-d4207aad913c",
+        "keyword": "Tombo Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407949709,
+        "created_at": 1769407949709,
         "locale": "id"
       }
     ],
@@ -5799,6 +5832,28 @@
         "clicks": 0,
         "last_search": 1769407902838,
         "created_at": 1769407902838,
+        "locale": "id"
+      },
+      {
+        "id": "kw_667b6859-3a2f-491d-b572-22b3b209d81a",
+        "keyword": "Opick - Tombo Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407949709,
+        "created_at": 1769407949709,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bb517870-db19-416b-ab2a-2d3ab7fbabb5",
+        "keyword": "Opick",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407949709,
+        "created_at": 1769407949709,
         "locale": "id"
       }
     ],
