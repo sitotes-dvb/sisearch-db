@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769408301635,
+    "last_updated": 1769408366290,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -865,6 +865,17 @@
         "last_search": 1769408301632,
         "created_at": 1769408301632,
         "locale": "id"
+      },
+      {
+        "id": "kw_134d674d-8c6a-423f-8a31-4f1e7afeebeb",
+        "keyword": "Dangdut Ayu Ting Ting",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408366286,
+        "created_at": 1769408366286,
+        "locale": "id"
       }
     ],
     "l": [
@@ -1381,10 +1392,21 @@
         "keyword": "Kumpulan Gitar Ayu Ting Ting",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769408366286,
+        "created_at": 1769408301632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_06094ee5-e5a7-432f-bebb-6ddfb1bc09be",
+        "keyword": "Kekasihku",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769408301632,
-        "created_at": 1769408301632,
+        "last_search": 1769408366286,
+        "created_at": 1769408366286,
         "locale": "id"
       }
     ],
@@ -2083,6 +2105,28 @@
         "last_search": 1769408285659,
         "created_at": 1769408285659,
         "locale": "id"
+      },
+      {
+        "id": "kw_14e068f9-9fe2-4839-8419-6a11ef2e4a1f",
+        "keyword": "Minyak Wangi - Dangdut Ayu Ting Ting ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408366286,
+        "created_at": 1769408366286,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6cb39c7b-9df3-46dd-83a5-006481cae811",
+        "keyword": "Minyak Wangi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408366286,
+        "created_at": 1769408366286,
+        "locale": "id"
       }
     ],
     "h": [
@@ -2282,6 +2326,17 @@
         "clicks": 0,
         "last_search": 1769408285659,
         "created_at": 1769408285659,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3afa219a-1fc9-4c6f-bbae-62eb62f34c2b",
+        "keyword": "Hanya Kamu (OST",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408366286,
+        "created_at": 1769408366286,
         "locale": "id"
       }
     ],
@@ -4752,6 +4807,17 @@
         "last_search": 1769408301632,
         "created_at": 1769408301632,
         "locale": "id"
+      },
+      {
+        "id": "kw_bd8e429c-54b5-4c52-9289-f824514984a9",
+        "keyword": "Cemburu Mantanmu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408366286,
+        "created_at": 1769408366286,
+        "locale": "id"
       }
     ],
     "a": [
@@ -5200,9 +5266,9 @@
         "keyword": "Ayu Ting Ting - SambaLado ...",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769408301632,
+        "last_search": 1769408366286,
         "created_at": 1769408229030,
         "locale": "id"
       },
@@ -5211,9 +5277,9 @@
         "keyword": "Ayu Ting Ting",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769408301632,
+        "last_search": 1769408366286,
         "created_at": 1769408229030,
         "locale": "id"
       },
@@ -5222,9 +5288,9 @@
         "keyword": "Ayu Ting Ting - Sik Asik",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769408229030,
+        "last_search": 1769408366286,
         "created_at": 1769408229030,
         "locale": "id"
       },
@@ -5281,6 +5347,105 @@
         "clicks": 0,
         "last_search": 1769408301632,
         "created_at": 1769408301632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_026b859c-2f20-447f-9226-24d4d5d7ddd5",
+        "keyword": "Ayu Ting Ting X Keremcem - Apalah Cinta ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408366285,
+        "created_at": 1769408366285,
+        "locale": "id"
+      },
+      {
+        "id": "kw_de318e39-1ba5-44de-9e05-957452e7d191",
+        "keyword": "Ayu Ting Ting X Keremcem",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408366285,
+        "created_at": 1769408366285,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4cab4000-825d-4247-8248-cabc598158a2",
+        "keyword": "Apalah Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408366285,
+        "created_at": 1769408366285,
+        "locale": "id"
+      },
+      {
+        "id": "kw_43f85633-ac2d-48c6-9e53-dd4c1e89385c",
+        "keyword": "Ayu Ting Ting - Kekasihku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408366286,
+        "created_at": 1769408366285,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b753a460-91a2-45b9-a779-39ff4c90d8bc",
+        "keyword": "Ayu Ting Ting Feat. Boy William - Hanya Kamu (OST ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408366286,
+        "created_at": 1769408366286,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eb678101-2bf2-4ef4-b3bb-70c3a314eecf",
+        "keyword": "Ayu Ting Ting Feat. Boy William",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408366286,
+        "created_at": 1769408366286,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9e4c0e09-afe5-4aae-9c67-d146b10b12d2",
+        "keyword": "Ayu Ting Ting - Cemburu Mantanmu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408366286,
+        "created_at": 1769408366286,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5d03cce4-5994-404e-841f-5d9846e56449",
+        "keyword": "Ayu Ting Ting - Alamat Palsu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408366286,
+        "created_at": 1769408366286,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6d0baa60-088f-45c0-b8f7-d7f130d00351",
+        "keyword": "Alamat Palsu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408366286,
+        "created_at": 1769408366286,
         "locale": "id"
       }
     ],
@@ -6216,9 +6381,9 @@
         "keyword": "SambaLado",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769408301632,
+        "last_search": 1769408366286,
         "created_at": 1769408229030,
         "locale": "id"
       },
@@ -6227,9 +6392,9 @@
         "keyword": "Sik Asik",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769408229030,
+        "last_search": 1769408366286,
         "created_at": 1769408229030,
         "locale": "id"
       },
@@ -6253,6 +6418,28 @@
         "clicks": 0,
         "last_search": 1769408285659,
         "created_at": 1769408285659,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5b8d0489-95d9-495b-aad2-3c663ff79872",
+        "keyword": "Suara Hati - Ayu Ting Ting",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408366286,
+        "created_at": 1769408366286,
+        "locale": "id"
+      },
+      {
+        "id": "kw_be758acd-3099-4489-90b7-c6d96142b32c",
+        "keyword": "Suara Hati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408366286,
+        "created_at": 1769408366286,
         "locale": "id"
       }
     ],
