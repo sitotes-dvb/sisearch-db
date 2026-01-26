@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769407949711,
+    "last_updated": 1769408177178,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -766,6 +766,50 @@
         "last_search": 1769407902838,
         "created_at": 1769407883531,
         "locale": "id"
+      },
+      {
+        "id": "kw_1fdfd6c9-cd3f-4d75-beff-ccc1a1b2c040",
+        "keyword": "Dhea Gemoii - Ngolembar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9affacd4-2bd4-4d73-92ec-0ddd548d1f86",
+        "keyword": "Dhea Gemoii",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_db2f3e28-5858-4847-81b6-26455723968d",
+        "keyword": "Dhimas Tedjo Feat. Dapur Musik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4435ac5c-5133-4f90-a9a0-4fc29c925b58",
+        "keyword": "Daftar Koleksi / Nayla Fardila @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
+        "locale": "id"
       }
     ],
     "l": [
@@ -877,6 +921,17 @@
         "clicks": 0,
         "last_search": 1769407784909,
         "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e4cd14e3-c570-4bd3-a5a6-0853969748ac",
+        "keyword": "LIUCING (Lindung Uyak Cicing",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
         "locale": "id"
       }
     ],
@@ -1166,6 +1221,50 @@
         "last_search": 1769407902838,
         "created_at": 1769407902838,
         "locale": "id"
+      },
+      {
+        "id": "kw_be2eb52d-949b-41a6-b9bc-70fea153f6dd",
+        "keyword": "Kirang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e2dc971b-35f7-4d32-a8a1-5d43f45761db",
+        "keyword": "Klungkung Semarapura",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c469459c-27d1-4c7e-bc33-0e132a0d4a95",
+        "keyword": "Kumpulan Gitar Nayla Fardila",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_784a497b-f18c-412d-a4eb-caccba56f08a",
+        "keyword": "Krupukan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
+        "locale": "id"
       }
     ],
     "p": [
@@ -1420,6 +1519,39 @@
         "clicks": 0,
         "last_search": 1769407883531,
         "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_876694a8-6711-48b5-aca9-9c0337c831ca",
+        "keyword": "Pelampiasan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dbb0b8b7-d22f-4bc1-9b3b-b22ff34bc436",
+        "keyword": "Pelampiasan 2 - Nayla Fardila Feat Jasun Marju ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_de9e997a-779d-4c01-9ce6-cf0cf60a9985",
+        "keyword": "Pelampiasan 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
         "locale": "id"
       }
     ],
@@ -2196,6 +2328,28 @@
         "clicks": 0,
         "last_search": 1769407784909,
         "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_45ec8d34-dab7-4a89-92bf-aa7650ffbbc3",
+        "keyword": "Joko Ndeso - Dhimas Tedjo Feat. Dapur Musik ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_96168329-ca3f-4419-b364-006cf5b55c49",
+        "keyword": "Joko Ndeso",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
         "locale": "id"
       }
     ],
@@ -3003,6 +3157,61 @@
         "clicks": 0,
         "last_search": 1769407949709,
         "created_at": 1769407949709,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bb214415-34c6-4f47-9283-52702a08a677",
+        "keyword": "Nayla Fardila - Kirang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177175,
+        "created_at": 1769408177175,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fcc588f0-3951-4427-81bc-876621e6f3df",
+        "keyword": "Nayla Fardila",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177175,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d3768bcc-9068-42c2-b839-f2ff541103ce",
+        "keyword": "Ngolembar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1c3cd143-b99f-4819-a12c-89dc8eb54162",
+        "keyword": "Nayla Fardila - Pelampiasan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d8602819-60c6-43ba-adb1-2950b4425149",
+        "keyword": "Nayla Fardila Feat Jasun Marju",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
         "locale": "id"
       }
     ],
@@ -4578,6 +4787,50 @@
         "last_search": 1769407902838,
         "created_at": 1769407902838,
         "locale": "id"
+      },
+      {
+        "id": "kw_cf5f45be-b548-40cb-857f-de6d248357ea",
+        "keyword": "Ayu Saraswati - Klungkung Semarapura ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e728b465-52ea-48d2-9b42-889a3e1451de",
+        "keyword": "Ayu Saraswati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_950df8ed-a3e8-4bb3-b470-70e506cf4373",
+        "keyword": "AA Raka Sidan & Ocha Putri - Krupukan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ef2bb64d-545b-411f-9b97-5962cf076260",
+        "keyword": "AA Raka Sidan & Ocha Putri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
+        "locale": "id"
       }
     ],
     "r": [
@@ -5461,6 +5714,28 @@
         "clicks": 0,
         "last_search": 1769407902838,
         "created_at": 1769407902838,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5f7f20c0-572e-4e4f-b7a3-eaeae6245f75",
+        "keyword": "Sukma Wulandari - LIUCING (Lindung Uyak Cicing ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8a513ef7-2f64-435f-a132-37b6c5109273",
+        "keyword": "Sukma Wulandari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408177176,
+        "created_at": 1769408177176,
         "locale": "id"
       }
     ],
