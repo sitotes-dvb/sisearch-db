@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769408229032,
+    "last_updated": 1769408285666,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -816,9 +816,9 @@
         "keyword": "Duo Anggrek - Goyang Nasi Padang ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769408229030,
+        "last_search": 1769408285659,
         "created_at": 1769408229030,
         "locale": "id"
       },
@@ -827,9 +827,9 @@
         "keyword": "Duo Anggrek",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769408229030,
+        "last_search": 1769408285659,
         "created_at": 1769408229030,
         "locale": "id"
       },
@@ -838,9 +838,9 @@
         "keyword": "David Iztambul & Ovhi Firsty - Minyak Habih Samba Tak ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769408229030,
+        "last_search": 1769408285659,
         "created_at": 1769408229030,
         "locale": "id"
       },
@@ -849,9 +849,9 @@
         "keyword": "David Iztambul & Ovhi Firsty",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769408229030,
+        "last_search": 1769408285659,
         "created_at": 1769408229030,
         "locale": "id"
       }
@@ -1315,9 +1315,9 @@
         "keyword": "Kawan Panjilek",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769408229030,
+        "last_search": 1769408285659,
         "created_at": 1769408229030,
         "locale": "id"
       },
@@ -1979,10 +1979,32 @@
         "keyword": "Minyak Habih Samba Tak",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769408285659,
+        "created_at": 1769408229030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_67411c48-f091-4d51-84c1-5417d37ce5ca",
+        "keyword": "Maisaka - Sambel Ijo ...",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769408229030,
-        "created_at": 1769408229030,
+        "last_search": 1769408285659,
+        "created_at": 1769408285659,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a6b4e4b1-dcd2-4aa9-a441-25d503edff91",
+        "keyword": "Maisaka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408285659,
+        "created_at": 1769408285659,
         "locale": "id"
       }
     ],
@@ -2161,6 +2183,28 @@
         "clicks": 0,
         "last_search": 1769407733906,
         "created_at": 1769407733906,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eabc4329-7370-42d9-b160-23453d3bf9ad",
+        "keyword": "Hadang Sayang - Tommy Kaganangan ft Putri Syahilla ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408285659,
+        "created_at": 1769408285659,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cf736537-1fce-4e63-9a58-38a51b50917d",
+        "keyword": "Hadang Sayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408285659,
+        "created_at": 1769408285659,
         "locale": "id"
       }
     ],
@@ -2428,6 +2472,28 @@
         "last_search": 1769408177176,
         "created_at": 1769408177176,
         "locale": "id"
+      },
+      {
+        "id": "kw_c862b231-26df-43d6-8d82-5a47836d1c43",
+        "keyword": "Jambe Ikan Teri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408285659,
+        "created_at": 1769408285659,
+        "locale": "id"
+      },
+      {
+        "id": "kw_634a029a-452d-4255-b106-239f7aeb3d66",
+        "keyword": "JASUKE",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408285659,
+        "created_at": 1769408285659,
+        "locale": "id"
       }
     ],
     "g": [
@@ -2634,9 +2700,9 @@
         "keyword": "Goyang Nasi Padang",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769408229030,
+        "last_search": 1769408285659,
         "created_at": 1769408229030,
         "locale": "id"
       }
@@ -3468,6 +3534,28 @@
         "last_search": 1769407902838,
         "created_at": 1769407902838,
         "locale": "id"
+      },
+      {
+        "id": "kw_63f10768-fe44-4c1d-b535-5c2edb3540a3",
+        "keyword": "Batu Tarigan - Jambe Ikan Teri ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408285659,
+        "created_at": 1769408285659,
+        "locale": "id"
+      },
+      {
+        "id": "kw_46e5b409-0864-4e91-9044-d2c2ea68715d",
+        "keyword": "Batu Tarigan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408285659,
+        "created_at": 1769408285659,
+        "locale": "id"
       }
     ],
     "t": [
@@ -3865,6 +3953,17 @@
         "clicks": 0,
         "last_search": 1769407949709,
         "created_at": 1769407949709,
+        "locale": "id"
+      },
+      {
+        "id": "kw_14c138b9-fcc6-467e-a89c-2dabd172eeb8",
+        "keyword": "Tommy Kaganangan ft Putri Syahilla",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408285659,
+        "created_at": 1769408285659,
         "locale": "id"
       }
     ],
@@ -4925,9 +5024,9 @@
         "keyword": "Ayu Ting Ting - SambaLado ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769408229030,
+        "last_search": 1769408285659,
         "created_at": 1769408229030,
         "locale": "id"
       },
@@ -4936,9 +5035,9 @@
         "keyword": "Ayu Ting Ting",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769408229030,
+        "last_search": 1769408285659,
         "created_at": 1769408229030,
         "locale": "id"
       },
@@ -4951,6 +5050,39 @@
         "clicks": 0,
         "last_search": 1769408229030,
         "created_at": 1769408229030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0fd2164c-103c-4896-aefb-7a848536b76b",
+        "keyword": "Anyqu - JASUKE ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408285659,
+        "created_at": 1769408285659,
+        "locale": "id"
+      },
+      {
+        "id": "kw_75a71aca-5741-4ff3-a82e-eee60b99d5f9",
+        "keyword": "Anyqu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408285659,
+        "created_at": 1769408285659,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d605a11c-6cae-4fa1-8c8f-f19433d29c8f",
+        "keyword": "Ayo Puasa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408285659,
+        "created_at": 1769408285659,
         "locale": "id"
       }
     ],
@@ -5864,9 +5996,9 @@
         "keyword": "Sandra Palama feat. Erwin Chan - Kawan Panjilek ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769408229030,
+        "last_search": 1769408285659,
         "created_at": 1769408229030,
         "locale": "id"
       },
@@ -5875,9 +6007,9 @@
         "keyword": "Sandra Palama feat. Erwin Chan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769408229030,
+        "last_search": 1769408285659,
         "created_at": 1769408229030,
         "locale": "id"
       },
@@ -5886,9 +6018,9 @@
         "keyword": "SambaLado",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769408229030,
+        "last_search": 1769408285659,
         "created_at": 1769408229030,
         "locale": "id"
       },
@@ -5901,6 +6033,28 @@
         "clicks": 0,
         "last_search": 1769408229030,
         "created_at": 1769408229030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_27ae04ba-bad8-400e-86e8-3318481862c4",
+        "keyword": "Sambel Ijo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408285659,
+        "created_at": 1769408285659,
+        "locale": "id"
+      },
+      {
+        "id": "kw_94fb7451-94c6-4cb3-928e-3e89344eea5b",
+        "keyword": "Sambel Terasi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408285659,
+        "created_at": 1769408285659,
         "locale": "id"
       }
     ],
@@ -6092,6 +6246,28 @@
         "clicks": 0,
         "last_search": 1769407784909,
         "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_aa9e0af7-de5c-4642-90e5-00d9249657f0",
+        "keyword": "FDJ Emily Young - Sambel Terasi ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408285659,
+        "created_at": 1769408285659,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0d8f465e-2753-4978-80a1-027d5443b663",
+        "keyword": "FDJ Emily Young",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408285659,
+        "created_at": 1769408285659,
         "locale": "id"
       }
     ],
@@ -6342,6 +6518,30 @@
         "clicks": 0,
         "last_search": 1769407883531,
         "created_at": 1769407883531,
+        "locale": "id"
+      }
+    ],
+    "u": [
+      {
+        "id": "kw_5d0e8c2b-7119-4fd0-95cc-bb973516b0ad",
+        "keyword": "Uncle Djink - Ayo Puasa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408285659,
+        "created_at": 1769408285659,
+        "locale": "id"
+      },
+      {
+        "id": "kw_633374a0-4a66-483e-a2aa-7affcdc34ef7",
+        "keyword": "Uncle Djink",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769408285659,
+        "created_at": 1769408285659,
         "locale": "id"
       }
     ]
