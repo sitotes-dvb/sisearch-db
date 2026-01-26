@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769395971035,
+    "last_updated": 1769396521658,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -611,9 +611,9 @@
         "keyword": "Pakdhe Baz - AJRIH",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314316,
+        "last_search": 1769396521655,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -622,9 +622,9 @@
         "keyword": "Pakdhe Baz",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314316,
+        "last_search": 1769396521655,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -659,6 +659,17 @@
         "clicks": 0,
         "last_search": 1769395894349,
         "created_at": 1769395894349,
+        "locale": "id"
+      },
+      {
+        "id": "kw_90b7861c-6be1-4ab2-96e6-5d72e0c9fd29",
+        "keyword": "Prei Sayang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521656,
+        "created_at": 1769396521656,
         "locale": "id"
       }
     ],
@@ -1009,6 +1020,61 @@
         "last_search": 1769359994200,
         "created_at": 1769359994200,
         "locale": "id"
+      },
+      {
+        "id": "kw_26105d2d-e297-4260-ad54-0dbee6e7938a",
+        "keyword": "GILDCOUSTIC",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0ba70133-643a-4437-bf44-b846f1bb49f4",
+        "keyword": "GildCoustic - GINIO",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
+        "locale": "id"
+      },
+      {
+        "id": "kw_55731464-bb60-4221-8448-8c680f2a5d23",
+        "keyword": "GildCoustic",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3f026663-bcc7-4b07-a655-8e8e9e64061c",
+        "keyword": "GINIO",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c0f2dd74-3bd0-4cf5-b0ac-4b5c048e2c23",
+        "keyword": "GildCoustic - ALUM",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
+        "locale": "id"
       }
     ],
     "n": [
@@ -1160,9 +1226,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395894349,
+        "last_search": 1769396521655,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -1197,6 +1263,83 @@
         "clicks": 0,
         "last_search": 1769395971034,
         "created_at": 1769395971034,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a35d8680-567a-4c47-b9fc-738fe5783d25",
+        "keyword": "NEMEN - GILDCOUSTIC",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0a157936-a882-4aeb-894e-203fb7f6a478",
+        "keyword": "NEMEN",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
+        "locale": "id"
+      },
+      {
+        "id": "kw_20265528-e165-4556-94c6-f3ca571f96ea",
+        "keyword": "NEMEN - とんでもない (Japanese ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1a61f618-5517-4243-a963-85f8722bf041",
+        "keyword": "NDX AKA - Nemen HipHop Dangdut Version ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4d1dcaea-97f8-4fd9-9c7c-5cf14414534a",
+        "keyword": "Nemen HipHop Dangdut Version ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
+        "locale": "id"
+      },
+      {
+        "id": "kw_24ebb2b6-774d-4ffa-9968-90577352c53a",
+        "keyword": "Nemen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b4079619-f069-46ca-8b5e-9b01dda22c76",
+        "keyword": "Nyeliwah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521656,
+        "created_at": 1769396521656,
         "locale": "id"
       }
     ],
@@ -1604,6 +1747,17 @@
         "last_search": 1769395314316,
         "created_at": 1769395314316,
         "locale": "id"
+      },
+      {
+        "id": "kw_e3c49fa9-e879-4ba0-b772-589ef7cbc388",
+        "keyword": "Cikirikici Cinta ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
+        "locale": "id"
       }
     ],
     "a": [
@@ -1733,9 +1887,9 @@
         "keyword": "AJRIH",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314316,
+        "last_search": 1769396521655,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -1759,6 +1913,39 @@
         "clicks": 0,
         "last_search": 1769395971034,
         "created_at": 1769395971034,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f34c8779-2b1c-4389-b841-8dce2630d5cc",
+        "keyword": "Arrijal - Nemen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
+        "locale": "id"
+      },
+      {
+        "id": "kw_99e1fa38-05b5-4c3d-9098-c19ff933b25f",
+        "keyword": "Arrijal",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d5c00f90-dd51-4c51-8f85-b7dfd79d32f5",
+        "keyword": "ALUM",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
         "locale": "id"
       }
     ],
@@ -2028,6 +2215,28 @@
         "last_search": 1769395971034,
         "created_at": 1769395971034,
         "locale": "id"
+      },
+      {
+        "id": "kw_0f532004-6c41-4b5c-9eb0-ccd19736331c",
+        "keyword": "Syahiba Saufa - Nyeliwah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521656,
+        "created_at": 1769396521656,
+        "locale": "id"
+      },
+      {
+        "id": "kw_247b9890-5b7d-45cb-ac69-060ed11fd8fe",
+        "keyword": "Syahiba Saufa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521656,
+        "created_at": 1769396521656,
+        "locale": "id"
       }
     ],
     "y": [
@@ -2097,6 +2306,50 @@
         "clicks": 0,
         "last_search": 1769395971034,
         "created_at": 1769395971034,
+        "locale": "id"
+      },
+      {
+        "id": "kw_82d6029c-b3cb-4fd2-9c6b-3b9ec0aa8060",
+        "keyword": "Forysca & Saskia - NEMEN - とんでもない (Japanese ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
+        "locale": "id"
+      },
+      {
+        "id": "kw_076f98b8-d963-447d-ae99-3b64c315f1dc",
+        "keyword": "Forysca & Saskia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
+        "locale": "id"
+      },
+      {
+        "id": "kw_663fe5d8-ea57-4671-bcc4-f772469fe5d3",
+        "keyword": "Fendi Loasana Ft Norsen Nenokeba - Cikirikici Cinta ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
+        "locale": "id"
+      },
+      {
+        "id": "kw_80d86d53-23ce-4961-8e4a-6079e4c7ffd1",
+        "keyword": "Fendi Loasana Ft Norsen Nenokeba",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521655,
+        "created_at": 1769396521655,
         "locale": "id"
       }
     ],
@@ -2178,6 +2431,28 @@
         "clicks": 0,
         "last_search": 1769395121055,
         "created_at": 1769395121055,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1cd25a10-c0fc-49fc-b249-07c3abc8e63d",
+        "keyword": "Olivia Gunawan - Prei Sayang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521656,
+        "created_at": 1769396521656,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9a104321-7c41-463a-ba07-52e5a990f0df",
+        "keyword": "Olivia Gunawan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769396521656,
+        "created_at": 1769396521656,
         "locale": "id"
       }
     ],
