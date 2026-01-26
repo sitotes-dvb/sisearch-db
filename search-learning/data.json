@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769428790080,
+    "last_updated": 1769430306103,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1008,6 +1008,17 @@
         "last_search": 1769423057828,
         "created_at": 1769423057828,
         "locale": "id"
+      },
+      {
+        "id": "kw_11972cd8-cdad-4a3e-80ac-b0d75d263e79",
+        "keyword": "Daftar Koleksi / Vierratale @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
       }
     ],
     "l": [
@@ -1848,6 +1859,17 @@
         "last_search": 1769428790060,
         "created_at": 1769428790060,
         "locale": "id"
+      },
+      {
+        "id": "kw_ad2c0ab8-5588-45a5-97d2-f56407cf1ce9",
+        "keyword": "Kita Bicara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
       }
     ],
     "p": [
@@ -2179,6 +2201,28 @@
         "clicks": 0,
         "last_search": 1769428790060,
         "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_352e5f08-61a2-46df-8d1e-adde1dc732be",
+        "keyword": "Pertemuan Singkat - Vierratale ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306098,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2060df7b-68b4-40e1-9acb-4c3c17b793fc",
+        "keyword": "Pertemuan Singkat",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
         "locale": "id"
       }
     ],
@@ -4192,6 +4236,50 @@
         "last_search": 1769428790060,
         "created_at": 1769428790060,
         "locale": "id"
+      },
+      {
+        "id": "kw_4660d671-95cc-4c51-9a86-2b75652ead48",
+        "keyword": "NARA - Sayonara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f7b2cfe0-0902-480a-a5cf-8464a1facb56",
+        "keyword": "NARA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0feed081-7029-492f-bbf7-53a89869c356",
+        "keyword": "Nosstress - Kita Bicara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ecd308bd-32ab-4f22-bf64-12c96a4451b3",
+        "keyword": "Nosstress",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
       }
     ],
     "b": [
@@ -4877,6 +4965,50 @@
         "clicks": 0,
         "last_search": 1769409730862,
         "created_at": 1769409730862,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5fd48d7c-11da-4218-aadd-e2a16b8253d9",
+        "keyword": "Tinky Winky - FIX YOU !",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2f5eb4b7-ec9c-4b0d-98e1-c51e61afe37e",
+        "keyword": "Tinky Winky",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b530ad4e-5726-4b12-b935-89bd58f30d6f",
+        "keyword": "Tamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7b9f5b3a-40d4-4281-8900-e9b03091fa62",
+        "keyword": "Tatap Mata",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
         "locale": "id"
       }
     ],
@@ -6404,6 +6536,39 @@
         "last_search": 1769428790060,
         "created_at": 1769428790060,
         "locale": "id"
+      },
+      {
+        "id": "kw_3a1daec0-a2b3-4880-85ed-101826a16791",
+        "keyword": "Arvian Dwi - Ajarkan Aku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a9e1c310-f160-43fe-88d3-434ce7c10e4a",
+        "keyword": "Arvian Dwi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2255dac0-fba0-497f-b777-324c8fc162cc",
+        "keyword": "Ajarkan Aku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
       }
     ],
     "r": [
@@ -7052,9 +7217,9 @@
         "keyword": "Stand Here Alone",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769407509350,
+        "last_search": 1769430306099,
         "created_at": 1769407471814,
         "locale": "id"
       },
@@ -7563,6 +7728,94 @@
         "last_search": 1769428790060,
         "created_at": 1769428790060,
         "locale": "id"
+      },
+      {
+        "id": "kw_7251002b-3a06-4037-aa31-54067c9991ba",
+        "keyword": "Satine Zaneta - Tamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_94a8c536-2b16-487e-ab87-1e5c632702cf",
+        "keyword": "Satine Zaneta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8a17c144-a7d4-4a7e-ad29-90c3b8bec04c",
+        "keyword": "Stand Here Alone - Sosok Sempurna ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_79c72663-7b3f-41b0-b1ad-e9358481bec6",
+        "keyword": "Sosok Sempurna",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dac43a4e-214a-409e-92e9-d84b59f164a9",
+        "keyword": "Sore Itu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9f73e338-5e2b-4dc1-b08a-67447ac682a5",
+        "keyword": "Sayonara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_abf8e920-41e8-4da7-b9ef-df64331bb3c0",
+        "keyword": "Shakirra Vier - Tatap Mata",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6e0c12b8-8fcf-43df-b71c-7a44b09de074",
+        "keyword": "Shakirra Vier",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
       }
     ],
     "y": [
@@ -7864,6 +8117,17 @@
         "last_search": 1769428790060,
         "created_at": 1769428790060,
         "locale": "id"
+      },
+      {
+        "id": "kw_2ad63aa6-d1bc-4962-a0c1-57ebabe0577e",
+        "keyword": "FIX YOU !",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
       }
     ],
     "i": [
@@ -8146,6 +8410,39 @@
         "clicks": 0,
         "last_search": 1769407883531,
         "created_at": 1769407883531,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7a7c960d-0214-4d62-a458-4f5bd3f739c5",
+        "keyword": "Vierratale",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_954f02dd-648b-41a7-a3b8-c0426a1dbf40",
+        "keyword": "Vagetoz - Sore Itu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8b8b8ea4-fc5e-4cc2-8fbc-fd4a3614d4e5",
+        "keyword": "Vagetoz",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769430306099,
+        "created_at": 1769430306099,
         "locale": "id"
       }
     ],
