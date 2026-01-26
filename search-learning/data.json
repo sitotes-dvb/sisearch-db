@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769407631224,
+    "last_updated": 1769407672120,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -387,9 +387,9 @@
         "keyword": "Denny Caknan feat. Guyon Waton",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769397199479,
+        "last_search": 1769407672119,
         "created_at": 1769397199479,
         "locale": "id"
       },
@@ -523,6 +523,61 @@
         "clicks": 0,
         "last_search": 1769407631223,
         "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8a97e60b-af6e-4aa2-afea-b74c811b1a1b",
+        "keyword": "Denny Caknan feat. Guyon Waton - Widodari ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
+        "locale": "id"
+      },
+      {
+        "id": "kw_da07a0b6-28eb-409d-ae45-91abe1e9096d",
+        "keyword": "Dian Anic - Banyu Larangan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9d65bf2b-8381-4d1d-8ce1-12dbe32ce7d8",
+        "keyword": "Dian Anic",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d6ae4dd5-612b-4981-b497-0d46e752054c",
+        "keyword": "Dzawin Nur - Pak Seo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
+        "locale": "id"
+      },
+      {
+        "id": "kw_02cb2901-1dd1-4b09-a174-33cb10667132",
+        "keyword": "Dzawin Nur",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
         "locale": "id"
       }
     ],
@@ -1003,6 +1058,17 @@
         "last_search": 1769407631223,
         "created_at": 1769407631223,
         "locale": "id"
+      },
+      {
+        "id": "kw_1869ee36-ad03-46cc-b0f7-57d9a294aad8",
+        "keyword": "Pak Seo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
+        "locale": "id"
       }
     ],
     "m": [
@@ -1191,6 +1257,17 @@
         "clicks": 0,
         "last_search": 1769407631223,
         "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2bd8e90d-e213-42a7-a83a-ee136a4ff987",
+        "keyword": "Megocekan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
         "locale": "id"
       }
     ],
@@ -1444,9 +1521,9 @@
         "keyword": "James AP",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769406986139,
+        "last_search": 1769407672119,
         "created_at": 1769395121055,
         "locale": "id"
       },
@@ -1514,6 +1591,39 @@
         "clicks": 0,
         "last_search": 1769407509350,
         "created_at": 1769407471827,
+        "locale": "id"
+      },
+      {
+        "id": "kw_97d2fb99-5932-4bf5-b306-69a32031d0c8",
+        "keyword": "James AP - Sing Nemu Welas ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7e6e83b1-97fa-420e-8f02-f775145f45fb",
+        "keyword": "Join Kopi - Megocekan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c1d7c269-311c-4452-b36d-254c07407c92",
+        "keyword": "Join Kopi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
         "locale": "id"
       }
     ],
@@ -1648,6 +1758,28 @@
         "clicks": 0,
         "last_search": 1769407631223,
         "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f438a09f-582d-4133-a3c7-bfe6538e0a28",
+        "keyword": "Gilga Sahid x Global Musik - Nemu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672118,
+        "created_at": 1769407672118,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7d7c340c-2c08-4b85-98c3-cb0cab177aa8",
+        "keyword": "Gilga Sahid x Global Musik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672118,
+        "created_at": 1769407672118,
         "locale": "id"
       }
     ],
@@ -2069,6 +2201,17 @@
         "last_search": 1769407631223,
         "created_at": 1769407631223,
         "locale": "id"
+      },
+      {
+        "id": "kw_0743f73b-6cd0-43c1-9618-017893050bb5",
+        "keyword": "Nemu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672118,
+        "created_at": 1769407672118,
+        "locale": "id"
       }
     ],
     "b": [
@@ -2158,6 +2301,17 @@
         "clicks": 0,
         "last_search": 1769403661096,
         "created_at": 1769403661096,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5461cc2e-1658-4789-b001-7654bc5e1906",
+        "keyword": "Banyu Larangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
         "locale": "id"
       }
     ],
@@ -2403,6 +2557,50 @@
         "last_search": 1769406986139,
         "created_at": 1769406986139,
         "locale": "id"
+      },
+      {
+        "id": "kw_964aa276-b4e1-452b-b72a-dda54b622462",
+        "keyword": "Tony Coy Feat. Niam - Sing Nemu Tombo ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672118,
+        "created_at": 1769407672118,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b5d6edfe-532c-42a6-bbd2-29a391ff5c8e",
+        "keyword": "Tony Coy Feat. Niam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672118,
+        "created_at": 1769407672118,
+        "locale": "id"
+      },
+      {
+        "id": "kw_db6525c8-984a-4acd-8326-858e11e76f7b",
+        "keyword": "Terlalu Sayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
+        "locale": "id"
+      },
+      {
+        "id": "kw_37cd64db-4473-4b0c-bf1e-d65958409e03",
+        "keyword": "TUA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
+        "locale": "id"
       }
     ],
     "e": [
@@ -2567,9 +2765,9 @@
         "keyword": "Widodari",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769397199479,
+        "last_search": 1769407672119,
         "created_at": 1769397199479,
         "locale": "id"
       },
@@ -2804,6 +3002,61 @@
         "clicks": 0,
         "last_search": 1769407509350,
         "created_at": 1769407471814,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5e2497b2-7c1e-40bd-81c7-c9177ce82a4b",
+        "keyword": "Catur Arum - Candu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672118,
+        "created_at": 1769407672118,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5664e25b-4fc2-4dce-8413-33bdbf379654",
+        "keyword": "Catur Arum",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
+        "locale": "id"
+      },
+      {
+        "id": "kw_17ff213a-0f58-4408-a616-d5f054b817ba",
+        "keyword": "Candu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
+        "locale": "id"
+      },
+      {
+        "id": "kw_835e4b35-c4b0-4286-a82c-937bc44ba127",
+        "keyword": "Chris Aidan & Dayana Shini - TUA ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fd106fd7-56a8-4914-aee5-f82ff085316b",
+        "keyword": "Chris Aidan & Dayana Shini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
         "locale": "id"
       }
     ],
@@ -3624,6 +3877,50 @@
         "clicks": 0,
         "last_search": 1769407631223,
         "created_at": 1769407631223,
+        "locale": "id"
+      },
+      {
+        "id": "kw_87272255-782e-4300-b864-71ee5b6c7111",
+        "keyword": "Sing Nemu Tombo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672118,
+        "created_at": 1769407672118,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8a61b351-d6db-4560-8c50-8fcf5c260f96",
+        "keyword": "Sing Nemu Welas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d39644ad-9188-4ce0-bfda-4d16e8da5266",
+        "keyword": "Siti Aliyah - Terlalu Sayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
+        "locale": "id"
+      },
+      {
+        "id": "kw_62f571f4-e299-418c-9a2e-af5067f15124",
+        "keyword": "Siti Aliyah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769407672119,
+        "created_at": 1769407672119,
         "locale": "id"
       }
     ],
