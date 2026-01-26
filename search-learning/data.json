@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769398806468,
+    "last_updated": 1769403661103,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -165,9 +165,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769397199463,
+        "last_search": 1769403661095,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -390,6 +390,39 @@
         "last_search": 1769398806467,
         "created_at": 1769398806467,
         "locale": "id"
+      },
+      {
+        "id": "kw_8d2761f2-363d-406c-b7a0-1bb2128d414b",
+        "keyword": "Denny Caknan - Helleh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661095,
+        "created_at": 1769403661095,
+        "locale": "id"
+      },
+      {
+        "id": "kw_28c0bd3b-9b27-475f-9ed2-ef7794907b41",
+        "keyword": "Denny Caknan - Wani Gelute ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661095,
+        "created_at": 1769403661095,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a0a99ae2-0d14-4b59-a5b4-72175f3196f1",
+        "keyword": "Denny Caknan - Sampek Tuwek ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661096,
+        "created_at": 1769403661096,
+        "locale": "id"
       }
     ],
     "l": [
@@ -457,6 +490,17 @@
         "clicks": 0,
         "last_search": 1769398806467,
         "created_at": 1769395894349,
+        "locale": "id"
+      },
+      {
+        "id": "kw_644f0432-fd8b-4147-888a-fa2c1eb34d1f",
+        "keyword": "Langgeng Kawekasan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661096,
+        "created_at": 1769403661096,
         "locale": "id"
       }
     ],
@@ -565,9 +609,9 @@
         "keyword": "Kumpulan Gitar Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769397199479,
+        "last_search": 1769403661095,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -613,6 +657,17 @@
         "clicks": 0,
         "last_search": 1769398806466,
         "created_at": 1769398806466,
+        "locale": "id"
+      },
+      {
+        "id": "kw_88856296-26b7-4332-8f79-3b2aec9935c2",
+        "keyword": "Karna Ko",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661096,
+        "created_at": 1769403661096,
         "locale": "id"
       }
     ],
@@ -972,6 +1027,28 @@
         "last_search": 1769395121055,
         "created_at": 1769395121055,
         "locale": "id"
+      },
+      {
+        "id": "kw_ffa08e6e-97cb-4595-bcac-0dbf0a21f243",
+        "keyword": "Helleh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661095,
+        "created_at": 1769403661095,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cc8721bd-9b60-4d01-a740-eed136feb9ad",
+        "keyword": "Hanya Kamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661096,
+        "created_at": 1769403661096,
+        "locale": "id"
       }
     ],
     "j": [
@@ -1095,6 +1172,17 @@
         "last_search": 1769397199479,
         "created_at": 1769397199479,
         "locale": "id"
+      },
+      {
+        "id": "kw_23a02720-b610-4ca7-8ace-68c17afb0212",
+        "keyword": "Jaga Ate",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661096,
+        "created_at": 1769403661096,
+        "locale": "id"
       }
     ],
     "g": [
@@ -1184,6 +1272,17 @@
         "clicks": 0,
         "last_search": 1769396521655,
         "created_at": 1769396521655,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ca591def-0c18-4a5d-81b5-0cb4a9a2c90c",
+        "keyword": "Gajuik Gadang Sabik Maja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661095,
+        "created_at": 1769403661095,
         "locale": "id"
       }
     ],
@@ -1596,6 +1695,17 @@
         "last_search": 1769360249303,
         "created_at": 1769360249303,
         "locale": "id"
+      },
+      {
+        "id": "kw_fb021b19-6d6b-498f-9136-22e01cb8ca5d",
+        "keyword": "Boasama Sai Marsak Ho",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661096,
+        "created_at": 1769403661096,
+        "locale": "id"
       }
     ],
     "t": [
@@ -1943,6 +2053,17 @@
         "last_search": 1769398806467,
         "created_at": 1769398806467,
         "locale": "id"
+      },
+      {
+        "id": "kw_e1dd7dbb-b060-46a0-adcc-15d1e457f4d5",
+        "keyword": "Wani Gelute",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661095,
+        "created_at": 1769403661095,
+        "locale": "id"
       }
     ],
     "c": [
@@ -1999,6 +2120,28 @@
         "clicks": 0,
         "last_search": 1769397199479,
         "created_at": 1769397199463,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9cbd4777-12e3-4d86-be15-50781f9bbe22",
+        "keyword": "Cindy Marceline - Hanya Kamu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661096,
+        "created_at": 1769403661096,
+        "locale": "id"
+      },
+      {
+        "id": "kw_85b5eb5c-f5f1-4003-8411-4e3194a6e9c4",
+        "keyword": "Cindy Marceline",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661096,
+        "created_at": 1769403661096,
         "locale": "id"
       }
     ],
@@ -2545,6 +2688,105 @@
         "last_search": 1769398806467,
         "created_at": 1769398806467,
         "locale": "id"
+      },
+      {
+        "id": "kw_8cbd7f68-eb52-46cd-a2da-8da0411a4f76",
+        "keyword": "Sri Fayola - Gajuik Gadang Sabik Maja ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661095,
+        "created_at": 1769403661095,
+        "locale": "id"
+      },
+      {
+        "id": "kw_32aaab18-098b-432d-afa3-8101c8847bcb",
+        "keyword": "Sri Fayola",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661095,
+        "created_at": 1769403661095,
+        "locale": "id"
+      },
+      {
+        "id": "kw_96b7b528-9155-43d9-b291-6f8fadbf4a51",
+        "keyword": "Style Voice - Boasama Sai Marsak Ho ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661095,
+        "created_at": 1769403661095,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f6334fe6-09f2-41ca-be0b-0dce5a4bad38",
+        "keyword": "Style Voice",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661095,
+        "created_at": 1769403661095,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6193726a-1470-471d-978c-d410b5fc1a5f",
+        "keyword": "Shine Of Black - Karna Ko",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661096,
+        "created_at": 1769403661096,
+        "locale": "id"
+      },
+      {
+        "id": "kw_82e8a442-ae7e-42a0-a66d-b5dc99f4f996",
+        "keyword": "Shine Of Black",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661096,
+        "created_at": 1769403661096,
+        "locale": "id"
+      },
+      {
+        "id": "kw_80155e46-da95-4541-877b-60b7d268b785",
+        "keyword": "Sri Aditya Feat Filla Talia - Langgeng Kawekasan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661096,
+        "created_at": 1769403661096,
+        "locale": "id"
+      },
+      {
+        "id": "kw_53d0ef8f-3f93-4808-813e-6253dff741a5",
+        "keyword": "Sri Aditya Feat Filla Talia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661096,
+        "created_at": 1769403661096,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0a36079a-74a1-46a6-b235-a6f5800a4173",
+        "keyword": "Sampek Tuwek",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661096,
+        "created_at": 1769403661096,
+        "locale": "id"
       }
     ],
     "y": [
@@ -2772,6 +3014,28 @@
         "clicks": 0,
         "last_search": 1769398806467,
         "created_at": 1769398806467,
+        "locale": "id"
+      },
+      {
+        "id": "kw_612bbdf8-42fe-4e38-8cf4-f8eaa34de16c",
+        "keyword": "Onchy Wegu - Jaga Ate",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661096,
+        "created_at": 1769403661096,
+        "locale": "id"
+      },
+      {
+        "id": "kw_465aa739-528c-418e-a240-3a27b5768e28",
+        "keyword": "Onchy Wegu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769403661096,
+        "created_at": 1769403661096,
         "locale": "id"
       }
     ],
