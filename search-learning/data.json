@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769360249323,
+    "last_updated": 1769395121057,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -148,6 +148,50 @@
         "last_search": 1769360249302,
         "created_at": 1769360249302,
         "locale": "id"
+      },
+      {
+        "id": "kw_693dd4f7-7f87-40f6-856d-ff56df6b2997",
+        "keyword": "Denny Caknan - Wirang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121042,
+        "created_at": 1769395121042,
+        "locale": "id"
+      },
+      {
+        "id": "kw_aa07c87c-bbf5-460c-be91-3daaf6219e28",
+        "keyword": "Denny Caknan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121042,
+        "created_at": 1769395121042,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2d9c75a4-7178-45c9-8023-2f06c1c660b5",
+        "keyword": "Demy ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121042,
+        "created_at": 1769395121042,
+        "locale": "id"
+      },
+      {
+        "id": "kw_aeec9955-e276-487f-9c1f-c82111766bf0",
+        "keyword": "Dagang Pindang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121042,
+        "created_at": 1769395121042,
+        "locale": "id"
       }
     ],
     "l": [
@@ -261,6 +305,17 @@
         "clicks": 0,
         "last_search": 1769360249302,
         "created_at": 1769360249302,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3b9bf146-b19f-4359-bd77-609fab502a1c",
+        "keyword": "Kelangan Terakhir ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121055,
+        "created_at": 1769395121055,
         "locale": "id"
       }
     ],
@@ -409,6 +464,28 @@
         "last_search": 1769360249302,
         "created_at": 1769360249302,
         "locale": "id"
+      },
+      {
+        "id": "kw_b8fc9a54-079e-47de-b7ef-00433213bc95",
+        "keyword": "Maharani - Selire Welas ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121055,
+        "created_at": 1769395121055,
+        "locale": "id"
+      },
+      {
+        "id": "kw_43e2f1bd-a618-49d3-993c-3df8ab346f68",
+        "keyword": "Maharani",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121055,
+        "created_at": 1769395121055,
+        "locale": "id"
       }
     ],
     "h": [
@@ -461,9 +538,9 @@
         "keyword": "Happy Asmara",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769360249302,
+        "last_search": 1769395121043,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -487,6 +564,39 @@
         "clicks": 0,
         "last_search": 1769360249302,
         "created_at": 1769360249302,
+        "locale": "id"
+      },
+      {
+        "id": "kw_aa5fdb5f-061e-40b6-b119-c9a6676e9488",
+        "keyword": "Happy Asmara - Wirang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121043,
+        "created_at": 1769395121043,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ab9f6881-e32a-4667-a43d-a86995091637",
+        "keyword": "Hendras Laros - Suruh Kemangi ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121055,
+        "created_at": 1769395121055,
+        "locale": "id"
+      },
+      {
+        "id": "kw_57efbc4e-f85e-4b21-8f27-0323398701e8",
+        "keyword": "Hendras Laros",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121055,
+        "created_at": 1769395121055,
         "locale": "id"
       }
     ],
@@ -566,6 +676,28 @@
         "clicks": 0,
         "last_search": 1769360249302,
         "created_at": 1769360249302,
+        "locale": "id"
+      },
+      {
+        "id": "kw_06508e45-d7d5-4116-97f0-4d5b3f63c066",
+        "keyword": "James AP - Kelangan Terakhir ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121055,
+        "created_at": 1769395121055,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c2b842ee-41ed-4a20-9cb8-1360c185f352",
+        "keyword": "James AP",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121055,
+        "created_at": 1769395121055,
         "locale": "id"
       }
     ],
@@ -691,6 +823,50 @@
         "clicks": 0,
         "last_search": 1769360249303,
         "created_at": 1769360249303,
+        "locale": "id"
+      },
+      {
+        "id": "kw_14d90bc9-2bf1-47ba-8627-668c5fccba48",
+        "keyword": "Nadya Jessica - Semebyar ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121055,
+        "created_at": 1769395121055,
+        "locale": "id"
+      },
+      {
+        "id": "kw_251210c4-d73d-44c4-bc7e-f84fbffaac01",
+        "keyword": "Nadya Jessica",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121055,
+        "created_at": 1769395121055,
+        "locale": "id"
+      },
+      {
+        "id": "kw_04cc8d6d-99df-4a08-9f27-b0295e1d95c6",
+        "keyword": "Nanda Sari - Omah Suwung ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121055,
+        "created_at": 1769395121055,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a12eb4ba-c5d0-4322-86f7-120c472aad64",
+        "keyword": "Nanda Sari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121055,
+        "created_at": 1769395121055,
         "locale": "id"
       }
     ],
@@ -883,6 +1059,28 @@
         "last_search": 1769360249302,
         "created_at": 1769360249302,
         "locale": "id"
+      },
+      {
+        "id": "kw_905bc9c0-1e23-4090-a6fe-7e85738403d0",
+        "keyword": "Tutupe Wirang - Demy ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121042,
+        "created_at": 1769395121042,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8d393625-5c5a-4c74-94c9-ac3fa52fe0ef",
+        "keyword": "Tutupe Wirang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121042,
+        "created_at": 1769395121042,
+        "locale": "id"
       }
     ],
     "e": [
@@ -941,6 +1139,50 @@
         "clicks": 0,
         "last_search": 1769359994199,
         "created_at": 1769359994199,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ff0ce7a3-41e2-40fa-8550-9f62cd7cd3c1",
+        "keyword": "Wirang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121042,
+        "created_at": 1769395121042,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b9aabed2-0cfb-4ea6-8297-ce5bcb60b976",
+        "keyword": "Wirang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121043,
+        "created_at": 1769395121043,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5c12f61e-1726-42a7-bf7f-1f12b1e8a55b",
+        "keyword": "Watak - Alindra Musik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121055,
+        "created_at": 1769395121055,
+        "locale": "id"
+      },
+      {
+        "id": "kw_33e98a5e-8b13-4999-b043-2697e2fae3e4",
+        "keyword": "Watak",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121055,
+        "created_at": 1769395121055,
         "locale": "id"
       }
     ],
@@ -1078,6 +1320,17 @@
         "last_search": 1769360249303,
         "created_at": 1769360249303,
         "locale": "id"
+      },
+      {
+        "id": "kw_897aecae-2e02-46ef-8e62-102129683b8a",
+        "keyword": "Alindra Musik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121055,
+        "created_at": 1769395121055,
+        "locale": "id"
       }
     ],
     "r": [
@@ -1169,6 +1422,61 @@
         "clicks": 0,
         "last_search": 1769360020300,
         "created_at": 1769360020300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a41895a5-b8cc-40bb-a419-c52e42ceb965",
+        "keyword": "Sultan Trenggono - Dagang Pindang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121042,
+        "created_at": 1769395121042,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c8b1c500-d3d9-4250-81a2-055ccaec094a",
+        "keyword": "Sultan Trenggono",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121042,
+        "created_at": 1769395121042,
+        "locale": "id"
+      },
+      {
+        "id": "kw_73a55ebf-b479-496e-a587-a4a54ed72337",
+        "keyword": "Semebyar ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121055,
+        "created_at": 1769395121055,
+        "locale": "id"
+      },
+      {
+        "id": "kw_105f9e1a-3e3a-4baa-9adc-34b4b2cbcb49",
+        "keyword": "Suruh Kemangi ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121055,
+        "created_at": 1769395121055,
+        "locale": "id"
+      },
+      {
+        "id": "kw_66229fc1-eeef-4b47-8293-db2bc8337435",
+        "keyword": "Selire Welas ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121055,
+        "created_at": 1769395121055,
         "locale": "id"
       }
     ],
@@ -1287,6 +1595,17 @@
         "clicks": 0,
         "last_search": 1769360249303,
         "created_at": 1769360249303,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7de195a2-5107-417b-9bbf-cc1c74f10d0a",
+        "keyword": "Omah Suwung ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769395121055,
+        "created_at": 1769395121055,
         "locale": "id"
       }
     ]
