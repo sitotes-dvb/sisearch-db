@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769509789815,
+    "last_updated": 1769509894498,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1113,9 +1113,9 @@
         "keyword": "Dalam Kenangan (From Surga Yang Tak",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       }
@@ -1434,9 +1434,9 @@
         "keyword": "Leeyonk Sinatra - Tetep Mekenyem ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -1445,9 +1445,9 @@
         "keyword": "Leeyonk Sinatra",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       }
@@ -2129,9 +2129,9 @@
         "keyword": "Kenanglah Aku",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -2140,9 +2140,9 @@
         "keyword": "Kenanglah",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -2151,9 +2151,9 @@
         "keyword": "Krisdayanti - Dalam Kenangan (From Surga Yang Tak ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -2162,9 +2162,9 @@
         "keyword": "Krisdayanti",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -2177,6 +2177,17 @@
         "clicks": 0,
         "last_search": 1769509789798,
         "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_079d36aa-999f-480e-b075-2a665aeeb76c",
+        "keyword": "Kenanglah Hari Ini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509894436,
+        "created_at": 1769509894436,
         "locale": "id"
       }
     ],
@@ -3943,9 +3954,9 @@
         "keyword": "Galau",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       }
@@ -4880,9 +4891,9 @@
         "keyword": "Naff - Kenanglah Aku",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -4891,9 +4902,9 @@
         "keyword": "Naff",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -4902,9 +4913,9 @@
         "keyword": "NAFF - Kenanglah Aku",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -4913,9 +4924,9 @@
         "keyword": "NAFF",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       }
@@ -5179,9 +5190,9 @@
         "keyword": "Benci Kusangka Sayang",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       }
@@ -5753,10 +5764,32 @@
         "keyword": "Tetep Mekenyem",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769509894436,
+        "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bceb8e39-a843-4eaa-81a1-8429467f7cc7",
+        "keyword": "The Prestigious - Kenanglah Hari Ini ...",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769509789798,
-        "created_at": 1769509789798,
+        "last_search": 1769509894436,
+        "created_at": 1769509894436,
+        "locale": "id"
+      },
+      {
+        "id": "kw_19183b70-16ff-4fdd-9ae5-6329e86a3465",
+        "keyword": "The Prestigious",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509894436,
+        "created_at": 1769509894436,
         "locale": "id"
       }
     ],
@@ -7488,9 +7521,9 @@
         "keyword": "Aku Untuk Mu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789799,
+        "last_search": 1769509894436,
         "created_at": 1769509789799,
         "locale": "id"
       },
@@ -7514,6 +7547,17 @@
         "clicks": 0,
         "last_search": 1769509789799,
         "created_at": 1769509789799,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e493c2d8-0838-469b-bd4a-95a816327c69",
+        "keyword": "Aku Lan Kamu Nduwe History",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509894436,
+        "created_at": 1769509894436,
         "locale": "id"
       }
     ],
@@ -7886,9 +7930,9 @@
         "keyword": "Rino Cancers - Aku Untuk Mu ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -7897,9 +7941,9 @@
         "keyword": "Rino Cancers",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789799,
+        "last_search": 1769509894436,
         "created_at": 1769509789799,
         "locale": "id"
       }
@@ -8977,9 +9021,9 @@
         "keyword": "Sonia - Benci Kusangka Sayang ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -8988,10 +9032,32 @@
         "keyword": "Sonia",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769509894436,
+        "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_71c0dd7f-0fcb-4e0c-b75d-92ad3049f456",
+        "keyword": "SKA 86 - Aku Lan Kamu Nduwe History ...",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769509789798,
-        "created_at": 1769509789798,
+        "last_search": 1769509894436,
+        "created_at": 1769509894436,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0b51bf9e-842c-4c4a-bdfd-53a7749815ee",
+        "keyword": "SKA 86",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509894436,
+        "created_at": 1769509894436,
         "locale": "id"
       }
     ],
@@ -9333,9 +9399,9 @@
         "keyword": "Five Minutes - Galau",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -9344,9 +9410,9 @@
         "keyword": "Five Minutes",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       }
@@ -9774,9 +9840,9 @@
         "keyword": "Zigaz - Kenanglah",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -9785,9 +9851,9 @@
         "keyword": "Zigaz",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769509789798,
+        "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
       }
