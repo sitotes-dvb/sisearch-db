@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769506236666,
+    "last_updated": 1769506432229,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1085,6 +1085,28 @@
         "last_search": 1769477147758,
         "created_at": 1769477147758,
         "locale": "id"
+      },
+      {
+        "id": "kw_08cec3b9-c963-4f9c-a614-df378f8fa6a6",
+        "keyword": "DanangDanzt - Wegah Kelangan 2 ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432226,
+        "created_at": 1769506432226,
+        "locale": "id"
+      },
+      {
+        "id": "kw_63c325f9-2616-4bf0-addd-f98b89bf2a8e",
+        "keyword": "DanangDanzt",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432226,
+        "created_at": 1769506432226,
+        "locale": "id"
       }
     ],
     "l": [
@@ -2001,6 +2023,61 @@
         "clicks": 0,
         "last_search": 1769437428366,
         "created_at": 1769437428366,
+        "locale": "id"
+      },
+      {
+        "id": "kw_20223e28-b526-4f34-a08a-1c5e1ae342b2",
+        "keyword": "Kelambi Suwek",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432225,
+        "created_at": 1769506432225,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1b547a42-c6e5-4300-84c1-952f9c56cf05",
+        "keyword": "Kang Ipin Ft. Woro Widowati - Raiso Nglaleke ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432226,
+        "created_at": 1769506432226,
+        "locale": "id"
+      },
+      {
+        "id": "kw_32d3685f-5bc3-4611-9c83-80f22974c252",
+        "keyword": "Kang Ipin Ft. Woro Widowati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432226,
+        "created_at": 1769506432226,
+        "locale": "id"
+      },
+      {
+        "id": "kw_aad065ac-7225-4cd0-b6d7-def4a7d2dab4",
+        "keyword": "Kangen Tresnamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432226,
+        "created_at": 1769506432226,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e1adb9d3-7f27-4324-b52d-53fdb3ecbcde",
+        "keyword": "Kumpulan Gitar TEKOMLAKU",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432226,
+        "created_at": 1769506432226,
         "locale": "id"
       }
     ],
@@ -4621,6 +4698,28 @@
         "last_search": 1769437339682,
         "created_at": 1769437339682,
         "locale": "id"
+      },
+      {
+        "id": "kw_29e03b70-6bab-416d-a57f-f981dd2a460e",
+        "keyword": "Northsle - Ora Mundur",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432225,
+        "created_at": 1769506432225,
+        "locale": "id"
+      },
+      {
+        "id": "kw_24a903b6-48e4-4f52-915e-f21b6d1333ba",
+        "keyword": "Northsle",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432225,
+        "created_at": 1769506432225,
+        "locale": "id"
       }
     ],
     "b": [
@@ -5373,6 +5472,72 @@
         "last_search": 1769437339682,
         "created_at": 1769437339682,
         "locale": "id"
+      },
+      {
+        "id": "kw_78064469-4350-41d4-81ce-1dbe4da09296",
+        "keyword": "Tekomlaku feat. Ervinsof - Raiso Ngapusi ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432225,
+        "created_at": 1769506432225,
+        "locale": "id"
+      },
+      {
+        "id": "kw_52e148a3-74fd-4599-b27b-cc092dad5af2",
+        "keyword": "Tekomlaku feat. Ervinsof",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432225,
+        "created_at": 1769506432225,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b0f08561-a7f1-410a-97ff-37f955e3368c",
+        "keyword": "TEKOMLAKU feat Ervinsof - Raiso Ngapusi 2 ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432225,
+        "created_at": 1769506432225,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b3983b9d-afca-48f2-a55b-adc9c6423c4c",
+        "keyword": "TEKOMLAKU feat Ervinsof",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432225,
+        "created_at": 1769506432225,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0b9e9744-ea30-449d-8837-0fd319981a04",
+        "keyword": "Tri Suaka ft. Jihan Audy - Salah Tompo ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432226,
+        "created_at": 1769506432226,
+        "locale": "id"
+      },
+      {
+        "id": "kw_af00e432-c591-4707-8a1c-e7539ca33631",
+        "keyword": "Tri Suaka ft. Jihan Audy",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432226,
+        "created_at": 1769506432226,
+        "locale": "id"
       }
     ],
     "e": [
@@ -5517,6 +5682,28 @@
         "clicks": 0,
         "last_search": 1769437428365,
         "created_at": 1769437428365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8eea00e9-bab5-4696-9479-294a0da7eba7",
+        "keyword": "Eny Sagita Feat Shinta Arsinta - Si Belang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432226,
+        "created_at": 1769506432226,
+        "locale": "id"
+      },
+      {
+        "id": "kw_594c6a7d-d35a-46e4-964a-132090088383",
+        "keyword": "Eny Sagita Feat Shinta Arsinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432226,
+        "created_at": 1769506432226,
         "locale": "id"
       }
     ],
@@ -5893,6 +6080,17 @@
         "clicks": 0,
         "last_search": 1769477147758,
         "created_at": 1769477147758,
+        "locale": "id"
+      },
+      {
+        "id": "kw_70498dee-9c6c-4d6a-b7d1-e43b93c06dab",
+        "keyword": "Wegah Kelangan 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432226,
+        "created_at": 1769506432226,
         "locale": "id"
       }
     ],
@@ -7385,6 +7583,39 @@
         "last_search": 1769477147758,
         "created_at": 1769477147758,
         "locale": "id"
+      },
+      {
+        "id": "kw_b142d253-2815-4c3a-beac-31ba86339f2e",
+        "keyword": "Raiso Ngapusi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432225,
+        "created_at": 1769506432225,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bfa835e1-4294-4924-88d1-326e91d8ac80",
+        "keyword": "Raiso Ngapusi 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432225,
+        "created_at": 1769506432225,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ec85440a-e2ac-4638-8267-320e2716abb0",
+        "keyword": "Raiso Nglaleke",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432226,
+        "created_at": 1769506432226,
+        "locale": "id"
       }
     ],
     "s": [
@@ -7569,9 +7800,9 @@
         "keyword": "Syahiba Saufa",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769409653444,
+        "last_search": 1769506432225,
         "created_at": 1769396521656,
         "locale": "id"
       },
@@ -8399,6 +8630,61 @@
         "last_search": 1769477147758,
         "created_at": 1769477147758,
         "locale": "id"
+      },
+      {
+        "id": "kw_0930680c-ba8a-4dc4-a6d3-ab6c0d0191aa",
+        "keyword": "Syahiba Saufa - Kelambi Suwek ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432225,
+        "created_at": 1769506432225,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b970642c-ce87-40da-84d8-911c415ef8a8",
+        "keyword": "Si Belang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432226,
+        "created_at": 1769506432226,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5364e166-0820-42a1-89e0-2a5bab74a1aa",
+        "keyword": "SE8 - Kangen Tresnamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432226,
+        "created_at": 1769506432226,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3ce615ac-4c97-44ca-9092-051ca2875be3",
+        "keyword": "SE8",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432226,
+        "created_at": 1769506432226,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dd977241-36fd-40d3-9cd0-191d743a7048",
+        "keyword": "Salah Tompo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432226,
+        "created_at": 1769506432226,
+        "locale": "id"
       }
     ],
     "y": [
@@ -9000,6 +9286,17 @@
         "clicks": 0,
         "last_search": 1769437428365,
         "created_at": 1769437428365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fd11976b-c510-44de-bbc1-0528840f1f1d",
+        "keyword": "Ora Mundur",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506432226,
+        "created_at": 1769506432226,
         "locale": "id"
       }
     ],
