@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769437428426,
+    "last_updated": 1769476432805,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -7204,9 +7204,9 @@
         "keyword": "Rasa Su Kalah",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769428790060,
+        "last_search": 1769476432801,
         "created_at": 1769428790060,
         "locale": "id"
       },
@@ -8453,9 +8453,9 @@
         "keyword": "Fresly Nikijuluw - Rasa Su Kalah ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769428790060,
+        "last_search": 1769476432801,
         "created_at": 1769428790060,
         "locale": "id"
       },
@@ -8464,9 +8464,9 @@
         "keyword": "Fresly Nikijuluw",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769428790060,
+        "last_search": 1769476432801,
         "created_at": 1769428790060,
         "locale": "id"
       },
