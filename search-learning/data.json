@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769520499411,
+    "last_updated": 1769520854935,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1272,6 +1272,17 @@
         "last_search": 1769520499398,
         "created_at": 1769520499398,
         "locale": "id"
+      },
+      {
+        "id": "kw_392726e9-6ed6-40c5-a573-03e9d9c6eb5c",
+        "keyword": "DITINGGAL RABI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520854914,
+        "created_at": 1769520854914,
+        "locale": "id"
       }
     ],
     "l": [
@@ -1777,9 +1788,9 @@
         "keyword": "Kumpulan Gitar NDX A.K.A",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395894349,
+        "last_search": 1769520854914,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -4474,6 +4485,17 @@
         "last_search": 1769510279126,
         "created_at": 1769510279126,
         "locale": "id"
+      },
+      {
+        "id": "kw_08509836-1288-491d-aae2-f084e43e1f56",
+        "keyword": "Janji Temani",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520854914,
+        "created_at": 1769520854914,
+        "locale": "id"
       }
     ],
     "g": [
@@ -4779,9 +4801,9 @@
         "keyword": "Gathel",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1769520854914,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -4794,6 +4816,17 @@
         "clicks": 0,
         "last_search": 1769519200482,
         "created_at": 1769519200482,
+        "locale": "id"
+      },
+      {
+        "id": "kw_70883649-4e83-453d-b258-87430b99d80a",
+        "keyword": "Goblok",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520854914,
+        "created_at": 1769520854914,
         "locale": "id"
       }
     ],
@@ -4946,9 +4979,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1769520854914,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -5892,9 +5925,9 @@
         "keyword": "NDX A.K.A",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769518492927,
+        "last_search": 1769520854914,
         "created_at": 1769518492927,
         "locale": "id"
       },
@@ -5925,9 +5958,9 @@
         "keyword": "NDX AKA - Gathel",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1769520854914,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -5962,6 +5995,94 @@
         "clicks": 0,
         "last_search": 1769520499398,
         "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f5c0a342-78a4-488b-b1d8-0a10ecc6db6d",
+        "keyword": "NDX AKA - Sendiri Dalam Luka ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520854914,
+        "created_at": 1769520854914,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5a7034b9-6115-4d91-a573-f982cfa71a00",
+        "keyword": "NDX A.K.A - TTM ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520854914,
+        "created_at": 1769520854914,
+        "locale": "id"
+      },
+      {
+        "id": "kw_90648320-4d2f-42e1-bb60-629f350333f4",
+        "keyword": "NDX AKA - Goblok",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520854914,
+        "created_at": 1769520854914,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9d86b387-b948-4305-854d-aea46a195651",
+        "keyword": "NDX AKA - Janji Temani",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520854914,
+        "created_at": 1769520854914,
+        "locale": "id"
+      },
+      {
+        "id": "kw_07bca4fa-777b-4cf0-ac52-ff9f840fe239",
+        "keyword": "NDX AKA - Angin Dalu (HipHop Dangdut Version ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520854914,
+        "created_at": 1769520854914,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f86215cc-6853-4678-903b-ab47572ee91d",
+        "keyword": "NDX A.K.A - Bojo Simpenan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520854914,
+        "created_at": 1769520854914,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a9379220-1302-4c92-ada7-d75d5253326e",
+        "keyword": "NDX AKA - Ego Wong Tuo Hiphop Dangdut Version ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520854914,
+        "created_at": 1769520854914,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7a011054-e350-4f83-920b-c553f954bd04",
+        "keyword": "NDX A.K.A - DITINGGAL RABI ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520854914,
+        "created_at": 1769520854914,
         "locale": "id"
       }
     ],
@@ -6426,6 +6547,17 @@
         "clicks": 0,
         "last_search": 1769518999262,
         "created_at": 1769518999262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_582b98e9-3d84-4825-aa36-bed4ef969cac",
+        "keyword": "Bojo Simpenan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520854914,
+        "created_at": 1769520854914,
         "locale": "id"
       }
     ],
@@ -7078,6 +7210,17 @@
         "last_search": 1769520499397,
         "created_at": 1769520499397,
         "locale": "id"
+      },
+      {
+        "id": "kw_36f63372-55ba-40d1-89b3-f67f23d11ec9",
+        "keyword": "TTM",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520854914,
+        "created_at": 1769520854914,
+        "locale": "id"
       }
     ],
     "e": [
@@ -7365,6 +7508,17 @@
         "clicks": 0,
         "last_search": 1769520499398,
         "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_25530269-c391-4c8f-9b08-aa0d5c94da8e",
+        "keyword": "Ego Wong Tuo Hiphop Dangdut Version",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520854914,
+        "created_at": 1769520854914,
         "locale": "id"
       }
     ],
@@ -9142,6 +9296,17 @@
         "clicks": 0,
         "last_search": 1769520499398,
         "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_daafcd8f-5713-4826-94b0-5bef4fd0614b",
+        "keyword": "Angin Dalu (HipHop Dangdut Version",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520854914,
+        "created_at": 1769520854914,
         "locale": "id"
       }
     ],
@@ -11027,6 +11192,17 @@
         "clicks": 0,
         "last_search": 1769520499398,
         "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6567e287-92e8-481b-92a1-029ca88350e2",
+        "keyword": "Sendiri Dalam Luka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520854914,
+        "created_at": 1769520854914,
         "locale": "id"
       }
     ],
