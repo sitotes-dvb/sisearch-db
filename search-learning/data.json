@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769476432805,
+    "last_updated": 1769477147778,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -178,9 +178,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 16,
+        "impressions": 17,
         "clicks": 0,
-        "last_search": 1769409327690,
+        "last_search": 1769477147757,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -607,9 +607,9 @@
         "keyword": "Denny Caknan - Jajalen Aku ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407751811,
+        "last_search": 1769477147758,
         "created_at": 1769407751811,
         "locale": "id"
       },
@@ -629,9 +629,9 @@
         "keyword": "Denny Caknan - SATRU 2",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407751811,
+        "last_search": 1769477147757,
         "created_at": 1769407751811,
         "locale": "id"
       },
@@ -1052,6 +1052,39 @@
         "last_search": 1769437428365,
         "created_at": 1769437428365,
         "locale": "id"
+      },
+      {
+        "id": "kw_0a392c77-d4c0-4ba3-8b79-d32d9e338360",
+        "keyword": "Denny Caknan X Happy Asmara - SATRU ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147757,
+        "created_at": 1769477147757,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e0b0eb51-8925-46ba-a082-ff97483d72a8",
+        "keyword": "Denny Caknan X Happy Asmara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147757,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5c178b54-e351-4891-92aa-bff843d6123a",
+        "keyword": "Denny Caknan - Gak Pernah Cukup ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147758,
+        "locale": "id"
       }
     ],
     "l": [
@@ -1469,9 +1502,9 @@
         "keyword": "Kumpulan Gitar Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1769407784909,
+        "last_search": 1769477147757,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -2322,6 +2355,28 @@
         "clicks": 0,
         "last_search": 1769430306099,
         "created_at": 1769430306099,
+        "locale": "id"
+      },
+      {
+        "id": "kw_15dd68e1-b4cf-48d5-aef2-fa670244d318",
+        "keyword": "Peterpan - Walau Habis Terang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147758,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a16e6e8c-c6f8-4d26-8ffe-75fb201fea87",
+        "keyword": "Peterpan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147758,
         "locale": "id"
       }
     ],
@@ -3237,9 +3292,9 @@
         "keyword": "Jajalen Aku",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769407751811,
+        "last_search": 1769477147758,
         "created_at": 1769397199479,
         "locale": "id"
       },
@@ -3672,6 +3727,17 @@
         "clicks": 0,
         "last_search": 1769428790060,
         "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3d32505d-5ccb-46d0-ada5-3de0760026a0",
+        "keyword": "Gak Pernah Cukup",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147758,
         "locale": "id"
       }
     ],
@@ -5817,6 +5883,17 @@
         "last_search": 1769437339681,
         "created_at": 1769437339681,
         "locale": "id"
+      },
+      {
+        "id": "kw_e9cf6566-ba09-468a-91a6-4960eebe3181",
+        "keyword": "Walau Habis Terang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147758,
+        "locale": "id"
       }
     ],
     "c": [
@@ -6115,6 +6192,17 @@
         "clicks": 0,
         "last_search": 1769437428366,
         "created_at": 1769437428366,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f32a4cd9-cf89-4f4b-9d64-eea16a9694c5",
+        "keyword": "Casper",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147758,
         "locale": "id"
       }
     ],
@@ -6921,6 +7009,50 @@
         "last_search": 1769437339681,
         "created_at": 1769437339681,
         "locale": "id"
+      },
+      {
+        "id": "kw_e8b5069b-b9b6-4ea5-9419-64221ea0882f",
+        "keyword": "Angga Candra - Sekecewa Itu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147758,
+        "locale": "id"
+      },
+      {
+        "id": "kw_661a2735-b680-4b37-96fa-e74f6e3004b1",
+        "keyword": "Angga Candra",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147758,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0840d1e9-9690-40ea-a3ef-198b0b415cf9",
+        "keyword": "Aishiteru 2 - Zivilia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147758,
+        "locale": "id"
+      },
+      {
+        "id": "kw_abae154d-0e94-49f3-b04e-e7defd70f3ed",
+        "keyword": "Aishiteru 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147758,
+        "locale": "id"
       }
     ],
     "r": [
@@ -7219,6 +7351,39 @@
         "clicks": 0,
         "last_search": 1769437428365,
         "created_at": 1769437428365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_74466281-5323-4586-b9ca-be9ed6e7d857",
+        "keyword": "Rindiani",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147758,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2b563918-a06f-403c-ab95-357e77574091",
+        "keyword": "Robert Grace - Casper",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147758,
+        "locale": "id"
+      },
+      {
+        "id": "kw_67e417b2-e536-4acc-adfe-1178f3e13c80",
+        "keyword": "Robert Grace",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147758,
         "locale": "id"
       }
     ],
@@ -7756,9 +7921,9 @@
         "keyword": "SATRU 2",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407751811,
+        "last_search": 1769477147757,
         "created_at": 1769407751811,
         "locale": "id"
       },
@@ -8189,6 +8354,50 @@
         "clicks": 0,
         "last_search": 1769437428366,
         "created_at": 1769437428366,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b69b438e-4870-4a19-99b0-9451af68d2b4",
+        "keyword": "SATRU",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147758,
+        "locale": "id"
+      },
+      {
+        "id": "kw_07b0ed1b-1f36-4769-bcac-e636f1aadaca",
+        "keyword": "Slam - Rindiani",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147758,
+        "locale": "id"
+      },
+      {
+        "id": "kw_18540d8b-1989-421e-abe9-1df59713d1e8",
+        "keyword": "Slam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147758,
+        "locale": "id"
+      },
+      {
+        "id": "kw_679dac88-727b-4f51-a6ee-5c755edb5cd2",
+        "keyword": "Sekecewa Itu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147758,
         "locale": "id"
       }
     ],
@@ -8918,6 +9127,19 @@
         "clicks": 0,
         "last_search": 1769408301632,
         "created_at": 1769408301632,
+        "locale": "id"
+      }
+    ],
+    "z": [
+      {
+        "id": "kw_b9792c19-57d3-451e-8b11-e00eb7780296",
+        "keyword": "Zivilia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769477147758,
+        "created_at": 1769477147758,
         "locale": "id"
       }
     ]
