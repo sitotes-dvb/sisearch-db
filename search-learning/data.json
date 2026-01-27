@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769510958798,
+    "last_updated": 1769511137035,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2365,6 +2365,17 @@
         "last_search": 1769510714274,
         "created_at": 1769510714274,
         "locale": "id"
+      },
+      {
+        "id": "kw_b0227c5e-7c2e-429b-a481-519847f52d9d",
+        "keyword": "Kepada Noor",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
       }
     ],
     "p": [
@@ -2861,6 +2872,61 @@
         "clicks": 0,
         "last_search": 1769510958795,
         "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b47f8072-8a13-42f1-86d2-e7937887a571",
+        "keyword": "PSHT SEDATI - Mekarlah Bunga Terate (New Version ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_30f0f5bf-2250-43c0-9fe2-3f8479c4bc3f",
+        "keyword": "PSHT SEDATI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ab4a9a07-c625-447b-b980-64a52edf1145",
+        "keyword": "Putihnya Hati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6465c31c-b820-4c8b-a5be-f1d59832f01f",
+        "keyword": "Panji Sakti - Kepada Noor",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8e28912d-2092-4118-a80c-1811261d29a6",
+        "keyword": "Panji Sakti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
         "locale": "id"
       }
     ],
@@ -3402,6 +3468,50 @@
         "clicks": 0,
         "last_search": 1769510958795,
         "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ff94bd01-c36b-4b17-910d-befc043a3ff3",
+        "keyword": "Mekarlah Bunga Terate (New Version",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3a1a2599-4257-446e-8785-eff833f2af15",
+        "keyword": "Mayada - MAHA GURU",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0f7ec5a8-9638-464f-812e-68a945a30913",
+        "keyword": "Mayada",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ad6b12ef-030e-4ae2-8d86-2b0574ddb3cb",
+        "keyword": "MAHA GURU",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
         "locale": "id"
       }
     ],
@@ -5111,9 +5221,9 @@
         "keyword": "Nella Kharisma",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769428790060,
+        "last_search": 1769511137014,
         "created_at": 1769428790060,
         "locale": "id"
       },
@@ -5424,6 +5534,17 @@
         "last_search": 1769510958795,
         "created_at": 1769510958795,
         "locale": "id"
+      },
+      {
+        "id": "kw_cc66410d-e227-4840-8083-003a0e346c47",
+        "keyword": "Nella Kharisma - Putihnya Hati ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
       }
     ],
     "b": [
@@ -5722,6 +5843,61 @@
         "clicks": 0,
         "last_search": 1769510958795,
         "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_da823566-bf70-45a1-96c0-9d46e5fb4938",
+        "keyword": "Bunga Abadi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a596bb84-c6e9-411c-a28e-7b89204d8bb3",
+        "keyword": "Bebi Romeo - Bunga Terakhir ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ff144fd7-2824-49b4-9c67-0e6f36734a28",
+        "keyword": "Bebi Romeo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f675c8f8-bbae-48cb-b945-c126039806a2",
+        "keyword": "Bunga Terakhir",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9557608b-2fe4-45c5-953a-4f7f0b5b2832",
+        "keyword": "Bunga Edelweis",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
         "locale": "id"
       }
     ],
@@ -6319,6 +6495,28 @@
         "last_search": 1769509894436,
         "created_at": 1769509894436,
         "locale": "id"
+      },
+      {
+        "id": "kw_82982240-cda9-476f-afa3-00ed8eba4de9",
+        "keyword": "Thomas Arya - Bunga Edelweis ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_55070b37-7978-47c9-8a0b-fbec7cb668a4",
+        "keyword": "Thomas Arya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
       }
     ],
     "e": [
@@ -6518,6 +6716,28 @@
         "clicks": 0,
         "last_search": 1769510958795,
         "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9426b6f0-17e8-4f11-a097-ae03c6c20da6",
+        "keyword": "Element - Cinta Tak Bersyarat ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f89a238f-40da-4944-b34b-228b3d66fcc6",
+        "keyword": "Element",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
         "locale": "id"
       }
     ],
@@ -7248,6 +7468,17 @@
         "clicks": 0,
         "last_search": 1769510958795,
         "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3e70de04-2dea-4a4a-8ab3-76a033f2f93a",
+        "keyword": "Cinta Tak Bersyarat",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
         "locale": "id"
       }
     ],
@@ -8595,6 +8826,39 @@
         "last_search": 1769510714274,
         "created_at": 1769510714274,
         "locale": "id"
+      },
+      {
+        "id": "kw_79c62607-0ee6-4624-8072-76e41427bfef",
+        "keyword": "Rio Clappy - Bunga Abadi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4bb6df42-32e8-439b-b82c-77254159bace",
+        "keyword": "Rio Clappy",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3e7447d5-3473-429d-a72b-d67da20d4502",
+        "keyword": "Rapuh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
       }
     ],
     "s": [
@@ -9774,6 +10038,39 @@
         "last_search": 1769510958795,
         "created_at": 1769510958795,
         "locale": "id"
+      },
+      {
+        "id": "kw_359f2304-bd7d-4121-a5d4-6aadaa1b5c33",
+        "keyword": "Sephia - Sheila On 7",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_53100541-db97-473d-8b64-310980f4ca45",
+        "keyword": "Sephia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_52ea369c-aa41-4500-8c0e-fa6e9c7a56da",
+        "keyword": "Sheila On 7",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
+        "locale": "id"
       }
     ],
     "y": [
@@ -10481,9 +10778,9 @@
         "keyword": "Opick",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407949709,
+        "last_search": 1769511137014,
         "created_at": 1769407949709,
         "locale": "id"
       },
@@ -10540,6 +10837,17 @@
         "clicks": 0,
         "last_search": 1769510714274,
         "created_at": 1769510714274,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0cad4c5c-1982-4d3a-afcd-c8d6c205e171",
+        "keyword": "Opick - Rapuh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769511137014,
+        "created_at": 1769511137014,
         "locale": "id"
       }
     ],
