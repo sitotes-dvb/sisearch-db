@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769510279130,
+    "last_updated": 1769510714295,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -189,9 +189,9 @@
         "keyword": "Demy",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769409327690,
+        "last_search": 1769510714274,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -1173,6 +1173,39 @@
         "last_search": 1769510279126,
         "created_at": 1769510279126,
         "locale": "id"
+      },
+      {
+        "id": "kw_15b4947c-f0f9-4530-bd40-ee48d7a792ce",
+        "keyword": "Demy - Edan Turun",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
+        "locale": "id"
+      },
+      {
+        "id": "kw_739469cf-4f32-4ffd-bc4b-2920a0c8356b",
+        "keyword": "Daftar Koleksi / Charita Utami @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
+        "locale": "id"
+      },
+      {
+        "id": "kw_82477258-d1de-4807-a674-50efb9caf417",
+        "keyword": "Daftar Koleksi / NOAH @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
+        "locale": "id"
       }
     ],
     "l": [
@@ -1526,6 +1559,17 @@
         "clicks": 0,
         "last_search": 1769510279126,
         "created_at": 1769510279126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7f2fecd3-36b9-4950-a9e7-f28d008e365d",
+        "keyword": "Lali Janjine",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
         "locale": "id"
       }
     ],
@@ -2277,6 +2321,28 @@
         "last_search": 1769510279126,
         "created_at": 1769510279126,
         "locale": "id"
+      },
+      {
+        "id": "kw_da240edb-4df6-44a5-b989-8d86ccc02b9d",
+        "keyword": "KEDHATON ATI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4c4f8f65-11e7-4c09-98ba-05e2862b54cc",
+        "keyword": "Komang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
+        "locale": "id"
       }
     ],
     "p": [
@@ -2707,6 +2773,50 @@
         "clicks": 0,
         "last_search": 1769510279126,
         "created_at": 1769510279126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bb89295f-9e6e-4053-b622-3b417766a85a",
+        "keyword": "Pudjo Mardjoko - Ojo Mangu Mangu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2e73ab97-9c64-45e4-8380-e13ba9be1a9d",
+        "keyword": "Pudjo Mardjoko",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
+        "locale": "id"
+      },
+      {
+        "id": "kw_841d6b4a-ad3d-4772-af51-547b2f22510b",
+        "keyword": "PENDHOZA feat GUYON WATON - MIKIR MIKIR ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
+        "locale": "id"
+      },
+      {
+        "id": "kw_69b62271-e00f-4f31-9004-9cba66cb0e4c",
+        "keyword": "PENDHOZA feat GUYON WATON",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
         "locale": "id"
       }
     ],
@@ -3193,6 +3303,39 @@
         "clicks": 0,
         "last_search": 1769428790060,
         "created_at": 1769428790060,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5f759adf-4914-489a-851f-d071030a3b65",
+        "keyword": "Mangu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b07941f8-45b8-4929-987b-43f19ff6dd3f",
+        "keyword": "Merayu Bila Ada Mau",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a6bac053-fd66-46d4-912e-277a9213d330",
+        "keyword": "MIKIR MIKIR",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
         "locale": "id"
       }
     ],
@@ -5127,6 +5270,28 @@
         "last_search": 1769510279125,
         "created_at": 1769510279125,
         "locale": "id"
+      },
+      {
+        "id": "kw_65877b21-4775-4779-913c-a943398cfe9f",
+        "keyword": "Niken Salindry Feat. Akbar - KEDHATON ATI ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4de3ab6a-8316-4e2c-87a1-6768196bcc9e",
+        "keyword": "Niken Salindry Feat. Akbar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
+        "locale": "id"
       }
     ],
     "b": [
@@ -6177,6 +6342,17 @@
         "clicks": 0,
         "last_search": 1769506432226,
         "created_at": 1769506432226,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f26356e8-1da0-494f-9ea5-3bbfa1eeb7bc",
+        "keyword": "Edan Turun",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
         "locale": "id"
       }
     ],
@@ -8188,6 +8364,28 @@
         "last_search": 1769510279126,
         "created_at": 1769510279126,
         "locale": "id"
+      },
+      {
+        "id": "kw_6680178d-3be7-4edd-a5a2-59342e9c84b3",
+        "keyword": "Raim Laode - Komang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b97f45c4-484c-4ce1-913e-2f11b3ed9c0e",
+        "keyword": "Raim Laode",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
+        "locale": "id"
       }
     ],
     "s": [
@@ -9690,6 +9888,50 @@
         "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
+      },
+      {
+        "id": "kw_d945405d-42cf-43d3-a114-5d95e23e5085",
+        "keyword": "Fourtwnty - Mangu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714273,
+        "created_at": 1769510714273,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f0fb976b-2095-4bb2-8405-4d623b3161c7",
+        "keyword": "Fourtwnty",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8dfdb2ba-26e8-48dc-8997-0d38f45b0977",
+        "keyword": "Febian Ft. Rahma Maulana - Merayu Bila Ada Mau ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
+        "locale": "id"
+      },
+      {
+        "id": "kw_27a14fb7-96eb-4369-8aff-86ed54282ea9",
+        "keyword": "Febian Ft. Rahma Maulana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
+        "locale": "id"
       }
     ],
     "i": [
@@ -9823,6 +10065,28 @@
         "clicks": 0,
         "last_search": 1769510279126,
         "created_at": 1769510279126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c88f2d92-878b-4b2a-a1f1-aab557ba7848",
+        "keyword": "Intan Chacha - Lali Janjine",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2d6e564f-dc62-43d8-a0ae-c001ff4c5563",
+        "keyword": "Intan Chacha",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
         "locale": "id"
       }
     ],
@@ -9990,6 +10254,17 @@
         "clicks": 0,
         "last_search": 1769506432226,
         "created_at": 1769506432226,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f6370bcb-1b42-4234-9a36-6d5829988b3d",
+        "keyword": "Ojo Mangu Mangu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510714274,
+        "created_at": 1769510714274,
         "locale": "id"
       }
     ],
