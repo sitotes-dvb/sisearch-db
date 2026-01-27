@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769509894498,
+    "last_updated": 1769510279130,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1003,9 +1003,9 @@
         "keyword": "Dewa 19",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769423057828,
+        "last_search": 1769510279126,
         "created_at": 1769423057828,
         "locale": "id"
       },
@@ -1117,6 +1117,61 @@
         "clicks": 0,
         "last_search": 1769509894436,
         "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_50646a34-572a-4967-bd5a-c962ee587376",
+        "keyword": "Dewa 19 - Laskar Cinta ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d5bc209a-664c-4304-84b9-bd971b8a9719",
+        "keyword": "Daun Jatuh - Resah Jadi Luka ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_218cbb56-a453-43d7-b22c-6733381710a6",
+        "keyword": "Daun Jatuh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5c88bf18-2f78-48f0-9cfc-b760650f80ac",
+        "keyword": "Dhyo Haw - Pelangi Baruku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8354e829-6154-462b-aa6b-3e1f4f40c6d9",
+        "keyword": "Dhyo Haw",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
         "locale": "id"
       }
     ],
@@ -1449,6 +1504,28 @@
         "clicks": 0,
         "last_search": 1769509894436,
         "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_17ab9ece-9b99-41e5-acd7-89e52642cd71",
+        "keyword": "Laskar Pelangi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279125,
+        "created_at": 1769510279125,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8e88d513-2a06-4ac3-9528-4ae14c529bc4",
+        "keyword": "Laskar Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
         "locale": "id"
       }
     ],
@@ -2189,6 +2266,17 @@
         "last_search": 1769509894436,
         "created_at": 1769509894436,
         "locale": "id"
+      },
+      {
+        "id": "kw_45f7a000-4480-4078-8d29-ea3053fd4b2b",
+        "keyword": "Kumpulan Gitar Nidji",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
+        "locale": "id"
       }
     ],
     "p": [
@@ -2564,6 +2652,61 @@
         "clicks": 0,
         "last_search": 1769477147758,
         "created_at": 1769477147758,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4453458f-39e9-477e-8281-5faa21557ed7",
+        "keyword": "Pelangi dan Mimpi - Coboy Junior ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279125,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7565388e-bff1-4ee1-99c2-587530e3fb9c",
+        "keyword": "Pelangi dan Mimpi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_17b726e5-0395-4a87-a8b5-c8827a214294",
+        "keyword": "Pelangi di Matamu - Jamrud ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ed89c065-2f37-4945-8699-c76ccbeedfff",
+        "keyword": "Pelangi di Matamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8064c372-6aca-4c29-b2cd-b5ab9ea55b2d",
+        "keyword": "Pelangi Baruku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
         "locale": "id"
       }
     ],
@@ -3682,6 +3825,17 @@
         "last_search": 1769509789798,
         "created_at": 1769509789798,
         "locale": "id"
+      },
+      {
+        "id": "kw_e6e95106-e3b7-4915-b266-1a2a115fdb0e",
+        "keyword": "Jamrud",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
+        "locale": "id"
       }
     ],
     "g": [
@@ -3958,6 +4112,28 @@
         "clicks": 0,
         "last_search": 1769509894436,
         "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ff7ff0c6-7636-456a-b781-b47ed6f393f6",
+        "keyword": "Garasi - Sahabat ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b0aede50-435d-4087-80e4-271380b5c4d1",
+        "keyword": "Garasi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
         "locale": "id"
       }
     ],
@@ -4929,6 +5105,28 @@
         "last_search": 1769509894436,
         "created_at": 1769509789798,
         "locale": "id"
+      },
+      {
+        "id": "kw_2213401b-28df-4a99-87f5-cb18f14c110a",
+        "keyword": "Nidji - Laskar Pelangi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279125,
+        "created_at": 1769510279125,
+        "locale": "id"
+      },
+      {
+        "id": "kw_105de4d6-4f4f-4cda-849f-15b1c17c3308",
+        "keyword": "Nidji",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279125,
+        "created_at": 1769510279125,
+        "locale": "id"
       }
     ],
     "b": [
@@ -5194,6 +5392,28 @@
         "clicks": 0,
         "last_search": 1769509894436,
         "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3508fd65-ce21-4903-a848-96eca08537cc",
+        "keyword": "Boy Sandy - Seroja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7a73ae25-d7ac-492f-88f4-c5b731d61fea",
+        "keyword": "Boy Sandy",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
         "locale": "id"
       }
     ],
@@ -6666,6 +6886,17 @@
         "last_search": 1769509789799,
         "created_at": 1769509789799,
         "locale": "id"
+      },
+      {
+        "id": "kw_1a351cb9-1359-478e-b49e-40bdef58dee4",
+        "keyword": "Coboy Junior",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
+        "locale": "id"
       }
     ],
     "a": [
@@ -7946,6 +8177,17 @@
         "last_search": 1769509894436,
         "created_at": 1769509789799,
         "locale": "id"
+      },
+      {
+        "id": "kw_1ccd85ed-a4d5-4804-9e61-9d50a9608481",
+        "keyword": "Resah Jadi Luka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
+        "locale": "id"
       }
     ],
     "s": [
@@ -9059,6 +9301,39 @@
         "last_search": 1769509894436,
         "created_at": 1769509894436,
         "locale": "id"
+      },
+      {
+        "id": "kw_172c2e8f-5e71-473c-9bdc-83dfb140cad7",
+        "keyword": "Sahabat",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_77881174-12fa-48b0-b2bb-fd57742f37fd",
+        "keyword": "Seroja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6e98ba47-ab1c-4c9a-9e2c-de5c25a19016",
+        "keyword": "Sahabat Kecil",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
+        "locale": "id"
       }
     ],
     "y": [
@@ -9526,6 +9801,28 @@
         "clicks": 0,
         "last_search": 1769437339681,
         "created_at": 1769437339681,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e050fa71-e868-4700-8371-2746b5e9ce72",
+        "keyword": "Ipang - Sahabat Kecil",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1385db31-c46e-4e08-b422-6535c5e95dd9",
+        "keyword": "Ipang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510279126,
+        "created_at": 1769510279126,
         "locale": "id"
       }
     ],
