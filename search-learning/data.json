@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769510714295,
+    "last_updated": 1769510958798,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1205,6 +1205,28 @@
         "clicks": 0,
         "last_search": 1769510714274,
         "created_at": 1769510714274,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2b060ce1-63a3-42c3-8adb-a1618d07adf1",
+        "keyword": "Dash Uciha - Merindukanmu (Remake Full Version ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_32070dd0-d4ed-466b-a916-6fe46bbfe66f",
+        "keyword": "Dash Uciha",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
         "locale": "id"
       }
     ],
@@ -2818,6 +2840,28 @@
         "last_search": 1769510714274,
         "created_at": 1769510714274,
         "locale": "id"
+      },
+      {
+        "id": "kw_160f70f8-3e52-441a-97ac-ae4a9a2c9079",
+        "keyword": "Percaya Padaku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3e2f3959-12d9-4a50-9cf5-2a09af285399",
+        "keyword": "Pertama Kali",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
       }
     ],
     "m": [
@@ -3337,6 +3381,28 @@
         "last_search": 1769510714274,
         "created_at": 1769510714274,
         "locale": "id"
+      },
+      {
+        "id": "kw_68d618cf-dc97-4bb9-880d-5dc1ae04762b",
+        "keyword": "Merindu Lagi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f8bf4d72-60e8-4d92-9c75-aacabca59c75",
+        "keyword": "Merindukanmu (Remake Full Version",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
       }
     ],
     "h": [
@@ -3646,6 +3712,50 @@
         "clicks": 0,
         "last_search": 1769437428366,
         "created_at": 1769437428366,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c2884489-81d6-4498-865e-1a64eeb2fb8a",
+        "keyword": "Hanya Bermodal Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_724659a4-2728-4e11-8714-04e8dc2e74ca",
+        "keyword": "Hanya Rindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8d0f40ce-a9bb-4f60-ac35-4318db6a53a9",
+        "keyword": "Harry Parintang - Yang Pertama Kali ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bf5e0e16-95ad-4299-83df-179cab9fb544",
+        "keyword": "Harry Parintang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
         "locale": "id"
       }
     ],
@@ -5292,6 +5402,28 @@
         "last_search": 1769510714274,
         "created_at": 1769510714274,
         "locale": "id"
+      },
+      {
+        "id": "kw_46d58a9b-4c50-45ae-9ff7-e956cd5e7d39",
+        "keyword": "Nano - Sebatas Mimpi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c896e04d-7b18-4592-b84e-3c6c15a4f2bd",
+        "keyword": "Nano",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
       }
     ],
     "b": [
@@ -5579,6 +5711,17 @@
         "clicks": 0,
         "last_search": 1769510279126,
         "created_at": 1769510279126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_264fc7ee-d54e-4360-bfda-414e3b548eb0",
+        "keyword": "Bahtera Mahligai Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
         "locale": "id"
       }
     ],
@@ -6354,6 +6497,28 @@
         "last_search": 1769510714274,
         "created_at": 1769510714274,
         "locale": "id"
+      },
+      {
+        "id": "kw_27454fda-ca5b-4bd2-9d3b-184bc8172335",
+        "keyword": "Eric - Hanya Bermodal Cinta ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ff761954-0cad-4ec5-98c8-8f2769f5ff1e",
+        "keyword": "Eric",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
       }
     ],
     "w": [
@@ -7072,6 +7237,17 @@
         "clicks": 0,
         "last_search": 1769510279126,
         "created_at": 1769510279126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1328b8f3-dc7e-42c1-8b84-c6a7faef691c",
+        "keyword": "Cinta Luar Biasa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
         "locale": "id"
       }
     ],
@@ -7965,6 +8141,39 @@
         "clicks": 0,
         "last_search": 1769509894436,
         "created_at": 1769509894436,
+        "locale": "id"
+      },
+      {
+        "id": "kw_621cd76a-dcd5-4ced-83e5-f1bf508b2f5f",
+        "keyword": "Andmesh Kamaleng - Cinta Luar Biasa ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_47e779bd-37b6-4ca2-b955-bb2ca7e07166",
+        "keyword": "Andmesh Kamaleng",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_07384f01-8bd8-462c-8b57-f04b282aab5b",
+        "keyword": "Andmesh Kamaleng - Hanya Rindu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
         "locale": "id"
       }
     ],
@@ -9532,6 +9741,39 @@
         "last_search": 1769510279126,
         "created_at": 1769510279126,
         "locale": "id"
+      },
+      {
+        "id": "kw_72f40245-302b-41ff-8da5-136a001ac33a",
+        "keyword": "Shaa - Pertama Kali",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ba8b827c-9081-4830-a8fb-71fb60433b95",
+        "keyword": "Shaa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f1e140cf-923c-437b-a9a9-77638e8d396b",
+        "keyword": "Sebatas Mimpi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
       }
     ],
     "y": [
@@ -9577,6 +9819,39 @@
         "clicks": 0,
         "last_search": 1769407784909,
         "created_at": 1769407784909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_500d3513-ba34-4213-af79-97ada87c80f6",
+        "keyword": "Yovie & Nuno - Merindu Lagi ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3f679758-6881-47de-8c8a-ab185cb86edb",
+        "keyword": "Yovie & Nuno",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_88762b31-094b-48a3-beb1-ad458bf43125",
+        "keyword": "Yang Pertama Kali",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
         "locale": "id"
       }
     ],
@@ -10393,6 +10668,28 @@
         "last_search": 1769408301632,
         "created_at": 1769408301632,
         "locale": "id"
+      },
+      {
+        "id": "kw_9ffc37d3-a545-4dbd-812d-a14c4327d1ea",
+        "keyword": "UNGU - Percaya Padaku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_be68e79c-7c6c-4818-b95c-9adb369630ed",
+        "keyword": "UNGU",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
       }
     ],
     "z": [
@@ -10427,6 +10724,28 @@
         "clicks": 0,
         "last_search": 1769509894436,
         "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5b3ea5e5-bea2-4cdb-afb8-59ff822ddd9e",
+        "keyword": "Zinidin Zidan Ft. Yaya Nadila - Bahtera Mahligai Cinta ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b210fcb6-15b8-45e1-8066-19cbf22c2941",
+        "keyword": "Zinidin Zidan Ft. Yaya Nadila",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769510958795,
+        "created_at": 1769510958795,
         "locale": "id"
       }
     ]
