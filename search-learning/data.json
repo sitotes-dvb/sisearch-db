@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769506432229,
+    "last_updated": 1769506971024,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -167,9 +167,9 @@
         "keyword": "Denny Caknan - Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1769409327690,
+        "last_search": 1769506971020,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -178,9 +178,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 17,
+        "impressions": 18,
         "clicks": 0,
-        "last_search": 1769477147757,
+        "last_search": 1769506971020,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -233,9 +233,9 @@
         "keyword": "Denny Caknan - Sigar",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769407836965,
+        "last_search": 1769506971020,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -508,9 +508,9 @@
         "keyword": "Daftar Koleksi / Denny Caknan @Chordtela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769407853710,
+        "last_search": 1769506971020,
         "created_at": 1769407631223,
         "locale": "id"
       },
@@ -596,9 +596,9 @@
         "keyword": "Denny Caknan - Langgeng Dayaning Rasa (LDR ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407733906,
+        "last_search": 1769506971020,
         "created_at": 1769407733906,
         "locale": "id"
       },
@@ -629,9 +629,9 @@
         "keyword": "Denny Caknan - SATRU 2",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769477147757,
+        "last_search": 1769506971020,
         "created_at": 1769407751811,
         "locale": "id"
       },
@@ -1058,9 +1058,9 @@
         "keyword": "Denny Caknan X Happy Asmara - SATRU ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769477147757,
+        "last_search": 1769506971020,
         "created_at": 1769477147757,
         "locale": "id"
       },
@@ -1069,9 +1069,9 @@
         "keyword": "Denny Caknan X Happy Asmara",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769477147758,
+        "last_search": 1769506971020,
         "created_at": 1769477147757,
         "locale": "id"
       },
@@ -1137,9 +1137,9 @@
         "keyword": "Langgeng Dayaning Rasa (LDR",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769407733906,
+        "last_search": 1769506971020,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -1148,9 +1148,9 @@
         "keyword": "Lamunan",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769407853710,
+        "last_search": 1769506971020,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -1645,9 +1645,9 @@
         "keyword": "Kisinan 2",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769407853710,
+        "last_search": 1769506971020,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -2078,6 +2078,17 @@
         "clicks": 0,
         "last_search": 1769506432226,
         "created_at": 1769506432226,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6d0867ba-92f8-418a-a2a0-fc934a703b33",
+        "keyword": "Klebus",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506971020,
+        "created_at": 1769506971020,
         "locale": "id"
       }
     ],
@@ -2529,9 +2540,9 @@
         "keyword": "Masdddho",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769407853710,
+        "last_search": 1769506971020,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -2738,9 +2749,9 @@
         "keyword": "Masdddho - Kisinan 2",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769407853710,
+        "last_search": 1769506971020,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -4720,6 +4731,28 @@
         "last_search": 1769506432225,
         "created_at": 1769506432225,
         "locale": "id"
+      },
+      {
+        "id": "kw_16840b5d-8662-4584-91bb-a433acb2bd53",
+        "keyword": "Ngatmombilung - Klebus",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506971020,
+        "created_at": 1769506971020,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3beb4427-d1ef-4552-84f0-68610eaaa257",
+        "keyword": "Ngatmombilung",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769506971020,
+        "created_at": 1769506971020,
+        "locale": "id"
       }
     ],
     "b": [
@@ -5735,9 +5768,9 @@
         "keyword": "Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1769409327690,
+        "last_search": 1769506971020,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -5768,9 +5801,9 @@
         "keyword": "Wahyu F Giri - Lamunan",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769407853710,
+        "last_search": 1769506971020,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -5779,9 +5812,9 @@
         "keyword": "Wahyu F Giri",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769407853710,
+        "last_search": 1769506971020,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -7235,9 +7268,9 @@
         "keyword": "Aishiteru 2 - Zivilia",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769477147758,
+        "last_search": 1769506971020,
         "created_at": 1769477147758,
         "locale": "id"
       },
@@ -7246,9 +7279,9 @@
         "keyword": "Aishiteru 2",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769477147758,
+        "last_search": 1769506971020,
         "created_at": 1769477147758,
         "locale": "id"
       }
@@ -7734,9 +7767,9 @@
         "keyword": "Sigar",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769407836965,
+        "last_search": 1769506971020,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -8152,9 +8185,9 @@
         "keyword": "SATRU 2",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769477147757,
+        "last_search": 1769506971020,
         "created_at": 1769407751811,
         "locale": "id"
       },
@@ -8592,9 +8625,9 @@
         "keyword": "SATRU",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769477147758,
+        "last_search": 1769506971020,
         "created_at": 1769477147758,
         "locale": "id"
       },
@@ -9433,9 +9466,9 @@
         "keyword": "Zivilia",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769477147758,
+        "last_search": 1769506971020,
         "created_at": 1769477147758,
         "locale": "id"
       }
