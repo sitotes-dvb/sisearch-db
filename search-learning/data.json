@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769519200497,
+    "last_updated": 1769520499411,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1168,9 +1168,9 @@
         "keyword": "Dhyo Haw",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510279126,
+        "last_search": 1769520499398,
         "created_at": 1769510279126,
         "locale": "id"
       },
@@ -1260,6 +1260,17 @@
         "clicks": 0,
         "last_search": 1769519200482,
         "created_at": 1769519200482,
+        "locale": "id"
+      },
+      {
+        "id": "kw_083985cb-e939-45d3-90a0-46dc1da03f70",
+        "keyword": "Dhyo Haw - Hanya Sabar Senjataku ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
         "locale": "id"
       }
     ],
@@ -3112,9 +3123,9 @@
         "keyword": "Masdddho",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1769520499398,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -3700,6 +3711,50 @@
         "last_search": 1769518999262,
         "created_at": 1769518999262,
         "locale": "id"
+      },
+      {
+        "id": "kw_4ed99567-60a1-47c2-9181-031ef520b97b",
+        "keyword": "MCP Sysilia - No Sabar Dika ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_557ce547-b24d-4ca2-b6c8-2fdfe732e862",
+        "keyword": "MCP Sysilia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b8d1c1e8-c446-42ed-b3cc-168cdbbf9380",
+        "keyword": "Modal Sabar (feat. Asep Balon",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_81194793-d82f-4db3-af9c-9a1f86805d1e",
+        "keyword": "Masdddho - Tenang Lan Sabar ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
       }
     ],
     "h": [
@@ -4075,6 +4130,17 @@
         "clicks": 0,
         "last_search": 1769518999263,
         "created_at": 1769518999263,
+        "locale": "id"
+      },
+      {
+        "id": "kw_518661ff-1f0f-4952-9a15-1a61b1bd1a9a",
+        "keyword": "Hanya Sabar Senjataku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
         "locale": "id"
       }
     ],
@@ -5875,6 +5941,28 @@
         "last_search": 1769519200482,
         "created_at": 1769519200482,
         "locale": "id"
+      },
+      {
+        "id": "kw_6e7e89b5-3340-494b-982f-751d66b6b62d",
+        "keyword": "Ngukur Sabar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ccbb1259-2b61-42b1-94d4-dfe00709f38a",
+        "keyword": "No Sabar Dika",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
       }
     ],
     "b": [
@@ -6446,9 +6534,9 @@
         "keyword": "Tenang Lan Sabar",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769360249302,
+        "last_search": 1769520499398,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -6968,6 +7056,28 @@
         "last_search": 1769517639265,
         "created_at": 1769517639264,
         "locale": "id"
+      },
+      {
+        "id": "kw_ea7757fe-27c4-470d-a669-66dcf615f844",
+        "keyword": "The Boys Trio - Ito Namanja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499397,
+        "created_at": 1769520499397,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d8419c09-1b8d-4d10-96cb-301e1b98e19a",
+        "keyword": "The Boys Trio",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499397,
+        "created_at": 1769520499397,
+        "locale": "id"
       }
     ],
     "e": [
@@ -7233,6 +7343,28 @@
         "clicks": 0,
         "last_search": 1769519200482,
         "created_at": 1769519200482,
+        "locale": "id"
+      },
+      {
+        "id": "kw_08a96a35-f2f0-4831-b2e7-09d12baf18ee",
+        "keyword": "Edo CM - Ngukur Sabar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_506a207a-4f56-47a7-a90f-447670621beb",
+        "keyword": "Edo CM",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
         "locale": "id"
       }
     ],
@@ -8989,6 +9121,28 @@
         "last_search": 1769519200482,
         "created_at": 1769519200482,
         "locale": "id"
+      },
+      {
+        "id": "kw_326fc717-98c9-40fd-89f4-a68987562b49",
+        "keyword": "Arief ft. Silvia An - Sabar Menunggumu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_476f93ea-f9c1-4056-8b1b-14a36d83c3e9",
+        "keyword": "Arief ft. Silvia An",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
       }
     ],
     "r": [
@@ -9857,9 +10011,9 @@
         "keyword": "Stand Here Alone",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769430306099,
+        "last_search": 1769520499398,
         "created_at": 1769407471814,
         "locale": "id"
       },
@@ -10775,6 +10929,105 @@
         "last_search": 1769519200482,
         "created_at": 1769519200482,
         "locale": "id"
+      },
+      {
+        "id": "kw_661c1ecd-0225-48ad-97e1-fef632d9d322",
+        "keyword": "Sadewok - Sabar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ff3cdc03-0754-4475-b805-6d93853d306e",
+        "keyword": "Sadewok",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a870d9cf-a71a-4383-bf24-b28da1ba492b",
+        "keyword": "Sabar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f378c8e5-f928-457d-94e9-515abb868bcf",
+        "keyword": "Shiffa Harun - Selalu Sabar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_43d659e5-e2ac-44ae-bee3-aa772a2c2161",
+        "keyword": "Shiffa Harun",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1d3a143c-13c6-467a-a76d-48cdb1d64fe1",
+        "keyword": "Selalu Sabar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cf80d557-a6db-43af-a296-4b6e70b01ace",
+        "keyword": "Sabar Malu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e62de465-b439-4cdd-8c2e-445ab68e7027",
+        "keyword": "Stand Here Alone - Modal Sabar (feat. Asep Balon ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7712b5d5-9368-4ca0-bd9d-d3ab9de33640",
+        "keyword": "Sabar Menunggumu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
       }
     ],
     "y": [
@@ -10853,6 +11106,28 @@
         "clicks": 0,
         "last_search": 1769510958795,
         "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6a4270d3-ebb9-4adb-b9f4-1a927e3ffeef",
+        "keyword": "Yan Mus - Sabar Malu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6eba263d-1761-4e8b-a7e0-31c3d1f40284",
+        "keyword": "Yan Mus",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
         "locale": "id"
       }
     ],
@@ -11385,6 +11660,17 @@
         "clicks": 0,
         "last_search": 1769517639265,
         "created_at": 1769517639265,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7aab0902-1761-4d86-94ff-bdfbf9b5d46e",
+        "keyword": "Ito Namanja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769520499398,
+        "created_at": 1769520499398,
         "locale": "id"
       }
     ],
