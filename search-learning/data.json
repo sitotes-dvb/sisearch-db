@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769518492955,
+    "last_updated": 1769518999279,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1228,6 +1228,28 @@
         "last_search": 1769510958795,
         "created_at": 1769510958795,
         "locale": "id"
+      },
+      {
+        "id": "kw_1c856acf-514c-4876-99be-0ae02f756e1d",
+        "keyword": "Daftar Koleksi / Nadhif Basalamah @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999262,
+        "created_at": 1769518999262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5a97b6b7-63ea-48ac-b24e-0e4aa09b3bb8",
+        "keyword": "Di Ujung Jalan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999262,
+        "created_at": 1769518999262,
+        "locale": "id"
       }
     ],
     "l": [
@@ -1566,9 +1588,9 @@
         "keyword": "Laskar Pelangi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510279125,
+        "last_search": 1769518999262,
         "created_at": 1769510279125,
         "locale": "id"
       },
@@ -1592,6 +1614,17 @@
         "clicks": 0,
         "last_search": 1769510714274,
         "created_at": 1769510714274,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cfe404d1-7c66-4410-b24a-3bca281494a2",
+        "keyword": "Lesung Pipi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999262,
+        "created_at": 1769518999262,
         "locale": "id"
       }
     ],
@@ -3623,6 +3656,28 @@
         "last_search": 1769517639265,
         "created_at": 1769517639265,
         "locale": "id"
+      },
+      {
+        "id": "kw_58fcb08b-e334-4f0b-ab71-ce7e26f3edc3",
+        "keyword": "Mytha - Aku Cuma Punya Hati ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999262,
+        "created_at": 1769518999262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c6251833-6ba3-4083-996b-64a823908adc",
+        "keyword": "Mytha",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999262,
+        "created_at": 1769518999262,
+        "locale": "id"
       }
     ],
     "h": [
@@ -3987,6 +4042,17 @@
         "clicks": 0,
         "last_search": 1769517639265,
         "created_at": 1769517639265,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0741ea7b-d581-4f74-bccb-0477d350a505",
+        "keyword": "Hingga Tua Bersama",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999263,
+        "created_at": 1769518999263,
         "locale": "id"
       }
     ],
@@ -5430,9 +5496,9 @@
         "keyword": "Nina",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769437428365,
+        "last_search": 1769518999262,
         "created_at": 1769437339682,
         "locale": "id"
       },
@@ -5595,9 +5661,9 @@
         "keyword": "Nidji - Laskar Pelangi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510279125,
+        "last_search": 1769518999262,
         "created_at": 1769510279125,
         "locale": "id"
       },
@@ -5606,9 +5672,9 @@
         "keyword": "Nidji",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510279125,
+        "last_search": 1769518999262,
         "created_at": 1769510279125,
         "locale": "id"
       },
@@ -5720,6 +5786,28 @@
         "clicks": 0,
         "last_search": 1769518492927,
         "created_at": 1769518492927,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c32b4175-69b0-4118-85f7-d1b410916c6a",
+        "keyword": "Nadhif Basalamah - bergema sampai selamanya ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999262,
+        "created_at": 1769518999262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_84b76d25-d83b-40ba-8523-62d4dbcd6f7f",
+        "keyword": "Nadhif Basalamah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999262,
+        "created_at": 1769518999262,
         "locale": "id"
       }
     ],
@@ -6151,6 +6239,39 @@
         "clicks": 0,
         "last_search": 1769517639265,
         "created_at": 1769517639265,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7b8e91bb-d779-4445-bd93-fbce03341f63",
+        "keyword": "bergema sampai selamanya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999262,
+        "created_at": 1769518999262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_269a32bd-1854-4482-9a98-94784366a85e",
+        "keyword": "Banda Neira - Sampai Jadi Debu (Feat. Gardika Gigih ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999262,
+        "created_at": 1769518999262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a3cd7adf-00fb-43af-ac8f-72ee664515b6",
+        "keyword": "Banda Neira",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999262,
+        "created_at": 1769518999262,
         "locale": "id"
       }
     ],
@@ -7766,6 +7887,28 @@
         "last_search": 1769511137014,
         "created_at": 1769511137014,
         "locale": "id"
+      },
+      {
+        "id": "kw_4fb24396-b790-455e-bd68-7c3004f8a20e",
+        "keyword": "Cinta Surga - Aurel Hermansyah Feat Teuku Rasya ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999263,
+        "created_at": 1769518999263,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6fc0e6d8-7be7-4c17-9ca6-b93983131ac9",
+        "keyword": "Cinta Surga",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999263,
+        "created_at": 1769518999263,
+        "locale": "id"
       }
     ],
     "a": [
@@ -8714,6 +8857,28 @@
         "last_search": 1769517639265,
         "created_at": 1769517639265,
         "locale": "id"
+      },
+      {
+        "id": "kw_7639770c-6279-46e6-a3e5-8d22c1159e09",
+        "keyword": "Aku Cuma Punya Hati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999262,
+        "created_at": 1769518999262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_102155f6-1ddc-4023-ac31-019e34c8c8b0",
+        "keyword": "Aurel Hermansyah Feat Teuku Rasya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999263,
+        "created_at": 1769518999263,
+        "locale": "id"
       }
     ],
     "r": [
@@ -9129,9 +9294,9 @@
         "keyword": "Raim Laode",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510714274,
+        "last_search": 1769518999262,
         "created_at": 1769510714274,
         "locale": "id"
       },
@@ -9188,6 +9353,39 @@
         "clicks": 0,
         "last_search": 1769517639265,
         "created_at": 1769517639265,
+        "locale": "id"
+      },
+      {
+        "id": "kw_80928573-d6d7-40c7-a633-31114dc0fdf1",
+        "keyword": "Raim Laode - Lesung Pipi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999262,
+        "created_at": 1769518999262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f0fd5fd6-33d7-4278-a6bc-914a782554eb",
+        "keyword": "Rizky Febian - Hingga Tua Bersama ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999262,
+        "created_at": 1769518999262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_48cd7a0c-b24b-4909-9aed-151baa9dfc93",
+        "keyword": "Rizky Febian",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999262,
+        "created_at": 1769518999262,
         "locale": "id"
       }
     ],
@@ -10400,6 +10598,39 @@
         "clicks": 0,
         "last_search": 1769517639265,
         "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_87e6dcdc-b26b-4a27-b103-7cf12a6121a7",
+        "keyword": "Samsons - Di Ujung Jalan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999262,
+        "created_at": 1769518999262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7e739db6-8f31-4363-a935-732e47b07f33",
+        "keyword": "Samsons",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999262,
+        "created_at": 1769518999262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_26183846-ea80-43ab-acd6-4254ee7e7cf1",
+        "keyword": "Sampai Jadi Debu (Feat. Gardika Gigih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769518999262,
+        "created_at": 1769518999262,
         "locale": "id"
       }
     ],
