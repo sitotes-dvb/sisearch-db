@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769506971024,
+    "last_updated": 1769509789815,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1107,6 +1107,17 @@
         "last_search": 1769506432226,
         "created_at": 1769506432226,
         "locale": "id"
+      },
+      {
+        "id": "kw_2f7b91ae-68fc-4b42-ab5b-88ea50aa8fb0",
+        "keyword": "Dalam Kenangan (From Surga Yang Tak",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
+        "locale": "id"
       }
     ],
     "l": [
@@ -1416,6 +1427,28 @@
         "clicks": 0,
         "last_search": 1769437339682,
         "created_at": 1769437339682,
+        "locale": "id"
+      },
+      {
+        "id": "kw_16197680-0718-4d20-9b9e-4cad8602fe47",
+        "keyword": "Leeyonk Sinatra - Tetep Mekenyem ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_12e5ebed-be92-4885-88f7-0adf83a7799d",
+        "keyword": "Leeyonk Sinatra",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
         "locale": "id"
       }
     ],
@@ -2089,6 +2122,61 @@
         "clicks": 0,
         "last_search": 1769506971020,
         "created_at": 1769506971020,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0a947b8c-a2fa-41b1-9615-f46c1c2a854c",
+        "keyword": "Kenanglah Aku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_de250917-d91c-4cf4-af1c-1a2e731b3fef",
+        "keyword": "Kenanglah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f4a104d1-03d3-46b6-b3cb-e35ca7c1e9bf",
+        "keyword": "Krisdayanti - Dalam Kenangan (From Surga Yang Tak ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_94a07791-083b-4a10-b2a2-5bda927abc32",
+        "keyword": "Krisdayanti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a17c2a2a-e534-45f9-a918-6ab972461f35",
+        "keyword": "Kenanglah Cinta Kita",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
         "locale": "id"
       }
     ],
@@ -3561,6 +3649,28 @@
         "last_search": 1769506236654,
         "created_at": 1769409730862,
         "locale": "id"
+      },
+      {
+        "id": "kw_b21477aa-52fa-4f52-b8c2-c81aa5d6ddd9",
+        "keyword": "Judika - Kenanglah Cinta Kita ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3b4ad9a7-2517-4f0b-817e-a86c85ac66b5",
+        "keyword": "Judika",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
+        "locale": "id"
       }
     ],
     "g": [
@@ -3826,6 +3936,17 @@
         "clicks": 0,
         "last_search": 1769477147758,
         "created_at": 1769477147758,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5ab0fba1-e973-4e4a-a33a-85d47ef1896d",
+        "keyword": "Galau",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
         "locale": "id"
       }
     ],
@@ -4753,6 +4874,50 @@
         "last_search": 1769506971020,
         "created_at": 1769506971020,
         "locale": "id"
+      },
+      {
+        "id": "kw_ce09ad26-16b7-447d-9db3-6f30071fdf09",
+        "keyword": "Naff - Kenanglah Aku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_177192ff-bc0f-4289-a8ac-bdb105847743",
+        "keyword": "Naff",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_084ff723-9386-4546-98e4-57390457a278",
+        "keyword": "NAFF - Kenanglah Aku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cdfd029b-9b1f-434d-8284-3ae347d4623b",
+        "keyword": "NAFF",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
+        "locale": "id"
       }
     ],
     "b": [
@@ -5007,6 +5172,17 @@
         "clicks": 0,
         "last_search": 1769437339682,
         "created_at": 1769437339682,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d4980a4d-f43e-47fb-808c-8d72fb92bead",
+        "keyword": "Benci Kusangka Sayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
         "locale": "id"
       }
     ],
@@ -5570,6 +5746,17 @@
         "clicks": 0,
         "last_search": 1769506432226,
         "created_at": 1769506432226,
+        "locale": "id"
+      },
+      {
+        "id": "kw_83bcf7a7-08cd-4cc1-bbf2-63acc2849d93",
+        "keyword": "Tetep Mekenyem",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
         "locale": "id"
       }
     ],
@@ -6435,6 +6622,17 @@
         "last_search": 1769477147758,
         "created_at": 1769477147758,
         "locale": "id"
+      },
+      {
+        "id": "kw_3b484060-27c7-4e04-81a3-adfbfe9b427a",
+        "keyword": "Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789799,
+        "created_at": 1769509789799,
+        "locale": "id"
       }
     ],
     "a": [
@@ -7284,6 +7482,39 @@
         "last_search": 1769506971020,
         "created_at": 1769477147758,
         "locale": "id"
+      },
+      {
+        "id": "kw_ebb3dc9f-b080-4249-a0b5-28b1f0e67ce9",
+        "keyword": "Aku Untuk Mu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789799,
+        "created_at": 1769509789799,
+        "locale": "id"
+      },
+      {
+        "id": "kw_da5cc70f-e1ff-498c-8c1a-2dad3003dc21",
+        "keyword": "Ariesta Band - Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789799,
+        "created_at": 1769509789799,
+        "locale": "id"
+      },
+      {
+        "id": "kw_415b358c-f5bd-4230-aca4-f485f0afd9f7",
+        "keyword": "Ariesta Band",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789799,
+        "created_at": 1769509789799,
+        "locale": "id"
       }
     ],
     "r": [
@@ -7648,6 +7879,28 @@
         "clicks": 0,
         "last_search": 1769506432226,
         "created_at": 1769506432226,
+        "locale": "id"
+      },
+      {
+        "id": "kw_80fc1183-8f35-45d8-814b-820effe6cc07",
+        "keyword": "Rino Cancers - Aku Untuk Mu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2c6a2132-5cbc-48ad-8ab5-381dc4072469",
+        "keyword": "Rino Cancers",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789799,
+        "created_at": 1769509789799,
         "locale": "id"
       }
     ],
@@ -8718,6 +8971,28 @@
         "last_search": 1769506432226,
         "created_at": 1769506432226,
         "locale": "id"
+      },
+      {
+        "id": "kw_c55b2fa0-ace5-42b6-8e60-4b77e71b01ee",
+        "keyword": "Sonia - Benci Kusangka Sayang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ba896216-7a28-4e35-bf66-4ba1259bc6b6",
+        "keyword": "Sonia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
+        "locale": "id"
       }
     ],
     "y": [
@@ -9051,6 +9326,28 @@
         "clicks": 0,
         "last_search": 1769437428366,
         "created_at": 1769437428366,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6e1b5ed9-6184-484c-8f53-88bd0ec9586c",
+        "keyword": "Five Minutes - Galau",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8f57a4a4-ae23-4acf-965c-7360de6c5974",
+        "keyword": "Five Minutes",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
         "locale": "id"
       }
     ],
@@ -9470,6 +9767,28 @@
         "clicks": 0,
         "last_search": 1769506971020,
         "created_at": 1769477147758,
+        "locale": "id"
+      },
+      {
+        "id": "kw_201dcf2c-7ac7-4ba0-9cf2-3e9f6ab41def",
+        "keyword": "Zigaz - Kenanglah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fa48bb59-2257-4d3a-918d-3d4cb8774507",
+        "keyword": "Zigaz",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769509789798,
+        "created_at": 1769509789798,
         "locale": "id"
       }
     ]
