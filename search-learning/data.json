@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769603724637,
+    "last_updated": 1769604987519,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1735,6 +1735,17 @@
         "clicks": 0,
         "last_search": 1769518999262,
         "created_at": 1769518999262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_46828445-3237-4c0c-9c5f-8431428e6a5d",
+        "keyword": "Lampu Stopan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769604987514,
+        "created_at": 1769604987514,
         "locale": "id"
       }
     ],
@@ -7340,6 +7351,28 @@
         "last_search": 1769582645423,
         "created_at": 1769582645423,
         "locale": "id"
+      },
+      {
+        "id": "kw_9c870438-69e1-4d8c-b8e7-09d1d1b9f3c2",
+        "keyword": "Bardolo Feat Iva Jeniva - Lampu Stopan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769604987514,
+        "created_at": 1769604987514,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0b776192-dcb4-4c1e-93f4-885a8e86bfa8",
+        "keyword": "Bardolo Feat Iva Jeniva",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769604987514,
+        "created_at": 1769604987514,
+        "locale": "id"
       }
     ],
     "t": [
@@ -7843,9 +7876,9 @@
         "keyword": "Tekomlaku feat. Ervinsof - Raiso Ngapusi ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769506432225,
+        "last_search": 1769604987514,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -7854,9 +7887,9 @@
         "keyword": "Tekomlaku feat. Ervinsof",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769506432225,
+        "last_search": 1769604987514,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -10746,9 +10779,9 @@
         "keyword": "Raiso Ngapusi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769506432225,
+        "last_search": 1769604987514,
         "created_at": 1769506432225,
         "locale": "id"
       },
