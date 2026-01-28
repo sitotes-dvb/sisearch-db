@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769605035355,
+    "last_updated": 1769606169459,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -167,9 +167,9 @@
         "keyword": "Denny Caknan - Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 13,
+        "impressions": 14,
         "clicks": 0,
-        "last_search": 1769582290984,
+        "last_search": 1769606169451,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -178,9 +178,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 21,
+        "impressions": 22,
         "clicks": 0,
-        "last_search": 1769582290984,
+        "last_search": 1769606169451,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -607,9 +607,9 @@
         "keyword": "Denny Caknan - Jajalen Aku ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769477147758,
+        "last_search": 1769606169451,
         "created_at": 1769407751811,
         "locale": "id"
       },
@@ -629,9 +629,9 @@
         "keyword": "Denny Caknan - SATRU 2",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769506971020,
+        "last_search": 1769606169451,
         "created_at": 1769407751811,
         "locale": "id"
       },
@@ -1058,9 +1058,9 @@
         "keyword": "Denny Caknan X Happy Asmara - SATRU ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506971020,
+        "last_search": 1769606169451,
         "created_at": 1769477147757,
         "locale": "id"
       },
@@ -1069,9 +1069,9 @@
         "keyword": "Denny Caknan X Happy Asmara",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506971020,
+        "last_search": 1769606169451,
         "created_at": 1769477147757,
         "locale": "id"
       },
@@ -1080,9 +1080,9 @@
         "keyword": "Denny Caknan - Gak Pernah Cukup ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769477147758,
+        "last_search": 1769606169451,
         "created_at": 1769477147758,
         "locale": "id"
       },
@@ -1865,9 +1865,9 @@
         "keyword": "Kumpulan Gitar Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 11,
+        "impressions": 12,
         "clicks": 0,
-        "last_search": 1769582290984,
+        "last_search": 1769606169451,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -3533,6 +3533,17 @@
         "last_search": 1769603724619,
         "created_at": 1769603724619,
         "locale": "id"
+      },
+      {
+        "id": "kw_29210e0e-9cf6-4b91-bcee-dc3a7680d6c2",
+        "keyword": "Pupus",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769606169451,
+        "created_at": 1769606169451,
+        "locale": "id"
       }
     ],
     "m": [
@@ -4865,9 +4876,9 @@
         "keyword": "Jajalen Aku",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769477147758,
+        "last_search": 1769606169451,
         "created_at": 1769397199479,
         "locale": "id"
       },
@@ -5395,9 +5406,9 @@
         "keyword": "Gak Pernah Cukup",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769477147758,
+        "last_search": 1769606169451,
         "created_at": 1769477147758,
         "locale": "id"
       },
@@ -8452,9 +8463,9 @@
         "keyword": "Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 13,
+        "impressions": 14,
         "clicks": 0,
-        "last_search": 1769582290984,
+        "last_search": 1769606169452,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -9169,9 +9180,9 @@
         "keyword": "Casper",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769477147758,
+        "last_search": 1769606169451,
         "created_at": 1769477147758,
         "locale": "id"
       },
@@ -10128,9 +10139,9 @@
         "keyword": "Angga Candra - Sekecewa Itu ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769477147758,
+        "last_search": 1769606169451,
         "created_at": 1769477147758,
         "locale": "id"
       },
@@ -10139,9 +10150,9 @@
         "keyword": "Angga Candra",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769477147758,
+        "last_search": 1769606169451,
         "created_at": 1769477147758,
         "locale": "id"
       },
@@ -10463,6 +10474,39 @@
         "last_search": 1769583885578,
         "created_at": 1769583885578,
         "locale": "id"
+      },
+      {
+        "id": "kw_c2e7dd7d-8fdd-4a39-b44e-e6e381f10e09",
+        "keyword": "Anci Laricci - Anak Karaeng",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769606169451,
+        "created_at": 1769606169451,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b2a7c8d3-6c80-4c30-813d-a5cba3952c07",
+        "keyword": "Anci Laricci",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769606169451,
+        "created_at": 1769606169451,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8e1b9f56-0430-4223-8316-449dd268652b",
+        "keyword": "Anak Karaeng",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769606169451,
+        "created_at": 1769606169451,
+        "locale": "id"
       }
     ],
     "r": [
@@ -10779,9 +10823,9 @@
         "keyword": "Robert Grace - Casper",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769477147758,
+        "last_search": 1769606169451,
         "created_at": 1769477147758,
         "locale": "id"
       },
@@ -10790,9 +10834,9 @@
         "keyword": "Robert Grace",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769477147758,
+        "last_search": 1769606169451,
         "created_at": 1769477147758,
         "locale": "id"
       },
@@ -11036,6 +11080,28 @@
         "clicks": 0,
         "last_search": 1769582688684,
         "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fc5bb6d9-f101-4967-8063-d0a0986341b9",
+        "keyword": "Restu Dewi - Pupus",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769606169451,
+        "created_at": 1769606169451,
+        "locale": "id"
+      },
+      {
+        "id": "kw_390617bd-44bd-4ea4-bada-e9af72f4095e",
+        "keyword": "Restu Dewi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769606169451,
+        "created_at": 1769606169451,
         "locale": "id"
       }
     ],
@@ -11573,9 +11639,9 @@
         "keyword": "SATRU 2",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769506971020,
+        "last_search": 1769606169451,
         "created_at": 1769407751811,
         "locale": "id"
       },
@@ -12013,9 +12079,9 @@
         "keyword": "SATRU",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506971020,
+        "last_search": 1769606169451,
         "created_at": 1769477147758,
         "locale": "id"
       },
@@ -12046,9 +12112,9 @@
         "keyword": "Sekecewa Itu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769477147758,
+        "last_search": 1769606169451,
         "created_at": 1769477147758,
         "locale": "id"
       },
