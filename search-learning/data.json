@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769582645426,
+    "last_updated": 1769582688688,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2624,9 +2624,9 @@
         "keyword": "Kangen Band",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582566047,
+        "last_search": 1769582688684,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -2650,6 +2650,94 @@
         "clicks": 0,
         "last_search": 1769582645422,
         "created_at": 1769582645422,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d8666821-2774-4acb-ac57-e4069a4c346c",
+        "keyword": "Kekasih Bayangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_38152732-ca96-40ef-981a-d1612a7e10b8",
+        "keyword": "Keisya Levronka - Jadi Kekasihku Saja ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d8041036-8ff2-4141-92da-1598933005e3",
+        "keyword": "Keisya Levronka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_83f65059-2b88-4410-901c-855b51544f12",
+        "keyword": "Kekasih Halal",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_43690fe4-4e7a-444f-a3cd-82dfd1fb34f0",
+        "keyword": "Kekasih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_38337394-a65f-447f-82e4-49cfbd82431f",
+        "keyword": "Kekasih Tolol",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2c54fdee-2478-4aa3-a8be-6e8a3b648117",
+        "keyword": "Kembali Pulang - Kangen Band ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3c0bca12-7b6f-436e-8e1c-2ff418866d10",
+        "keyword": "Kembali Pulang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
         "locale": "id"
       }
     ],
@@ -3269,6 +3357,50 @@
         "last_search": 1769582645423,
         "created_at": 1769582645423,
         "locale": "id"
+      },
+      {
+        "id": "kw_bd25b9f8-aaae-490a-b614-5654bed2c021",
+        "keyword": "Polkadots - Mantan kekasih (feat Lamlam HAYDAY ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5b9ece8d-e2a1-4753-8da3-75b446d4017b",
+        "keyword": "Polkadots",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_184616e4-c811-4214-84e5-fa5ee45445ce",
+        "keyword": "Pertemuan - Rita Sugiarto",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dc8f9a97-819d-4f6c-80f2-3c91036c0225",
+        "keyword": "Pertemuan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
       }
     ],
     "m": [
@@ -3541,9 +3673,9 @@
         "keyword": "Mala Agatha",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407810239,
+        "last_search": 1769582688684,
         "created_at": 1769407810239,
         "locale": "id"
       },
@@ -4040,6 +4172,28 @@
         "clicks": 0,
         "last_search": 1769582645423,
         "created_at": 1769582645423,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bde12044-5a3e-418e-bade-45177cc8c727",
+        "keyword": "Mala Agatha - Kekasih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_53218d38-cb7e-426b-868e-f89b9f6299fa",
+        "keyword": "Mantan kekasih (feat Lamlam HAYDAY",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
         "locale": "id"
       }
     ],
@@ -4825,6 +4979,17 @@
         "clicks": 0,
         "last_search": 1769582566047,
         "created_at": 1769582566047,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b6750cd9-a085-4030-a0cb-eb60b888cb68",
+        "keyword": "Jadi Kekasihku Saja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
         "locale": "id"
       }
     ],
@@ -8059,6 +8224,28 @@
         "last_search": 1769520854914,
         "created_at": 1769520854914,
         "locale": "id"
+      },
+      {
+        "id": "kw_71adcf36-8d9f-4977-88f2-fafb39384dad",
+        "keyword": "Erie Suzan - Semoga Kau Setia ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_729504a0-a40d-45e6-8013-edae86b0ce8d",
+        "keyword": "Erie Suzan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
       }
     ],
     "w": [
@@ -8078,9 +8265,9 @@
         "keyword": "WALI",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769407784909,
+        "last_search": 1769582688684,
         "created_at": 1769359994199,
         "locale": "id"
       },
@@ -8468,6 +8655,39 @@
         "last_search": 1769582566047,
         "created_at": 1769582566047,
         "locale": "id"
+      },
+      {
+        "id": "kw_f5c4d5ff-6ddd-4f40-ba24-4a96621ee4cf",
+        "keyword": "WALI - Wasiat Sang Kekasih ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1b7e2d3d-6366-4a72-afa0-105e13209adb",
+        "keyword": "Wasiat Sang Kekasih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cabc89d9-9229-4236-89b2-9b0a3a6f28d9",
+        "keyword": "WALI - Kekasih Halal",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
       }
     ],
     "c": [
@@ -8487,9 +8707,9 @@
         "keyword": "Cakra Khan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769359994199,
+        "last_search": 1769582688684,
         "created_at": 1769359994199,
         "locale": "id"
       },
@@ -8909,6 +9129,17 @@
         "clicks": 0,
         "last_search": 1769582566047,
         "created_at": 1769582566047,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6855fab3-2ca2-4cb6-8dbd-204320594ee6",
+        "keyword": "Cakra Khan - Kekasih Bayangan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
         "locale": "id"
       }
     ],
@@ -10608,6 +10839,17 @@
         "last_search": 1769582645423,
         "created_at": 1769582645422,
         "locale": "id"
+      },
+      {
+        "id": "kw_2eee3da3-d355-4648-b305-bda93750fb4f",
+        "keyword": "Rita Sugiarto",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
       }
     ],
     "s": [
@@ -12039,6 +12281,39 @@
         "clicks": 0,
         "last_search": 1769582566047,
         "created_at": 1769582566047,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eb4b12af-e66e-470f-a1d7-44a0c2ec7868",
+        "keyword": "Semoga Kau Setia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_50d9e95b-6b84-4f7c-b9b3-c220cb0c31a0",
+        "keyword": "Superiots - Kekasih Tolol",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c61e61c0-d81b-42a7-bd97-aa09dd563279",
+        "keyword": "Superiots",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582688684,
+        "created_at": 1769582688684,
         "locale": "id"
       }
     ],
