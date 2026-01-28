@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769607090821,
+    "last_updated": 1769610174639,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2860,6 +2860,28 @@
         "last_search": 1769605035336,
         "created_at": 1769605035336,
         "locale": "id"
+      },
+      {
+        "id": "kw_12c01d5a-cf76-475c-89db-a84c6047baf9",
+        "keyword": "Kerispatih - Tak Lekang Oleh Waktu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174633,
+        "created_at": 1769610174633,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4ca44e85-69ab-43ab-9e11-037fdf02fdb3",
+        "keyword": "Kerispatih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174633,
+        "created_at": 1769610174633,
+        "locale": "id"
       }
     ],
     "p": [
@@ -3609,6 +3631,72 @@
         "clicks": 0,
         "last_search": 1769606169451,
         "created_at": 1769606169451,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4b8f0e51-56f3-4775-847c-64e5da663e41",
+        "keyword": "Pudar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174624,
+        "created_at": 1769610174624,
+        "locale": "id"
+      },
+      {
+        "id": "kw_70b0bba9-59d3-4738-8856-efd9b401d6d2",
+        "keyword": "Pudar Gazza - Suci",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174632,
+        "created_at": 1769610174632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b6fb86cf-aa25-460f-87d9-c1689876059b",
+        "keyword": "Pudar Gazza",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174632,
+        "created_at": 1769610174632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_893a819f-8bef-4908-ab83-e451630c8f31",
+        "keyword": "Pance Pondaag - Untuk Sebuah Nama ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174633,
+        "created_at": 1769610174633,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d6edbb3b-2105-42e9-a6a6-d070f2554806",
+        "keyword": "Pance Pondaag",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174633,
+        "created_at": 1769610174633,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8e327850-a8ee-4bf2-8d77-e293c542d7d1",
+        "keyword": "Pudar Gazza - Merasa Sempurna ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174633,
+        "created_at": 1769610174633,
         "locale": "id"
       }
     ],
@@ -4447,6 +4535,39 @@
         "clicks": 0,
         "last_search": 1769607090803,
         "created_at": 1769607090803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_54669ffa-7b04-4756-97b6-aff2b7aea7d3",
+        "keyword": "Melandy Jacobus - Telah Pudar ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174624,
+        "created_at": 1769610174624,
+        "locale": "id"
+      },
+      {
+        "id": "kw_aba7d2d8-7f3e-45a5-8f94-841dcdf907f7",
+        "keyword": "Melandy Jacobus",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174624,
+        "created_at": 1769610174624,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6351cc66-5f7f-43f7-8722-b06a40307088",
+        "keyword": "Merasa Sempurna",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174633,
+        "created_at": 1769610174633,
         "locale": "id"
       }
     ],
@@ -8255,6 +8376,50 @@
         "last_search": 1769607090803,
         "created_at": 1769607090803,
         "locale": "id"
+      },
+      {
+        "id": "kw_f37dc320-d40e-4aff-aac5-8f5b55ff3cfa",
+        "keyword": "Telah Pudar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174632,
+        "created_at": 1769610174632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cb4debd2-6d9a-430c-b7c4-b4b2ec640695",
+        "keyword": "The Overtunes - Sayap Pelindungmu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174632,
+        "created_at": 1769610174632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_487da8d2-e699-44c8-a18d-712a4eb1b2ba",
+        "keyword": "The Overtunes",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174632,
+        "created_at": 1769610174632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d87d7dbe-e8ee-4b0a-840f-c16970844fe9",
+        "keyword": "Tak Lekang Oleh Waktu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174633,
+        "created_at": 1769610174633,
+        "locale": "id"
       }
     ],
     "e": [
@@ -8575,6 +8740,28 @@
         "clicks": 0,
         "last_search": 1769582688684,
         "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_33abc67b-abd1-463b-aa4f-bb4bbfdd7633",
+        "keyword": "Elvy Sukaesih - Cinta Yang Pudar ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174632,
+        "created_at": 1769610174632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b6a4aa5a-5967-4819-a979-e090a339c4d8",
+        "keyword": "Elvy Sukaesih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174632,
+        "created_at": 1769610174632,
         "locale": "id"
       }
     ],
@@ -9503,6 +9690,39 @@
         "clicks": 0,
         "last_search": 1769607090803,
         "created_at": 1769607090803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a76c559f-561e-43b2-8c2e-e63fbb0de9b2",
+        "keyword": "Cinta Yang Pudar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174632,
+        "created_at": 1769610174632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b218035f-9756-4e12-9ade-4a1f303a0f66",
+        "keyword": "Cermin Band - Untuk Selamanya (Cinta Selamanya ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174633,
+        "created_at": 1769610174633,
+        "locale": "id"
+      },
+      {
+        "id": "kw_76ca7918-b351-4f3e-a7cc-78228ebc5b2a",
+        "keyword": "Cermin Band",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174633,
+        "created_at": 1769610174633,
         "locale": "id"
       }
     ],
@@ -11301,6 +11521,39 @@
         "last_search": 1769607090803,
         "created_at": 1769607090803,
         "locale": "id"
+      },
+      {
+        "id": "kw_3bea36f4-b957-4bf6-b1c3-2184e24dcd2f",
+        "keyword": "Rossa - Pudar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174624,
+        "created_at": 1769610174623,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2159b288-bf96-4cdf-9ab5-f1b77cca9ba9",
+        "keyword": "Rossa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174624,
+        "created_at": 1769610174624,
+        "locale": "id"
+      },
+      {
+        "id": "kw_486b2cf1-4518-408f-aedb-b0abbd9cbdb3",
+        "keyword": "Rupawan Akan Pudar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174633,
+        "created_at": 1769610174633,
+        "locale": "id"
       }
     ],
     "s": [
@@ -12843,6 +13096,28 @@
         "last_search": 1769605035337,
         "created_at": 1769605035336,
         "locale": "id"
+      },
+      {
+        "id": "kw_e0077a95-6470-4165-8b0e-630457f3c891",
+        "keyword": "Suci",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174632,
+        "created_at": 1769610174632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b8433de1-9602-47a4-9309-17757c1a17d5",
+        "keyword": "Sayap Pelindungmu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174633,
+        "created_at": 1769610174632,
+        "locale": "id"
       }
     ],
     "y": [
@@ -12965,6 +13240,28 @@
         "clicks": 0,
         "last_search": 1769582566047,
         "created_at": 1769582566047,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cab4d209-f11a-4f62-be2f-5d7befd8971b",
+        "keyword": "Yollanda - Rupawan Akan Pudar ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174633,
+        "created_at": 1769610174633,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0d8b4fa1-5e02-438c-85e3-303e0e7e0f8a",
+        "keyword": "Yollanda",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174633,
+        "created_at": 1769610174633,
         "locale": "id"
       }
     ],
@@ -14077,6 +14374,28 @@
         "clicks": 0,
         "last_search": 1769583885578,
         "created_at": 1769583885578,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d055a36e-34f4-4f74-ac24-a0be0209af77",
+        "keyword": "Untuk Sebuah Nama",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174633,
+        "created_at": 1769610174633,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c4dd600d-7436-4c88-add3-15f099b3bd82",
+        "keyword": "Untuk Selamanya (Cinta Selamanya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769610174633,
+        "created_at": 1769610174633,
         "locale": "id"
       }
     ],
