@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769582566052,
+    "last_updated": 1769582645426,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2640,6 +2640,17 @@
         "last_search": 1769582566047,
         "created_at": 1769582566047,
         "locale": "id"
+      },
+      {
+        "id": "kw_74040ef0-0418-4d4c-9936-f906f2235cb8",
+        "keyword": "Kemesraan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645422,
+        "created_at": 1769582645422,
+        "locale": "id"
       }
     ],
     "p": [
@@ -3246,6 +3257,17 @@
         "clicks": 0,
         "last_search": 1769582439065,
         "created_at": 1769582439065,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5f22c421-1e16-4bd4-b8d8-2796fa1b91c3",
+        "keyword": "Pantaskah Kau Kembali",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645423,
+        "created_at": 1769582645423,
         "locale": "id"
       }
     ],
@@ -3975,6 +3997,50 @@
         "last_search": 1769582439065,
         "created_at": 1769582439065,
         "locale": "id"
+      },
+      {
+        "id": "kw_ecf2aa48-9c1b-47da-b01a-acb6ee550ad1",
+        "keyword": "Menepi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645422,
+        "created_at": 1769582645422,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6573f6ea-f2ea-44d8-94f4-89832b98fd03",
+        "keyword": "Magic Of Melodic - Pantaskah Kau Kembali ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645423,
+        "created_at": 1769582645423,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6e33f12f-b2e0-453c-aaad-c049867d99b0",
+        "keyword": "Magic Of Melodic",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645423,
+        "created_at": 1769582645423,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0f696989-bab8-4081-a64e-64fa22c22581",
+        "keyword": "Menepi Di Ruang Sunyi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645423,
+        "created_at": 1769582645423,
+        "locale": "id"
       }
     ],
     "h": [
@@ -4372,6 +4438,17 @@
         "clicks": 0,
         "last_search": 1769582439065,
         "created_at": 1769582439065,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d3e9574a-2fd0-45e2-812d-c0c20afa91f0",
+        "keyword": "Hendaklah Cari Pengganti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645422,
+        "created_at": 1769582645422,
         "locale": "id"
       }
     ],
@@ -6024,9 +6101,9 @@
         "keyword": "Ngatmombilung",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769582290984,
+        "last_search": 1769582645422,
         "created_at": 1769506971020,
         "locale": "id"
       },
@@ -6046,9 +6123,9 @@
         "keyword": "Naff",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769518492927,
+        "last_search": 1769582645422,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -6446,6 +6523,28 @@
         "clicks": 0,
         "last_search": 1769582439065,
         "created_at": 1769582439065,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8fc2bfd7-12c3-435c-94ad-94ce41adc2d5",
+        "keyword": "Ngatmombilung - Menepi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645422,
+        "created_at": 1769582645422,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e51d3271-7907-4366-b044-d49a6662b8d3",
+        "keyword": "Naff - Terendap Laraku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645422,
+        "created_at": 1769582645422,
         "locale": "id"
       }
     ],
@@ -6943,6 +7042,17 @@
         "clicks": 0,
         "last_search": 1769560910608,
         "created_at": 1769560910608,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b684776d-dc7e-4342-8e14-56faf6b15dc6",
+        "keyword": "Butiran Debu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645423,
+        "created_at": 1769582645423,
         "locale": "id"
       }
     ],
@@ -7616,6 +7726,39 @@
         "clicks": 0,
         "last_search": 1769522415615,
         "created_at": 1769522415615,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d9d3166b-f526-4850-a2c6-e5999e8c6747",
+        "keyword": "Terendap Laraku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645422,
+        "created_at": 1769582645422,
+        "locale": "id"
+      },
+      {
+        "id": "kw_29091538-7b58-41a1-9240-67340a13cbbc",
+        "keyword": "The Rain - Menepi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645422,
+        "created_at": 1769582645422,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d1d7522d-1d50-4255-804a-fb715640bccf",
+        "keyword": "The Rain",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645422,
+        "created_at": 1769582645422,
         "locale": "id"
       }
     ],
@@ -9847,6 +9990,61 @@
         "last_search": 1769582566047,
         "created_at": 1769582566047,
         "locale": "id"
+      },
+      {
+        "id": "kw_729d4cb5-4f53-4f98-8d37-44996e7422ba",
+        "keyword": "Arief - Rembulan Malam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645422,
+        "created_at": 1769582645422,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b77c822b-b2fb-4b53-aaac-be8edc6e364b",
+        "keyword": "Arief",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645422,
+        "created_at": 1769582645422,
+        "locale": "id"
+      },
+      {
+        "id": "kw_21b4c203-58d9-4529-82b7-9ebed7a84242",
+        "keyword": "Arief - Hendaklah Cari Pengganti ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645422,
+        "created_at": 1769582645422,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3b82b5ff-f14b-4359-8ff1-0f7beefafa6e",
+        "keyword": "Aprilian - Menepi Di Ruang Sunyi ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645423,
+        "created_at": 1769582645423,
+        "locale": "id"
+      },
+      {
+        "id": "kw_26d6490f-26aa-4a74-b30d-cd1121033cd6",
+        "keyword": "Aprilian",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645423,
+        "created_at": 1769582645423,
+        "locale": "id"
       }
     ],
     "r": [
@@ -10376,6 +10574,39 @@
         "clicks": 0,
         "last_search": 1769582566047,
         "created_at": 1769582566047,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9034ad0f-c4ee-41d4-b0ae-0e95a195297f",
+        "keyword": "Rembulan Malam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645422,
+        "created_at": 1769582645422,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7f2ab89c-0b78-45b7-ae09-8bf81f6aa3d9",
+        "keyword": "Rumor - Butiran Debu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645422,
+        "created_at": 1769582645422,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4440a488-fd93-4b2a-8e50-623cc5b6c91c",
+        "keyword": "Rumor",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645423,
+        "created_at": 1769582645422,
         "locale": "id"
       }
     ],
@@ -11342,9 +11573,9 @@
         "keyword": "Serana",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769437428366,
+        "last_search": 1769582645422,
         "created_at": 1769437428366,
         "locale": "id"
       },
@@ -12204,9 +12435,9 @@
         "keyword": "For Revenge - Serana",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769437428366,
+        "last_search": 1769582645422,
         "created_at": 1769437428366,
         "locale": "id"
       },
@@ -12215,9 +12446,9 @@
         "keyword": "For Revenge",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769437428366,
+        "last_search": 1769582645422,
         "created_at": 1769437428366,
         "locale": "id"
       },
@@ -12459,9 +12690,9 @@
         "keyword": "Iwan Fals",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769517639265,
+        "last_search": 1769582645422,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -12507,6 +12738,17 @@
         "clicks": 0,
         "last_search": 1769582439065,
         "created_at": 1769582439065,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fcd3168b-b30b-4c0e-95d7-f8c3bc18edbb",
+        "keyword": "Iwan Fals - Kemesraan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582645422,
+        "created_at": 1769582645422,
         "locale": "id"
       }
     ],
