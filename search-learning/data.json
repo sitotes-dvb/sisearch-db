@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769560910625,
+    "last_updated": 1769582291002,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -167,9 +167,9 @@
         "keyword": "Denny Caknan - Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 12,
+        "impressions": 13,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1769582290984,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -178,9 +178,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 20,
+        "impressions": 21,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1769582290984,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -1305,6 +1305,28 @@
         "last_search": 1769560910608,
         "created_at": 1769560910608,
         "locale": "id"
+      },
+      {
+        "id": "kw_6262ce50-2b79-4e2f-9d6f-f50f54b88f4d",
+        "keyword": "Daftar Koleksi / Ngatmombilung @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582290985,
+        "created_at": 1769582290985,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7bea9ca8-93b0-4b7b-82a0-e54909bcd6c3",
+        "keyword": "Doa Diatas Sujud",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582290985,
+        "created_at": 1769582290985,
+        "locale": "id"
       }
     ],
     "l": [
@@ -1788,9 +1810,9 @@
         "keyword": "Kumpulan Gitar Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1769477147757,
+        "last_search": 1769582290984,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -1909,9 +1931,9 @@
         "keyword": "Kisinan 2",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1769582290985,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -2349,9 +2371,9 @@
         "keyword": "Klebus",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769519159763,
+        "last_search": 1769582290984,
         "created_at": 1769506971020,
         "locale": "id"
       },
@@ -2492,9 +2514,9 @@
         "keyword": "Korban Janji",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1769582290985,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -2518,6 +2540,17 @@
         "clicks": 0,
         "last_search": 1769522415616,
         "created_at": 1769522415616,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2aa90608-cb6e-44ba-8d83-d2abaa70704c",
+        "keyword": "Kok Iso Yo?",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582290985,
+        "created_at": 1769582290985,
         "locale": "id"
       }
     ],
@@ -2758,9 +2791,9 @@
         "keyword": "Pelanggaran",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769519200481,
+        "last_search": 1769582290984,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -3178,9 +3211,9 @@
         "keyword": "Masdddho",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769582290985,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -3387,9 +3420,9 @@
         "keyword": "Masdddho - Kisinan 2",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1769582290985,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -4702,9 +4735,9 @@
         "keyword": "GuyonWaton x Denny Caknan - SANES ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407853710,
+        "last_search": 1769582290985,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -4713,9 +4746,9 @@
         "keyword": "GuyonWaton x Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407853710,
+        "last_search": 1769582290985,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -4724,9 +4757,9 @@
         "keyword": "GuyonWaton - Pelanggaran ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769519200481,
+        "last_search": 1769582290984,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -4735,9 +4768,9 @@
         "keyword": "GuyonWaton",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769519200481,
+        "last_search": 1769582290984,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -4871,6 +4904,17 @@
         "clicks": 0,
         "last_search": 1769520854914,
         "created_at": 1769520854914,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a6e3faeb-6037-41f6-b5aa-4da47b64edcd",
+        "keyword": "GuyonWaton - Kok Iso Yo?",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582290985,
+        "created_at": 1769582290984,
         "locale": "id"
       }
     ],
@@ -5782,9 +5826,9 @@
         "keyword": "Ngatmombilung - Klebus",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769519159763,
+        "last_search": 1769582290984,
         "created_at": 1769506971020,
         "locale": "id"
       },
@@ -5793,9 +5837,9 @@
         "keyword": "Ngatmombilung",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1769582290984,
         "created_at": 1769506971020,
         "locale": "id"
       },
@@ -7427,9 +7471,9 @@
         "keyword": "Eny Sagita",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1769582290985,
         "created_at": 1769407631223,
         "locale": "id"
       },
@@ -7614,9 +7658,9 @@
         "keyword": "Eny Sagita - Korban Janji ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1769582290985,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -7693,9 +7737,9 @@
         "keyword": "Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 12,
+        "impressions": 13,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1769582290984,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -9462,6 +9506,28 @@
         "last_search": 1769520854914,
         "created_at": 1769520854914,
         "locale": "id"
+      },
+      {
+        "id": "kw_2682d184-b5fb-4a87-80ee-9df6ea5a515d",
+        "keyword": "Amanah Band - Doa Diatas Sujud ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582290985,
+        "created_at": 1769582290985,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8f2e1852-149f-4ca6-a3e3-88fa3bd84b74",
+        "keyword": "Amanah Band",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582290985,
+        "created_at": 1769582290985,
+        "locale": "id"
       }
     ],
     "r": [
@@ -10561,9 +10627,9 @@
         "keyword": "SANES",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407853710,
+        "last_search": 1769582290985,
         "created_at": 1769407853710,
         "locale": "id"
       },
