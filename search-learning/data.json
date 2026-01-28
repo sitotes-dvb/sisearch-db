@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769582386049,
+    "last_updated": 1769582439081,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1599,9 +1599,9 @@
         "keyword": "LAVORA feat. Sasa Salsabila - Sewates Mantan ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769410290383,
+        "last_search": 1769582439065,
         "created_at": 1769410290383,
         "locale": "id"
       },
@@ -1610,9 +1610,9 @@
         "keyword": "LAVORA feat. Sasa Salsabila",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769410290383,
+        "last_search": 1769582439065,
         "created_at": 1769410290383,
         "locale": "id"
       },
@@ -2552,6 +2552,39 @@
         "last_search": 1769582290985,
         "created_at": 1769582290985,
         "locale": "id"
+      },
+      {
+        "id": "kw_8afa3e2c-c9e7-40e2-97dd-122cb7026bf2",
+        "keyword": "Kelingan Mantan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582439065,
+        "created_at": 1769582439065,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a7db013a-4465-4148-bfa4-293f9340229d",
+        "keyword": "Kelingan Tresnone Mantan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582439065,
+        "created_at": 1769582439065,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9ffc0402-935d-4016-b63a-6aa01ebb5591",
+        "keyword": "Kelingan Sing Wingi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582439065,
+        "created_at": 1769582439065,
+        "locale": "id"
       }
     ],
     "p": [
@@ -3136,6 +3169,28 @@
         "clicks": 0,
         "last_search": 1769517639265,
         "created_at": 1769517639265,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8f647ab7-dae2-4a33-8a45-10fb5a86118b",
+        "keyword": "Pusma Shakira feat. Dini Kurnia - Kelingan Sing Wingi ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582439065,
+        "created_at": 1769582439065,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7032dfa9-704c-4c79-bd10-bb21ea826467",
+        "keyword": "Pusma Shakira feat. Dini Kurnia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582439065,
+        "created_at": 1769582439065,
         "locale": "id"
       }
     ],
@@ -3843,6 +3898,28 @@
         "last_search": 1769520499398,
         "created_at": 1769520499398,
         "locale": "id"
+      },
+      {
+        "id": "kw_a378991b-439c-4e0f-ae40-77c87e443a96",
+        "keyword": "Mantansu (Mangan Ketan Karo Susu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582439065,
+        "created_at": 1769582439065,
+        "locale": "id"
+      },
+      {
+        "id": "kw_73d3ccc5-d921-4cf5-97ab-b0ba518bb8ad",
+        "keyword": "Mantan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582439065,
+        "created_at": 1769582439065,
+        "locale": "id"
       }
     ],
     "h": [
@@ -3895,9 +3972,9 @@
         "keyword": "Happy Asmara",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769409327690,
+        "last_search": 1769582439065,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -4230,6 +4307,17 @@
         "last_search": 1769520499398,
         "created_at": 1769520499398,
         "locale": "id"
+      },
+      {
+        "id": "kw_133abf05-497f-46f3-ad6f-19f80d31c121",
+        "keyword": "Happy Asmara - Kelingan Tresnone Mantan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582439065,
+        "created_at": 1769582439065,
+        "locale": "id"
       }
     ],
     "j": [
@@ -4304,9 +4392,9 @@
         "keyword": "Jihan Audy",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769506236654,
+        "last_search": 1769582439065,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -4572,6 +4660,17 @@
         "clicks": 0,
         "last_search": 1769520854914,
         "created_at": 1769520854914,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0a4c71db-34d8-4c46-8cd9-d6b55d8f20d1",
+        "keyword": "Jihan Audy - Mantan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582439065,
+        "created_at": 1769582439065,
         "locale": "id"
       }
     ],
@@ -4915,6 +5014,17 @@
         "clicks": 0,
         "last_search": 1769582290985,
         "created_at": 1769582290984,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2cdb06ff-54e8-40bb-82a6-3080eba331eb",
+        "keyword": "Gagal Move On Kangen Mantan (Ala Guyon",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582439065,
+        "created_at": 1769582439065,
         "locale": "id"
       }
     ],
@@ -6013,9 +6123,9 @@
         "keyword": "NDX A.K.A",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769520854914,
+        "last_search": 1769582439065,
         "created_at": 1769518492927,
         "locale": "id"
       },
@@ -6237,6 +6347,28 @@
         "clicks": 0,
         "last_search": 1769560910608,
         "created_at": 1769560910608,
+        "locale": "id"
+      },
+      {
+        "id": "kw_62b01705-d047-4824-8f80-720d13459f34",
+        "keyword": "NDX A.K.A - Kelingan Mantan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582439065,
+        "created_at": 1769582439065,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1f96bf67-ad4b-4c46-82bb-3d196b7ea9f7",
+        "keyword": "NDX A.K.A - Apa Kabar Mantan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582439065,
+        "created_at": 1769582439065,
         "locale": "id"
       }
     ],
@@ -9528,6 +9660,17 @@
         "last_search": 1769582290985,
         "created_at": 1769582290985,
         "locale": "id"
+      },
+      {
+        "id": "kw_8a189638-331e-428e-a791-623f04b07413",
+        "keyword": "Apa Kabar Mantan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582439065,
+        "created_at": 1769582439065,
+        "locale": "id"
       }
     ],
     "r": [
@@ -10880,9 +11023,9 @@
         "keyword": "Sewates Mantan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769410290383,
+        "last_search": 1769582439065,
         "created_at": 1769410290383,
         "locale": "id"
       },
@@ -12030,9 +12173,9 @@
         "keyword": "Intan Chacha",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510714274,
+        "last_search": 1769582439065,
         "created_at": 1769510714274,
         "locale": "id"
       },
@@ -12067,6 +12210,39 @@
         "clicks": 0,
         "last_search": 1769520499398,
         "created_at": 1769520499398,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8da74e7d-1e0e-4de2-9c39-9b752e24b6a5",
+        "keyword": "ILUX - Gagal Move On Kangen Mantan (Ala Guyon ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582439065,
+        "created_at": 1769582439065,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2b76fc96-b948-4775-960a-791a5e118e25",
+        "keyword": "ILUX",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582439065,
+        "created_at": 1769582439065,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fa3daada-b87f-494d-aedd-a831fe2a3daa",
+        "keyword": "Intan Chacha - Mantansu (Mangan Ketan Karo Susu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582439065,
+        "created_at": 1769582439065,
         "locale": "id"
       }
     ],
@@ -12256,6 +12432,28 @@
         "clicks": 0,
         "last_search": 1769511137014,
         "created_at": 1769511137014,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d7b844e3-8141-4e49-ad28-c28ddeab3fbc",
+        "keyword": "Ojo Rusak - Kelingan Mantan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582439065,
+        "created_at": 1769582439065,
+        "locale": "id"
+      },
+      {
+        "id": "kw_052ed71e-747f-45d6-8a55-ea13744f64b9",
+        "keyword": "Ojo Rusak",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769582439065,
+        "created_at": 1769582439065,
         "locale": "id"
       }
     ],
