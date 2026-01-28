@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769583858998,
+    "last_updated": 1769583885584,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3401,6 +3401,28 @@
         "last_search": 1769582688684,
         "created_at": 1769582688684,
         "locale": "id"
+      },
+      {
+        "id": "kw_27f5a644-ce69-4550-a1a2-7df41ce0d048",
+        "keyword": "Perayaan Mati Rasa - Umay Shahab feat. Natania Karin ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769583885578,
+        "created_at": 1769583885578,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c7ebf155-3db5-4f8d-b549-f767c81178d2",
+        "keyword": "Perayaan Mati Rasa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769583885578,
+        "created_at": 1769583885578,
+        "locale": "id"
       }
     ],
     "m": [
@@ -4603,6 +4625,17 @@
         "clicks": 0,
         "last_search": 1769582645422,
         "created_at": 1769582645422,
+        "locale": "id"
+      },
+      {
+        "id": "kw_92a9b2f3-77a0-4f76-8374-6c10460177b4",
+        "keyword": "Hujan Turun",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769583885578,
+        "created_at": 1769583885578,
         "locale": "id"
       }
     ],
@@ -10276,6 +10309,17 @@
         "last_search": 1769582645423,
         "created_at": 1769582645423,
         "locale": "id"
+      },
+      {
+        "id": "kw_275ceada-a9e6-486c-9fc3-44d6c3e63189",
+        "keyword": "Always Somewhere",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769583885578,
+        "created_at": 1769583885578,
+        "locale": "id"
       }
     ],
     "r": [
@@ -12057,9 +12101,9 @@
         "keyword": "Sheila On 7",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769517639265,
+        "last_search": 1769583885578,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -12314,6 +12358,50 @@
         "clicks": 0,
         "last_search": 1769582688684,
         "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c43665d9-7534-40f5-b703-0461b099524a",
+        "keyword": "Seandainya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769583885578,
+        "created_at": 1769583885578,
+        "locale": "id"
+      },
+      {
+        "id": "kw_01a69ef4-9f90-4010-a5fd-e46405412e83",
+        "keyword": "Scorpions - Always Somewhere ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769583885578,
+        "created_at": 1769583885578,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0b11d232-ab04-41f2-bd97-a92acf829714",
+        "keyword": "Scorpions",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769583885578,
+        "created_at": 1769583885578,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d685c640-5371-473e-8c13-cbdb2219d6ec",
+        "keyword": "Sheila On 7 - Hujan Turun",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769583885578,
+        "created_at": 1769583885578,
         "locale": "id"
       }
     ],
@@ -13361,6 +13449,28 @@
         "last_search": 1769582566047,
         "created_at": 1769582566047,
         "locale": "id"
+      },
+      {
+        "id": "kw_791a8fa6-7fc0-4024-9fab-663050e966b7",
+        "keyword": "Vierra - Seandainya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769583885578,
+        "created_at": 1769583885578,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9ed92a3d-da90-4ed1-bfe8-8bf45a63e34a",
+        "keyword": "Vierra",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769583885578,
+        "created_at": 1769583885578,
+        "locale": "id"
       }
     ],
     "u": [
@@ -13439,6 +13549,17 @@
         "clicks": 0,
         "last_search": 1769582566047,
         "created_at": 1769582566047,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6d248205-23db-484d-993c-b1fcd58cccde",
+        "keyword": "Umay Shahab feat. Natania Karin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769583885578,
+        "created_at": 1769583885578,
         "locale": "id"
       }
     ],
