@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769604987519,
+    "last_updated": 1769605035355,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -134,9 +134,9 @@
         "keyword": "Demi Kowe",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769360249302,
+        "last_search": 1769605035337,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -1091,9 +1091,9 @@
         "keyword": "DanangDanzt - Wegah Kelangan 2 ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769506432226,
+        "last_search": 1769605035336,
         "created_at": 1769506432226,
         "locale": "id"
       },
@@ -1102,9 +1102,9 @@
         "keyword": "DanangDanzt",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769506432226,
+        "last_search": 1769605035336,
         "created_at": 1769506432226,
         "locale": "id"
       },
@@ -1359,6 +1359,17 @@
         "clicks": 0,
         "last_search": 1769603724619,
         "created_at": 1769603724619,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5968f6ab-04bf-459a-94bb-7f89df20aa6d",
+        "keyword": "Daftar Koleksi / Ervinsof @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769605035336,
+        "created_at": 1769605035336,
         "locale": "id"
       }
     ],
@@ -2404,9 +2415,9 @@
         "keyword": "Kumpulan Gitar TEKOMLAKU",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769506432226,
+        "last_search": 1769605035336,
         "created_at": 1769506432226,
         "locale": "id"
       },
@@ -2602,9 +2613,9 @@
         "keyword": "Kelingan Mantan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582439065,
+        "last_search": 1769605035337,
         "created_at": 1769582439065,
         "locale": "id"
       },
@@ -2772,6 +2783,17 @@
         "last_search": 1769603724619,
         "created_at": 1769603724619,
         "locale": "id"
+      },
+      {
+        "id": "kw_e4529ecf-c4a7-4d92-b5c3-57a561d7457e",
+        "keyword": "Kumpulan Gitar Ervinsof",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769605035336,
+        "created_at": 1769605035336,
+        "locale": "id"
       }
     ],
     "p": [
@@ -2802,9 +2824,9 @@
         "keyword": "Pendhoza - Demi Kowe",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769360249302,
+        "last_search": 1769605035337,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -2813,9 +2835,9 @@
         "keyword": "Pendhoza",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769360249302,
+        "last_search": 1769605035337,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -6354,9 +6376,9 @@
         "keyword": "Northsle - Ora Mundur",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769506432225,
+        "last_search": 1769605035337,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -6365,9 +6387,9 @@
         "keyword": "Northsle",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769506432225,
+        "last_search": 1769605035337,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -6563,9 +6585,9 @@
         "keyword": "NDX A.K.A",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769582439065,
+        "last_search": 1769605035337,
         "created_at": 1769518492927,
         "locale": "id"
       },
@@ -6794,9 +6816,9 @@
         "keyword": "NDX A.K.A - Kelingan Mantan ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582439065,
+        "last_search": 1769605035337,
         "created_at": 1769582439065,
         "locale": "id"
       },
@@ -7876,9 +7898,9 @@
         "keyword": "Tekomlaku feat. Ervinsof - Raiso Ngapusi ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769604987514,
+        "last_search": 1769605035336,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -7887,9 +7909,9 @@
         "keyword": "Tekomlaku feat. Ervinsof",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769604987514,
+        "last_search": 1769605035336,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -7898,9 +7920,9 @@
         "keyword": "TEKOMLAKU feat Ervinsof - Raiso Ngapusi 2 ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769506432225,
+        "last_search": 1769605035336,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -7909,9 +7931,9 @@
         "keyword": "TEKOMLAKU feat Ervinsof",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769506432225,
+        "last_search": 1769605035336,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -8782,9 +8804,9 @@
         "keyword": "Wegah Kelangan 2",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769506432226,
+        "last_search": 1769605035336,
         "created_at": 1769506432226,
         "locale": "id"
       },
@@ -10779,9 +10801,9 @@
         "keyword": "Raiso Ngapusi",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769604987514,
+        "last_search": 1769605035336,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -10790,9 +10812,9 @@
         "keyword": "Raiso Ngapusi 2",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769506432225,
+        "last_search": 1769605035336,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -12546,6 +12568,17 @@
         "last_search": 1769603724619,
         "created_at": 1769603724619,
         "locale": "id"
+      },
+      {
+        "id": "kw_1236bbe1-cb1b-437b-825e-4de98a4edada",
+        "keyword": "Saktenane 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769605035337,
+        "created_at": 1769605035336,
+        "locale": "id"
       }
     ],
     "y": [
@@ -13418,9 +13451,9 @@
         "keyword": "Ora Mundur",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769506432226,
+        "last_search": 1769605035337,
         "created_at": 1769506432226,
         "locale": "id"
       },
@@ -13565,9 +13598,9 @@
         "keyword": "Vadesta Ft. Destya Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1769605035336,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -13613,6 +13646,17 @@
         "clicks": 0,
         "last_search": 1769583885578,
         "created_at": 1769583885578,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9b4c99a0-cf83-4051-9819-f2d613685ce7",
+        "keyword": "Vadesta Ft. Destya Eka - Saktenane 2 ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769605035336,
+        "created_at": 1769605035336,
         "locale": "id"
       }
     ],
