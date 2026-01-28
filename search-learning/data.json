@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769610711711,
+    "last_updated": 1769611865012,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -178,9 +178,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 26,
+        "impressions": 27,
         "clicks": 0,
-        "last_search": 1769607090802,
+        "last_search": 1769611865001,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -1381,6 +1381,17 @@
         "clicks": 0,
         "last_search": 1769606173936,
         "created_at": 1769606173936,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e5369e41-5c69-4de2-8a73-158d63f5c601",
+        "keyword": "Denny Caknan - Tanpo Tresnamu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769611865001,
+        "created_at": 1769611865001,
         "locale": "id"
       }
     ],
@@ -4569,6 +4580,28 @@
         "last_search": 1769610174633,
         "created_at": 1769610174633,
         "locale": "id"
+      },
+      {
+        "id": "kw_d5f31c84-23b1-4009-82ef-2b120f7d5c55",
+        "keyword": "MIQBAL GA ft SISKA AMANDA - ORA ISO ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769611865001,
+        "created_at": 1769611865001,
+        "locale": "id"
+      },
+      {
+        "id": "kw_94820e22-0003-4c22-8b4b-2bc3e2998bb0",
+        "keyword": "MIQBAL GA ft SISKA AMANDA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769611865001,
+        "created_at": 1769611865001,
+        "locale": "id"
       }
     ],
     "h": [
@@ -5375,6 +5408,17 @@
         "clicks": 0,
         "last_search": 1769582688684,
         "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c29a54a9-9f71-4e85-86e8-2a077450da28",
+        "keyword": "Janur Garing",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769611865001,
+        "created_at": 1769611865001,
         "locale": "id"
       }
     ],
@@ -6827,9 +6871,9 @@
         "keyword": "NDX A.K.A",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769605035337,
+        "last_search": 1769611865001,
         "created_at": 1769518492927,
         "locale": "id"
       },
@@ -7117,6 +7161,61 @@
         "clicks": 0,
         "last_search": 1769607090803,
         "created_at": 1769607090803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eb0f7f18-e3b4-4257-9d50-fdfb5caeaa1e",
+        "keyword": "NDX A.K.A feat. Ayu Yuliana - Janur Garing ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769611865001,
+        "created_at": 1769611865001,
+        "locale": "id"
+      },
+      {
+        "id": "kw_537c1c1b-ce88-4b00-bf0c-15eb0dadb021",
+        "keyword": "NDX A.K.A feat. Ayu Yuliana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769611865001,
+        "created_at": 1769611865001,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5b88dc34-147d-418e-9ee8-c01a937fe736",
+        "keyword": "Ndarboy Genk Feat. Jessy Andra - Tibo Mburi ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769611865001,
+        "created_at": 1769611865001,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2d5cf9e3-1395-44fc-8340-df6a9441235a",
+        "keyword": "Ndarboy Genk Feat. Jessy Andra",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769611865001,
+        "created_at": 1769611865001,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e608dbc9-bfed-46fd-8ee1-fa74a32b5e9b",
+        "keyword": "NDX A.K.A - Rajodo ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769611865001,
+        "created_at": 1769611865001,
         "locale": "id"
       }
     ],
@@ -8419,6 +8518,28 @@
         "clicks": 0,
         "last_search": 1769610174633,
         "created_at": 1769610174633,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3710fbcb-80f2-41d4-81f3-532d9c7f2de6",
+        "keyword": "Tanpo Tresnamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769611865001,
+        "created_at": 1769611865001,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a724ef21-61bd-489e-b77a-3d5fe7302321",
+        "keyword": "Tibo Mburi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769611865001,
+        "created_at": 1769611865001,
         "locale": "id"
       }
     ],
@@ -11109,9 +11230,9 @@
         "keyword": "Raiso Dadi Siji - Sarah Brilian feat. Stress Royal ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769407902838,
+        "last_search": 1769611865001,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -11120,9 +11241,9 @@
         "keyword": "Raiso Dadi Siji",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769407902838,
+        "last_search": 1769611865001,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -11553,6 +11674,17 @@
         "clicks": 0,
         "last_search": 1769610174633,
         "created_at": 1769610174633,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b8226c91-ea26-4616-bcad-b6978659e989",
+        "keyword": "Rajodo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769611865001,
+        "created_at": 1769611865001,
         "locale": "id"
       }
     ],
@@ -12156,9 +12288,9 @@
         "keyword": "Sarah Brilian feat. Stress Royal",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769407902838,
+        "last_search": 1769611865001,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -12805,9 +12937,9 @@
         "keyword": "SAKTENANE",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1769611865000,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -13091,9 +13223,9 @@
         "keyword": "Saktenane 2",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769605035337,
+        "last_search": 1769611865001,
         "created_at": 1769605035336,
         "locale": "id"
       },
@@ -13117,6 +13249,17 @@
         "clicks": 0,
         "last_search": 1769610174633,
         "created_at": 1769610174632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4f88b230-a451-4604-a5ec-142ea752eb9e",
+        "keyword": "Saktenane 3",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769611865001,
+        "created_at": 1769611865001,
         "locale": "id"
       }
     ],
@@ -13872,6 +14015,17 @@
         "last_search": 1769582645422,
         "created_at": 1769582645422,
         "locale": "id"
+      },
+      {
+        "id": "kw_6b0e6192-4546-4052-96e7-7686155ade46",
+        "keyword": "Isih Sayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769611865001,
+        "created_at": 1769611865001,
+        "locale": "id"
       }
     ],
     "o": [
@@ -14083,6 +14237,39 @@
         "last_search": 1769582439065,
         "created_at": 1769582439065,
         "locale": "id"
+      },
+      {
+        "id": "kw_942a0d99-81ae-40ad-9e48-1b17d02231b1",
+        "keyword": "ORA ISO",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769611865001,
+        "created_at": 1769611865001,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ef03228f-ce09-4ae3-ba94-607af82380aa",
+        "keyword": "Orkes Kapsol - Isih Sayang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769611865001,
+        "created_at": 1769611865001,
+        "locale": "id"
+      },
+      {
+        "id": "kw_058dc40e-418e-4679-8576-95dcae74a129",
+        "keyword": "Orkes Kapsol",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769611865001,
+        "created_at": 1769611865001,
+        "locale": "id"
       }
     ],
     "x": [
@@ -14170,9 +14357,9 @@
         "keyword": "Vadesta Ft. Destya Eka - SAKTENANE ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1769611865000,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -14181,9 +14368,9 @@
         "keyword": "Vadesta Ft. Destya Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769605035336,
+        "last_search": 1769611865000,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -14236,9 +14423,9 @@
         "keyword": "Vadesta Ft. Destya Eka - Saktenane 2 ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769605035336,
+        "last_search": 1769611865001,
         "created_at": 1769605035336,
         "locale": "id"
       },
@@ -14284,6 +14471,17 @@
         "clicks": 0,
         "last_search": 1769607090803,
         "created_at": 1769607090803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_546fda71-aecf-4c60-8ac5-1bdb3a27e534",
+        "keyword": "Vadesta Ft. Destya Eka - Saktenane 3 ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769611865001,
+        "created_at": 1769611865000,
         "locale": "id"
       }
     ],
