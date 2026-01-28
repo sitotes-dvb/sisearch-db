@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769606260817,
+    "last_updated": 1769607090821,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -178,9 +178,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 25,
+        "impressions": 26,
         "clicks": 0,
-        "last_search": 1769606260813,
+        "last_search": 1769607090802,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -596,9 +596,9 @@
         "keyword": "Denny Caknan - Langgeng Dayaning Rasa (LDR ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506971020,
+        "last_search": 1769607090802,
         "created_at": 1769407733906,
         "locale": "id"
       },
@@ -1412,9 +1412,9 @@
         "keyword": "Langgeng Dayaning Rasa (LDR",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769506971020,
+        "last_search": 1769607090802,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -1709,9 +1709,9 @@
         "keyword": "Leeyonk Sinatra",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769518492927,
+        "last_search": 1769607090803,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -1768,6 +1768,61 @@
         "clicks": 0,
         "last_search": 1769604987514,
         "created_at": 1769604987514,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b1ed575f-a4f2-4574-bfae-aabe100af83c",
+        "keyword": "LDR",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3cab2b07-5f1c-41c1-8554-b2cee8059126",
+        "keyword": "Leeyonk Sinatra - Lelah Dilanda Rindu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f620bae1-399b-4f32-8c8c-7aa1fd645705",
+        "keyword": "Lelah Dilanda Rindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_95690710-19d0-4c93-99c0-76242eb97c99",
+        "keyword": "L.D.R - Nella Kharisma Feat. Fery ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6886ec83-f44e-42e8-8fb8-d5a78ec20c3a",
+        "keyword": "L.D.R",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
         "locale": "id"
       }
     ],
@@ -4349,6 +4404,50 @@
         "last_search": 1769582688684,
         "created_at": 1769582688684,
         "locale": "id"
+      },
+      {
+        "id": "kw_26c642ac-c4bc-4a4b-8be1-105d2aa52c9f",
+        "keyword": "Motifora - LDR",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_359346bb-cf4b-4671-a159-5a66c779a050",
+        "keyword": "Motifora",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2da81baa-3abc-4c48-b4f7-1080d150da57",
+        "keyword": "Mahen - LDR ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bd1dfbcb-5403-41f0-bd51-3b3de51c03df",
+        "keyword": "Mahen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
+        "locale": "id"
       }
     ],
     "h": [
@@ -6887,6 +6986,17 @@
         "last_search": 1769603724619,
         "created_at": 1769603724619,
         "locale": "id"
+      },
+      {
+        "id": "kw_1deb6506-73fa-449d-a10e-607000cd4cbe",
+        "keyword": "Nella Kharisma Feat. Fery",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
+        "locale": "id"
       }
     ],
     "b": [
@@ -8123,6 +8233,28 @@
         "last_search": 1769582645422,
         "created_at": 1769582645422,
         "locale": "id"
+      },
+      {
+        "id": "kw_84085060-75a5-4d29-b9a4-0bfb91a813d4",
+        "keyword": "Tika Pagraky - LDR",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d833a735-33d1-4b5a-973d-bcb2c1eeb5df",
+        "keyword": "Tika Pagraky",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
+        "locale": "id"
       }
     ],
     "e": [
@@ -8886,6 +9018,28 @@
         "last_search": 1769582688684,
         "created_at": 1769582688684,
         "locale": "id"
+      },
+      {
+        "id": "kw_6b8492c8-4d2a-4713-9738-1287a7e79fc2",
+        "keyword": "Wanri Tobe - Cinta LDR Namafun ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ec6b9a25-ca1d-4c00-ab13-0dbdbef7570f",
+        "keyword": "Wanri Tobe",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
+        "locale": "id"
       }
     ],
     "c": [
@@ -9338,6 +9492,17 @@
         "clicks": 0,
         "last_search": 1769582688684,
         "created_at": 1769582688684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b441674a-4261-49c6-b11b-445a8522e2cc",
+        "keyword": "Cinta LDR Namafun",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
         "locale": "id"
       }
     ],
@@ -11113,6 +11278,28 @@
         "clicks": 0,
         "last_search": 1769606169451,
         "created_at": 1769606169451,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4bb5871f-2302-4b82-8022-2591feb24fc8",
+        "keyword": "Raisa - LDR",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090802,
+        "locale": "id"
+      },
+      {
+        "id": "kw_94b6bf17-b9cd-4d85-af20-322f72ca52dc",
+        "keyword": "Raisa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
         "locale": "id"
       }
     ],
@@ -13756,6 +13943,50 @@
         "clicks": 0,
         "last_search": 1769605035336,
         "created_at": 1769605035336,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e56a73fb-a25c-47b2-9622-1be6e4135658",
+        "keyword": "Vicky Salamor - LDR",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b38a8143-8a2d-4f1b-b82d-aaba09590aa4",
+        "keyword": "Vicky Salamor",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bbdbe1ec-b0ea-4bd0-8074-39bfed0866ca",
+        "keyword": "Vita Alvia - LDR ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_798fd682-dad3-4b9d-99e1-612b544190f2",
+        "keyword": "Vita Alvia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769607090803,
+        "created_at": 1769607090803,
         "locale": "id"
       }
     ],
