@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769672111100,
+    "last_updated": 1769694060403,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1003,9 +1003,9 @@
         "keyword": "Dewa 19",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769510279126,
+        "last_search": 1769694060364,
         "created_at": 1769423057828,
         "locale": "id"
       },
@@ -1469,6 +1469,17 @@
         "clicks": 0,
         "last_search": 1769670975194,
         "created_at": 1769670975194,
+        "locale": "id"
+      },
+      {
+        "id": "kw_985564d1-23fd-4950-9da2-d909285b987e",
+        "keyword": "Dewa 19 - Separuh Nafas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060364,
+        "created_at": 1769694060364,
         "locale": "id"
       }
     ],
@@ -1999,6 +2010,28 @@
         "clicks": 0,
         "last_search": 1769672111093,
         "created_at": 1769672111093,
+        "locale": "id"
+      },
+      {
+        "id": "kw_87e90763-2edc-48b2-9ca8-8ff56cb2c23a",
+        "keyword": "LAST CHILD - Seluruh Nafas Ini ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060365,
+        "created_at": 1769694060365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_aa7909a0-9aa0-4299-bf42-fb9d8da61314",
+        "keyword": "LAST CHILD",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060365,
+        "created_at": 1769694060365,
         "locale": "id"
       }
     ],
@@ -3189,6 +3222,28 @@
         "clicks": 0,
         "last_search": 1769672111093,
         "created_at": 1769672111093,
+        "locale": "id"
+      },
+      {
+        "id": "kw_56dbed3c-85e4-4a7d-b94b-af085c622780",
+        "keyword": "Kau Tinggal Aku Separuh Jalan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060365,
+        "created_at": 1769694060365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_031866f2-7062-41df-a5a7-97ec60cf181a",
+        "keyword": "Kamu Satu Satunya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060365,
+        "created_at": 1769694060365,
         "locale": "id"
       }
     ],
@@ -5092,9 +5147,9 @@
         "keyword": "Menemukanmu - Seventeen",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769669825760,
+        "last_search": 1769694060365,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -5103,9 +5158,9 @@
         "keyword": "Menemukanmu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769669825760,
+        "last_search": 1769694060365,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -5959,6 +6014,17 @@
         "last_search": 1769669620389,
         "created_at": 1769669620389,
         "locale": "id"
+      },
+      {
+        "id": "kw_ee650a26-ec80-46f5-9573-11b9525a5f59",
+        "keyword": "Jalanku Tak Panjang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060365,
+        "created_at": 1769694060365,
+        "locale": "id"
       }
     ],
     "g": [
@@ -6387,9 +6453,9 @@
         "keyword": "NOAH",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769522415615,
+        "last_search": 1769694060364,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -7344,9 +7410,9 @@
         "keyword": "Nano",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510958795,
+        "last_search": 1769694060364,
         "created_at": 1769510958795,
         "locale": "id"
       },
@@ -7843,6 +7909,39 @@
         "clicks": 0,
         "last_search": 1769672111093,
         "created_at": 1769672111093,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f1a07948-bea1-4365-90eb-1745bf4100ce",
+        "keyword": "Nano - Separuhku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060364,
+        "created_at": 1769694060364,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eceb9e85-5630-4526-a23b-92164876717f",
+        "keyword": "Najwa Latif - Tiga ft. Akwa Arifin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060365,
+        "created_at": 1769694060365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2b76d5b0-b20c-4b17-a9f1-2d8a8655a79b",
+        "keyword": "Najwa Latif",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060365,
+        "created_at": 1769694060365,
         "locale": "id"
       }
     ],
@@ -9075,9 +9174,9 @@
         "keyword": "Thomas Arya",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769511137014,
+        "last_search": 1769694060364,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -9310,6 +9409,28 @@
         "clicks": 0,
         "last_search": 1769672111094,
         "created_at": 1769672111094,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1a8f5f5c-4fdc-4adc-bf08-d0228f676841",
+        "keyword": "Thomas Arya - Kau Tinggal Aku Separuh Jalan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060364,
+        "created_at": 1769694060364,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2ac11b4e-34c8-4a6e-8a0f-47aed6a84dc7",
+        "keyword": "Tiga ft. Akwa Arifin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060365,
+        "created_at": 1769694060365,
         "locale": "id"
       }
     ],
@@ -12009,9 +12130,9 @@
         "keyword": "Ari Lasso",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769669620390,
+        "last_search": 1769694060365,
         "created_at": 1769669620390,
         "locale": "id"
       },
@@ -12112,6 +12233,39 @@
         "clicks": 0,
         "last_search": 1769672111093,
         "created_at": 1769672111093,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f765717b-f916-4048-89b4-be84da6f12d4",
+        "keyword": "Anang - Separuh Jiwaku Pergi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060364,
+        "created_at": 1769694060364,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6c965855-96c6-4650-9baf-ca8ffb58e522",
+        "keyword": "Anang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060364,
+        "created_at": 1769694060364,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4d575e1a-9f2b-426d-933a-5f4a3f87b988",
+        "keyword": "Ari Lasso - Jalanku Tak Panjang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060365,
+        "created_at": 1769694060365,
         "locale": "id"
       }
     ],
@@ -12838,9 +12992,9 @@
         "keyword": "Seventeen",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769669825760,
+        "last_search": 1769694060365,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -14526,6 +14680,72 @@
         "last_search": 1769670975194,
         "created_at": 1769670975194,
         "locale": "id"
+      },
+      {
+        "id": "kw_0bc21b4d-7ab6-4071-bb10-3d895e36ddb1",
+        "keyword": "Separuh Aku - NOAH",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060364,
+        "created_at": 1769694060364,
+        "locale": "id"
+      },
+      {
+        "id": "kw_48f74d49-3e4f-4748-88ed-4ff3906a193e",
+        "keyword": "Separuh Aku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060364,
+        "created_at": 1769694060364,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b344cc85-6c01-460f-b9a9-df885349aba5",
+        "keyword": "Separuh Jiwaku Pergi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060364,
+        "created_at": 1769694060364,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9fe56373-8a63-4c17-bcbc-582029216117",
+        "keyword": "Separuh Nafas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060364,
+        "created_at": 1769694060364,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a2aa594b-5016-4e2f-a4f4-eba46e216866",
+        "keyword": "Separuhku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060364,
+        "created_at": 1769694060364,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0cdb7964-2dcd-452f-99f1-3256bba5b6a1",
+        "keyword": "Seluruh Nafas Ini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060365,
+        "created_at": 1769694060365,
+        "locale": "id"
       }
     ],
     "y": [
@@ -15712,6 +15932,28 @@
         "clicks": 0,
         "last_search": 1769672111093,
         "created_at": 1769672111093,
+        "locale": "id"
+      },
+      {
+        "id": "kw_86097775-6d8d-4b08-8c34-2b3cc3805ef7",
+        "keyword": "XXDITTO - Kamu Satu Satunya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060365,
+        "created_at": 1769694060365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3c37022f-a37e-4c8e-b0d5-f10509f5a444",
+        "keyword": "XXDITTO",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769694060365,
+        "created_at": 1769694060365,
         "locale": "id"
       }
     ],
