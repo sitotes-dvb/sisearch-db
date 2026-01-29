@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769707419107,
+    "last_updated": 1769707449064,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -178,9 +178,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 31,
+        "impressions": 32,
         "clicks": 0,
-        "last_search": 1769703914633,
+        "last_search": 1769707449044,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -233,9 +233,9 @@
         "keyword": "Denny Caknan - Sigar",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1769606260813,
+        "last_search": 1769707449044,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -662,9 +662,9 @@
         "keyword": "Dini Kurnia",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407810239,
+        "last_search": 1769707449045,
         "created_at": 1769407810239,
         "locale": "id"
       },
@@ -1546,6 +1546,28 @@
         "clicks": 0,
         "last_search": 1769705686139,
         "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_070d79f5-111e-4cc9-8c2d-186c68e69da6",
+        "keyword": "Dewi Lanjar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449045,
+        "created_at": 1769707449045,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1041516b-53c7-42cd-bd0f-909fdfdbf6b5",
+        "keyword": "Dini Kurnia - Katon Manise -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449045,
+        "created_at": 1769707449045,
         "locale": "id"
       }
     ],
@@ -3388,6 +3410,28 @@
         "last_search": 1769703958513,
         "created_at": 1769703958513,
         "locale": "id"
+      },
+      {
+        "id": "kw_2342752a-dec0-4ba1-8edc-a3212996fa72",
+        "keyword": "Kumpulan Gitar Denny Caknan -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449045,
+        "created_at": 1769707449045,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c890eda2-833c-4842-8d79-725b89a28ee9",
+        "keyword": "Katon Manise -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449046,
+        "created_at": 1769707449046,
+        "locale": "id"
       }
     ],
     "p": [
@@ -4346,6 +4390,28 @@
         "clicks": 0,
         "last_search": 1769703958514,
         "created_at": 1769670975193,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ea6dd1ad-6453-4d6a-9f09-6307724d7cec",
+        "keyword": "Prigel Pangayu - Dewi Lanjar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449045,
+        "created_at": 1769707449045,
+        "locale": "id"
+      },
+      {
+        "id": "kw_592b1f64-546a-4959-8f07-26f16e3535bf",
+        "keyword": "Prigel Pangayu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449045,
+        "created_at": 1769707449045,
         "locale": "id"
       }
     ],
@@ -5416,6 +5482,17 @@
         "last_search": 1769707419092,
         "created_at": 1769707419092,
         "locale": "id"
+      },
+      {
+        "id": "kw_3a8c6e56-83f0-49b2-a33f-cd5ebce15358",
+        "keyword": "Mesem Katon Manise",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449044,
+        "created_at": 1769707449044,
+        "locale": "id"
       }
     ],
     "h": [
@@ -5976,9 +6053,9 @@
         "keyword": "James AP",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769409327690,
+        "last_search": 1769707449044,
         "created_at": 1769395121055,
         "locale": "id"
       },
@@ -6343,6 +6420,17 @@
         "clicks": 0,
         "last_search": 1769705686139,
         "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2da1613e-041e-4854-8627-8cf43105d48b",
+        "keyword": "James AP - Sigar Atine -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449044,
+        "created_at": 1769707449044,
         "locale": "id"
       }
     ],
@@ -8437,6 +8525,28 @@
         "clicks": 0,
         "last_search": 1769707419092,
         "created_at": 1769707419092,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d5acc9b5-ae48-460f-b40c-3ee196101c20",
+        "keyword": "Nanda Feraro Feat. Denik Armila - Separuh Ati ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449045,
+        "created_at": 1769707449045,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5d52fd9e-0493-4956-9882-df809bcb5b47",
+        "keyword": "Nanda Feraro Feat. Denik Armila",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449045,
+        "created_at": 1769707449045,
         "locale": "id"
       }
     ],
@@ -11635,9 +11745,9 @@
         "keyword": "Anggun Pramudita",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769360249303,
+        "last_search": 1769707449044,
         "created_at": 1769360249303,
         "locale": "id"
       },
@@ -12949,6 +13059,17 @@
         "last_search": 1769707419092,
         "created_at": 1769707419092,
         "locale": "id"
+      },
+      {
+        "id": "kw_fb2a4333-6892-4d24-a97e-a4cc6224f011",
+        "keyword": "Anggun Pramudita - Sigar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449044,
+        "created_at": 1769707449044,
+        "locale": "id"
       }
     ],
     "r": [
@@ -13773,9 +13894,9 @@
         "keyword": "Sigar",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1769606260813,
+        "last_search": 1769707449044,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -13839,9 +13960,9 @@
         "keyword": "Syahiba Saufa",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769610711694,
+        "last_search": 1769707449044,
         "created_at": 1769396521656,
         "locale": "id"
       },
@@ -15505,6 +15626,72 @@
         "last_search": 1769707419092,
         "created_at": 1769707419092,
         "locale": "id"
+      },
+      {
+        "id": "kw_855e5229-03b5-481f-aa8e-4dd979aa35c6",
+        "keyword": "Syahiba Saufa - Mesem Katon Manise",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449044,
+        "created_at": 1769707449044,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d9c3d72a-7037-4e6b-a9f8-f18ab17f9534",
+        "keyword": "Sigar Atine -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449045,
+        "created_at": 1769707449044,
+        "locale": "id"
+      },
+      {
+        "id": "kw_40997f08-58d7-4b27-b83f-991b805ae9af",
+        "keyword": "Separuh Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449045,
+        "created_at": 1769707449045,
+        "locale": "id"
+      },
+      {
+        "id": "kw_90d9257c-fc5f-430e-80fd-18d7dc3cd68b",
+        "keyword": "Sonny Josz - Sumi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449045,
+        "created_at": 1769707449045,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f261cef3-c0e6-4435-a0a8-6d9546383984",
+        "keyword": "Sonny Josz",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449045,
+        "created_at": 1769707449045,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e9b3fb59-dd56-4297-8301-e17eadc4a61d",
+        "keyword": "Sumi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449045,
+        "created_at": 1769707449045,
+        "locale": "id"
       }
     ],
     "y": [
@@ -17012,6 +17199,28 @@
         "clicks": 0,
         "last_search": 1769703914633,
         "created_at": 1769703874522,
+        "locale": "id"
+      },
+      {
+        "id": "kw_99904293-fe3b-4465-b2db-67f092e29939",
+        "keyword": "Vita Alvia Feat. Nanda Feraro - Separuh Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449045,
+        "created_at": 1769707449045,
+        "locale": "id"
+      },
+      {
+        "id": "kw_346f291f-1824-4b79-b3c5-d95e6d325404",
+        "keyword": "Vita Alvia Feat. Nanda Feraro",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707449045,
+        "created_at": 1769707449045,
         "locale": "id"
       }
     ],
