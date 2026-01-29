@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769670975216,
+    "last_updated": 1769672111100,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1522,9 +1522,9 @@
         "keyword": "LAVORA Ft Ena Vika",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769519159763,
+        "last_search": 1769672111093,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -1643,9 +1643,9 @@
         "keyword": "LAVORA",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769410290382,
+        "last_search": 1769672111093,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -1731,9 +1731,9 @@
         "keyword": "LAVORA Ft Ratih SDE",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769410290383,
+        "last_search": 1769672111093,
         "created_at": 1769410290383,
         "locale": "id"
       },
@@ -1978,6 +1978,28 @@
         "last_search": 1769669825760,
         "created_at": 1769669825760,
         "locale": "id"
+      },
+      {
+        "id": "kw_1bfcfc0c-6f23-4444-8eda-508ad3194140",
+        "keyword": "LAVORA - Akhire Bali -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769672111093,
+        "created_at": 1769672111093,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b628994d-8150-48dd-8da1-0b54bf74e0bb",
+        "keyword": "LAVORA Ft Ratih SDE - Ora Ngemis Bali",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769672111093,
+        "created_at": 1769672111093,
+        "locale": "id"
       }
     ],
     "k": [
@@ -2206,9 +2228,9 @@
         "keyword": "Kisinan 2",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1769606260813,
+        "last_search": 1769672111093,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -3156,6 +3178,17 @@
         "clicks": 0,
         "last_search": 1769670975194,
         "created_at": 1769670975194,
+        "locale": "id"
+      },
+      {
+        "id": "kw_85dc0eac-d463-4b6d-8181-04db7e5a9170",
+        "keyword": "Kumpulan Gitar LAVORA -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769672111093,
+        "created_at": 1769672111093,
         "locale": "id"
       }
     ],
@@ -4190,9 +4223,9 @@
         "keyword": "Masdddho",
         "tags": [],
         "weight": 1,
-        "impressions": 11,
+        "impressions": 12,
         "clicks": 0,
-        "last_search": 1769670975193,
+        "last_search": 1769672111093,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -4399,9 +4432,9 @@
         "keyword": "Masdddho - Kisinan 2",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1769606260813,
+        "last_search": 1769672111093,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -6431,9 +6464,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 12,
+        "impressions": 13,
         "clicks": 0,
-        "last_search": 1769610711694,
+        "last_search": 1769672111093,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -6816,9 +6849,9 @@
         "keyword": "Northsle Ft Agiff",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769407902838,
+        "last_search": 1769672111094,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -7800,6 +7833,17 @@
         "last_search": 1769670975194,
         "created_at": 1769670975194,
         "locale": "id"
+      },
+      {
+        "id": "kw_e8e00ae2-a6c0-4117-9b38-4297b4c976c3",
+        "keyword": "NDX AKA - Rasah Dadi Pelangi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769672111093,
+        "created_at": 1769672111093,
+        "locale": "id"
       }
     ],
     "b": [
@@ -8756,9 +8800,9 @@
         "keyword": "Tresno Liyane",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769407902838,
+        "last_search": 1769672111094,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -9255,6 +9299,17 @@
         "clicks": 0,
         "last_search": 1769670975194,
         "created_at": 1769670975194,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4eab388c-5fe4-49bc-8633-7344e5e5340f",
+        "keyword": "Tresno Liyane - Northsle Ft Agiff",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769672111094,
+        "created_at": 1769672111094,
         "locale": "id"
       }
     ],
@@ -12047,6 +12102,17 @@
         "last_search": 1769670975193,
         "created_at": 1769670975177,
         "locale": "id"
+      },
+      {
+        "id": "kw_1b2c170c-457b-46fd-a104-949b7a41834e",
+        "keyword": "Akhire Bali -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769672111093,
+        "created_at": 1769672111093,
+        "locale": "id"
       }
     ],
     "r": [
@@ -12088,9 +12154,9 @@
         "keyword": "Rasah Bali - LAVORA Ft Ena Vika",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314317,
+        "last_search": 1769672111093,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -12099,9 +12165,9 @@
         "keyword": "Rasah Bali",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769519159763,
+        "last_search": 1769672111093,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -12708,6 +12774,50 @@
         "clicks": 0,
         "last_search": 1769611865001,
         "created_at": 1769611865001,
+        "locale": "id"
+      },
+      {
+        "id": "kw_011a9be7-e9d4-4bce-8579-071658dbdb38",
+        "keyword": "Rasah Bali 2 - LAVORA Ft Ena Vika",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769672111093,
+        "created_at": 1769672111093,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9e750c40-1126-4048-a6a4-8988cc3c917e",
+        "keyword": "Rasah Bali 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769672111093,
+        "created_at": 1769672111093,
+        "locale": "id"
+      },
+      {
+        "id": "kw_df2fbb0f-be53-4300-a81f-da4207fbfd34",
+        "keyword": "Rasah Bali Aku Wes Ora Sudi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769672111093,
+        "created_at": 1769672111093,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ad65b69e-6ea2-488f-ab5a-af898600894c",
+        "keyword": "Rasah Dadi Pelangi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769672111093,
+        "created_at": 1769672111093,
         "locale": "id"
       }
     ],
@@ -15420,9 +15530,9 @@
         "keyword": "Ora Ngemis Bali",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769410290383,
+        "last_search": 1769672111093,
         "created_at": 1769410290383,
         "locale": "id"
       },
@@ -15524,6 +15634,39 @@
         "last_search": 1769611865001,
         "created_at": 1769611865001,
         "locale": "id"
+      },
+      {
+        "id": "kw_037e2774-e92c-4aec-9050-3d8e7d41db75",
+        "keyword": "Overall - Rasah Bali Aku Wes Ora Sudi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769672111093,
+        "created_at": 1769672111093,
+        "locale": "id"
+      },
+      {
+        "id": "kw_06dfaf71-90a0-48a7-9e61-efc8f34c96ed",
+        "keyword": "Overall",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769672111093,
+        "created_at": 1769672111093,
+        "locale": "id"
+      },
+      {
+        "id": "kw_30218de6-bede-4068-8700-24b591365015",
+        "keyword": "Ora Ngemis Bali -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769672111093,
+        "created_at": 1769672111093,
+        "locale": "id"
       }
     ],
     "x": [
@@ -15547,6 +15690,28 @@
         "clicks": 0,
         "last_search": 1769395894349,
         "created_at": 1769395894349,
+        "locale": "id"
+      },
+      {
+        "id": "kw_709904f7-ea34-4acd-9aea-901060b8e236",
+        "keyword": "Xaluna - Ora Ngemis Bali -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769672111093,
+        "created_at": 1769672111093,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fcf6e049-6d06-4d31-8f4f-77f1d2bea406",
+        "keyword": "Xaluna",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769672111093,
+        "created_at": 1769672111093,
         "locale": "id"
       }
     ],
