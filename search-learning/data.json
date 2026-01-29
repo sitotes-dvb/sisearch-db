@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769705686158,
+    "last_updated": 1769707419107,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1775,9 +1775,9 @@
         "keyword": "LAVORA Ft. Damara De",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769410290382,
+        "last_search": 1769707419091,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -2098,6 +2098,28 @@
         "clicks": 0,
         "last_search": 1769694060365,
         "created_at": 1769694060365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_001b1139-8634-4019-8ded-4274bbf5dd1d",
+        "keyword": "LAVORA Ft. Damara De - Nresnani",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419091,
+        "created_at": 1769707419091,
+        "locale": "id"
+      },
+      {
+        "id": "kw_44d95806-2a88-4cb1-9910-1d294f4a798b",
+        "keyword": "LOSSKITA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419092,
+        "created_at": 1769707419092,
         "locale": "id"
       }
     ],
@@ -3339,9 +3361,9 @@
         "keyword": "Kelangan -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769703841679,
+        "last_search": 1769707419092,
         "created_at": 1769703841679,
         "locale": "id"
       },
@@ -5361,6 +5383,39 @@
         "last_search": 1769705686139,
         "created_at": 1769705686139,
         "locale": "id"
+      },
+      {
+        "id": "kw_685c2fe0-f358-45c5-a636-6a47f7bf367d",
+        "keyword": "Mencintai Dengan Ngeyel",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419091,
+        "created_at": 1769707419091,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2f4ab3cd-3742-449b-b788-f76dbbfaf705",
+        "keyword": "Menungso Oratoto",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419092,
+        "created_at": 1769707419092,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e198fcd9-eb87-4020-ae7d-e5cd9c243fcc",
+        "keyword": "Mung Konco -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419092,
+        "created_at": 1769707419092,
+        "locale": "id"
       }
     ],
     "h": [
@@ -6484,9 +6539,9 @@
         "keyword": "GuyonWaton",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769703841679,
+        "last_search": 1769707419092,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -6649,9 +6704,9 @@
         "keyword": "GuyonWaton - Kelangan -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769703841679,
+        "last_search": 1769707419092,
         "created_at": 1769703841679,
         "locale": "id"
       },
@@ -6675,6 +6730,17 @@
         "clicks": 0,
         "last_search": 1769705686139,
         "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c356a179-1af2-4be9-a5ac-9b8b7051472b",
+        "keyword": "Gagal",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419092,
+        "created_at": 1769707419092,
         "locale": "id"
       }
     ],
@@ -7366,9 +7432,9 @@
         "keyword": "Nresnani",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769410290383,
+        "last_search": 1769707419091,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -7597,9 +7663,9 @@
         "keyword": "Ngatmombilung",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1769606260813,
+        "last_search": 1769707419092,
         "created_at": 1769506971020,
         "locale": "id"
       },
@@ -8349,6 +8415,28 @@
         "clicks": 0,
         "last_search": 1769705686139,
         "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f5f3979c-6c37-4466-b18c-ceb92bb376e9",
+        "keyword": "Ngatmombilung - Gagal",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419092,
+        "created_at": 1769707419091,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5dbd57d1-900f-450f-b77f-08c6bd9fd208",
+        "keyword": "Nggraji Angin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419092,
+        "created_at": 1769707419092,
         "locale": "id"
       }
     ],
@@ -9328,9 +9416,9 @@
         "keyword": "TEKOMLAKU",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407883531,
+        "last_search": 1769707419092,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -9872,6 +9960,28 @@
         "last_search": 1769703958513,
         "created_at": 1769703958513,
         "locale": "id"
+      },
+      {
+        "id": "kw_51bdc764-a42d-4d3e-ad86-4247475e9ec7",
+        "keyword": "TEKOMLAKU - Menungso Oratoto",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419092,
+        "created_at": 1769707419092,
+        "locale": "id"
+      },
+      {
+        "id": "kw_92b8d3d1-9f92-4306-af22-1c9e128edc09",
+        "keyword": "Tau Nresnani -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419092,
+        "created_at": 1769707419092,
+        "locale": "id"
       }
     ],
     "e": [
@@ -10236,6 +10346,28 @@
         "clicks": 0,
         "last_search": 1769705686139,
         "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_43f80d0d-7f09-4c51-8c50-724e222ae531",
+        "keyword": "EGO - LOSSKITA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419092,
+        "created_at": 1769707419092,
+        "locale": "id"
+      },
+      {
+        "id": "kw_677662ee-c1b9-4951-80bf-1e701d7532cd",
+        "keyword": "EGO",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419092,
+        "created_at": 1769707419092,
         "locale": "id"
       }
     ],
@@ -10766,6 +10898,28 @@
         "clicks": 0,
         "last_search": 1769703914634,
         "created_at": 1769703914634,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ec7075d3-150f-44b9-96ef-f896da97e9fa",
+        "keyword": "Woro Widowati - Mencintai Dengan Ngeyel",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419091,
+        "created_at": 1769707419091,
+        "locale": "id"
+      },
+      {
+        "id": "kw_415f7f36-4b32-4976-9954-aa721efe54ab",
+        "keyword": "Woro Widowati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419091,
+        "created_at": 1769707419091,
         "locale": "id"
       }
     ],
@@ -11351,6 +11505,28 @@
         "clicks": 0,
         "last_search": 1769669825760,
         "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4f113392-e839-4d6e-81c5-d8e50e688aa2",
+        "keyword": "CHDS - Mung Konco -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419092,
+        "created_at": 1769707419092,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7d5cd6ae-e0bd-4b13-aa6b-d5a265dec4f4",
+        "keyword": "CHDS",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419092,
+        "created_at": 1769707419092,
         "locale": "id"
       }
     ],
@@ -12750,6 +12926,28 @@
         "clicks": 0,
         "last_search": 1769694060365,
         "created_at": 1769694060365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_05e764c2-af9a-459b-b9a8-3484730284b4",
+        "keyword": "Arya Galih feat. Dwi Dj - Ora Mung Lathi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419092,
+        "created_at": 1769707419092,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9bf9adda-714a-4ac3-9f8f-ffe11ade27c6",
+        "keyword": "Arya Galih feat. Dwi Dj",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419092,
+        "created_at": 1769707419092,
         "locale": "id"
       }
     ],
@@ -15291,10 +15489,21 @@
         "keyword": "Safira Inema",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769707419092,
+        "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9533d7cc-bf55-4cda-9f68-f137927bbfc5",
+        "keyword": "Safira Inema - Nggraji Angin",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769705686139,
-        "created_at": 1769705686139,
+        "last_search": 1769707419092,
+        "created_at": 1769707419092,
         "locale": "id"
       }
     ],
@@ -15473,6 +15682,28 @@
         "clicks": 0,
         "last_search": 1769669678030,
         "created_at": 1769669678030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_68a4f129-968a-4a91-84e4-66ee5de6600f",
+        "keyword": "Yuni Vebra - Tau Nresnani -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419092,
+        "created_at": 1769707419092,
+        "locale": "id"
+      },
+      {
+        "id": "kw_48b8fb8e-bebd-40fa-ae4b-3c8977f45789",
+        "keyword": "Yuni Vebra",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419092,
+        "created_at": 1769707419092,
         "locale": "id"
       }
     ],
@@ -16458,6 +16689,17 @@
         "clicks": 0,
         "last_search": 1769705686139,
         "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_14d6d06a-888a-430b-86ec-9035cb361502",
+        "keyword": "Ora Mung Lathi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769707419092,
+        "created_at": 1769707419092,
         "locale": "id"
       }
     ],
