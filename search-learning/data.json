@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769703874532,
+    "last_updated": 1769703914695,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -178,9 +178,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 30,
+        "impressions": 31,
         "clicks": 0,
-        "last_search": 1769703874522,
+        "last_search": 1769703914633,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -1487,10 +1487,32 @@
         "keyword": "Denny Caknan - Tanpo Tresnamu",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769703874522,
+        "last_search": 1769703914633,
         "created_at": 1769703841679,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9ae51af1-e955-48ee-befb-e8ece509975f",
+        "keyword": "Didi Kempot - Sewu Kuto -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703914634,
+        "created_at": 1769703914634,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0ace4cc8-40a1-4714-a1ad-4d89d70d795c",
+        "keyword": "Didi Kempot",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703914634,
+        "created_at": 1769703914634,
         "locale": "id"
       }
     ],
@@ -3262,9 +3284,9 @@
         "keyword": "Kumpulan Gitar Vadesta -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769703841679,
+        "last_search": 1769703914633,
         "created_at": 1769703841679,
         "locale": "id"
       },
@@ -3273,9 +3295,9 @@
         "keyword": "Kumpulan Gitar Destya Eka -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769703841679,
+        "last_search": 1769703914633,
         "created_at": 1769703841679,
         "locale": "id"
       },
@@ -8053,6 +8075,28 @@
         "last_search": 1769703874522,
         "created_at": 1769703874522,
         "locale": "id"
+      },
+      {
+        "id": "kw_3e950afa-c67c-412d-9a7b-0750852c5b92",
+        "keyword": "Nurbayan feat Vivi Atika - Tresno Waranggono ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703914634,
+        "created_at": 1769703914634,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8809b4d2-a96d-4f13-9bd8-5c32dc84fb10",
+        "keyword": "Nurbayan feat Vivi Atika",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703914634,
+        "created_at": 1769703914634,
+        "locale": "id"
       }
     ],
     "b": [
@@ -9449,9 +9493,9 @@
         "keyword": "Tanpo Tresnamu",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769703874522,
+        "last_search": 1769703914633,
         "created_at": 1769611865001,
         "locale": "id"
       },
@@ -9541,6 +9585,17 @@
         "clicks": 0,
         "last_search": 1769694060365,
         "created_at": 1769694060365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d0dea7a8-f8f2-4bf8-9feb-607bc9b0b09d",
+        "keyword": "Tresno Waranggono",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703914634,
+        "created_at": 1769703914634,
         "locale": "id"
       }
     ],
@@ -10392,6 +10447,28 @@
         "clicks": 0,
         "last_search": 1769669620389,
         "created_at": 1769669620389,
+        "locale": "id"
+      },
+      {
+        "id": "kw_578ea799-f407-4940-816b-a3bcd28477ca",
+        "keyword": "WKPkru - SAKTENANE -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703914634,
+        "created_at": 1769703914634,
+        "locale": "id"
+      },
+      {
+        "id": "kw_87665880-d1f4-413f-a46a-9f19424f84eb",
+        "keyword": "WKPkru",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703914634,
+        "created_at": 1769703914634,
         "locale": "id"
       }
     ],
@@ -12583,9 +12660,9 @@
         "keyword": "Raiso Dadi Siji - Sarah Brilian feat. Stress Royal ...",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769703874522,
+        "last_search": 1769703914633,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -12594,9 +12671,9 @@
         "keyword": "Raiso Dadi Siji",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769703874522,
+        "last_search": 1769703914633,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -13685,9 +13762,9 @@
         "keyword": "Sarah Brilian feat. Stress Royal",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769703874522,
+        "last_search": 1769703914633,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -14334,9 +14411,9 @@
         "keyword": "SAKTENANE",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769703874522,
+        "last_search": 1769703914633,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -14620,9 +14697,9 @@
         "keyword": "Saktenane 2",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769703874522,
+        "last_search": 1769703914633,
         "created_at": 1769605035336,
         "locale": "id"
       },
@@ -14653,9 +14730,9 @@
         "keyword": "Saktenane 3",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769703874522,
+        "last_search": 1769703914633,
         "created_at": 1769611865001,
         "locale": "id"
       },
@@ -14866,6 +14943,28 @@
         "clicks": 0,
         "last_search": 1769703841679,
         "created_at": 1769703841679,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9e0a5cd1-85a0-42fc-ab4e-90c7ebc8d791",
+        "keyword": "SAKTENANE -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703914634,
+        "created_at": 1769703914634,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a4cb5240-761b-4e02-b672-7f065a45e266",
+        "keyword": "Sewu Kuto -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703914634,
+        "created_at": 1769703914634,
         "locale": "id"
       }
     ],
@@ -16150,9 +16249,9 @@
         "keyword": "Vadesta Ft. Destya Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769703874522,
+        "last_search": 1769703914633,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -16271,9 +16370,9 @@
         "keyword": "Vadesta Ft. Destya Eka - Saktenane 2",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769703874522,
+        "last_search": 1769703914633,
         "created_at": 1769703841678,
         "locale": "id"
       },
@@ -16282,9 +16381,9 @@
         "keyword": "Vadesta Ft. Destya Eka - SAKTENANE",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769703874522,
+        "last_search": 1769703914633,
         "created_at": 1769703841678,
         "locale": "id"
       },
@@ -16315,9 +16414,9 @@
         "keyword": "Vadesta Ft. Destya Eka - Saktenane 3",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769703874522,
+        "last_search": 1769703914633,
         "created_at": 1769703874522,
         "locale": "id"
       }
