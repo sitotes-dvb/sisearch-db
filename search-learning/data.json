@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769611865012,
+    "last_updated": 1769669355547,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -970,9 +970,9 @@
         "keyword": "Dadali",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769423057827,
+        "last_search": 1769669355539,
         "created_at": 1769423057827,
         "locale": "id"
       },
@@ -1392,6 +1392,50 @@
         "clicks": 0,
         "last_search": 1769611865001,
         "created_at": 1769611865001,
+        "locale": "id"
+      },
+      {
+        "id": "kw_92fe0021-1041-4c1f-a2ab-0e7c112c0293",
+        "keyword": "DADALI - Disaat Aku Tersakiti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bd885fab-93e7-41a0-bd04-f58bb2040881",
+        "keyword": "DADALI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3b794303-7b80-472f-9fb5-bdef8031df5b",
+        "keyword": "Disaat Aku Tersakiti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c94025ed-f070-4ebd-8533-53d00ca179ab",
+        "keyword": "Dadali - Cinta yang Tersakiti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
         "locale": "id"
       }
     ],
@@ -1834,6 +1878,28 @@
         "clicks": 0,
         "last_search": 1769607090803,
         "created_at": 1769607090803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_21da7126-1953-4486-8e01-1be9e32695d5",
+        "keyword": "Last Child - Pedih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e0675730-9133-4978-9378-37769ec80798",
+        "keyword": "Last Child",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
         "locale": "id"
       }
     ],
@@ -3709,6 +3775,28 @@
         "last_search": 1769610174633,
         "created_at": 1769610174633,
         "locale": "id"
+      },
+      {
+        "id": "kw_d3504edd-4710-475a-8f5f-c4cb0e8204c3",
+        "keyword": "Pedih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9b4deacc-8c41-4996-83e8-0aee3fb93e7d",
+        "keyword": "Penghuni Hati Yang Tersakiti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355540,
+        "created_at": 1769669355540,
+        "locale": "id"
       }
     ],
     "m": [
@@ -5338,9 +5426,9 @@
         "keyword": "Judika",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769518492928,
+        "last_search": 1769669355539,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -5419,6 +5507,17 @@
         "clicks": 0,
         "last_search": 1769611865001,
         "created_at": 1769611865001,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ee704e72-8897-42ca-922f-b9d7d5721a55",
+        "keyword": "Judika - Aku Yang Tersakiti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
         "locale": "id"
       }
     ],
@@ -7747,6 +7846,17 @@
         "last_search": 1769604987514,
         "created_at": 1769604987514,
         "locale": "id"
+      },
+      {
+        "id": "kw_da3cb2c9-e83d-4d2e-a7cc-26eb4e114667",
+        "keyword": "Bara Luka Kau Cipta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355540,
+        "created_at": 1769669355540,
+        "locale": "id"
       }
     ],
     "t": [
@@ -8540,6 +8650,17 @@
         "clicks": 0,
         "last_search": 1769611865001,
         "created_at": 1769611865001,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ff0e102a-c553-4641-9809-a322191b1a64",
+        "keyword": "Terdiam Menanggung Luka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355540,
+        "created_at": 1769669355539,
         "locale": "id"
       }
     ],
@@ -9348,6 +9469,28 @@
         "last_search": 1769607090803,
         "created_at": 1769607090803,
         "locale": "id"
+      },
+      {
+        "id": "kw_59336df7-b0ac-4eaf-a136-f77121734e25",
+        "keyword": "Wulandary - Terdiam Menanggung Luka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bb6a108c-9acf-439c-8eff-52b2dbd8bab4",
+        "keyword": "Wulandary",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
+        "locale": "id"
       }
     ],
     "c": [
@@ -9844,6 +9987,28 @@
         "clicks": 0,
         "last_search": 1769610174633,
         "created_at": 1769610174633,
+        "locale": "id"
+      },
+      {
+        "id": "kw_519a91f6-c059-4bd5-9edd-1badd38ca6cb",
+        "keyword": "Cinta yang Tersakiti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4dee1206-8681-4ca8-ac82-4c3b7e2af060",
+        "keyword": "Cinta Yang Kau Ganti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
         "locale": "id"
       }
     ],
@@ -10975,9 +11140,9 @@
         "keyword": "Aprilian",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582645423,
+        "last_search": 1769669355539,
         "created_at": 1769582645423,
         "locale": "id"
       },
@@ -11023,6 +11188,72 @@
         "clicks": 0,
         "last_search": 1769606260813,
         "created_at": 1769606169451,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0e0c66ac-5b57-490d-b863-d619fc2dc19e",
+        "keyword": "Aku Yang Tersakiti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_64afd59b-3224-4f82-91b4-a58336e524f9",
+        "keyword": "Aprilian - Insan Yang Tersakiti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3be23444-6046-4577-a13e-ab80a9c01f2f",
+        "keyword": "Andra Respati - Cinta Yang Kau Ganti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3f73d022-7e93-4937-9112-87cee42c3cc2",
+        "keyword": "Andra Respati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b650c980-d1f8-4d7d-9127-4188f5cd4f23",
+        "keyword": "Aku Yang Tersakiti -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a2f16e59-4bc3-4844-8e3b-5ddc0d4c3b36",
+        "keyword": "Aprilian - Bara Luka Kau Cipta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355540,
+        "created_at": 1769669355540,
         "locale": "id"
       }
     ],
@@ -13406,6 +13637,28 @@
         "last_search": 1769610174633,
         "created_at": 1769610174633,
         "locale": "id"
+      },
+      {
+        "id": "kw_53268ae3-33c8-4225-bc1d-edd1c7bf24eb",
+        "keyword": "Yelse - Aku Yang Tersakiti -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d7115e76-a90f-48c8-8899-3cf5b439ce04",
+        "keyword": "Yelse",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
+        "locale": "id"
       }
     ],
     "f": [
@@ -14025,6 +14278,39 @@
         "clicks": 0,
         "last_search": 1769611865001,
         "created_at": 1769611865001,
+        "locale": "id"
+      },
+      {
+        "id": "kw_749de2ac-3fc4-4eac-9946-f5c6497f959b",
+        "keyword": "Insan Yang Tersakiti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355539,
+        "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_58bdd33b-cd62-4dd3-a864-b132cae909c3",
+        "keyword": "IPANK feat. FAUZANA - Penghuni Hati Yang Tersakiti ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355540,
+        "created_at": 1769669355540,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8cdbb0f5-6870-4a6a-89d2-3dd0a848341f",
+        "keyword": "IPANK feat. FAUZANA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669355540,
+        "created_at": 1769669355540,
         "locale": "id"
       }
     ],
