@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769669620404,
+    "last_updated": 1769669678045,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1923,6 +1923,28 @@
         "last_search": 1769669620390,
         "created_at": 1769669620390,
         "locale": "id"
+      },
+      {
+        "id": "kw_22699fbf-03d6-44a0-bf50-6e3a0d4ce807",
+        "keyword": "Lyla - Mantan Kekasihku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669678030,
+        "created_at": 1769669678030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b7ad87a2-2197-41d8-a20e-46cf8327a781",
+        "keyword": "Lyla",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669678030,
+        "created_at": 1769669678030,
+        "locale": "id"
       }
     ],
     "k": [
@@ -2998,10 +3020,43 @@
         "keyword": "Kesedihanku",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769669678031,
+        "created_at": 1769669620390,
+        "locale": "id"
+      },
+      {
+        "id": "kw_90b04450-c63d-4092-a019-7bf1f346100b",
+        "keyword": "Kau Masih Kekasihku",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769669620390,
-        "created_at": 1769669620390,
+        "last_search": 1769669678030,
+        "created_at": 1769669678030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bb1b4ce5-0f25-4402-86f2-847a01382fe0",
+        "keyword": "Ku Menanti Seorang Kekasih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669678031,
+        "created_at": 1769669678031,
+        "locale": "id"
+      },
+      {
+        "id": "kw_013ee9f0-0a92-43ae-8717-93e40806de9d",
+        "keyword": "Kau Masih Ku Sayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669678031,
+        "created_at": 1769669678031,
         "locale": "id"
       }
     ],
@@ -3884,6 +3939,28 @@
         "clicks": 0,
         "last_search": 1769669620390,
         "created_at": 1769669620390,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ff09bd91-1309-4065-b838-300ff03a05ae",
+        "keyword": "Padi - Seperti Kekasihku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669678031,
+        "created_at": 1769669678031,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2f4220f8-ceb0-46e4-b175-6a2cc97ee327",
+        "keyword": "Padi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669678031,
+        "created_at": 1769669678031,
         "locale": "id"
       }
     ],
@@ -4799,6 +4876,28 @@
         "clicks": 0,
         "last_search": 1769669620389,
         "created_at": 1769669620389,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8aaa964f-3dc3-4058-a21b-2d34f97ff19b",
+        "keyword": "Masih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669678030,
+        "created_at": 1769669678030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8c073d9c-c504-4337-aea6-4fa7cef8e7a0",
+        "keyword": "Mantan Kekasihku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669678030,
+        "created_at": 1769669678030,
         "locale": "id"
       }
     ],
@@ -6937,9 +7036,9 @@
         "keyword": "Naff",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769582645422,
+        "last_search": 1769669678030,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -7355,9 +7454,9 @@
         "keyword": "Naff - Terendap Laraku",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582645422,
+        "last_search": 1769669678031,
         "created_at": 1769582645422,
         "locale": "id"
       },
@@ -7436,6 +7535,17 @@
         "clicks": 0,
         "last_search": 1769611865001,
         "created_at": 1769611865001,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a6b47141-9bf3-442e-9212-e7f74dd52b01",
+        "keyword": "Naff - Kau Masih Kekasihku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669678030,
+        "created_at": 1769669678030,
         "locale": "id"
       }
     ],
@@ -7977,6 +8087,28 @@
         "clicks": 0,
         "last_search": 1769669355540,
         "created_at": 1769669355540,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d521923e-60da-470f-9476-8b074162a23e",
+        "keyword": "Berjanjilah - UNGU",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669678031,
+        "created_at": 1769669678031,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d252375e-ece4-4f16-9f89-166497b951b9",
+        "keyword": "Berjanjilah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669678031,
+        "created_at": 1769669678031,
         "locale": "id"
       }
     ],
@@ -8657,9 +8789,9 @@
         "keyword": "Terendap Laraku",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582645422,
+        "last_search": 1769669678031,
         "created_at": 1769582645422,
         "locale": "id"
       },
@@ -11475,6 +11607,28 @@
         "last_search": 1769669620390,
         "created_at": 1769669620390,
         "locale": "id"
+      },
+      {
+        "id": "kw_6a7c27ce-5c55-4102-86b3-6c5109c8eed1",
+        "keyword": "Ada Band - Masih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669678030,
+        "created_at": 1769669678030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ecebba47-9eb3-4f0d-96d6-64ccfc338df9",
+        "keyword": "Ada Band",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669678030,
+        "created_at": 1769669678030,
+        "locale": "id"
       }
     ],
     "r": [
@@ -13740,9 +13894,9 @@
         "keyword": "Sammy Simorangkir - Kesedihanku",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769669620390,
+        "last_search": 1769669678031,
         "created_at": 1769669620390,
         "locale": "id"
       },
@@ -13751,10 +13905,54 @@
         "keyword": "Sammy Simorangkir",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769669678031,
+        "created_at": 1769669620390,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c32707f1-7ae7-4d86-a957-8560e76848ce",
+        "keyword": "Sucitra",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769669620390,
-        "created_at": 1769669620390,
+        "last_search": 1769669678031,
+        "created_at": 1769669678030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c2621845-a597-407a-aa84-25fa953bf3e8",
+        "keyword": "Seperti Kekasihku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669678031,
+        "created_at": 1769669678031,
+        "locale": "id"
+      },
+      {
+        "id": "kw_746f89b7-e5da-4408-8b61-e1f5afc029fb",
+        "keyword": "Shinta Angely Feat. Utra Radja - Kau Masih Ku Sayang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669678031,
+        "created_at": 1769669678031,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f394e65c-4383-47d3-bf81-ae46f39b173b",
+        "keyword": "Shinta Angely Feat. Utra Radja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669678031,
+        "created_at": 1769669678031,
         "locale": "id"
       }
     ],
@@ -13874,9 +14072,9 @@
         "keyword": "Yoga Vhein",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582566047,
+        "last_search": 1769669678030,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -13922,6 +14120,17 @@
         "clicks": 0,
         "last_search": 1769669355539,
         "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5d329df6-c18c-428e-8712-8a08636b4ae3",
+        "keyword": "Yoga Vhein - Sucitra",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669678030,
+        "created_at": 1769669678030,
         "locale": "id"
       }
     ],
@@ -14472,9 +14681,9 @@
         "keyword": "Iwan Fals",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769582645422,
+        "last_search": 1769669678031,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -14575,6 +14784,17 @@
         "clicks": 0,
         "last_search": 1769669355540,
         "created_at": 1769669355540,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8ec896e2-3d8f-456f-aca9-557b5ccaf896",
+        "keyword": "Iwan Fals - Ku Menanti Seorang Kekasih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669678031,
+        "created_at": 1769669678031,
         "locale": "id"
       }
     ],
@@ -15096,9 +15316,9 @@
         "keyword": "UNGU",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769582566047,
+        "last_search": 1769669678031,
         "created_at": 1769510958795,
         "locale": "id"
       },
