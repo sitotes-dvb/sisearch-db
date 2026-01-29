@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769703958530,
+    "last_updated": 1769705686158,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1524,6 +1524,28 @@
         "clicks": 0,
         "last_search": 1769703958513,
         "created_at": 1769703958513,
+        "locale": "id"
+      },
+      {
+        "id": "kw_09ef5dbe-93ed-4e3e-8d25-968775a491ab",
+        "keyword": "Dalan Liyane",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f80fbcee-abd5-4dec-aeba-709c4b735880",
+        "keyword": "Daftar Koleksi / Hendra Kumbara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
         "locale": "id"
       }
     ],
@@ -4575,9 +4597,9 @@
         "keyword": "Mala Agatha",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769582688684,
+        "last_search": 1769705686139,
         "created_at": 1769407810239,
         "locale": "id"
       },
@@ -5284,6 +5306,61 @@
         "last_search": 1769703874522,
         "created_at": 1769703874522,
         "locale": "id"
+      },
+      {
+        "id": "kw_925052d5-19d7-4079-a5be-0db91c6dc831",
+        "keyword": "Milih Dalan Liyane",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_16c840f0-2c3b-448c-a30a-c02c74f46558",
+        "keyword": "Meme Amelia - Mupus Roso",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4b15d0c8-367c-4595-9b10-4ac8a8d160df",
+        "keyword": "Meme Amelia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1d69a70c-a6e9-4eb6-94e0-2156a67daea9",
+        "keyword": "Mupus Roso",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_43bc7308-b43e-489d-84b2-eae54069a417",
+        "keyword": "Mala Agatha - Jutaan Sayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
+        "locale": "id"
       }
     ],
     "h": [
@@ -5336,9 +5413,9 @@
         "keyword": "Happy Asmara",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769582439065,
+        "last_search": 1769705686139,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -5703,6 +5780,50 @@
         "clicks": 0,
         "last_search": 1769583885578,
         "created_at": 1769583885578,
+        "locale": "id"
+      },
+      {
+        "id": "kw_18cf3bba-49a4-4ac6-b375-dd8cefe9394c",
+        "keyword": "Happy Asmara - Dalan Liyane ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686138,
+        "created_at": 1769705686138,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9bb2c2e1-47c4-4328-8292-cbe9f8d5a31f",
+        "keyword": "Hendra Ang - Milih Dalan Liyane",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6c6f5d69-ee05-4273-827a-f4031758cf6b",
+        "keyword": "Hendra Ang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7dac9f5c-d45a-401e-b682-5db8cb45bc8e",
+        "keyword": "Happy Asmara - Ora Milih Dalan Liyane",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
         "locale": "id"
       }
     ],
@@ -6135,6 +6256,39 @@
         "last_search": 1769694060365,
         "created_at": 1769694060365,
         "locale": "id"
+      },
+      {
+        "id": "kw_7eae7da0-a0c5-497e-8887-adee9e39053e",
+        "keyword": "Java Star Squad - Milih Dalan Liyane",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_290c4cb5-1589-4ed5-a5d9-59f75a29398d",
+        "keyword": "Java Star Squad",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fc3853fa-7cb3-4c28-952f-99400ede635a",
+        "keyword": "Jutaan Sayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
+        "locale": "id"
       }
     ],
     "g": [
@@ -6499,6 +6653,28 @@
         "clicks": 0,
         "last_search": 1769703841679,
         "created_at": 1769703841679,
+        "locale": "id"
+      },
+      {
+        "id": "kw_df25845c-d75b-4414-9dd7-e6665a27dabb",
+        "keyword": "Gavin Project ft. Rere Esti - Sepurane",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6fd44d7e-204f-401d-9dd0-986696e89293",
+        "keyword": "Gavin Project ft. Rere Esti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
         "locale": "id"
       }
     ],
@@ -8151,6 +8327,28 @@
         "clicks": 0,
         "last_search": 1769703958514,
         "created_at": 1769703958514,
+        "locale": "id"
+      },
+      {
+        "id": "kw_61a530aa-2612-4faa-82c0-de5af32a8c5d",
+        "keyword": "Ninggalne Kowe -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b9a12672-4d76-4378-9270-3734a6f23f3a",
+        "keyword": "Ninggal Kowe",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
         "locale": "id"
       }
     ],
@@ -10016,6 +10214,28 @@
         "clicks": 0,
         "last_search": 1769610174632,
         "created_at": 1769610174632,
+        "locale": "id"
+      },
+      {
+        "id": "kw_008bb2f8-f1d6-4ff3-8088-4a6abc4c8619",
+        "keyword": "Esa Risty - Ninggalne Kowe -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1d0db040-1490-4e46-b14d-c2ec1cff87a0",
+        "keyword": "Esa Risty",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
         "locale": "id"
       }
     ],
@@ -15043,6 +15263,39 @@
         "last_search": 1769703914634,
         "created_at": 1769703914634,
         "locale": "id"
+      },
+      {
+        "id": "kw_13580553-51f9-4441-9b1b-1d8094d2dfe2",
+        "keyword": "Sepurane",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8c0ce12a-392e-45cb-a033-a5c4baa49613",
+        "keyword": "Safira Inema - Ninggal Kowe",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f5ba8f43-ad54-497d-8acc-db67c4d6ffd9",
+        "keyword": "Safira Inema",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
+        "locale": "id"
       }
     ],
     "y": [
@@ -16194,6 +16447,17 @@
         "clicks": 0,
         "last_search": 1769703958514,
         "created_at": 1769703958514,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cc0bd1a3-cb7f-4e9a-8eef-a6f2a4f0bc47",
+        "keyword": "Ora Milih Dalan Liyane",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769705686139,
+        "created_at": 1769705686139,
         "locale": "id"
       }
     ],
