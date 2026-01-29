@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769669678045,
+    "last_updated": 1769669825766,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1245,9 +1245,9 @@
         "keyword": "Di Ujung Jalan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769518999262,
+        "last_search": 1769669825760,
         "created_at": 1769518999262,
         "locale": "id"
       },
@@ -1944,6 +1944,17 @@
         "clicks": 0,
         "last_search": 1769669678030,
         "created_at": 1769669678030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6a00a46e-211a-4260-a0c8-001cf09bc833",
+        "keyword": "Luka Kali Ini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
         "locale": "id"
       }
     ],
@@ -3058,6 +3069,50 @@
         "last_search": 1769669678031,
         "created_at": 1769669678031,
         "locale": "id"
+      },
+      {
+        "id": "kw_46ce0e0c-fd2e-4cda-8ffc-01b3f7e91b6e",
+        "keyword": "Kalia Siska ft. SKA 86 - Berpisah Di Ujung Jalan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_74b02aad-f04b-4ae6-9039-55e7f70b8074",
+        "keyword": "Kalia Siska ft. SKA 86",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6cbf3cd7-0d49-4f66-8c3d-958328884828",
+        "keyword": "Kunto Aji & Nadin Amizah - Selaras",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fc2c5939-bdec-4873-ad3b-c5ba4986a2f5",
+        "keyword": "Kunto Aji & Nadin Amizah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
       }
     ],
     "p": [
@@ -3961,6 +4016,39 @@
         "clicks": 0,
         "last_search": 1769669678031,
         "created_at": 1769669678031,
+        "locale": "id"
+      },
+      {
+        "id": "kw_83644fe9-cf93-4272-900a-885d719f1911",
+        "keyword": "Penantian",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_428529f9-d34d-46e0-9a30-909ade159f68",
+        "keyword": "Pedro Marcopollo feat. Kiki Kidtz - Luka Kali Ini ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_12fe8a04-e7f4-4083-8f5c-6e682c01e10e",
+        "keyword": "Pedro Marcopollo feat. Kiki Kidtz",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
         "locale": "id"
       }
     ],
@@ -4898,6 +4986,28 @@
         "clicks": 0,
         "last_search": 1769669678030,
         "created_at": 1769669678030,
+        "locale": "id"
+      },
+      {
+        "id": "kw_359d7d0d-4b7e-4b26-80ba-81920e7f3760",
+        "keyword": "Menemukanmu - Seventeen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_db520334-22c0-467d-b53a-2b0188e54570",
+        "keyword": "Menemukanmu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
         "locale": "id"
       }
     ],
@@ -7547,6 +7657,17 @@
         "last_search": 1769669678030,
         "created_at": 1769669678030,
         "locale": "id"
+      },
+      {
+        "id": "kw_598f1f4b-d6e6-4406-a2ae-f6b49f9981b5",
+        "keyword": "Nike Ardilla",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
       }
     ],
     "b": [
@@ -8109,6 +8230,50 @@
         "clicks": 0,
         "last_search": 1769669678031,
         "created_at": 1769669678031,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6d26c633-48f3-4fbb-8639-c2961f6ac97d",
+        "keyword": "Berpisah Di ujung Jalan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3a5dc4eb-a98e-4e3e-a4b8-e4df399eada0",
+        "keyword": "Berpisah Di Ujung Jalan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3615bf00-13f1-440a-9088-e5150898ac5a",
+        "keyword": "Bryan Zparta - Di Ujung Jalan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1d5c47c8-6f7e-4a6c-a8ec-fb07e587631b",
+        "keyword": "Bryan Zparta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
         "locale": "id"
       }
     ],
@@ -10340,6 +10505,39 @@
         "last_search": 1769669620389,
         "created_at": 1769669620389,
         "locale": "id"
+      },
+      {
+        "id": "kw_6031b386-b32f-4d3a-b3ae-b0ce70769520",
+        "keyword": "Cinta Di Ujung Jalan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_703a8386-7e46-4f8d-a007-a51031fd6449",
+        "keyword": "Cinta Diantara Kita - Nike Ardilla",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5afcc303-006a-44e5-92c9-f7702764b1d5",
+        "keyword": "Cinta Diantara Kita",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
       }
     ],
     "a": [
@@ -11629,6 +11827,50 @@
         "last_search": 1769669678030,
         "created_at": 1769669678030,
         "locale": "id"
+      },
+      {
+        "id": "kw_e8584e1e-b9c6-4968-950b-a03f579c6c6a",
+        "keyword": "Agnes Monica - Cinta Di Ujung Jalan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c472842d-8f2d-444d-bf34-44270e889c1f",
+        "keyword": "Agnes Monica",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2731c80d-826a-4a5a-86d5-bb22ff5d28d8",
+        "keyword": "Armada - Penantian",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6a69acff-f31c-4d1f-9e5b-d351d42c79a6",
+        "keyword": "Armada",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
       }
     ],
     "r": [
@@ -12310,9 +12552,9 @@
         "keyword": "Seventeen",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769522415615,
+        "last_search": 1769669825760,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -13509,9 +13751,9 @@
         "keyword": "Samsons - Di Ujung Jalan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769518999262,
+        "last_search": 1769669825759,
         "created_at": 1769518999262,
         "locale": "id"
       },
@@ -13520,9 +13762,9 @@
         "keyword": "Samsons",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769518999262,
+        "last_search": 1769669825759,
         "created_at": 1769518999262,
         "locale": "id"
       },
@@ -13953,6 +14195,39 @@
         "clicks": 0,
         "last_search": 1769669678031,
         "created_at": 1769669678031,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8db75b6a-f534-4040-9324-2fa11c4ecdbf",
+        "keyword": "Sultan - Berpisah Di ujung Jalan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8c2584cd-45ed-4e02-9a2f-204db049dde9",
+        "keyword": "Sultan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3e2151bf-0ab1-4171-9565-92c14219ec1d",
+        "keyword": "Selaras",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669825760,
+        "created_at": 1769669825760,
         "locale": "id"
       }
     ],
