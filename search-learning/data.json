@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769669825766,
+    "last_updated": 1769670975216,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -178,9 +178,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 27,
+        "impressions": 28,
         "clicks": 0,
-        "last_search": 1769611865001,
+        "last_search": 1769670975194,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -508,9 +508,9 @@
         "keyword": "Daftar Koleksi / Denny Caknan @Chordtela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1769606260813,
+        "last_search": 1769670975194,
         "created_at": 1769407631223,
         "locale": "id"
       },
@@ -1447,6 +1447,28 @@
         "clicks": 0,
         "last_search": 1769669620390,
         "created_at": 1769669620389,
+        "locale": "id"
+      },
+      {
+        "id": "kw_043ff848-756e-4f59-a380-88fb7c824bdb",
+        "keyword": "Demi Kowe -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975193,
+        "created_at": 1769670975193,
+        "locale": "id"
+      },
+      {
+        "id": "kw_71e30974-5c53-4cc5-b649-f863be16fdf2",
+        "keyword": "Denny Caknan - SATRU 2 -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975194,
+        "created_at": 1769670975194,
         "locale": "id"
       }
     ],
@@ -3113,6 +3135,28 @@
         "last_search": 1769669825760,
         "created_at": 1769669825760,
         "locale": "id"
+      },
+      {
+        "id": "kw_c919e0d7-f4f0-4e89-bd4b-1616ae0925b3",
+        "keyword": "Krist Segara - Bakal Bali Mulih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975194,
+        "created_at": 1769670975194,
+        "locale": "id"
+      },
+      {
+        "id": "kw_04e5bf94-6706-4608-895a-5e0d804c5451",
+        "keyword": "Krist Segara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975194,
+        "created_at": 1769670975194,
+        "locale": "id"
       }
     ],
     "p": [
@@ -3154,9 +3198,9 @@
         "keyword": "Pendhoza",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769605035337,
+        "last_search": 1769670975193,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -4050,6 +4094,28 @@
         "last_search": 1769669825760,
         "created_at": 1769669825760,
         "locale": "id"
+      },
+      {
+        "id": "kw_81f3ae2a-24db-4f48-be87-2f9d46949633",
+        "keyword": "Pamit Kerjo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975177,
+        "created_at": 1769670975177,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a8c27e91-78aa-4b6f-a0c8-7a2bbced6495",
+        "keyword": "Pendhoza - Demi Kowe -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975193,
+        "created_at": 1769670975193,
+        "locale": "id"
       }
     ],
     "m": [
@@ -4124,9 +4190,9 @@
         "keyword": "Masdddho",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1769606260813,
+        "last_search": 1769670975193,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -5008,6 +5074,17 @@
         "clicks": 0,
         "last_search": 1769669825760,
         "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2aa09471-87b1-48f0-9f8f-a0b6e0f6ec67",
+        "keyword": "Masdddho - Nganggur",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975193,
+        "created_at": 1769670975193,
         "locale": "id"
       }
     ],
@@ -6266,9 +6343,9 @@
         "keyword": "Ndarboy Genk",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1769582386045,
+        "last_search": 1769670975177,
         "created_at": 1769359994200,
         "locale": "id"
       },
@@ -6926,9 +7003,9 @@
         "keyword": "Nella Kharisma",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769582386045,
+        "last_search": 1769670975177,
         "created_at": 1769428790060,
         "locale": "id"
       },
@@ -7300,9 +7377,9 @@
         "keyword": "NDX A.K.A",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769611865001,
+        "last_search": 1769670975177,
         "created_at": 1769518492927,
         "locale": "id"
       },
@@ -7667,6 +7744,61 @@
         "clicks": 0,
         "last_search": 1769669825760,
         "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8fae54eb-6655-4cdf-8624-6711f9c32f2f",
+        "keyword": "Nella Kharisma - Aku Cah Kerjo ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975177,
+        "created_at": 1769670975177,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4852f7a8-77d9-4f4b-9917-b46fbbece0bb",
+        "keyword": "NDX A.K.A - Pamit Kerjo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975177,
+        "created_at": 1769670975177,
+        "locale": "id"
+      },
+      {
+        "id": "kw_706b7818-1e0e-47f9-a917-a84e1a2d241c",
+        "keyword": "Ndarboy Genk - Anak Lanang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975177,
+        "created_at": 1769670975177,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8590279a-39c9-4cf9-9749-f44544e6fda0",
+        "keyword": "Nganggur",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975194,
+        "created_at": 1769670975194,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cd0435dc-dec3-4c15-b447-f12214acfc21",
+        "keyword": "NYAWIJI -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975194,
+        "created_at": 1769670975194,
         "locale": "id"
       }
     ],
@@ -8274,6 +8406,17 @@
         "clicks": 0,
         "last_search": 1769669825760,
         "created_at": 1769669825760,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1faeb563-ee04-4488-b7ec-5fbb3e746955",
+        "keyword": "Bakal Bali Mulih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975194,
+        "created_at": 1769670975194,
         "locale": "id"
       }
     ],
@@ -9101,6 +9244,17 @@
         "clicks": 0,
         "last_search": 1769669620389,
         "created_at": 1769669620389,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3077e210-f0a5-4446-bba2-3e9d4db1b1d1",
+        "keyword": "Tempe Tahu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975194,
+        "created_at": 1769670975194,
         "locale": "id"
       }
     ],
@@ -11871,6 +12025,28 @@
         "last_search": 1769669825760,
         "created_at": 1769669825760,
         "locale": "id"
+      },
+      {
+        "id": "kw_4d221d26-5fee-4c11-9ad8-774da0e92723",
+        "keyword": "Aku Cah Kerjo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975177,
+        "created_at": 1769670975177,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b1b6c838-50b9-4dea-9f4a-fbc4926820b3",
+        "keyword": "Anak Lanang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975193,
+        "created_at": 1769670975177,
+        "locale": "id"
       }
     ],
     "r": [
@@ -14229,6 +14405,17 @@
         "last_search": 1769669825760,
         "created_at": 1769669825760,
         "locale": "id"
+      },
+      {
+        "id": "kw_f8fa6bbb-1e0e-412b-956a-81fa42bf9811",
+        "keyword": "SATRU 2 -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975194,
+        "created_at": 1769670975194,
+        "locale": "id"
       }
     ],
     "y": [
@@ -14448,9 +14635,9 @@
         "keyword": "Farel Prayoga",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395971034,
+        "last_search": 1769670975194,
         "created_at": 1769395971034,
         "locale": "id"
       },
@@ -14783,6 +14970,17 @@
         "last_search": 1769606173936,
         "created_at": 1769606173936,
         "locale": "id"
+      },
+      {
+        "id": "kw_e9f0a534-69b6-43b7-ac41-50a1cf2c71af",
+        "keyword": "Farel Prayoga - NYAWIJI -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975194,
+        "created_at": 1769670975194,
+        "locale": "id"
       }
     ],
     "i": [
@@ -14824,9 +15022,9 @@
         "keyword": "Intan Cha Cha",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769360249303,
+        "last_search": 1769670975194,
         "created_at": 1769360249303,
         "locale": "id"
       },
@@ -15070,6 +15268,17 @@
         "clicks": 0,
         "last_search": 1769669678031,
         "created_at": 1769669678031,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f93bd4bb-8924-40c5-8167-e6f94d3962df",
+        "keyword": "Intan Cha Cha - Tempe Tahu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769670975194,
+        "created_at": 1769670975194,
         "locale": "id"
       }
     ],
