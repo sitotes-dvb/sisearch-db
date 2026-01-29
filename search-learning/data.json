@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769669355547,
+    "last_updated": 1769669620404,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1437,6 +1437,17 @@
         "last_search": 1769669355539,
         "created_at": 1769669355539,
         "locale": "id"
+      },
+      {
+        "id": "kw_69cf8573-e519-4d3b-9563-a70cc284a7ae",
+        "keyword": "Disini Di Batas Kota Ini (New Version",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620390,
+        "created_at": 1769669620389,
+        "locale": "id"
       }
     ],
     "l": [
@@ -1900,6 +1911,17 @@
         "clicks": 0,
         "last_search": 1769669355539,
         "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eafe1a09-b04b-47b9-be05-16848bb8207c",
+        "keyword": "Lirih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620390,
+        "created_at": 1769669620390,
         "locale": "id"
       }
     ],
@@ -2954,10 +2976,32 @@
         "keyword": "Kerispatih",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769669620389,
+        "created_at": 1769610174633,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a0617c6f-11a7-4384-b0e6-8a62ea0dfe73",
+        "keyword": "Kerispatih - Mengenangmu",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769610174633,
-        "created_at": 1769610174633,
+        "last_search": 1769669620389,
+        "created_at": 1769669620389,
+        "locale": "id"
+      },
+      {
+        "id": "kw_384c71cf-1ff8-43cd-a1f5-a83125e95e65",
+        "keyword": "Kesedihanku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620390,
+        "created_at": 1769669620390,
         "locale": "id"
       }
     ],
@@ -3796,6 +3840,50 @@
         "clicks": 0,
         "last_search": 1769669355540,
         "created_at": 1769669355540,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4c2d6697-8824-47a4-9b24-929ee00afc02",
+        "keyword": "Pria Band - Mengenangmu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620389,
+        "created_at": 1769669620389,
+        "locale": "id"
+      },
+      {
+        "id": "kw_15027ee1-6b77-4365-9cab-5c720c0968f1",
+        "keyword": "Pria Band",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620389,
+        "created_at": 1769669620389,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b8a97962-2e53-4580-979c-f70d1dfaeb6e",
+        "keyword": "Putri Aulia - Mengenangmu -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620390,
+        "created_at": 1769669620390,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d00aa0f8-7f32-45e6-b66f-9de204969d57",
+        "keyword": "Putri Aulia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620390,
+        "created_at": 1769669620390,
         "locale": "id"
       }
     ],
@@ -4690,6 +4778,28 @@
         "last_search": 1769611865001,
         "created_at": 1769611865001,
         "locale": "id"
+      },
+      {
+        "id": "kw_3bcb7f14-06de-4945-b8a1-e8cd365aed59",
+        "keyword": "Mengenangmu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620389,
+        "created_at": 1769669620389,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8f6a5aeb-fceb-4368-8174-dae5742019c6",
+        "keyword": "Mengenangmu -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620389,
+        "created_at": 1769669620389,
+        "locale": "id"
       }
     ],
     "h": [
@@ -5518,6 +5628,17 @@
         "clicks": 0,
         "last_search": 1769669355539,
         "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d37af00c-2fb8-47cd-96a6-63909aaeae96",
+        "keyword": "Jantungku Berhenti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620389,
+        "created_at": 1769669620389,
         "locale": "id"
       }
     ],
@@ -8662,6 +8783,28 @@
         "last_search": 1769669355540,
         "created_at": 1769669355539,
         "locale": "id"
+      },
+      {
+        "id": "kw_0c31fd9e-5dbe-419c-a7d6-fb76ebf509a4",
+        "keyword": "Tommy J Pisa - Disini Di Batas Kota Ini (New Version ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620389,
+        "created_at": 1769669620389,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e88df665-c4a7-4eeb-8497-d6be0c0ac56a",
+        "keyword": "Tommy J Pisa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620389,
+        "created_at": 1769669620389,
+        "locale": "id"
       }
     ],
     "e": [
@@ -9024,9 +9167,9 @@
         "keyword": "WALI",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769582688684,
+        "last_search": 1769669620389,
         "created_at": 1769359994199,
         "locale": "id"
       },
@@ -9490,6 +9633,28 @@
         "clicks": 0,
         "last_search": 1769669355539,
         "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2e697355-35ae-4a52-a104-3c0eafb361b4",
+        "keyword": "WALI - Mengenangmu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620389,
+        "created_at": 1769669620389,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5053fa33-fc7e-4397-927e-654b1168eec9",
+        "keyword": "WALI - Jantungku Berhenti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620389,
+        "created_at": 1769669620389,
         "locale": "id"
       }
     ],
@@ -10009,6 +10174,39 @@
         "clicks": 0,
         "last_search": 1769669355539,
         "created_at": 1769669355539,
+        "locale": "id"
+      },
+      {
+        "id": "kw_02430634-b3d6-478f-b079-86eed464d628",
+        "keyword": "Caramel - Mengenangmu -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620389,
+        "created_at": 1769669620389,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4363d7f4-411b-455d-9d79-efa1d1828539",
+        "keyword": "Caramel",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620389,
+        "created_at": 1769669620389,
+        "locale": "id"
+      },
+      {
+        "id": "kw_19adb639-f05b-4a57-a9b9-9eaeb156fc63",
+        "keyword": "Cinta Tiga Segi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620389,
+        "created_at": 1769669620389,
         "locale": "id"
       }
     ],
@@ -11254,6 +11452,28 @@
         "clicks": 0,
         "last_search": 1769669355540,
         "created_at": 1769669355540,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e6d80280-6a3b-43c8-95f1-18d713a11af0",
+        "keyword": "Ari Lasso - Lirih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620390,
+        "created_at": 1769669620390,
+        "locale": "id"
+      },
+      {
+        "id": "kw_525ac616-05f5-4392-831b-1b650a2e7bf1",
+        "keyword": "Ari Lasso",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620390,
+        "created_at": 1769669620390,
         "locale": "id"
       }
     ],
@@ -13491,6 +13711,50 @@
         "clicks": 0,
         "last_search": 1769611865001,
         "created_at": 1769611865001,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e06abe31-ed36-4555-9792-d33686553590",
+        "keyword": "Saleem - Cinta Tiga Segi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620389,
+        "created_at": 1769669620389,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cd86bdac-d236-4245-a1fb-f052273a8db2",
+        "keyword": "Saleem",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620389,
+        "created_at": 1769669620389,
+        "locale": "id"
+      },
+      {
+        "id": "kw_18226c0d-4f6f-4f49-9fef-a47bfc0530e1",
+        "keyword": "Sammy Simorangkir - Kesedihanku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620390,
+        "created_at": 1769669620390,
+        "locale": "id"
+      },
+      {
+        "id": "kw_25c3d9a3-bb26-4e76-ab33-841d455f31e4",
+        "keyword": "Sammy Simorangkir",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769669620390,
+        "created_at": 1769669620390,
         "locale": "id"
       }
     ],
