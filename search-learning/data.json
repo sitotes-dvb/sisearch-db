@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769694060403,
+    "last_updated": 1769703841693,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -178,9 +178,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 28,
+        "impressions": 29,
         "clicks": 0,
-        "last_search": 1769670975194,
+        "last_search": 1769703841679,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -1481,6 +1481,17 @@
         "last_search": 1769694060364,
         "created_at": 1769694060364,
         "locale": "id"
+      },
+      {
+        "id": "kw_4660119f-36d4-41e9-8da1-aaf8daec940d",
+        "keyword": "Denny Caknan - Tanpo Tresnamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703841679,
+        "created_at": 1769703841679,
+        "locale": "id"
       }
     ],
     "l": [
@@ -1533,9 +1544,9 @@
         "keyword": "LAVORA Ft Ena Vika",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769672111093,
+        "last_search": 1769703841679,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -3244,6 +3255,39 @@
         "clicks": 0,
         "last_search": 1769694060365,
         "created_at": 1769694060365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0dfd8024-fbc6-4bd8-bfbe-a41e821b7d36",
+        "keyword": "Kumpulan Gitar Vadesta -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703841679,
+        "created_at": 1769703841679,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a681f02e-5906-4106-8a6d-6843701d5467",
+        "keyword": "Kumpulan Gitar Destya Eka -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703841679,
+        "created_at": 1769703841679,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e68a1480-8e8c-4e5c-84e9-573d99cc00c5",
+        "keyword": "Kelangan -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703841679,
+        "created_at": 1769703841679,
         "locale": "id"
       }
     ],
@@ -6220,9 +6264,9 @@
         "keyword": "GuyonWaton",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769603724619,
+        "last_search": 1769703841679,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -6379,6 +6423,17 @@
         "last_search": 1769582439065,
         "created_at": 1769582439065,
         "locale": "id"
+      },
+      {
+        "id": "kw_890fbb62-bdea-4521-bdac-4569d9b05a1b",
+        "keyword": "GuyonWaton - Kelangan -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703841679,
+        "created_at": 1769703841679,
+        "locale": "id"
       }
     ],
     "n": [
@@ -6530,9 +6585,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 13,
+        "impressions": 14,
         "clicks": 0,
-        "last_search": 1769672111093,
+        "last_search": 1769703841679,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -7943,6 +7998,17 @@
         "last_search": 1769694060365,
         "created_at": 1769694060365,
         "locale": "id"
+      },
+      {
+        "id": "kw_63b32e8a-b5ea-457e-9af6-34f8f8b66b63",
+        "keyword": "NDX AKA - Rajodo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703841679,
+        "created_at": 1769703841679,
+        "locale": "id"
       }
     ],
     "b": [
@@ -9339,9 +9405,9 @@
         "keyword": "Tanpo Tresnamu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769611865001,
+        "last_search": 1769703841679,
         "created_at": 1769611865001,
         "locale": "id"
       },
@@ -12308,9 +12374,9 @@
         "keyword": "Rasah Bali - LAVORA Ft Ena Vika",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769672111093,
+        "last_search": 1769703841679,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -12319,9 +12385,9 @@
         "keyword": "Rasah Bali",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769672111093,
+        "last_search": 1769703841679,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -12473,9 +12539,9 @@
         "keyword": "Raiso Dadi Siji - Sarah Brilian feat. Stress Royal ...",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769611865001,
+        "last_search": 1769703841679,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -12484,9 +12550,9 @@
         "keyword": "Raiso Dadi Siji",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769611865001,
+        "last_search": 1769703841679,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -12924,9 +12990,9 @@
         "keyword": "Rajodo",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769611865001,
+        "last_search": 1769703841679,
         "created_at": 1769611865001,
         "locale": "id"
       },
@@ -13575,9 +13641,9 @@
         "keyword": "Sarah Brilian feat. Stress Royal",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769611865001,
+        "last_search": 1769703841679,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -14224,9 +14290,9 @@
         "keyword": "SAKTENANE",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769611865000,
+        "last_search": 1769703841679,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -14510,9 +14576,9 @@
         "keyword": "Saktenane 2",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769611865001,
+        "last_search": 1769703841678,
         "created_at": 1769605035336,
         "locale": "id"
       },
@@ -14745,6 +14811,17 @@
         "clicks": 0,
         "last_search": 1769694060365,
         "created_at": 1769694060365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3bf5ee4d-b761-4144-b94e-25fe79b8ca7a",
+        "keyword": "Sayang -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703841679,
+        "created_at": 1769703841679,
         "locale": "id"
       }
     ],
@@ -16029,9 +16106,9 @@
         "keyword": "Vadesta Ft. Destya Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769611865000,
+        "last_search": 1769703841678,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -16143,6 +16220,50 @@
         "clicks": 0,
         "last_search": 1769611865001,
         "created_at": 1769611865000,
+        "locale": "id"
+      },
+      {
+        "id": "kw_43f117e0-5d5e-4bf4-9c19-a6eca4fdc8b3",
+        "keyword": "Vadesta Ft. Destya Eka - Saktenane 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703841678,
+        "created_at": 1769703841678,
+        "locale": "id"
+      },
+      {
+        "id": "kw_22b46b97-41fb-49b9-996a-d69be47dea04",
+        "keyword": "Vadesta Ft. Destya Eka - SAKTENANE",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703841679,
+        "created_at": 1769703841678,
+        "locale": "id"
+      },
+      {
+        "id": "kw_420e0ce9-e8fc-4764-853b-3cb6db126acd",
+        "keyword": "Via Vallen - Sayang -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703841679,
+        "created_at": 1769703841679,
+        "locale": "id"
+      },
+      {
+        "id": "kw_13faaa5c-ba99-4954-b9bf-202fff3bd2c0",
+        "keyword": "Via Vallen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769703841679,
+        "created_at": 1769703841679,
         "locale": "id"
       }
     ],
