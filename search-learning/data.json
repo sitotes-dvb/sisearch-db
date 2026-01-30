@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769758674016,
+    "last_updated": 1769758686761,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -4828,9 +4828,9 @@
         "keyword": "Padi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769669678031,
+        "last_search": 1769758686746,
         "created_at": 1769669678031,
         "locale": "id"
       },
@@ -4986,6 +4986,61 @@
         "clicks": 0,
         "last_search": 1769758254205,
         "created_at": 1769758254205,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5afe17da-dd2c-4dec-a4d8-08d3e56d7a89",
+        "keyword": "Padi - Semua Tak Sama",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b29a5342-c0c0-45cc-a8dc-8c30454040dd",
+        "keyword": "Putera - Permata -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_07148869-7e1a-4018-9151-f6b2cc6e9cb6",
+        "keyword": "Putera",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bf226964-6fd2-4943-b5f4-100a015243f5",
+        "keyword": "Permata -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_546d3a2d-e6d8-4601-8ebb-10ed83854b87",
+        "keyword": "Perih Tanpa Darah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
         "locale": "id"
       }
     ],
@@ -6133,6 +6188,39 @@
         "last_search": 1769758674001,
         "created_at": 1769758674001,
         "locale": "id"
+      },
+      {
+        "id": "kw_9ba02ae6-db8c-45f4-a52d-3aceb7181d49",
+        "keyword": "Mama Papa Larang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3683f90a-93f9-4ebe-8483-2ea2e6516787",
+        "keyword": "Mari Bersatu - Tri Suaka Ft. Nabila Maharani",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5f129e52-60e9-4f0d-a905-81189e326876",
+        "keyword": "Mari Bersatu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
       }
     ],
     "h": [
@@ -6663,6 +6751,17 @@
         "last_search": 1769758254205,
         "created_at": 1769758254205,
         "locale": "id"
+      },
+      {
+        "id": "kw_19dab10b-4155-4c75-ac29-93e8b656b94a",
+        "keyword": "Hati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
       }
     ],
     "j": [
@@ -6979,9 +7078,9 @@
         "keyword": "Judika",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769669355539,
+        "last_search": 1769758686746,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -7280,6 +7379,17 @@
         "clicks": 0,
         "last_search": 1769758674000,
         "created_at": 1769758674000,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6561da17-291a-4070-8156-478526d0bdf4",
+        "keyword": "Judika - Mama Papa Larang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
         "locale": "id"
       }
     ],
@@ -9606,6 +9716,28 @@
         "last_search": 1769757769515,
         "created_at": 1769757769515,
         "locale": "id"
+      },
+      {
+        "id": "kw_1628d986-3c5a-45d3-867a-982050a2eed4",
+        "keyword": "Nola - Hati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_99d5e4f4-79ac-41fc-a607-099ec633dc4c",
+        "keyword": "Nola",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
       }
     ],
     "b": [
@@ -10289,6 +10421,17 @@
         "clicks": 0,
         "last_search": 1769757147713,
         "created_at": 1769757147713,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f455eb18-58e0-4b7a-b88e-118141594a22",
+        "keyword": "Bangunlah Putra Putri Pertiwi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
         "locale": "id"
       }
     ],
@@ -11358,6 +11501,50 @@
         "clicks": 0,
         "last_search": 1769757147713,
         "created_at": 1769757147713,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f1771ec2-7888-4063-9e16-1d8af3876873",
+        "keyword": "Tertanam - Reggae Tony Q Rastafara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f4fd85ce-8bbc-490d-b98f-c820f09cdf2c",
+        "keyword": "Tertanam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2559e535-1786-4a9d-8383-34303f1b2db5",
+        "keyword": "Tiada Meragu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_96fac674-a3d5-40f3-9256-e81a840eaddb",
+        "keyword": "Tri Suaka Ft. Nabila Maharani",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
         "locale": "id"
       }
     ],
@@ -13100,9 +13287,9 @@
         "keyword": "Anggun Pramudita",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769707449044,
+        "last_search": 1769758686746,
         "created_at": 1769360249303,
         "locale": "id"
       },
@@ -14590,6 +14777,28 @@
         "last_search": 1769758254205,
         "created_at": 1769758254205,
         "locale": "id"
+      },
+      {
+        "id": "kw_5e69c113-2f0c-4a1f-89ed-9889e390cd85",
+        "keyword": "Anggun Pramudita - Perih Tanpa Darah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_96d9970d-cb85-4c09-a896-87ac93a31344",
+        "keyword": "Andai Ku Bisa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
       }
     ],
     "r": [
@@ -15412,10 +15621,32 @@
         "keyword": "Reggae Tony Q Rastafara",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758674000,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6a4f6a36-6c44-4590-adde-2078754c1e71",
+        "keyword": "Restin feat. Pinki Prananda - Tiada Meragu",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769758674000,
-        "created_at": 1769758674000,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f3192991-35fb-4bf4-9bd0-847040fddef1",
+        "keyword": "Restin feat. Pinki Prananda",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
         "locale": "id"
       }
     ],
@@ -17520,6 +17751,39 @@
         "last_search": 1769758674000,
         "created_at": 1769758674000,
         "locale": "id"
+      },
+      {
+        "id": "kw_1293a656-c3b3-4bbf-b898-c5fd404a8747",
+        "keyword": "Semua Tak Sama",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_647813af-7e0f-471d-b999-82c7b0cec7b8",
+        "keyword": "September Band - Andai Ku Bisa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6dfaae57-e433-4f95-91aa-f7b8109a5fd0",
+        "keyword": "September Band",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
+        "locale": "id"
       }
     ],
     "y": [
@@ -18335,9 +18599,9 @@
         "keyword": "Iwan Fals",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769748226720,
+        "last_search": 1769758686746,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -18482,6 +18746,17 @@
         "clicks": 0,
         "last_search": 1769748226720,
         "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_18d9a9d2-df36-4d05-8359-26b5b971a129",
+        "keyword": "Iwan Fals - Bangunlah Putra Putri Pertiwi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758686746,
+        "created_at": 1769758686746,
         "locale": "id"
       }
     ],
