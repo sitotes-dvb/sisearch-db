@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769747925984,
+    "last_updated": 1769748226727,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -15,6 +15,30 @@
         "clicks": 0,
         "last_search": 1769407509350,
         "created_at": 1769407471814,
+        "locale": "id"
+      },
+      {
+        "id": "kw_639ab2a8-6dc8-4f84-9083-661155254882",
+        "keyword": "11 Januari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
+      }
+    ],
+    "2": [
+      {
+        "id": "kw_3e22429b-78b1-439d-a9db-6b5dd7965a35",
+        "keyword": "22 Januari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
         "locale": "id"
       }
     ],
@@ -1579,6 +1603,50 @@
         "clicks": 0,
         "last_search": 1769747894346,
         "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a133082c-195a-4051-befb-d8c9fb958cfd",
+        "keyword": "Di Ini Januari - Pidi Baiq The Panasdalam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f3b1d9ec-030e-4f92-ac4c-91c958eab3f7",
+        "keyword": "Di Ini Januari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_49353376-7d8e-4564-afb5-5db309eb91dd",
+        "keyword": "Dodhy Kangen - Melepaskanmu Di Januari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_07845b4d-e537-49ee-be27-c2ebb0fcd7bb",
+        "keyword": "Dodhy Kangen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
         "locale": "id"
       }
     ],
@@ -4589,6 +4657,17 @@
         "last_search": 1769747925962,
         "created_at": 1769747925962,
         "locale": "id"
+      },
+      {
+        "id": "kw_0bd4e817-d7df-4402-a227-66bbe91ade8e",
+        "keyword": "Pidi Baiq The Panasdalam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
       }
     ],
     "m": [
@@ -5680,6 +5759,17 @@
         "last_search": 1769740737933,
         "created_at": 1769740737933,
         "locale": "id"
+      },
+      {
+        "id": "kw_f063f99d-2417-401c-8cbf-0a1bc096df7e",
+        "keyword": "Melepaskanmu Di Januari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
       }
     ],
     "h": [
@@ -6154,6 +6244,28 @@
         "clicks": 0,
         "last_search": 1769747894346,
         "created_at": 1769747894345,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a9aea98a-f523-4b48-aa03-cea0d6314ee7",
+        "keyword": "Hendri endico - Cincin Januari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c1fb8ce4-dc93-41c6-ac22-e19f84d8feb5",
+        "keyword": "Hendri endico",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
         "locale": "id"
       }
     ],
@@ -6707,6 +6819,28 @@
         "last_search": 1769747925962,
         "created_at": 1769747925962,
         "locale": "id"
+      },
+      {
+        "id": "kw_4f645ed6-4cc0-4b68-ab39-0c6f568619ff",
+        "keyword": "Januari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_16cac49c-fbca-4e4c-bbb4-b624ff783e5f",
+        "keyword": "Januari -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
       }
     ],
     "g": [
@@ -7115,6 +7249,61 @@
         "clicks": 0,
         "last_search": 1769740737933,
         "created_at": 1769740737933,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e533b03a-c4fe-4a99-a55c-bc23ba4eece3",
+        "keyword": "Glenn Fredly - Januari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_724a085d-3a13-4cfc-8631-06fb9de504fe",
+        "keyword": "Glenn Fredly",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_55136ac4-40bc-49a6-8e4c-4ac29e487606",
+        "keyword": "Gigi - 11 Januari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_76fd3c6d-05d0-48c6-826f-6f1325019b62",
+        "keyword": "Gigi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dc880dbe-c6b6-49ed-b770-6fe007836a78",
+        "keyword": "Galang Rambu Anarki",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
         "locale": "id"
       }
     ],
@@ -9506,6 +9695,39 @@
         "clicks": 0,
         "last_search": 1769747925962,
         "created_at": 1769747925962,
+        "locale": "id"
+      },
+      {
+        "id": "kw_59eff1e5-8849-4c33-9884-416c60ba64de",
+        "keyword": "Bernadya - Ambang Pintu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b63d0a88-e22e-40f6-9b29-86ce94fc0a66",
+        "keyword": "Bernadya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e5ffc0ce-3d55-4005-9bd9-d660b8d77354",
+        "keyword": "Bulan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
         "locale": "id"
       }
     ],
@@ -12023,6 +12245,17 @@
         "last_search": 1769707419092,
         "created_at": 1769707419092,
         "locale": "id"
+      },
+      {
+        "id": "kw_21b43e28-0ebb-424e-aa4d-09ca93a38550",
+        "keyword": "Cincin Januari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
       }
     ],
     "a": [
@@ -13488,6 +13721,39 @@
         "last_search": 1769747925962,
         "created_at": 1769747925962,
         "locale": "id"
+      },
+      {
+        "id": "kw_ce5e0ae4-1d3a-4497-bd50-cb2ba037a7f5",
+        "keyword": "Ambang Pintu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9e3cc93a-5d6f-41d6-a104-159a4d975f4c",
+        "keyword": "Aviwkila - Januari -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_918f7203-2f53-4637-8f53-3cd4dacae30c",
+        "keyword": "Aviwkila",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
       }
     ],
     "r": [
@@ -14237,6 +14503,28 @@
         "clicks": 0,
         "last_search": 1769747925962,
         "created_at": 1769747925962,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6a5c5763-ab96-497f-aa28-2f4b3737398e",
+        "keyword": "Radja - Bulan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a56ff8d0-1db8-47cb-9e70-c437810e17d3",
+        "keyword": "Radja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
         "locale": "id"
       }
     ],
@@ -17068,9 +17356,9 @@
         "keyword": "Iwan Fals",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769669678031,
+        "last_search": 1769748226720,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -17193,6 +17481,28 @@
         "clicks": 0,
         "last_search": 1769670975194,
         "created_at": 1769670975194,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ec84c12e-a77a-469d-be7f-940f8a93b128",
+        "keyword": "Iwan Fals - 22 Januari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9ea96417-47a9-45f0-a230-49b8f2f67bee",
+        "keyword": "Iwan Fals - Galang Rambu Anarki",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748226720,
+        "created_at": 1769748226720,
         "locale": "id"
       }
     ],
