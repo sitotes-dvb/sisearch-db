@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769748226727,
+    "last_updated": 1769748764090,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -136,9 +136,9 @@
         "keyword": "Demeises - Biar Saja",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769522415615,
+        "last_search": 1769748764074,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -147,9 +147,9 @@
         "keyword": "Demeises",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769522415615,
+        "last_search": 1769748764074,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -1648,6 +1648,39 @@
         "last_search": 1769748226720,
         "created_at": 1769748226720,
         "locale": "id"
+      },
+      {
+        "id": "kw_ab18d598-9231-4ba8-a557-2d3074f89f07",
+        "keyword": "Dhevy Geranium - Cukup Mengagumimu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
+        "locale": "id"
+      },
+      {
+        "id": "kw_41fe0e84-58d5-4156-acb5-493eb8702c2b",
+        "keyword": "Dhevy Geranium",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d7d32d68-23e5-4885-85ac-72f25475217c",
+        "keyword": "Denis Chairis",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
+        "locale": "id"
       }
     ],
     "l": [
@@ -2221,6 +2254,17 @@
         "clicks": 0,
         "last_search": 1769707419092,
         "created_at": 1769707419092,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7f6ac150-53df-41cd-a6fc-75ccaa9e5b69",
+        "keyword": "Lupakan -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
         "locale": "id"
       }
     ],
@@ -5770,6 +5814,17 @@
         "last_search": 1769748226720,
         "created_at": 1769748226720,
         "locale": "id"
+      },
+      {
+        "id": "kw_bcc1b472-4fa3-427d-b8e5-282a6a6b66e7",
+        "keyword": "Menghitung Hari 2 (Anda Perdana Cover",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764074,
+        "created_at": 1769748764074,
+        "locale": "id"
       }
     ],
     "h": [
@@ -6266,6 +6321,28 @@
         "clicks": 0,
         "last_search": 1769748226720,
         "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ce6b5b48-4e15-454e-948a-2d622f1cdb6d",
+        "keyword": "Hedi Yunus - Sebatas Mimpi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
+        "locale": "id"
+      },
+      {
+        "id": "kw_426cb1c5-a010-4cba-b833-fbb374f1fa5c",
+        "keyword": "Hedi Yunus",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
         "locale": "id"
       }
     ],
@@ -6840,6 +6917,17 @@
         "clicks": 0,
         "last_search": 1769748226720,
         "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5e9f2ca6-8553-4901-8648-c0ae942cde90",
+        "keyword": "Jangan Ada Air Mata",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
         "locale": "id"
       }
     ],
@@ -9067,6 +9155,28 @@
         "last_search": 1769747894345,
         "created_at": 1769747894345,
         "locale": "id"
+      },
+      {
+        "id": "kw_75e8292e-3060-40c2-8dff-d7ec67f36400",
+        "keyword": "Nazia Marwiana - Jangan Ada Air Mata",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fd427765-707e-418f-9285-335bf2d996d4",
+        "keyword": "Nazia Marwiana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
+        "locale": "id"
       }
     ],
     "b": [
@@ -9097,9 +9207,9 @@
         "keyword": "Biar Saja",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769522415615,
+        "last_search": 1769748764074,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -9728,6 +9838,17 @@
         "clicks": 0,
         "last_search": 1769748226720,
         "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ddec6e28-c03a-4443-8a58-8431319c25db",
+        "keyword": "Bendera",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764074,
+        "created_at": 1769748764074,
         "locale": "id"
       }
     ],
@@ -10687,6 +10808,28 @@
         "clicks": 0,
         "last_search": 1769747925962,
         "created_at": 1769747925962,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cb075e94-e05b-4f40-a95c-b08ee493f485",
+        "keyword": "Tantri - Sedikit Waktu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
+        "locale": "id"
+      },
+      {
+        "id": "kw_819f2f3b-12f9-45ec-8a92-b46610893978",
+        "keyword": "Tantri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
         "locale": "id"
       }
     ],
@@ -11734,9 +11877,9 @@
         "keyword": "Cokelat",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769407509350,
+        "last_search": 1769748764074,
         "created_at": 1769407471814,
         "locale": "id"
       },
@@ -12255,6 +12398,28 @@
         "clicks": 0,
         "last_search": 1769748226720,
         "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_05a926c0-af36-4823-855a-3d8ca324fc0d",
+        "keyword": "Cokelat - Bendera",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764074,
+        "created_at": 1769748764074,
+        "locale": "id"
+      },
+      {
+        "id": "kw_93410c5f-20c2-41d6-9e97-fa5dc37ecd3a",
+        "keyword": "Cukup Mengagumimu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
         "locale": "id"
       }
     ],
@@ -13754,6 +13919,28 @@
         "last_search": 1769748226720,
         "created_at": 1769748226720,
         "locale": "id"
+      },
+      {
+        "id": "kw_28556658-73b7-42bc-81ab-5aaf388a3d2c",
+        "keyword": "Aku Hanya Pembantu - Denis Chairis",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f4028f9a-6d31-488b-8fe8-9fc57b1fc94c",
+        "keyword": "Aku Hanya Pembantu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
+        "locale": "id"
       }
     ],
     "r": [
@@ -14525,6 +14712,28 @@
         "clicks": 0,
         "last_search": 1769748226720,
         "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3aec13db-e00f-4a89-9751-a8429aa9fd1b",
+        "keyword": "R Angkotasan - Sandiri Saja Dolo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
+        "locale": "id"
+      },
+      {
+        "id": "kw_32de5871-53eb-4dd8-9045-e999441abccf",
+        "keyword": "R Angkotasan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
         "locale": "id"
       }
     ],
@@ -15700,9 +15909,9 @@
         "keyword": "Sebatas Mimpi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510958795,
+        "last_search": 1769748764075,
         "created_at": 1769510958795,
         "locale": "id"
       },
@@ -16552,6 +16761,28 @@
         "last_search": 1769747925962,
         "created_at": 1769747925962,
         "locale": "id"
+      },
+      {
+        "id": "kw_221dcb2a-3208-4b33-beb2-5c5d4de23c6b",
+        "keyword": "Sedikit Waktu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2aa2f8d4-3f27-40a5-ae54-778e779827a9",
+        "keyword": "Sandiri Saja Dolo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
+        "locale": "id"
       }
     ],
     "y": [
@@ -17079,9 +17310,9 @@
         "keyword": "Fourtwnty",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510714274,
+        "last_search": 1769748764074,
         "created_at": 1769510714274,
         "locale": "id"
       },
@@ -17182,6 +17413,17 @@
         "clicks": 0,
         "last_search": 1769747925961,
         "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6298be28-3d5f-41e8-beaa-68767dc63bba",
+        "keyword": "Fourtwnty - Menghitung Hari 2 (Anda Perdana Cover ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764074,
+        "created_at": 1769748764074,
         "locale": "id"
       }
     ],
@@ -17813,6 +18055,28 @@
         "clicks": 0,
         "last_search": 1769707419092,
         "created_at": 1769707419092,
+        "locale": "id"
+      },
+      {
+        "id": "kw_51735e89-69ba-4ca1-96d4-30b58b262edc",
+        "keyword": "Ona Hetharua - Lupakan -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ea43526b-82b1-4ed3-a015-0882bf967fa7",
+        "keyword": "Ona Hetharua",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769748764075,
+        "created_at": 1769748764075,
         "locale": "id"
       }
     ],
