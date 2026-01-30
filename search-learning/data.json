@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769791972530,
+    "last_updated": 1769792968023,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -52,6 +52,28 @@
         "clicks": 0,
         "last_search": 1769782191700,
         "created_at": 1769782191700,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c762cd4e-6dfc-4167-8e88-8ab2f8fbfd2b",
+        "keyword": "3 Bersaudara - MUGHROM",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769792968006,
+        "created_at": 1769792968006,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fa82eae5-0674-40f4-8ca4-d981ddf01d24",
+        "keyword": "3 Bersaudara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769792968006,
+        "created_at": 1769792968006,
         "locale": "id"
       }
     ],
@@ -7069,6 +7091,39 @@
         "clicks": 0,
         "last_search": 1769782560565,
         "created_at": 1769782560565,
+        "locale": "id"
+      },
+      {
+        "id": "kw_484686e4-4442-493f-ad0e-e0b98827277f",
+        "keyword": "Mughrom - Ai Khodijah feat. Liza Not Tujuh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769792968006,
+        "created_at": 1769792968006,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0d2880db-cb46-45c4-aed4-c51c61a634f5",
+        "keyword": "Mughrom",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769792968006,
+        "created_at": 1769792968006,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5612fcef-3627-4893-806b-34498e2eeee7",
+        "keyword": "MUGHROM",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769792968006,
+        "created_at": 1769792968006,
         "locale": "id"
       }
     ],
@@ -16154,6 +16209,28 @@
         "last_search": 1769770136735,
         "created_at": 1769770136735,
         "locale": "id"
+      },
+      {
+        "id": "kw_f457bd2a-a897-4681-813e-402f4f385772",
+        "keyword": "Ai Khodijah feat. Liza Not Tujuh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769792968006,
+        "created_at": 1769792968006,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a0e83bf8-bd5a-4de9-9006-195f4cb75345",
+        "keyword": "Ai Khodijah El Mighwar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769792968006,
+        "created_at": 1769792968006,
+        "locale": "id"
       }
     ],
     "r": [
@@ -19359,6 +19436,17 @@
         "last_search": 1769791972515,
         "created_at": 1769791972515,
         "locale": "id"
+      },
+      {
+        "id": "kw_55d9e1e2-a62d-44ba-81d3-c539183ed8f7",
+        "keyword": "Santri Njoso",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769792968006,
+        "created_at": 1769792968006,
+        "locale": "id"
       }
     ],
     "y": [
@@ -20387,6 +20475,50 @@
         "clicks": 0,
         "last_search": 1769762224447,
         "created_at": 1769762224447,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1608e061-3a1f-4568-b786-e0b9c4e3cc48",
+        "keyword": "Innal Habibal Musthofa - Ai Khodijah El Mighwar ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769792968006,
+        "created_at": 1769792968006,
+        "locale": "id"
+      },
+      {
+        "id": "kw_29f600b2-527f-49c3-a02f-93a29876e564",
+        "keyword": "Innal Habibal Musthofa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769792968006,
+        "created_at": 1769792968006,
+        "locale": "id"
+      },
+      {
+        "id": "kw_35d37ebc-df38-45f4-be09-a50fc0f95f97",
+        "keyword": "ISYFA' LANA - Santri Njoso",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769792968006,
+        "created_at": 1769792968006,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2f091331-69da-425a-8306-aa0d2f7fa750",
+        "keyword": "ISYFA' LANA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769792968006,
+        "created_at": 1769792968006,
         "locale": "id"
       }
     ],
