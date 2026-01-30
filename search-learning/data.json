@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769762224508,
+    "last_updated": 1769767038057,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1922,6 +1922,94 @@
         "clicks": 0,
         "last_search": 1769762224447,
         "created_at": 1769762224447,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6b1c39f8-aaa7-49c4-b403-2c0be116eba2",
+        "keyword": "Daftar Koleksi / Zivilia @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038040,
+        "created_at": 1769767038040,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dbbd6f99-780b-44b1-a84e-bbcd843cce7d",
+        "keyword": "Duo B - BEJO",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038040,
+        "created_at": 1769767038040,
+        "locale": "id"
+      },
+      {
+        "id": "kw_874aa387-a81f-4bad-b3bd-9c4607600cbf",
+        "keyword": "Duo B",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038040,
+        "created_at": 1769767038040,
+        "locale": "id"
+      },
+      {
+        "id": "kw_92326fce-b80e-4f06-a124-82508daa06f8",
+        "keyword": "Doel Sumbang - Gula Gula Gula Batu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038040,
+        "created_at": 1769767038040,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fdc7b96c-4c37-44be-8709-f425e6d93668",
+        "keyword": "Doel Sumbang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038040,
+        "created_at": 1769767038040,
+        "locale": "id"
+      },
+      {
+        "id": "kw_75283f28-08a9-4815-a75d-21f8771482d6",
+        "keyword": "D'Paspor - Dengarkan Aku Sayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038041,
+        "created_at": 1769767038041,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ad8fa963-32f7-4320-b763-fc26180d0966",
+        "keyword": "D'Paspor",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038041,
+        "created_at": 1769767038041,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d16f33b1-e3e7-4e37-af28-917cc0f14ae9",
+        "keyword": "Dengarkan Aku Sayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038041,
+        "created_at": 1769767038041,
         "locale": "id"
       }
     ],
@@ -4247,6 +4335,39 @@
         "clicks": 0,
         "last_search": 1769762224447,
         "created_at": 1769762224447,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c77bd799-5327-4630-8598-5f13a1c76775",
+        "keyword": "Kokoro No Tomo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038040,
+        "created_at": 1769767038040,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d9df730e-d774-4063-9927-a775654d9b9a",
+        "keyword": "Katy Perry - Not The End Of The World",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038040,
+        "created_at": 1769767038040,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c575e0dd-5d62-4d65-84b4-5a5931f39cac",
+        "keyword": "Katy Perry",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038040,
+        "created_at": 1769767038040,
         "locale": "id"
       }
     ],
@@ -8328,6 +8449,17 @@
         "last_search": 1769762224447,
         "created_at": 1769762224447,
         "locale": "id"
+      },
+      {
+        "id": "kw_3b6859a1-b60c-4b8e-be2c-4fc4caa53f9b",
+        "keyword": "Gula Gula Gula Batu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038040,
+        "created_at": 1769767038040,
+        "locale": "id"
       }
     ],
     "n": [
@@ -10233,6 +10365,17 @@
         "last_search": 1769762224447,
         "created_at": 1769762224447,
         "locale": "id"
+      },
+      {
+        "id": "kw_6a038914-a301-45de-a9fb-9c5af5cf7ca6",
+        "keyword": "Not The End Of The World",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038041,
+        "created_at": 1769767038040,
+        "locale": "id"
       }
     ],
     "b": [
@@ -10971,6 +11114,17 @@
         "clicks": 0,
         "last_search": 1769760517514,
         "created_at": 1769760517514,
+        "locale": "id"
+      },
+      {
+        "id": "kw_03ba9bc6-e75b-4690-b9dd-ab545e586560",
+        "keyword": "BEJO",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038040,
+        "created_at": 1769767038040,
         "locale": "id"
       }
     ],
@@ -14607,9 +14761,9 @@
         "keyword": "Aishiteru 2 - Zivilia",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769759225527,
+        "last_search": 1769767038040,
         "created_at": 1769477147758,
         "locale": "id"
       },
@@ -14618,9 +14772,9 @@
         "keyword": "Aishiteru 2",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769759225527,
+        "last_search": 1769767038040,
         "created_at": 1769477147758,
         "locale": "id"
       },
@@ -15392,6 +15546,50 @@
         "clicks": 0,
         "last_search": 1769758686746,
         "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_08ef1546-2394-452b-bb1f-fdac6afdccaf",
+        "keyword": "Aishiteru 1",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038040,
+        "created_at": 1769767038040,
+        "locale": "id"
+      },
+      {
+        "id": "kw_871061ae-cfcd-4d3c-b953-d38ba7eaf401",
+        "keyword": "Aishiteru 3",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038040,
+        "created_at": 1769767038040,
+        "locale": "id"
+      },
+      {
+        "id": "kw_141a437a-b878-4fac-af31-7eac0200ae52",
+        "keyword": "Adista - Saranghae",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038041,
+        "created_at": 1769767038041,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c2d92936-988e-4571-aa82-75b2e26b0939",
+        "keyword": "Adista",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038041,
+        "created_at": 1769767038041,
         "locale": "id"
       }
     ],
@@ -18477,6 +18675,17 @@
         "last_search": 1769762224447,
         "created_at": 1769762224447,
         "locale": "id"
+      },
+      {
+        "id": "kw_8fa9b618-13b8-484a-af20-f86c3f8e5519",
+        "keyword": "Saranghae",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038041,
+        "created_at": 1769767038041,
+        "locale": "id"
       }
     ],
     "y": [
@@ -20325,9 +20534,9 @@
         "keyword": "Zivilia",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769759225527,
+        "last_search": 1769767038040,
         "created_at": 1769477147758,
         "locale": "id"
       },
@@ -20395,6 +20604,50 @@
         "clicks": 0,
         "last_search": 1769757147713,
         "created_at": 1769757147713,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0a18c0c7-e3aa-4fda-ba4a-576fd62272e9",
+        "keyword": "Zivilia - Aishiteru 1",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038040,
+        "created_at": 1769767038040,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b860c44c-7832-4373-a9b4-25e6948b0348",
+        "keyword": "Zivilia - Kokoro No Tomo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038040,
+        "created_at": 1769767038040,
+        "locale": "id"
+      },
+      {
+        "id": "kw_708cac06-3112-47f2-bea2-c5cd96f24163",
+        "keyword": "ZIVILIA - Aishiteru 3",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038040,
+        "created_at": 1769767038040,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0ccbac0a-8a1f-4caf-95c5-67ed80a066d3",
+        "keyword": "ZIVILIA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769767038040,
+        "created_at": 1769767038040,
         "locale": "id"
       }
     ]
