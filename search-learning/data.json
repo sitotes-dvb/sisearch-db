@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769760095575,
+    "last_updated": 1769760327996,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1467,9 +1467,9 @@
         "keyword": "Disini Di Batas Kota Ini (New Version",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769759672427,
+        "last_search": 1769760327977,
         "created_at": 1769669620389,
         "locale": "id"
       },
@@ -1775,9 +1775,9 @@
         "keyword": "Di Batas Kota Ini - Tommy J Pisa",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769759672431,
+        "last_search": 1769760327977,
         "created_at": 1769759672427,
         "locale": "id"
       },
@@ -1786,9 +1786,9 @@
         "keyword": "Di Batas Kota Ini",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769759672432,
+        "last_search": 1769760327977,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -1797,9 +1797,9 @@
         "keyword": "Disini Di Batas Kota Ini (Versi Lawas",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769759672432,
+        "last_search": 1769760327977,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -1808,9 +1808,9 @@
         "keyword": "Di Batas Kota",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769759672432,
+        "last_search": 1769760327977,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -1819,9 +1819,9 @@
         "keyword": "Dere - Kota",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769759672432,
+        "last_search": 1769760327977,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -1830,9 +1830,9 @@
         "keyword": "Dere",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769759672432,
+        "last_search": 1769760327977,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -1878,6 +1878,17 @@
         "clicks": 0,
         "last_search": 1769760095553,
         "created_at": 1769760095553,
+        "locale": "id"
+      },
+      {
+        "id": "kw_63cbe110-1d5e-4998-8b2e-b5bf1ab21bb3",
+        "keyword": "Daftar Koleksi / Tommy J Pisa @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760327977,
+        "created_at": 1769760327977,
         "locale": "id"
       }
     ],
@@ -4089,9 +4100,9 @@
         "keyword": "Kembali",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769759672432,
+        "last_search": 1769760327977,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -4100,9 +4111,9 @@
         "keyword": "Kota",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769759672432,
+        "last_search": 1769760327977,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -10052,9 +10063,9 @@
         "keyword": "Near - Di Batas Kota",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769759672432,
+        "last_search": 1769760327977,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -10063,9 +10074,9 @@
         "keyword": "Near",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769759672432,
+        "last_search": 1769760327977,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -10131,9 +10142,9 @@
         "keyword": "Boomerang",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769759672432,
+        "last_search": 1769760327977,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -10780,9 +10791,9 @@
         "keyword": "Boomerang - Kembali",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769759672432,
+        "last_search": 1769760327977,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -11618,9 +11629,9 @@
         "keyword": "Tommy J Pisa - Disini Di Batas Kota Ini (New Version ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769759672427,
+        "last_search": 1769760327977,
         "created_at": 1769669620389,
         "locale": "id"
       },
@@ -11629,9 +11640,9 @@
         "keyword": "Tommy J Pisa",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769759672427,
+        "last_search": 1769760327977,
         "created_at": 1769669620389,
         "locale": "id"
       },
@@ -11926,9 +11937,9 @@
         "keyword": "Tommy J Pisa - Disini Di Batas Kota Ini (Versi Lawas ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769759672432,
+        "last_search": 1769760327977,
         "created_at": 1769759672432,
         "locale": "id"
       }
@@ -12357,9 +12368,9 @@
         "keyword": "Ernie Djohan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769759672432,
+        "last_search": 1769760327977,
         "created_at": 1769759672432,
         "locale": "id"
       }
@@ -18208,9 +18219,9 @@
         "keyword": "Senja di Batas Kota - Ernie Djohan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769759672432,
+        "last_search": 1769760327977,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -18219,9 +18230,9 @@
         "keyword": "Senja di Batas Kota",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769759672432,
+        "last_search": 1769760327977,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -18245,6 +18256,28 @@
         "clicks": 0,
         "last_search": 1769760095553,
         "created_at": 1769760095553,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6817856e-60cb-4652-93c1-b77b1db2d5a6",
+        "keyword": "Surat Untuk Kekasih - Tommy J Pisa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760327977,
+        "created_at": 1769760327977,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9fdf5b3b-dd26-4900-9ede-d6eb24e7f03b",
+        "keyword": "Surat Untuk Kekasih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760327977,
+        "created_at": 1769760327977,
         "locale": "id"
       }
     ],
@@ -19061,9 +19094,9 @@
         "keyword": "Iwan Fals",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769758686746,
+        "last_search": 1769760327977,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -19219,6 +19252,17 @@
         "clicks": 0,
         "last_search": 1769758686746,
         "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ba60e48c-161c-4612-84eb-364e3fde4e2d",
+        "keyword": "Iwan Fals - Kota",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760327977,
+        "created_at": 1769760327977,
         "locale": "id"
       }
     ],
