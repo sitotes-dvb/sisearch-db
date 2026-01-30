@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769767038057,
+    "last_updated": 1769770136776,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -5567,9 +5567,9 @@
         "keyword": "Masdddho - Tenang Lan Sabar",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769360249302,
+        "last_search": 1769770136735,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -5578,9 +5578,9 @@
         "keyword": "Masdddho",
         "tags": [],
         "weight": 1,
-        "impressions": 13,
+        "impressions": 14,
         "clicks": 0,
-        "last_search": 1769759225527,
+        "last_search": 1769770136735,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -6183,9 +6183,9 @@
         "keyword": "MCP Sysilia",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769770136735,
         "created_at": 1769520499398,
         "locale": "id"
       },
@@ -6194,9 +6194,9 @@
         "keyword": "Modal Sabar (feat. Asep Balon",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769770136735,
         "created_at": 1769520499398,
         "locale": "id"
       },
@@ -6682,6 +6682,17 @@
         "clicks": 0,
         "last_search": 1769758686746,
         "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_20aa0a2e-6bc7-410c-a433-e8817e3bf13a",
+        "keyword": "MCP Sysilia - No Sabar Dika",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769770136735,
+        "created_at": 1769770136735,
         "locale": "id"
       }
     ],
@@ -8460,6 +8471,17 @@
         "last_search": 1769767038040,
         "created_at": 1769767038040,
         "locale": "id"
+      },
+      {
+        "id": "kw_bfc3282b-f3f8-4076-b78b-36ac2d7797e5",
+        "keyword": "Genk Tak Sabar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769770136735,
+        "created_at": 1769770136735,
+        "locale": "id"
       }
     ],
     "n": [
@@ -9612,9 +9634,9 @@
         "keyword": "Ngukur Sabar",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769770136735,
         "created_at": 1769520499398,
         "locale": "id"
       },
@@ -9623,9 +9645,9 @@
         "keyword": "No Sabar Dika",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769770136735,
         "created_at": 1769520499398,
         "locale": "id"
       },
@@ -11233,9 +11255,9 @@
         "keyword": "Tenang Lan Sabar",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769770136735,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -12533,9 +12555,9 @@
         "keyword": "Edo CM - Ngukur Sabar",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769770136735,
         "created_at": 1769520499398,
         "locale": "id"
       },
@@ -12544,9 +12566,9 @@
         "keyword": "Edo CM",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769770136735,
         "created_at": 1769520499398,
         "locale": "id"
       },
@@ -14937,9 +14959,9 @@
         "keyword": "Arief ft. Silvia An",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769770136735,
         "created_at": 1769520499398,
         "locale": "id"
       },
@@ -15591,6 +15613,17 @@
         "last_search": 1769767038041,
         "created_at": 1769767038041,
         "locale": "id"
+      },
+      {
+        "id": "kw_e114b5e4-2351-42c1-80da-047493117b4b",
+        "keyword": "Arief ft. Silvia An - Sabar Menunggumu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769770136735,
+        "created_at": 1769770136735,
+        "locale": "id"
       }
     ],
     "r": [
@@ -15797,9 +15830,9 @@
         "keyword": "Raiso Dadi Siji - Sarah Brilian feat. Stress Royal ...",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1769758254204,
+        "last_search": 1769770136735,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -15808,9 +15841,9 @@
         "keyword": "Raiso Dadi Siji",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1769758254204,
+        "last_search": 1769770136735,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -16336,9 +16369,9 @@
         "keyword": "ROMI & The JAHATs",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769747925962,
+        "last_search": 1769770136735,
         "created_at": 1769747925962,
         "locale": "id"
       },
@@ -16439,6 +16472,17 @@
         "clicks": 0,
         "last_search": 1769758686746,
         "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f116a967-d96c-4faa-aca2-48a604f96438",
+        "keyword": "ROMI & The JAHATs - Genk Tak Sabar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769770136735,
+        "created_at": 1769770136735,
         "locale": "id"
       }
     ],
@@ -16800,9 +16844,9 @@
         "keyword": "Stand Here Alone",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769770136735,
         "created_at": 1769407471814,
         "locale": "id"
       },
@@ -17042,9 +17086,9 @@
         "keyword": "Sarah Brilian feat. Stress Royal",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1769758254204,
+        "last_search": 1769770136735,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -17735,9 +17779,9 @@
         "keyword": "Sadewok",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769770136735,
         "created_at": 1769520499398,
         "locale": "id"
       },
@@ -17757,9 +17801,9 @@
         "keyword": "Shiffa Harun - Selalu Sabar",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769770136735,
         "created_at": 1769520499398,
         "locale": "id"
       },
@@ -17768,9 +17812,9 @@
         "keyword": "Shiffa Harun",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769770136735,
         "created_at": 1769520499398,
         "locale": "id"
       },
@@ -17779,9 +17823,9 @@
         "keyword": "Selalu Sabar",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769770136735,
         "created_at": 1769520499398,
         "locale": "id"
       },
@@ -17790,9 +17834,9 @@
         "keyword": "Sabar Malu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769770136735,
         "created_at": 1769520499398,
         "locale": "id"
       },
@@ -17801,9 +17845,9 @@
         "keyword": "Stand Here Alone - Modal Sabar (feat. Asep Balon ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769770136735,
         "created_at": 1769520499398,
         "locale": "id"
       },
@@ -17812,9 +17856,9 @@
         "keyword": "Sabar Menunggumu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769770136735,
         "created_at": 1769520499398,
         "locale": "id"
       },
@@ -18686,6 +18730,28 @@
         "last_search": 1769767038041,
         "created_at": 1769767038041,
         "locale": "id"
+      },
+      {
+        "id": "kw_6f43faa1-a7b7-4337-ac42-9bd410b947a5",
+        "keyword": "Sadewok - Sabar -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769770136735,
+        "created_at": 1769770136734,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eb5b5565-8341-4117-9c3b-234e91dba8fd",
+        "keyword": "Sabar -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769770136735,
+        "created_at": 1769770136735,
+        "locale": "id"
       }
     ],
     "y": [
@@ -18771,9 +18837,9 @@
         "keyword": "Yan Mus - Sabar Malu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769770136735,
         "created_at": 1769520499398,
         "locale": "id"
       },
@@ -18782,9 +18848,9 @@
         "keyword": "Yan Mus",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520499398,
+        "last_search": 1769770136735,
         "created_at": 1769520499398,
         "locale": "id"
       },
