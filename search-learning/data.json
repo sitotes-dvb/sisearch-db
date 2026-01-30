@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769759672453,
+    "last_updated": 1769760095575,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -202,9 +202,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 33,
+        "impressions": 34,
         "clicks": 0,
-        "last_search": 1769759225527,
+        "last_search": 1769760095552,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -1533,9 +1533,9 @@
         "keyword": "Didi Kempot",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769703914634,
+        "last_search": 1769760095553,
         "created_at": 1769703914634,
         "locale": "id"
       },
@@ -1841,9 +1841,9 @@
         "keyword": "Davi Sumbing - Kerasnya Kota",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769759672432,
+        "last_search": 1769760095553,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -1852,10 +1852,32 @@
         "keyword": "Davi Sumbing",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769760095553,
+        "created_at": 1769759672433,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7069d0b1-7e14-4997-9c61-17236bb21d4a",
+        "keyword": "Denny Caknan - Kartonyono Medot Janji",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769759672433,
-        "created_at": 1769759672433,
+        "last_search": 1769760095552,
+        "created_at": 1769760095552,
+        "locale": "id"
+      },
+      {
+        "id": "kw_71bfa9e2-a778-4238-abb7-08888608c364",
+        "keyword": "Didi Kempot - Banyu Langit -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760095553,
+        "created_at": 1769760095553,
         "locale": "id"
       }
     ],
@@ -2052,9 +2074,9 @@
         "keyword": "Lavora ft. Destya Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769410290382,
+        "last_search": 1769760095553,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -2441,6 +2463,17 @@
         "clicks": 0,
         "last_search": 1769748764075,
         "created_at": 1769748764075,
+        "locale": "id"
+      },
+      {
+        "id": "kw_53a0c871-c73d-4417-85b8-f80d33c05726",
+        "keyword": "Lavora ft. Destya Eka - Sewates Konco",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760095553,
+        "created_at": 1769760095553,
         "locale": "id"
       }
     ],
@@ -4100,10 +4133,32 @@
         "keyword": "Kerasnya Kota",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769760095553,
+        "created_at": 1769759672433,
+        "locale": "id"
+      },
+      {
+        "id": "kw_067daf85-58b7-4e35-94fe-d9456083b693",
+        "keyword": "Kartonyono Medot Janji",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769759672433,
-        "created_at": 1769759672433,
+        "last_search": 1769760095553,
+        "created_at": 1769760095552,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6f66379b-02a9-47fd-b4a2-f2a72f0d9a80",
+        "keyword": "kota ini tak sama tanpamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760095553,
+        "created_at": 1769760095553,
         "locale": "id"
       }
     ],
@@ -4905,9 +4960,9 @@
         "keyword": "Pance Pondaag",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769610174633,
+        "last_search": 1769760095553,
         "created_at": 1769610174633,
         "locale": "id"
       },
@@ -5217,6 +5272,17 @@
         "clicks": 0,
         "last_search": 1769758686746,
         "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_55629817-df12-4533-9491-8bebf768d7ce",
+        "keyword": "Pance Pondaag - Walau Hati Menangis",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760095553,
+        "created_at": 1769760095553,
         "locale": "id"
       }
     ],
@@ -6449,9 +6515,9 @@
         "keyword": "Happy Asmara",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1769758254205,
+        "last_search": 1769760095553,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -6937,6 +7003,39 @@
         "clicks": 0,
         "last_search": 1769758686746,
         "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c38c7f2c-a610-449b-b2dc-fa2f4394334d",
+        "keyword": "Happy Asmara - Wes Tatas -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760095553,
+        "created_at": 1769760095553,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9365d2b6-aa62-4e1d-9234-3dd8b697d51d",
+        "keyword": "Hijau Daun - Suara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760095553,
+        "created_at": 1769760095553,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b14ab8c3-97b6-4417-9b9c-b327e9cdaf90",
+        "keyword": "Hijau Daun",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760095553,
+        "created_at": 1769760095553,
         "locale": "id"
       }
     ],
@@ -8075,6 +8174,28 @@
         "last_search": 1769757769515,
         "created_at": 1769757769515,
         "locale": "id"
+      },
+      {
+        "id": "kw_a1e2bd15-ddae-45c2-af43-6d8d5fce2652",
+        "keyword": "Gacobrush feat. Nur Azizah - Sampun Lilo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760095552,
+        "created_at": 1769760095552,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e4a3822a-5801-46cf-af1b-c95affa1cd55",
+        "keyword": "Gacobrush feat. Nur Azizah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760095552,
+        "created_at": 1769760095552,
+        "locale": "id"
       }
     ],
     "n": [
@@ -9194,9 +9315,9 @@
         "keyword": "Nadhif Basalamah",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769518999262,
+        "last_search": 1769760095553,
         "created_at": 1769518999262,
         "locale": "id"
       },
@@ -9947,6 +10068,17 @@
         "last_search": 1769759672432,
         "created_at": 1769759672432,
         "locale": "id"
+      },
+      {
+        "id": "kw_bc4adb98-9f20-49ac-93dd-b8a8c16aa4d5",
+        "keyword": "Nadhif Basalamah - kota ini tak sama tanpamu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760095553,
+        "created_at": 1769760095553,
+        "locale": "id"
       }
     ],
     "b": [
@@ -10652,6 +10784,28 @@
         "clicks": 0,
         "last_search": 1769759672432,
         "created_at": 1769759672432,
+        "locale": "id"
+      },
+      {
+        "id": "kw_21362580-e761-4fd4-9f00-078953b1f3e8",
+        "keyword": "Batas Kota Ninggal Tatu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760095552,
+        "created_at": 1769760095552,
+        "locale": "id"
+      },
+      {
+        "id": "kw_90de9308-761e-4240-a7f5-f62b64bbaa91",
+        "keyword": "Banyu Langit -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760095553,
+        "created_at": 1769760095553,
         "locale": "id"
       }
     ],
@@ -12770,6 +12924,28 @@
         "clicks": 0,
         "last_search": 1769747894346,
         "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_34a4e54d-51ca-48b4-8135-247275b96ac4",
+        "keyword": "Wes Tatas -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760095553,
+        "created_at": 1769760095553,
+        "locale": "id"
+      },
+      {
+        "id": "kw_23c6e094-c26c-42e9-8fbe-8df09732c9f9",
+        "keyword": "Walau Hati Menangis",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760095553,
+        "created_at": 1769760095553,
         "locale": "id"
       }
     ],
@@ -16723,9 +16899,9 @@
         "keyword": "Sewates Konco",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769410290382,
+        "last_search": 1769760095553,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -18048,6 +18224,28 @@
         "last_search": 1769759672432,
         "created_at": 1769759672432,
         "locale": "id"
+      },
+      {
+        "id": "kw_e5ce4e0d-5577-49a0-8d63-9a820ef1e7cc",
+        "keyword": "Sampun Lilo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760095552,
+        "created_at": 1769760095552,
+        "locale": "id"
+      },
+      {
+        "id": "kw_727b2a98-b3a8-4839-ac71-187b6a3d66db",
+        "keyword": "Suara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760095553,
+        "created_at": 1769760095553,
+        "locale": "id"
       }
     ],
     "y": [
@@ -19261,9 +19459,9 @@
         "keyword": "Orkes Kapsol",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769703874522,
+        "last_search": 1769760095552,
         "created_at": 1769611865001,
         "locale": "id"
       },
@@ -19364,6 +19562,17 @@
         "clicks": 0,
         "last_search": 1769759672432,
         "created_at": 1769759672432,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0a35248e-7e80-4007-b7d5-86f8cc0fe7bf",
+        "keyword": "Orkes Kapsol - Batas Kota Ninggal Tatu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760095552,
+        "created_at": 1769760095552,
         "locale": "id"
       }
     ],
