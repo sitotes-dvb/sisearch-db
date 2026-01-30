@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769759225546,
+    "last_updated": 1769759672453,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1467,9 +1467,9 @@
         "keyword": "Disini Di Batas Kota Ini (New Version",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769669620390,
+        "last_search": 1769759672427,
         "created_at": 1769669620389,
         "locale": "id"
       },
@@ -1768,6 +1768,94 @@
         "clicks": 0,
         "last_search": 1769759225527,
         "created_at": 1769759225527,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f9ea525e-7076-4dad-b736-1b2cfa138846",
+        "keyword": "Di Batas Kota Ini - Tommy J Pisa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672431,
+        "created_at": 1769759672427,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4c78bc07-e4b4-49b4-a3d6-ec96cd6dc2b4",
+        "keyword": "Di Batas Kota Ini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7f6308a3-1df0-46cb-9573-0bf2bbf08007",
+        "keyword": "Disini Di Batas Kota Ini (Versi Lawas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
+        "locale": "id"
+      },
+      {
+        "id": "kw_474a6a50-2125-4515-96bd-47c622966a08",
+        "keyword": "Di Batas Kota",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
+        "locale": "id"
+      },
+      {
+        "id": "kw_37bc7993-d800-47bf-9534-fa0a7e485cfd",
+        "keyword": "Dere - Kota",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f1972374-7abd-4128-96c0-8b21400228a3",
+        "keyword": "Dere",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
+        "locale": "id"
+      },
+      {
+        "id": "kw_71a62889-37e5-4de0-ba18-9ab0d7f4daf1",
+        "keyword": "Davi Sumbing - Kerasnya Kota",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9f456253-66c9-4392-820e-b0ed08c4a427",
+        "keyword": "Davi Sumbing",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672433,
+        "created_at": 1769759672433,
         "locale": "id"
       }
     ],
@@ -3950,6 +4038,72 @@
         "clicks": 0,
         "last_search": 1769759225527,
         "created_at": 1769759225527,
+        "locale": "id"
+      },
+      {
+        "id": "kw_432ea0b4-3a45-4c29-af47-dd448d656531",
+        "keyword": "Kumpulan Gitar Tommy J Pisa -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1a0fe895-608c-4119-a726-47e31f1bab30",
+        "keyword": "Kembali",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
+        "locale": "id"
+      },
+      {
+        "id": "kw_88a04886-70a5-41b4-9f2f-20580c56db60",
+        "keyword": "Kota",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
+        "locale": "id"
+      },
+      {
+        "id": "kw_479dbea3-bf12-4604-a714-c77cbdfaf075",
+        "keyword": "Kau Dan Aku Satu - Obbie Messakh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
+        "locale": "id"
+      },
+      {
+        "id": "kw_90643e93-385c-4d51-a2fd-194f8e311f7c",
+        "keyword": "Kau Dan Aku Satu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4a183ecc-b8ed-42d4-8956-d2274775d9da",
+        "keyword": "Kerasnya Kota",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672433,
+        "created_at": 1769759672433,
         "locale": "id"
       }
     ],
@@ -9771,6 +9925,28 @@
         "last_search": 1769759225527,
         "created_at": 1769759225527,
         "locale": "id"
+      },
+      {
+        "id": "kw_322cbb44-7c83-4acd-80a8-4d1d7e066be2",
+        "keyword": "Near - Di Batas Kota",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
+        "locale": "id"
+      },
+      {
+        "id": "kw_db79c2ca-5817-4f07-b2e9-132476a71c59",
+        "keyword": "Near",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
+        "locale": "id"
       }
     ],
     "b": [
@@ -9823,9 +9999,9 @@
         "keyword": "Boomerang",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769522415615,
+        "last_search": 1769759672432,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -10465,6 +10641,17 @@
         "clicks": 0,
         "last_search": 1769758686746,
         "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b778456e-22fb-4d9d-89e0-c9400d0712c8",
+        "keyword": "Boomerang - Kembali",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
         "locale": "id"
       }
     ],
@@ -11277,9 +11464,9 @@
         "keyword": "Tommy J Pisa - Disini Di Batas Kota Ini (New Version ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769669620389,
+        "last_search": 1769759672427,
         "created_at": 1769669620389,
         "locale": "id"
       },
@@ -11288,9 +11475,9 @@
         "keyword": "Tommy J Pisa",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769669620389,
+        "last_search": 1769759672427,
         "created_at": 1769669620389,
         "locale": "id"
       },
@@ -11578,6 +11765,17 @@
         "clicks": 0,
         "last_search": 1769758686746,
         "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b772c433-7a8f-453b-badf-882c82e532bc",
+        "keyword": "Tommy J Pisa - Disini Di Batas Kota Ini (Versi Lawas ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
         "locale": "id"
       }
     ],
@@ -11998,6 +12196,17 @@
         "clicks": 0,
         "last_search": 1769758674001,
         "created_at": 1769758674001,
+        "locale": "id"
+      },
+      {
+        "id": "kw_95f242ff-5114-43ac-988c-60c7587814f7",
+        "keyword": "Ernie Djohan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
         "locale": "id"
       }
     ],
@@ -17817,6 +18026,28 @@
         "last_search": 1769758686746,
         "created_at": 1769758686746,
         "locale": "id"
+      },
+      {
+        "id": "kw_d0d53480-2de8-4b88-899b-3c8833c629bf",
+        "keyword": "Senja di Batas Kota - Ernie Djohan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ac1f5717-628e-47f1-ba35-56d5e5ddfcbc",
+        "keyword": "Senja di Batas Kota",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
+        "locale": "id"
       }
     ],
     "y": [
@@ -19122,6 +19353,17 @@
         "clicks": 0,
         "last_search": 1769748764075,
         "created_at": 1769748764075,
+        "locale": "id"
+      },
+      {
+        "id": "kw_786bf1fb-bcb5-4c81-9bd4-3c1907285643",
+        "keyword": "Obbie Messakh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769759672432,
+        "created_at": 1769759672432,
         "locale": "id"
       }
     ],
