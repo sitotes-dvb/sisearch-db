@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769747894362,
+    "last_updated": 1769747925984,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3504,9 +3504,9 @@
         "keyword": "Koes Plus - Kembali Ke Jakarta",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769747894346,
+        "last_search": 1769747925962,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -3515,9 +3515,9 @@
         "keyword": "Koes Plus",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769747894346,
+        "last_search": 1769747925962,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -3526,9 +3526,9 @@
         "keyword": "Kembali Ke Jakarta",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769747894346,
+        "last_search": 1769747925962,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -4562,10 +4562,32 @@
         "keyword": "Pariban Dari Jakarta",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769747925962,
+        "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c78d0446-6cdc-4062-83aa-76c619b0b21e",
+        "keyword": "Planetarium",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769747894346,
-        "created_at": 1769747894346,
+        "last_search": 1769747925962,
+        "created_at": 1769747925962,
+        "locale": "id"
+      },
+      {
+        "id": "kw_68d66dfc-c581-4ea8-adad-4368d6983cd6",
+        "keyword": "Puma Tak Purin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747925962,
+        "created_at": 1769747925962,
         "locale": "id"
       }
     ],
@@ -6625,9 +6647,9 @@
         "keyword": "Jakarta Pagi ini - Slank",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769747894346,
+        "last_search": 1769747925961,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -6636,9 +6658,9 @@
         "keyword": "Jakarta Pagi ini",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769747894346,
+        "last_search": 1769747925961,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -6647,9 +6669,9 @@
         "keyword": "Jakarta Hari Ini",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769747894346,
+        "last_search": 1769747925961,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -6673,6 +6695,17 @@
         "clicks": 0,
         "last_search": 1769747894346,
         "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6f1aa6ea-e241-4be1-9493-696aa1eb98a6",
+        "keyword": "Jaga Hati Ini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747925962,
+        "created_at": 1769747925962,
         "locale": "id"
       }
     ],
@@ -9463,6 +9496,17 @@
         "last_search": 1769670975194,
         "created_at": 1769670975194,
         "locale": "id"
+      },
+      {
+        "id": "kw_44124529-7c11-4d9e-9733-06c03681e60b",
+        "keyword": "Bondan Prakoso & Fade 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747925962,
+        "created_at": 1769747925962,
+        "locale": "id"
       }
     ],
     "t": [
@@ -10395,10 +10439,32 @@
         "keyword": "Tunggu Aku di Jakarta",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769747925962,
+        "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_19d6cac2-1e46-471d-bfa4-6a33517a7355",
+        "keyword": "The Jansen - Planetarium",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769747894346,
-        "created_at": 1769747894346,
+        "last_search": 1769747925962,
+        "created_at": 1769747925962,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c3bb1d17-36a4-483d-a207-267d40f72bc7",
+        "keyword": "The Jansen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747925962,
+        "created_at": 1769747925962,
         "locale": "id"
       }
     ],
@@ -13400,6 +13466,28 @@
         "last_search": 1769740737932,
         "created_at": 1769740737932,
         "locale": "id"
+      },
+      {
+        "id": "kw_2ee36e30-bf81-4d58-9a64-dadb3ae2e68d",
+        "keyword": "Adhitia Sofyan - Sesuatu Di Jogja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747925962,
+        "created_at": 1769747925962,
+        "locale": "id"
+      },
+      {
+        "id": "kw_76c0a440-44ff-4552-9316-ff33afeda28e",
+        "keyword": "Adhitia Sofyan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747925962,
+        "created_at": 1769747925962,
+        "locale": "id"
       }
     ],
     "r": [
@@ -14106,6 +14194,50 @@
         "last_search": 1769672111093,
         "created_at": 1769672111093,
         "locale": "id"
+      },
+      {
+        "id": "kw_658e7161-1b43-4a48-97a5-82d9050cb3b1",
+        "keyword": "R.I.P - Bondan Prakoso & Fade 2 ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747925962,
+        "created_at": 1769747925962,
+        "locale": "id"
+      },
+      {
+        "id": "kw_55057362-b692-4967-84f2-82fedb36248b",
+        "keyword": "R.I.P",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747925962,
+        "created_at": 1769747925962,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4359d419-26d8-4778-a0c3-f5717dd90b56",
+        "keyword": "ROMI & The JAHATs - Puma Tak Purin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747925962,
+        "created_at": 1769747925962,
+        "locale": "id"
+      },
+      {
+        "id": "kw_77be85e3-eb49-41e6-bfdd-953f6d2c5120",
+        "keyword": "ROMI & The JAHATs",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747925962,
+        "created_at": 1769747925962,
+        "locale": "id"
       }
     ],
     "s": [
@@ -14312,9 +14444,9 @@
         "keyword": "Slank",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769747894346,
+        "last_search": 1769747925961,
         "created_at": 1769397199479,
         "locale": "id"
       },
@@ -15313,9 +15445,9 @@
         "keyword": "Sheila On 7",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769747894346,
+        "last_search": 1769747925962,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -16061,9 +16193,9 @@
         "keyword": "Sheila On 7 - Tunggu Aku di Jakarta",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769747894346,
+        "last_search": 1769747925962,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -16072,9 +16204,9 @@
         "keyword": "Suryanto Siregar - Pariban Dari Jakarta",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769747894346,
+        "last_search": 1769747925962,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -16083,9 +16215,9 @@
         "keyword": "Suryanto Siregar",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769747894346,
+        "last_search": 1769747925962,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -16098,6 +16230,39 @@
         "clicks": 0,
         "last_search": 1769747894346,
         "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c219e8d4-ab6c-498d-83e1-35cabcae889b",
+        "keyword": "StereoWall X For Revenge - Jaga Hati Ini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747925962,
+        "created_at": 1769747925961,
+        "locale": "id"
+      },
+      {
+        "id": "kw_92415b8e-5ff1-4f5c-8110-7db6ce73d218",
+        "keyword": "StereoWall X For Revenge",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747925962,
+        "created_at": 1769747925962,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f21235d8-925b-43aa-a183-7e0106d72d4f",
+        "keyword": "Sesuatu Di Jogja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747925962,
+        "created_at": 1769747925962,
         "locale": "id"
       }
     ],
@@ -16714,9 +16879,9 @@
         "keyword": "For Revenge X Stereo Wall - Jakarta Hari Ini",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769747894346,
+        "last_search": 1769747925961,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -16725,9 +16890,9 @@
         "keyword": "For Revenge X Stereo Wall",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769747894346,
+        "last_search": 1769747925961,
         "created_at": 1769747894346,
         "locale": "id"
       }
