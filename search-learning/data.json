@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769760327996,
+    "last_updated": 1769760517521,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1467,9 +1467,9 @@
         "keyword": "Disini Di Batas Kota Ini (New Version",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769760327977,
+        "last_search": 1769760517514,
         "created_at": 1769669620389,
         "locale": "id"
       },
@@ -1775,9 +1775,9 @@
         "keyword": "Di Batas Kota Ini - Tommy J Pisa",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769760327977,
+        "last_search": 1769760517514,
         "created_at": 1769759672427,
         "locale": "id"
       },
@@ -1786,9 +1786,9 @@
         "keyword": "Di Batas Kota Ini",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769760327977,
+        "last_search": 1769760517514,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -1797,9 +1797,9 @@
         "keyword": "Disini Di Batas Kota Ini (Versi Lawas",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769760327977,
+        "last_search": 1769760517514,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -1885,9 +1885,9 @@
         "keyword": "Daftar Koleksi / Tommy J Pisa @Chordtela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769760327977,
+        "last_search": 1769760517514,
         "created_at": 1769760327977,
         "locale": "id"
       }
@@ -4111,9 +4111,9 @@
         "keyword": "Kota",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769760327977,
+        "last_search": 1769760517514,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -4170,6 +4170,28 @@
         "clicks": 0,
         "last_search": 1769760095553,
         "created_at": 1769760095553,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1f19de0d-4d54-4dbc-a4c7-5241d871bdbf",
+        "keyword": "Kota Mati - Peterpan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760517514,
+        "created_at": 1769760517514,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9d496816-5ec3-41b4-b3ee-4d62a11a58b1",
+        "keyword": "Kota Mati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760517514,
+        "created_at": 1769760517514,
         "locale": "id"
       }
     ],
@@ -4542,9 +4564,9 @@
         "keyword": "Peterpan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769477147758,
+        "last_search": 1769760517514,
         "created_at": 1769477147758,
         "locale": "id"
       },
@@ -4674,9 +4696,9 @@
         "keyword": "PSHT SEDATI - Mekarlah Bunga Terate (New Version ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769511137014,
+        "last_search": 1769760517514,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -4685,9 +4707,9 @@
         "keyword": "PSHT SEDATI",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769511137014,
+        "last_search": 1769760517514,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -5842,9 +5864,9 @@
         "keyword": "Mekarlah Bunga Terate (New Version",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769511137014,
+        "last_search": 1769760517514,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -7375,9 +7397,9 @@
         "keyword": "Jamrud",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510279126,
+        "last_search": 1769760517514,
         "created_at": 1769510279126,
         "locale": "id"
       },
@@ -7676,6 +7698,17 @@
         "clicks": 0,
         "last_search": 1769758686746,
         "created_at": 1769758686746,
+        "locale": "id"
+      },
+      {
+        "id": "kw_aca843f4-265c-4257-a545-15df0579f92d",
+        "keyword": "Jamrud - Berakit rakit",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760517514,
+        "created_at": 1769760517514,
         "locale": "id"
       }
     ],
@@ -10818,6 +10851,17 @@
         "last_search": 1769760095553,
         "created_at": 1769760095553,
         "locale": "id"
+      },
+      {
+        "id": "kw_a462436b-abca-40bd-b582-b20fdf1673c0",
+        "keyword": "Berakit rakit",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769760517514,
+        "created_at": 1769760517514,
+        "locale": "id"
       }
     ],
     "t": [
@@ -11629,9 +11673,9 @@
         "keyword": "Tommy J Pisa - Disini Di Batas Kota Ini (New Version ...",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769760327977,
+        "last_search": 1769760517514,
         "created_at": 1769669620389,
         "locale": "id"
       },
@@ -11640,9 +11684,9 @@
         "keyword": "Tommy J Pisa",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769760327977,
+        "last_search": 1769760517514,
         "created_at": 1769669620389,
         "locale": "id"
       },
@@ -11937,9 +11981,9 @@
         "keyword": "Tommy J Pisa - Disini Di Batas Kota Ini (Versi Lawas ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769760327977,
+        "last_search": 1769760517514,
         "created_at": 1769759672432,
         "locale": "id"
       }
@@ -18263,9 +18307,9 @@
         "keyword": "Surat Untuk Kekasih - Tommy J Pisa",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769760327977,
+        "last_search": 1769760517514,
         "created_at": 1769760327977,
         "locale": "id"
       },
@@ -18274,9 +18318,9 @@
         "keyword": "Surat Untuk Kekasih",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769760327977,
+        "last_search": 1769760517514,
         "created_at": 1769760327977,
         "locale": "id"
       }
@@ -19094,9 +19138,9 @@
         "keyword": "Iwan Fals",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769760327977,
+        "last_search": 1769760517514,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -19259,10 +19303,21 @@
         "keyword": "Iwan Fals - Kota",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769760517514,
+        "created_at": 1769760327977,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3b509db0-6604-4f0c-b455-1e6cefc1606d",
+        "keyword": "Izinkan Aku",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769760327977,
-        "created_at": 1769760327977,
+        "last_search": 1769760517514,
+        "created_at": 1769760517514,
         "locale": "id"
       }
     ],
@@ -19969,10 +20024,21 @@
         "keyword": "Virzha",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1769760517514,
+        "created_at": 1769757147713,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1ff6a729-d5ff-42e1-8958-557c30e22977",
+        "keyword": "Virzha - Izinkan Aku",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1769757147713,
-        "created_at": 1769757147713,
+        "last_search": 1769760517514,
+        "created_at": 1769760517514,
         "locale": "id"
       }
     ],
