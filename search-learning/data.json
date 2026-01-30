@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769740737948,
+    "last_updated": 1769747894362,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1003,9 +1003,9 @@
         "keyword": "Dewa 19",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769694060364,
+        "last_search": 1769747894346,
         "created_at": 1769423057828,
         "locale": "id"
       },
@@ -1568,6 +1568,17 @@
         "clicks": 0,
         "last_search": 1769707449045,
         "created_at": 1769707449045,
+        "locale": "id"
+      },
+      {
+        "id": "kw_18807a6b-4404-444a-bd9c-d212928957d7",
+        "keyword": "Dewa 19 - Selatan Jakarta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
         "locale": "id"
       }
     ],
@@ -3487,6 +3498,72 @@
         "last_search": 1769740737933,
         "created_at": 1769740737933,
         "locale": "id"
+      },
+      {
+        "id": "kw_107ea9a4-4fc5-4042-9b15-ec227b7bc79e",
+        "keyword": "Koes Plus - Kembali Ke Jakarta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_193cd0b7-91f2-4cd0-9a14-e53233e5386e",
+        "keyword": "Koes Plus",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_52f13fac-5828-443a-bdf5-cb7139eae0ed",
+        "keyword": "Kembali Ke Jakarta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bc783ee6-2822-4706-ae44-038cdfea58c1",
+        "keyword": "Kisah Dari Selatan Jakarta - White Shoes & The Couples ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ad6314ec-bfd7-40db-8666-673f9f8b4973",
+        "keyword": "Kisah Dari Selatan Jakarta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eaf306f9-8139-41fd-8929-9ddc881efc4f",
+        "keyword": "Kadang Jakarta Jadi Ungu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894347,
+        "created_at": 1769747894347,
+        "locale": "id"
       }
     ],
     "p": [
@@ -4478,6 +4555,17 @@
         "clicks": 0,
         "last_search": 1769740737933,
         "created_at": 1769740737933,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e6725cc9-67c4-410f-80c3-53a232a11349",
+        "keyword": "Pariban Dari Jakarta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
         "locale": "id"
       }
     ],
@@ -6034,6 +6122,17 @@
         "last_search": 1769705686139,
         "created_at": 1769705686139,
         "locale": "id"
+      },
+      {
+        "id": "kw_6b07cbeb-ac2f-4329-9ea4-a3296cf9428f",
+        "keyword": "High School in Jakarta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894345,
+        "locale": "id"
       }
     ],
     "j": [
@@ -6508,6 +6607,72 @@
         "clicks": 0,
         "last_search": 1769707449044,
         "created_at": 1769707449044,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b3fc6b7b-ca0c-44c8-b414-478fbbde5722",
+        "keyword": "Jangan ke Jakarta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_07a182d9-7526-4a38-ae27-826862339b15",
+        "keyword": "Jakarta Pagi ini - Slank",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f215711c-cecc-4769-99ae-379fc8e69fbb",
+        "keyword": "Jakarta Pagi ini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_54a12ff8-bfcb-4cd4-8ef2-60c955fa7523",
+        "keyword": "Jakarta Hari Ini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5791c2c7-84a4-419e-9ffd-06bb1e11f90f",
+        "keyword": "Jason Ranti - Kadang Jakarta Jadi Ungu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_917474c7-b590-4050-8120-ff832a38e77b",
+        "keyword": "Jason Ranti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
         "locale": "id"
       }
     ],
@@ -8658,6 +8823,28 @@
         "last_search": 1769740737933,
         "created_at": 1769740737933,
         "locale": "id"
+      },
+      {
+        "id": "kw_75497886-d106-47c5-b0a3-7866c6dc0f2e",
+        "keyword": "NIKI - High School in Jakarta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894345,
+        "created_at": 1769747894345,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3d070c0b-1ebf-4651-902d-a1de916cd9fa",
+        "keyword": "NIKI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894345,
+        "created_at": 1769747894345,
+        "locale": "id"
       }
     ],
     "b": [
@@ -10202,6 +10389,17 @@
         "last_search": 1769707419092,
         "created_at": 1769707419092,
         "locale": "id"
+      },
+      {
+        "id": "kw_1a47cbda-7189-4cff-902d-a639d562a374",
+        "keyword": "Tunggu Aku di Jakarta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
+        "locale": "id"
       }
     ],
     "e": [
@@ -11140,6 +11338,17 @@
         "clicks": 0,
         "last_search": 1769707419091,
         "created_at": 1769707419091,
+        "locale": "id"
+      },
+      {
+        "id": "kw_676b8aa6-3337-456e-a195-a459eba8c5a1",
+        "keyword": "White Shoes & The Couples",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
         "locale": "id"
       }
     ],
@@ -14103,9 +14312,9 @@
         "keyword": "Slank",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769397199479,
+        "last_search": 1769747894346,
         "created_at": 1769397199479,
         "locale": "id"
       },
@@ -15104,9 +15313,9 @@
         "keyword": "Sheila On 7",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769583885578,
+        "last_search": 1769747894346,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -15824,6 +16033,72 @@
         "last_search": 1769740737933,
         "created_at": 1769740737933,
         "locale": "id"
+      },
+      {
+        "id": "kw_b172d542-bdd3-4f7e-a44b-d2b9eec8d523",
+        "keyword": "SLANK - Jangan ke Jakarta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0e7dd84c-1613-4204-9976-3a8622e27257",
+        "keyword": "SLANK",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_309dc58c-f14b-4292-bbd1-cc0942bd677b",
+        "keyword": "Sheila On 7 - Tunggu Aku di Jakarta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5f88772b-3cba-4a11-b2c0-c7fe1cc2ad13",
+        "keyword": "Suryanto Siregar - Pariban Dari Jakarta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c8d11d89-7ab3-4e88-99b7-dd0c0181f066",
+        "keyword": "Suryanto Siregar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2099469d-0ea0-4b86-829e-056f38a33e0d",
+        "keyword": "Selatan Jakarta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
+        "locale": "id"
       }
     ],
     "y": [
@@ -16432,6 +16707,28 @@
         "clicks": 0,
         "last_search": 1769740737933,
         "created_at": 1769740737933,
+        "locale": "id"
+      },
+      {
+        "id": "kw_832bf054-a82d-4b4d-a5aa-4ecbd801af55",
+        "keyword": "For Revenge X Stereo Wall - Jakarta Hari Ini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6d7dab3f-43e7-4b5e-ad43-03e50331b009",
+        "keyword": "For Revenge X Stereo Wall",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769747894346,
+        "created_at": 1769747894346,
         "locale": "id"
       }
     ],
