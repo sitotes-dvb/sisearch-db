@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769782700683,
+    "last_updated": 1769791972530,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -204,9 +204,9 @@
         "keyword": "Denny Caknan - Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 18,
+        "impressions": 19,
         "clicks": 0,
-        "last_search": 1769759225527,
+        "last_search": 1769791972515,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -215,9 +215,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 34,
+        "impressions": 35,
         "clicks": 0,
-        "last_search": 1769760095552,
+        "last_search": 1769791972515,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -248,9 +248,9 @@
         "keyword": "Denny Caknan - Cundamani",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769759225527,
+        "last_search": 1769791972515,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -303,9 +303,9 @@
         "keyword": "Denny Caknan Feat Bella Bonita",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314317,
+        "last_search": 1769791972514,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -633,9 +633,9 @@
         "keyword": "Denny Caknan - Langgeng Dayaning Rasa (LDR ...",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769759225527,
+        "last_search": 1769791972515,
         "created_at": 1769407733906,
         "locale": "id"
       },
@@ -2090,6 +2090,28 @@
         "last_search": 1769782700667,
         "created_at": 1769782700667,
         "locale": "id"
+      },
+      {
+        "id": "kw_ca59eedc-5f3c-43b1-8c42-ef15102e1b54",
+        "keyword": "Denny Caknan Feat Bella Bonita - SINARENGAN ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769791972514,
+        "created_at": 1769791972514,
+        "locale": "id"
+      },
+      {
+        "id": "kw_528870db-ba82-4ce0-9f89-0bbbc0769f56",
+        "keyword": "Daftar Koleksi / Bella Bonita @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769791972515,
+        "created_at": 1769791972515,
+        "locale": "id"
       }
     ],
     "l": [
@@ -2120,9 +2142,9 @@
         "keyword": "Langgeng Dayaning Rasa (LDR",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769759225527,
+        "last_search": 1769791972515,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -2131,9 +2153,9 @@
         "keyword": "Lamunan",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1769759225527,
+        "last_search": 1769791972515,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -2318,9 +2340,9 @@
         "keyword": "LAVORA Ft. Damara De",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769707419091,
+        "last_search": 1769791972515,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -2648,9 +2670,9 @@
         "keyword": "LAVORA Ft. Damara De - Nresnani",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769707419091,
+        "last_search": 1769791972515,
         "created_at": 1769707419091,
         "locale": "id"
       },
@@ -4546,6 +4568,28 @@
         "clicks": 0,
         "last_search": 1769782191701,
         "created_at": 1769782191701,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a76f3b28-177d-4926-8a84-f43855406828",
+        "keyword": "Kumpulan Gitar Denny Caknan -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769791972515,
+        "created_at": 1769791972515,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f47f802c-45c4-439c-a766-338df32f37e2",
+        "keyword": "Kawitaning Sinawang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769791972515,
+        "created_at": 1769791972515,
         "locale": "id"
       }
     ],
@@ -8435,9 +8479,9 @@
         "keyword": "GuyonWaton x Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769582290985,
+        "last_search": 1769791972515,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -8857,6 +8901,17 @@
         "clicks": 0,
         "last_search": 1769782560565,
         "created_at": 1769782560565,
+        "locale": "id"
+      },
+      {
+        "id": "kw_20821290-8490-4552-b1f4-5e396e3bb823",
+        "keyword": "GuyonWaton x Denny Caknan - SANES",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769791972515,
+        "created_at": 1769791972515,
         "locale": "id"
       }
     ],
@@ -9548,9 +9603,9 @@
         "keyword": "Nresnani",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769707419091,
+        "last_search": 1769791972515,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -13219,9 +13274,9 @@
         "keyword": "Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 18,
+        "impressions": 19,
         "clicks": 0,
-        "last_search": 1769759225527,
+        "last_search": 1769791972515,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -13252,9 +13307,9 @@
         "keyword": "Wahyu F Giri - Lamunan",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1769759225527,
+        "last_search": 1769791972515,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -13263,9 +13318,9 @@
         "keyword": "Wahyu F Giri",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1769759225527,
+        "last_search": 1769791972515,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -13804,9 +13859,9 @@
         "keyword": "Cundamani",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769759225527,
+        "last_search": 1769791972515,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -17110,9 +17165,9 @@
         "keyword": "SINARENGAN",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395314317,
+        "last_search": 1769791972514,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -17572,9 +17627,9 @@
         "keyword": "SANES",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769582290985,
+        "last_search": 1769791972515,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -19281,6 +19336,28 @@
         "clicks": 0,
         "last_search": 1769782700668,
         "created_at": 1769782700668,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c08e816f-1f16-4e01-bf01-9c59ee0eaaf6",
+        "keyword": "Setyo Puji - Kawitaning Sinawang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769791972515,
+        "created_at": 1769791972515,
+        "locale": "id"
+      },
+      {
+        "id": "kw_004d64c3-48fa-41f0-8bcd-04e9f20653cd",
+        "keyword": "Setyo Puji",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769791972515,
+        "created_at": 1769791972515,
         "locale": "id"
       }
     ],
