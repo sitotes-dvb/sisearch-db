@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769757769555,
+    "last_updated": 1769758254229,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1027,9 +1027,9 @@
         "keyword": "Dewa 19",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769747894346,
+        "last_search": 1769758254205,
         "created_at": 1769423057828,
         "locale": "id"
       },
@@ -1702,6 +1702,50 @@
         "clicks": 0,
         "last_search": 1769757147712,
         "created_at": 1769757147712,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1cf3b7fa-a74c-421f-850b-223778fe4a7d",
+        "keyword": "Daftar Koleksi / Stress Royal @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758254205,
+        "created_at": 1769758254204,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dbacdf79-3880-424d-a4d6-659fce55a5b4",
+        "keyword": "Daftar Koleksi / Sarah Brilian -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758254205,
+        "created_at": 1769758254205,
+        "locale": "id"
+      },
+      {
+        "id": "kw_05ea7199-a1f1-44b8-9b7e-01f21a0eaacf",
+        "keyword": "Daftar Koleksi / Hip Hop Koplo @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758254205,
+        "created_at": 1769758254205,
+        "locale": "id"
+      },
+      {
+        "id": "kw_298290ab-c663-4676-ae94-6e7190011a55",
+        "keyword": "Dewa 19 - Cinta Gila",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758254205,
+        "created_at": 1769758254205,
         "locale": "id"
       }
     ],
@@ -3731,6 +3775,28 @@
         "last_search": 1769757147713,
         "created_at": 1769757147713,
         "locale": "id"
+      },
+      {
+        "id": "kw_f134d234-1063-4780-b45a-62202469d5e1",
+        "keyword": "Kumpulan Gitar Stress Royal -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758254204,
+        "created_at": 1769758254204,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5caa3b07-c9b4-4b93-b229-f3a653aa5081",
+        "keyword": "Kumpulan Gitar Sarah Brilian -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758254205,
+        "created_at": 1769758254205,
+        "locale": "id"
       }
     ],
     "p": [
@@ -4777,6 +4843,17 @@
         "clicks": 0,
         "last_search": 1769757769515,
         "created_at": 1769757769515,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2774c44a-585b-4a2c-856a-1a0e2989a0a7",
+        "keyword": "Pandangi Langit Malam Ini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758254205,
+        "created_at": 1769758254205,
         "locale": "id"
       }
     ],
@@ -5954,9 +6031,9 @@
         "keyword": "Happy Asmara",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769705686139,
+        "last_search": 1769758254205,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -6420,6 +6497,17 @@
         "clicks": 0,
         "last_search": 1769748764075,
         "created_at": 1769748764075,
+        "locale": "id"
+      },
+      {
+        "id": "kw_db481227-3d05-4647-aedf-464d0174cf1f",
+        "keyword": "Happy Asmara - Separuh Ati (Ost ... -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758254205,
+        "created_at": 1769758254205,
         "locale": "id"
       }
     ],
@@ -7005,6 +7093,28 @@
         "clicks": 0,
         "last_search": 1769748764075,
         "created_at": 1769748764075,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f5933314-ac5b-4cf4-bef0-51e39da2981c",
+        "keyword": "Jikustik - Pandangi Langit Malam Ini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758254205,
+        "created_at": 1769758254205,
+        "locale": "id"
+      },
+      {
+        "id": "kw_872200f1-3637-4a06-b46f-d0bfc45f13f8",
+        "keyword": "Jikustik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758254205,
+        "created_at": 1769758254205,
         "locale": "id"
       }
     ],
@@ -12696,6 +12806,17 @@
         "last_search": 1769748764075,
         "created_at": 1769748764075,
         "locale": "id"
+      },
+      {
+        "id": "kw_1e015703-2441-4364-ab28-10e0243c364c",
+        "keyword": "Cinta Gila",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758254205,
+        "created_at": 1769758254205,
+        "locale": "id"
       }
     ],
     "a": [
@@ -14271,6 +14392,28 @@
         "last_search": 1769757769515,
         "created_at": 1769757769515,
         "locale": "id"
+      },
+      {
+        "id": "kw_04faa90f-e6bb-437e-a8fe-c3527202560b",
+        "keyword": "Adele - Set Fire To The Rain",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758254205,
+        "created_at": 1769758254205,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eaa26e56-c104-4781-a5cc-caf81278a7ef",
+        "keyword": "Adele",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758254205,
+        "created_at": 1769758254205,
+        "locale": "id"
       }
     ],
     "r": [
@@ -14477,9 +14620,9 @@
         "keyword": "Raiso Dadi Siji - Sarah Brilian feat. Stress Royal ...",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769703914633,
+        "last_search": 1769758254204,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -14488,9 +14631,9 @@
         "keyword": "Raiso Dadi Siji",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769703914633,
+        "last_search": 1769758254204,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -15689,9 +15832,9 @@
         "keyword": "Sarah Brilian feat. Stress Royal",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769703914633,
+        "last_search": 1769758254204,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -17156,6 +17299,28 @@
         "clicks": 0,
         "last_search": 1769757147713,
         "created_at": 1769757147713,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7aa560d1-7cc2-4409-bab9-f4394eacc76e",
+        "keyword": "Set Fire To The Rain",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758254205,
+        "created_at": 1769758254205,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8fa1d3a7-d0b3-4954-a43c-2f59dc371e42",
+        "keyword": "Separuh Ati (Ost  -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758254205,
+        "created_at": 1769758254205,
         "locale": "id"
       }
     ],
