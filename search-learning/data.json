@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769792968023,
+    "last_updated": 1769795317340,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -237,9 +237,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 35,
+        "impressions": 36,
         "clicks": 0,
-        "last_search": 1769791972515,
+        "last_search": 1769795317318,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -1315,9 +1315,9 @@
         "keyword": "Daftar Koleksi / GuyonWaton @Chordtela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1769795317318,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -1898,9 +1898,9 @@
         "keyword": "Denny Caknan - Kartonyono Medot Janji",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769760095552,
+        "last_search": 1769795317318,
         "created_at": 1769760095552,
         "locale": "id"
       },
@@ -2133,6 +2133,17 @@
         "clicks": 0,
         "last_search": 1769791972515,
         "created_at": 1769791972515,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f47dad67-0c78-4a6c-b52b-e1557eec3ff9",
+        "keyword": "Dangdut Meggy Z",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769795317318,
+        "created_at": 1769795317318,
         "locale": "id"
       }
     ],
@@ -3585,9 +3596,9 @@
         "keyword": "Korban Janji",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769582290985,
+        "last_search": 1769795317317,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -4443,9 +4454,9 @@
         "keyword": "Kartonyono Medot Janji",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769760095553,
+        "last_search": 1769795317318,
         "created_at": 1769760095552,
         "locale": "id"
       },
@@ -4612,6 +4623,39 @@
         "clicks": 0,
         "last_search": 1769791972515,
         "created_at": 1769791972515,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cb03b653-bd06-42a2-900d-6a98858935c4",
+        "keyword": "Korban Perasaan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769795317318,
+        "created_at": 1769795317318,
+        "locale": "id"
+      },
+      {
+        "id": "kw_231eb940-8270-42b4-8834-b13c0a5e6574",
+        "keyword": "Korban Setia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769795317318,
+        "created_at": 1769795317318,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0010bfab-0e2a-4939-bc0b-11ec3621a498",
+        "keyword": "Korban Lelaki",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769795317319,
+        "created_at": 1769795317319,
         "locale": "id"
       }
     ],
@@ -7125,6 +7169,17 @@
         "last_search": 1769792968006,
         "created_at": 1769792968006,
         "locale": "id"
+      },
+      {
+        "id": "kw_21c19409-22e8-4713-a5ee-5b0fb4548cbc",
+        "keyword": "Mandek Nangis",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769795317318,
+        "created_at": 1769795317318,
+        "locale": "id"
       }
     ],
     "h": [
@@ -7177,9 +7232,9 @@
         "keyword": "Happy Asmara",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1769762224447,
+        "last_search": 1769795317318,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -7709,6 +7764,17 @@
         "clicks": 0,
         "last_search": 1769762224447,
         "created_at": 1769762224447,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fff35130-b2db-41a4-b53e-cbac217c6b68",
+        "keyword": "Happy Asmara - Wegah Diapusi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769795317318,
+        "created_at": 1769795317318,
         "locale": "id"
       }
     ],
@@ -12335,9 +12401,9 @@
         "keyword": "The Boys Trio",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520499397,
+        "last_search": 1769795317318,
         "created_at": 1769520499397,
         "locale": "id"
       },
@@ -12868,6 +12934,39 @@
         "last_search": 1769782560565,
         "created_at": 1769782560565,
         "locale": "id"
+      },
+      {
+        "id": "kw_d5b259a9-9dbb-4295-b69f-15e50f5086b4",
+        "keyword": "The Boys Trio - Korban Setia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769795317318,
+        "created_at": 1769795317318,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c8779051-7349-46c0-81e7-dd398a0e5117",
+        "keyword": "TTM Akustik Ft. Putri Andien - Cerito Loro",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769795317318,
+        "created_at": 1769795317318,
+        "locale": "id"
+      },
+      {
+        "id": "kw_add860ea-13c3-486c-ae89-ce97566b6c23",
+        "keyword": "TTM Akustik Ft. Putri Andien",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769795317318,
+        "created_at": 1769795317318,
+        "locale": "id"
       }
     ],
     "e": [
@@ -12931,9 +13030,9 @@
         "keyword": "Eny Sagita",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769582290985,
+        "last_search": 1769795317317,
         "created_at": 1769407631223,
         "locale": "id"
       },
@@ -13298,6 +13397,17 @@
         "clicks": 0,
         "last_search": 1769760327977,
         "created_at": 1769759672432,
+        "locale": "id"
+      },
+      {
+        "id": "kw_051df6ec-f83c-4b81-8e20-b7541e9ee8fc",
+        "keyword": "Eny Sagita - Korban Janji",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769795317317,
+        "created_at": 1769795317305,
         "locale": "id"
       }
     ],
@@ -13883,6 +13993,17 @@
         "clicks": 0,
         "last_search": 1769760095553,
         "created_at": 1769760095553,
+        "locale": "id"
+      },
+      {
+        "id": "kw_859951dd-2683-416e-aa41-7da2fbbaf997",
+        "keyword": "Wegah Diapusi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769795317318,
+        "created_at": 1769795317318,
         "locale": "id"
       }
     ],
@@ -14534,6 +14655,17 @@
         "clicks": 0,
         "last_search": 1769758254205,
         "created_at": 1769758254205,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6842c0ff-1315-445c-ad5f-bc1fc7ca2fcb",
+        "keyword": "Cerito Loro",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769795317318,
+        "created_at": 1769795317318,
         "locale": "id"
       }
     ],
@@ -16231,6 +16363,28 @@
         "last_search": 1769792968006,
         "created_at": 1769792968006,
         "locale": "id"
+      },
+      {
+        "id": "kw_8fdb4146-5180-47ba-b6fd-20dd6941edf8",
+        "keyword": "Andra Respati & Elsa Pitaloka - Korban Perasaan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769795317318,
+        "created_at": 1769795317318,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2ae39241-494d-4803-a561-c21388ea5062",
+        "keyword": "Andra Respati & Elsa Pitaloka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769795317318,
+        "created_at": 1769795317318,
+        "locale": "id"
       }
     ],
     "r": [
@@ -17473,9 +17627,9 @@
         "keyword": "Stand Here Alone",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769770136735,
+        "last_search": 1769795317319,
         "created_at": 1769407471814,
         "locale": "id"
       },
@@ -18947,9 +19101,9 @@
         "keyword": "Safira Inema",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769707419092,
+        "last_search": 1769795317318,
         "created_at": 1769705686139,
         "locale": "id"
       },
@@ -19446,6 +19600,50 @@
         "clicks": 0,
         "last_search": 1769792968006,
         "created_at": 1769792968006,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ebf1ee8e-0785-4d4d-95c3-8f6e4cdda71f",
+        "keyword": "Safira Inema - Mandek Nangis",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769795317317,
+        "created_at": 1769795317317,
+        "locale": "id"
+      },
+      {
+        "id": "kw_af530689-48be-47d5-8996-7a14a5a351e0",
+        "keyword": "Seribu Benang Cinta - Dangdut Meggy Z",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769795317318,
+        "created_at": 1769795317318,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f48be704-557b-474a-ab2f-5787f47351ef",
+        "keyword": "Seribu Benang Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769795317318,
+        "created_at": 1769795317318,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5e566a3b-74bf-4587-8e75-b75c55e42d02",
+        "keyword": "Stand Here Alone - Korban Lelaki",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769795317319,
+        "created_at": 1769795317319,
         "locale": "id"
       }
     ],
