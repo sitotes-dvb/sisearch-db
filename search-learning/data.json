@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769748764090,
+    "last_updated": 1769757147729,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1680,6 +1680,28 @@
         "clicks": 0,
         "last_search": 1769748764075,
         "created_at": 1769748764075,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c2fba21b-debc-4192-b1ea-76a2dab2853e",
+        "keyword": "Dalam Kerinduan - The Mercy's",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147712,
+        "created_at": 1769757147712,
+        "locale": "id"
+      },
+      {
+        "id": "kw_733ae5a3-5878-49a7-b854-fe277c32926f",
+        "keyword": "Dalam Kerinduan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147712,
+        "created_at": 1769757147712,
         "locale": "id"
       }
     ],
@@ -3676,6 +3698,39 @@
         "last_search": 1769747894347,
         "created_at": 1769747894347,
         "locale": "id"
+      },
+      {
+        "id": "kw_66273ab9-9d36-4ead-84c5-8988abfcfa44",
+        "keyword": "Kerinduan - Rhoma Irama Feat. Rita Sugiarto",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147712,
+        "created_at": 1769757147712,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d4b9bb03-e6ce-4ce5-8dd0-f76c466cdaa6",
+        "keyword": "Kerinduan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147712,
+        "created_at": 1769757147712,
+        "locale": "id"
+      },
+      {
+        "id": "kw_18856a25-b6ad-4d64-806b-e1f124fc6f77",
+        "keyword": "Kerinduan Berujung Luka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
+        "locale": "id"
       }
     ],
     "p": [
@@ -4929,9 +4984,9 @@
         "keyword": "Meyda Rahma",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407733906,
+        "last_search": 1769757147713,
         "created_at": 1769407733906,
         "locale": "id"
       },
@@ -5824,6 +5879,17 @@
         "clicks": 0,
         "last_search": 1769748764074,
         "created_at": 1769748764074,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6ec414ac-a453-4617-a8a1-68a84a5f422d",
+        "keyword": "Meyda Rahma - Asmara Kerinduan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
         "locale": "id"
       }
     ],
@@ -9850,6 +9916,17 @@
         "last_search": 1769748764074,
         "created_at": 1769748764074,
         "locale": "id"
+      },
+      {
+        "id": "kw_fe4e040f-9420-493f-a6b7-20a8c5b50f4f",
+        "keyword": "Butir Kerinduan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
+        "locale": "id"
       }
     ],
     "t": [
@@ -10463,9 +10540,9 @@
         "keyword": "Thomas Arya",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769694060364,
+        "last_search": 1769757147713,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -10830,6 +10907,94 @@
         "clicks": 0,
         "last_search": 1769748764075,
         "created_at": 1769748764075,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f8e6a0bb-1371-410e-955a-0169cacc8f08",
+        "keyword": "The Mercy's",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147712,
+        "locale": "id"
+      },
+      {
+        "id": "kw_98999f46-28b3-45dc-b55b-ffdf24e8833a",
+        "keyword": "Tajul & Afieq Shazwan - Resah Kerinduan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f16d3c78-5fc7-419c-aa3c-272cd15fa20b",
+        "keyword": "Tajul & Afieq Shazwan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
+        "locale": "id"
+      },
+      {
+        "id": "kw_68e288b3-a155-40bf-bd2c-e97d7a2f1cff",
+        "keyword": "The Cloves and The Tobacco - Tapak Tilas Kerinduan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1eef7d37-7596-47e1-b410-30b1ee4bf348",
+        "keyword": "The Cloves and The Tobacco",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3a55f9b1-fd41-420c-ac06-c052c1b070a3",
+        "keyword": "Tapak Tilas Kerinduan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b26f1cd3-0716-4a55-ae7e-b220c5ac8da2",
+        "keyword": "Thomas Arya - Kerinduan Berujung Luka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
+        "locale": "id"
+      },
+      {
+        "id": "kw_22264220-3e6a-49a2-b0d3-5c1039d57fb6",
+        "keyword": "Tentang Rindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
         "locale": "id"
       }
     ],
@@ -11217,6 +11382,28 @@
         "clicks": 0,
         "last_search": 1769707419092,
         "created_at": 1769707419092,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0704af05-3657-466b-aeee-73f84b703b9e",
+        "keyword": "Ella - Sembilu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
+        "locale": "id"
+      },
+      {
+        "id": "kw_11933dfe-32f3-4b0b-b3b2-7ae23a2268a1",
+        "keyword": "Ella",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
         "locale": "id"
       }
     ],
@@ -13551,9 +13738,9 @@
         "keyword": "Aprilian",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769669355539,
+        "last_search": 1769757147713,
         "created_at": 1769582645423,
         "locale": "id"
       },
@@ -13940,6 +14127,28 @@
         "clicks": 0,
         "last_search": 1769748764075,
         "created_at": 1769748764075,
+        "locale": "id"
+      },
+      {
+        "id": "kw_054704b5-a44c-4bd6-92ee-a7c1c29056e2",
+        "keyword": "Asmara Kerinduan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
+        "locale": "id"
+      },
+      {
+        "id": "kw_42c413f7-4f91-460c-8c4c-d99780bdcea7",
+        "keyword": "Aprilian - Sebuah Kata Kerinduan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
         "locale": "id"
       }
     ],
@@ -14734,6 +14943,28 @@
         "clicks": 0,
         "last_search": 1769748764075,
         "created_at": 1769748764075,
+        "locale": "id"
+      },
+      {
+        "id": "kw_842b2897-c30b-4852-94e4-66990cae2383",
+        "keyword": "Rhoma Irama Feat. Rita Sugiarto",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147712,
+        "created_at": 1769757147712,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6d9e06c8-5388-4867-bc87-bcb937f92a26",
+        "keyword": "Resah Kerinduan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
         "locale": "id"
       }
     ],
@@ -16783,6 +17014,28 @@
         "last_search": 1769748764075,
         "created_at": 1769748764075,
         "locale": "id"
+      },
+      {
+        "id": "kw_6c85a220-c9af-4d90-8afb-a3964f50efe3",
+        "keyword": "Sebuah Kata Kerinduan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
+        "locale": "id"
+      },
+      {
+        "id": "kw_86f13d9b-c2f4-4471-a7f2-1b68c89d2362",
+        "keyword": "Sembilu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
+        "locale": "id"
       }
     ],
     "y": [
@@ -18412,6 +18665,28 @@
         "last_search": 1769707449045,
         "created_at": 1769707449045,
         "locale": "id"
+      },
+      {
+        "id": "kw_26553f9d-391b-4b51-9ea5-1512ef16f30b",
+        "keyword": "Virzha - Tentang Rindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c0c53c4e-73e0-4696-854f-9508f6daf0ac",
+        "keyword": "Virzha",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
+        "locale": "id"
       }
     ],
     "u": [
@@ -18580,6 +18855,28 @@
         "clicks": 0,
         "last_search": 1769510958795,
         "created_at": 1769510958795,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e037863c-c7a9-449b-820b-58e88cafb00a",
+        "keyword": "Ziell Ferdian & Anisa - Butir Kerinduan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
+        "locale": "id"
+      },
+      {
+        "id": "kw_491704ec-6be0-49b6-95ac-358fbbb51190",
+        "keyword": "Ziell Ferdian & Anisa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769757147713,
+        "created_at": 1769757147713,
         "locale": "id"
       }
     ]
