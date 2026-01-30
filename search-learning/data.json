@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769770136776,
+    "last_updated": 1769781853933,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2011,6 +2011,28 @@
         "last_search": 1769767038041,
         "created_at": 1769767038041,
         "locale": "id"
+      },
+      {
+        "id": "kw_4f287ed0-dad6-483c-b009-573a1bf9f27d",
+        "keyword": "Demi Kowe -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769781853917,
+        "created_at": 1769781853917,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bd0e05ab-3e8a-402f-9e7c-174a1cfe2823",
+        "keyword": "Daftar Koleksi / Royhan Ni Amillah @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769781853917,
+        "created_at": 1769781853917,
+        "locale": "id"
       }
     ],
     "l": [
@@ -2074,9 +2096,9 @@
         "keyword": "Lanang Tenan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769398806467,
+        "last_search": 1769781853917,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -2580,9 +2602,9 @@
         "keyword": "LOSSKITA",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769707419092,
+        "last_search": 1769781853917,
         "created_at": 1769707419092,
         "locale": "id"
       },
@@ -2617,6 +2639,39 @@
         "clicks": 0,
         "last_search": 1769762224447,
         "created_at": 1769762224447,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4d5d2dd9-c057-4e4f-b568-5e9d314bb602",
+        "keyword": "Losskita - Lilakno Lungaku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769781853917,
+        "created_at": 1769781853917,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0c533848-23ab-4832-9326-6c922ec1073d",
+        "keyword": "Losskita",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769781853917,
+        "created_at": 1769781853917,
+        "locale": "id"
+      },
+      {
+        "id": "kw_378f7e58-347f-4a45-8553-cf639df319ee",
+        "keyword": "Lilakno Lungaku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769781853917,
+        "created_at": 1769781853917,
         "locale": "id"
       }
     ],
@@ -2747,9 +2802,9 @@
         "keyword": "Kumpulan Gitar NDX A.K.A",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769520854914,
+        "last_search": 1769781853917,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -4369,6 +4424,28 @@
         "last_search": 1769767038040,
         "created_at": 1769767038040,
         "locale": "id"
+      },
+      {
+        "id": "kw_a3aeb9c8-8c3e-424e-ab8e-12eeaa0ce12c",
+        "keyword": "Klenteng -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769781853917,
+        "created_at": 1769781853917,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fe29ecd3-7864-4770-97e9-f49eb2768e41",
+        "keyword": "Kumpulan Gitar Royhan -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769781853917,
+        "created_at": 1769781853917,
+        "locale": "id"
       }
     ],
     "p": [
@@ -4410,9 +4487,9 @@
         "keyword": "Pendhoza",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769703958514,
+        "last_search": 1769781853917,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -4465,9 +4542,9 @@
         "keyword": "Pusma Shakira feat Royhan Ni Amillah",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395894349,
+        "last_search": 1769781853917,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -5503,6 +5580,28 @@
         "clicks": 0,
         "last_search": 1769762224447,
         "created_at": 1769762224447,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0597cafb-9555-4783-bacc-f0615e688e30",
+        "keyword": "Pusma Shakira feat Royhan Ni Amillah - EGO WONG ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769781853916,
+        "created_at": 1769781853916,
+        "locale": "id"
+      },
+      {
+        "id": "kw_aadd1a78-4cd3-4ef3-a21e-832453936507",
+        "keyword": "Pendhoza - Demi Kowe -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769781853917,
+        "created_at": 1769781853917,
         "locale": "id"
       }
     ],
@@ -8545,9 +8644,9 @@
         "keyword": "Ndarboy Genk",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1769740737932,
+        "last_search": 1769781853917,
         "created_at": 1769359994200,
         "locale": "id"
       },
@@ -8633,9 +8732,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 18,
+        "impressions": 19,
         "clicks": 0,
-        "last_search": 1769762224447,
+        "last_search": 1769781853917,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -8655,9 +8754,9 @@
         "keyword": "Ndarboy Genk - Lanang Tenan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769398806467,
+        "last_search": 1769781853917,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -9722,9 +9821,9 @@
         "keyword": "NDX AKA - Ego Wong Tuo Hiphop Dangdut Version ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520854914,
+        "last_search": 1769781853917,
         "created_at": 1769520854914,
         "locale": "id"
       },
@@ -12324,9 +12423,9 @@
         "keyword": "EGO WONG",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395894349,
+        "last_search": 1769781853917,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -12577,9 +12676,9 @@
         "keyword": "Ego Wong Tuo Hiphop Dangdut Version",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520854914,
+        "last_search": 1769781853917,
         "created_at": 1769520854914,
         "locale": "id"
       },
@@ -12654,9 +12753,9 @@
         "keyword": "EGO - LOSSKITA",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769707419092,
+        "last_search": 1769781853917,
         "created_at": 1769707419092,
         "locale": "id"
       },
@@ -12665,9 +12764,9 @@
         "keyword": "EGO",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769707419092,
+        "last_search": 1769781853917,
         "created_at": 1769707419092,
         "locale": "id"
       },
@@ -18751,6 +18850,28 @@
         "clicks": 0,
         "last_search": 1769770136735,
         "created_at": 1769770136735,
+        "locale": "id"
+      },
+      {
+        "id": "kw_157f687f-11c2-450c-bafd-e8431d7a763b",
+        "keyword": "Silvy Kumalasari - Klenteng -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769781853917,
+        "created_at": 1769781853917,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9a980ecf-e02b-4dec-9ce8-f126de8a4c4d",
+        "keyword": "Silvy Kumalasari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769781853917,
+        "created_at": 1769781853917,
         "locale": "id"
       }
     ],
