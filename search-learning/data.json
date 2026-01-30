@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769782191708,
+    "last_updated": 1769782560581,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1040,9 +1040,9 @@
         "keyword": "Dewa 19",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769758674000,
+        "last_search": 1769782560565,
         "created_at": 1769423057828,
         "locale": "id"
       },
@@ -2067,6 +2067,17 @@
         "clicks": 0,
         "last_search": 1769782191701,
         "created_at": 1769782191701,
+        "locale": "id"
+      },
+      {
+        "id": "kw_815dd780-73d5-4d31-bc97-cd08d4da4a62",
+        "keyword": "Dewa 19 - Risalah Hati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
         "locale": "id"
       }
     ],
@@ -5682,6 +5693,28 @@
         "last_search": 1769781853917,
         "created_at": 1769781853917,
         "locale": "id"
+      },
+      {
+        "id": "kw_5a1d1984-1222-445c-9da5-a910652769c7",
+        "keyword": "Pamungkas - Monolog",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b3608600-01ae-4c84-b779-981d2515338c",
+        "keyword": "Pamungkas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
+        "locale": "id"
       }
     ],
     "m": [
@@ -6174,9 +6207,9 @@
         "keyword": "Mangu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510714274,
+        "last_search": 1769782560565,
         "created_at": 1769510714274,
         "locale": "id"
       },
@@ -6915,6 +6948,72 @@
         "clicks": 0,
         "last_search": 1769782191701,
         "created_at": 1769782191701,
+        "locale": "id"
+      },
+      {
+        "id": "kw_aaaa871b-e85a-4e58-8d8e-8b6b2177ae35",
+        "keyword": "Monolog",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
+        "locale": "id"
+      },
+      {
+        "id": "kw_12afff7d-bc7c-49cd-b813-e88e0fd39f7e",
+        "keyword": "Melukis Senja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4ed2c879-c911-4947-85d0-c2fbab8ee953",
+        "keyword": "Monokrom",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0ee34ebc-1905-4f1e-9bdc-fb4c710709c4",
+        "keyword": "Mesin Waktu (OST. Aku Dan Mesin Waktu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
+        "locale": "id"
+      },
+      {
+        "id": "kw_43797af4-6c6b-4b4a-bd2d-1f56673c6001",
+        "keyword": "Mardua Holong - Omega Trio feat. Mario Music ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
+        "locale": "id"
+      },
+      {
+        "id": "kw_642d8854-424f-4711-b3ad-4d43b973ea73",
+        "keyword": "Mardua Holong",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
         "locale": "id"
       }
     ],
@@ -8714,6 +8813,28 @@
         "clicks": 0,
         "last_search": 1769782191700,
         "created_at": 1769782191700,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8cd094c0-2e50-4d12-9531-654c53d06a7b",
+        "keyword": "gnash - The Art of Letting Go",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4b255703-ab04-401d-9b53-7ae525d3cbc9",
+        "keyword": "gnash",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
         "locale": "id"
       }
     ],
@@ -10947,9 +11068,9 @@
         "keyword": "Bunga Abadi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769511137014,
+        "last_search": 1769782560565,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -11402,6 +11523,39 @@
         "clicks": 0,
         "last_search": 1769782191700,
         "created_at": 1769782191700,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8d7665f6-bcc8-4593-8c07-16c4055a61af",
+        "keyword": "Budi Doremi - Melukis Senja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
+        "locale": "id"
+      },
+      {
+        "id": "kw_da8368c1-cc44-436c-971b-4af6a69cdf13",
+        "keyword": "Budi Doremi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6f350034-94e8-4e5c-a711-347f4322fb7f",
+        "keyword": "Budi Doremi - Mesin Waktu (OST. Aku Dan Mesin Waktu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
         "locale": "id"
       }
     ],
@@ -12548,6 +12702,39 @@
         "clicks": 0,
         "last_search": 1769782191700,
         "created_at": 1769782191700,
+        "locale": "id"
+      },
+      {
+        "id": "kw_379f4f91-e34c-41fe-b6c4-4a43b196b2f0",
+        "keyword": "TULUS - Monokrom",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c9b0aa51-caed-49ff-bca1-552871a5583c",
+        "keyword": "TULUS",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ad193f74-27a2-48d1-8634-df738cc0bc8e",
+        "keyword": "The Art of Letting Go",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
         "locale": "id"
       }
     ],
@@ -16316,9 +16503,9 @@
         "keyword": "Rio Clappy - Bunga Abadi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769511137014,
+        "last_search": 1769782560565,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -16327,9 +16514,9 @@
         "keyword": "Rio Clappy",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769511137014,
+        "last_search": 1769782560565,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -16749,6 +16936,17 @@
         "clicks": 0,
         "last_search": 1769770136735,
         "created_at": 1769770136735,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ec45dbad-f039-4ceb-97ef-e038fcc63a66",
+        "keyword": "Risalah Hati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
         "locale": "id"
       }
     ],
@@ -19567,9 +19765,9 @@
         "keyword": "Fourtwnty",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769748764074,
+        "last_search": 1769782560565,
         "created_at": 1769510714274,
         "locale": "id"
       },
@@ -19681,6 +19879,28 @@
         "clicks": 0,
         "last_search": 1769748764074,
         "created_at": 1769748764074,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8be567c1-93ec-4364-b2ca-ae4f0f9518dd",
+        "keyword": "FASE 2 ft RANDY HUSAIN",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8db1c83a-b9d2-42ad-a0ae-1f21f4a81adc",
+        "keyword": "Fourtwnty - Mangu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
         "locale": "id"
       }
     ],
@@ -20401,6 +20621,17 @@
         "last_search": 1769760095552,
         "created_at": 1769760095552,
         "locale": "id"
+      },
+      {
+        "id": "kw_fe086341-febe-4d90-8145-44b43b791a00",
+        "keyword": "Omega Trio feat. Mario Music",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
+        "locale": "id"
       }
     ],
     "x": [
@@ -20468,6 +20699,28 @@
         "clicks": 0,
         "last_search": 1769694060365,
         "created_at": 1769694060365,
+        "locale": "id"
+      },
+      {
+        "id": "kw_59254245-352e-46f8-bdb8-eedf9ab7c178",
+        "keyword": "XEINDY - FASE 2 ft RANDY HUSAIN",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
+        "locale": "id"
+      },
+      {
+        "id": "kw_57d74839-ccf2-460f-99fb-d431041dc849",
+        "keyword": "XEINDY",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769782560565,
+        "created_at": 1769782560565,
         "locale": "id"
       }
     ],
