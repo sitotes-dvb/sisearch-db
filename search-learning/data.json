@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769760517521,
+    "last_updated": 1769762224508,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1890,6 +1890,39 @@
         "last_search": 1769760517514,
         "created_at": 1769760327977,
         "locale": "id"
+      },
+      {
+        "id": "kw_6ab74982-28ad-4896-8f97-f4e2aa766c22",
+        "keyword": "Durung Ikhlas -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769762224447,
+        "created_at": 1769762224447,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f97941ca-e524-4e8c-a25a-ce539b03d61f",
+        "keyword": "Derradru feat. Aftershine - Pujaan Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769762224447,
+        "created_at": 1769762224447,
+        "locale": "id"
+      },
+      {
+        "id": "kw_04951e30-b0a7-4932-b742-346a3dc3f725",
+        "keyword": "Derradru feat. Aftershine",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769762224447,
+        "created_at": 1769762224447,
+        "locale": "id"
       }
     ],
     "l": [
@@ -2063,9 +2096,9 @@
         "keyword": "LAVORA",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769672111093,
+        "last_search": 1769762224447,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -2485,6 +2518,17 @@
         "clicks": 0,
         "last_search": 1769760095553,
         "created_at": 1769760095553,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4b82c43c-3c34-47e9-b0b1-27ab0607f897",
+        "keyword": "LAVORA - Durung Ikhlas -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769762224447,
+        "created_at": 1769762224447,
         "locale": "id"
       }
     ],
@@ -3341,9 +3385,9 @@
         "keyword": "Kelingan Mantan",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769703958514,
+        "last_search": 1769762224447,
         "created_at": 1769582439065,
         "locale": "id"
       },
@@ -4192,6 +4236,17 @@
         "clicks": 0,
         "last_search": 1769760517514,
         "created_at": 1769760517514,
+        "locale": "id"
+      },
+      {
+        "id": "kw_85108149-eb85-4271-8b7d-d6a44d328b49",
+        "keyword": "Konco Jadi Rabi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769762224447,
+        "created_at": 1769762224447,
         "locale": "id"
       }
     ],
@@ -5316,6 +5371,17 @@
         "clicks": 0,
         "last_search": 1769760095553,
         "created_at": 1769760095553,
+        "locale": "id"
+      },
+      {
+        "id": "kw_409f169f-1267-4577-a32b-a42b1296d9fb",
+        "keyword": "Pujaan Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769762224447,
+        "created_at": 1769762224447,
         "locale": "id"
       }
     ],
@@ -6548,9 +6614,9 @@
         "keyword": "Happy Asmara",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1769760095553,
+        "last_search": 1769762224447,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -7069,6 +7135,17 @@
         "clicks": 0,
         "last_search": 1769760095553,
         "created_at": 1769760095553,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a738efcd-4efe-4a60-8745-dc92c31b19c4",
+        "keyword": "Happy Asmara - Tresno Tekane Mati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769762224447,
+        "created_at": 1769762224447,
         "locale": "id"
       }
     ],
@@ -8240,6 +8317,17 @@
         "last_search": 1769760095552,
         "created_at": 1769760095552,
         "locale": "id"
+      },
+      {
+        "id": "kw_1b7c7b81-2e1f-45f8-8b59-cfb69340eaec",
+        "keyword": "Goblok -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769762224447,
+        "created_at": 1769762224447,
+        "locale": "id"
       }
     ],
     "n": [
@@ -8391,9 +8479,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 17,
+        "impressions": 18,
         "clicks": 0,
-        "last_search": 1769757769515,
+        "last_search": 1769762224447,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -8963,9 +9051,9 @@
         "keyword": "Nella Kharisma",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769740737933,
+        "last_search": 1769762224447,
         "created_at": 1769428790060,
         "locale": "id"
       },
@@ -9711,9 +9799,9 @@
         "keyword": "Nella Kharisma - Aku Cah Kerjo ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769670975177,
+        "last_search": 1769762224447,
         "created_at": 1769670975177,
         "locale": "id"
       },
@@ -9876,9 +9964,9 @@
         "keyword": "NDX AKA - Kelingan Mantan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769703958514,
+        "last_search": 1769762224447,
         "created_at": 1769703958514,
         "locale": "id"
       },
@@ -10122,6 +10210,28 @@
         "clicks": 0,
         "last_search": 1769760095553,
         "created_at": 1769760095553,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9f162581-653f-4d66-92ac-a4d21505b1aa",
+        "keyword": "NDX AKA - Tresno Tekan Mati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769762224447,
+        "created_at": 1769762224447,
+        "locale": "id"
+      },
+      {
+        "id": "kw_321d52d1-469e-47f8-a086-4e368360ed70",
+        "keyword": "NDX AKA - Goblok -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769762224447,
+        "created_at": 1769762224447,
         "locale": "id"
       }
     ],
@@ -11244,9 +11354,9 @@
         "keyword": "Tresno Tekan Mati",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407902838,
+        "last_search": 1769762224447,
         "created_at": 1769407902838,
         "locale": "id"
       },
@@ -11985,6 +12095,17 @@
         "clicks": 0,
         "last_search": 1769760517514,
         "created_at": 1769759672432,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b02fccdf-bb0d-4b00-8903-28d40bed40fa",
+        "keyword": "Tresno Tekane Mati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769762224447,
+        "created_at": 1769762224447,
         "locale": "id"
       }
     ],
@@ -14992,9 +15113,9 @@
         "keyword": "Aku Cah Kerjo",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769670975177,
+        "last_search": 1769762224448,
         "created_at": 1769670975177,
         "locale": "id"
       },
@@ -16547,9 +16668,9 @@
         "keyword": "Shinta Arsinta",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407631223,
+        "last_search": 1769762224447,
         "created_at": 1769407631223,
         "locale": "id"
       },
@@ -18323,6 +18444,39 @@
         "last_search": 1769760517514,
         "created_at": 1769760327977,
         "locale": "id"
+      },
+      {
+        "id": "kw_df54e789-66b7-4da1-9d6c-17584313451a",
+        "keyword": "Sasha Anezkha - Iseh Cidro -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769762224447,
+        "created_at": 1769762224447,
+        "locale": "id"
+      },
+      {
+        "id": "kw_247bf257-5fe1-40b1-af69-beb8a004a8ac",
+        "keyword": "Sasha Anezkha",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769762224447,
+        "created_at": 1769762224447,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e5269f49-cfdf-41d4-8751-20309be19ef3",
+        "keyword": "Shinta Arsinta - Konco Jadi Rabi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769762224447,
+        "created_at": 1769762224447,
+        "locale": "id"
       }
     ],
     "y": [
@@ -19318,6 +19472,17 @@
         "clicks": 0,
         "last_search": 1769760517514,
         "created_at": 1769760517514,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ac2fff94-03c8-44db-a1a7-7bcc36205d4e",
+        "keyword": "Iseh Cidro -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769762224447,
+        "created_at": 1769762224447,
         "locale": "id"
       }
     ],
