@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769758254229,
+    "last_updated": 1769758674016,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -213,9 +213,9 @@
         "keyword": "Demy",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769510714274,
+        "last_search": 1769758674000,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -1016,9 +1016,9 @@
         "keyword": "Dewa 19 - Kangen",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769423057828,
+        "last_search": 1769758674000,
         "created_at": 1769423057828,
         "locale": "id"
       },
@@ -1027,9 +1027,9 @@
         "keyword": "Dewa 19",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769758254205,
+        "last_search": 1769758674000,
         "created_at": 1769423057828,
         "locale": "id"
       },
@@ -1746,6 +1746,17 @@
         "clicks": 0,
         "last_search": 1769758254205,
         "created_at": 1769758254205,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9a1db1be-17c8-4a7b-97f1-3c19ecfaee14",
+        "keyword": "Demy - Kesikso Kangen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758674000,
+        "created_at": 1769758674000,
         "locale": "id"
       }
     ],
@@ -2780,9 +2791,9 @@
         "keyword": "Kangen",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769423057828,
+        "last_search": 1769758674000,
         "created_at": 1769423057828,
         "locale": "id"
       },
@@ -3231,9 +3242,9 @@
         "keyword": "Kangen Band",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769582688684,
+        "last_search": 1769758674000,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -3796,6 +3807,127 @@
         "clicks": 0,
         "last_search": 1769758254205,
         "created_at": 1769758254205,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2c72778e-f177-44e1-82d1-94e01ed17892",
+        "keyword": "Kangen Band - Karma",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758674000,
+        "created_at": 1769758674000,
+        "locale": "id"
+      },
+      {
+        "id": "kw_559ee0ef-9660-4f47-81fc-92a4e41b0587",
+        "keyword": "Karma",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758674000,
+        "created_at": 1769758674000,
+        "locale": "id"
+      },
+      {
+        "id": "kw_92edfeae-87b7-4d96-8bc8-0be118efe3d9",
+        "keyword": "Kangen - Reggae Tony Q Rastafara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758674000,
+        "created_at": 1769758674000,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c4985868-ffd7-4162-bd82-ecc1b3e8f474",
+        "keyword": "Kangen Band - Jika",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758674000,
+        "created_at": 1769758674000,
+        "locale": "id"
+      },
+      {
+        "id": "kw_78f7ac02-f09c-40ad-a3ab-3632c2e7b9ee",
+        "keyword": "Kangen Band - Menunggu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758674000,
+        "created_at": 1769758674000,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1dfcefd1-43a5-499e-8e61-334bc1bc7218",
+        "keyword": "Kangen Swarane - Sasya Arkhisna ft. Ageng Music ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758674000,
+        "created_at": 1769758674000,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c765ae7d-5d02-4885-be34-c5caf518c647",
+        "keyword": "Kangen Swarane",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758674000,
+        "created_at": 1769758674000,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dbb09f65-31c9-4abc-91b1-08c55e1c3cfa",
+        "keyword": "Kesikso Kangen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758674000,
+        "created_at": 1769758674000,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3db8ecec-40ee-4a91-9066-21314147e9bc",
+        "keyword": "Kangen Band - Mei",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758674001,
+        "created_at": 1769758674000,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d4248820-e0b7-4602-9fa9-f716fe6dda2f",
+        "keyword": "Kangen Lagi - ELSI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758674001,
+        "created_at": 1769758674001,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d803cef7-eef4-4347-a137-8da0b4d506d1",
+        "keyword": "Kangen Lagi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758674001,
+        "created_at": 1769758674001,
         "locale": "id"
       }
     ],
@@ -5979,6 +6111,28 @@
         "last_search": 1769757147713,
         "created_at": 1769757147713,
         "locale": "id"
+      },
+      {
+        "id": "kw_03cb25fe-eca6-4ac1-9f03-2fbc53434fb3",
+        "keyword": "Menunggu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758674000,
+        "created_at": 1769758674000,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a7090cb5-d82b-4140-9eb0-92acab8eb09a",
+        "keyword": "Mei",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758674001,
+        "created_at": 1769758674001,
+        "locale": "id"
       }
     ],
     "h": [
@@ -7116,6 +7270,17 @@
         "last_search": 1769758254205,
         "created_at": 1769758254205,
         "locale": "id"
+      },
+      {
+        "id": "kw_3cbf7e75-a3d4-4202-b1a5-428205b0c399",
+        "keyword": "Jika",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758674000,
+        "created_at": 1769758674000,
+        "locale": "id"
       }
     ],
     "g": [
@@ -7465,9 +7630,9 @@
         "keyword": "Gagal Move On Kangen Mantan (Ala Guyon",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582439065,
+        "last_search": 1769758674001,
         "created_at": 1769582439065,
         "locale": "id"
       },
@@ -11603,6 +11768,17 @@
         "last_search": 1769757147713,
         "created_at": 1769757147713,
         "locale": "id"
+      },
+      {
+        "id": "kw_4c156e05-c022-4370-918e-72040d3d0e44",
+        "keyword": "ELSI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758674001,
+        "created_at": 1769758674001,
+        "locale": "id"
       }
     ],
     "w": [
@@ -15230,6 +15406,17 @@
         "last_search": 1769757147713,
         "created_at": 1769757147713,
         "locale": "id"
+      },
+      {
+        "id": "kw_dc4f9e52-dd64-4204-9fb7-5ef8b5dbf747",
+        "keyword": "Reggae Tony Q Rastafara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758674000,
+        "created_at": 1769758674000,
+        "locale": "id"
       }
     ],
     "s": [
@@ -17322,6 +17509,17 @@
         "last_search": 1769758254205,
         "created_at": 1769758254205,
         "locale": "id"
+      },
+      {
+        "id": "kw_44840b88-eec5-4462-a5ef-0c8b9797af1e",
+        "keyword": "Sasya Arkhisna ft. Ageng Music",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769758674000,
+        "created_at": 1769758674000,
+        "locale": "id"
       }
     ],
     "y": [
@@ -18159,9 +18357,9 @@
         "keyword": "ILUX - Gagal Move On Kangen Mantan (Ala Guyon ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582439065,
+        "last_search": 1769758674001,
         "created_at": 1769582439065,
         "locale": "id"
       },
@@ -18170,9 +18368,9 @@
         "keyword": "ILUX",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582439065,
+        "last_search": 1769758674001,
         "created_at": 1769582439065,
         "locale": "id"
       },
