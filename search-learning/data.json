@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769860809936,
+    "last_updated": 1769867921165,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -94,9 +94,9 @@
         "keyword": "Damara De",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769603724619,
+        "last_search": 1769867921144,
         "created_at": 1769354018052,
         "locale": "id"
       },
@@ -105,9 +105,9 @@
         "keyword": "Damara De - Pedhot Janji",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769603724619,
+        "last_search": 1769867921144,
         "created_at": 1769354018053,
         "locale": "id"
       },
@@ -127,9 +127,9 @@
         "keyword": "Damara De feat. Tadeus Lavora",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769603724619,
+        "last_search": 1769867921143,
         "created_at": 1769354018053,
         "locale": "id"
       },
@@ -1414,9 +1414,9 @@
         "keyword": "Daftar Koleksi / Tadeus Lavora @Chordtela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769603724619,
+        "last_search": 1769867921144,
         "created_at": 1769603724619,
         "locale": "id"
       },
@@ -4987,6 +4987,28 @@
         "last_search": 1769860809914,
         "created_at": 1769860809914,
         "locale": "id"
+      },
+      {
+        "id": "kw_c2cb554d-d23b-4c5a-ab6b-d9d146c6d4d1",
+        "keyword": "Kumpulan Gitar Damara De -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769867921144,
+        "created_at": 1769867921144,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3922f679-2544-4825-b32b-7181d4189305",
+        "keyword": "Kumpulan Gitar Tadeus Lavora -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769867921144,
+        "created_at": 1769867921144,
+        "locale": "id"
       }
     ],
     "p": [
@@ -4995,9 +5017,9 @@
         "keyword": "Pedhot Janji",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769603724619,
+        "last_search": 1769867921144,
         "created_at": 1769354018053,
         "locale": "id"
       },
@@ -5226,9 +5248,9 @@
         "keyword": "Pelanggaran",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769603724619,
+        "last_search": 1769867921144,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -5677,9 +5699,9 @@
         "keyword": "Pelaku Macak Korban",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769603724619,
+        "last_search": 1769867921143,
         "created_at": 1769603724619,
         "locale": "id"
       },
@@ -5688,9 +5710,9 @@
         "keyword": "Pakdhe Baz ft Wandra",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769603724619,
+        "last_search": 1769867921144,
         "created_at": 1769603724619,
         "locale": "id"
       },
@@ -5699,9 +5721,9 @@
         "keyword": "Pareng - Pusma Shakira Feat Achmad Twentynine ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769603724619,
+        "last_search": 1769867921144,
         "created_at": 1769603724619,
         "locale": "id"
       },
@@ -5710,9 +5732,9 @@
         "keyword": "Pareng",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769603724619,
+        "last_search": 1769867921144,
         "created_at": 1769603724619,
         "locale": "id"
       },
@@ -5721,9 +5743,9 @@
         "keyword": "Pusma Shakira Feat Achmad Twentynine",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769603724619,
+        "last_search": 1769867921144,
         "created_at": 1769603724619,
         "locale": "id"
       },
@@ -6251,9 +6273,9 @@
         "keyword": "Macak Kelaran",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769603724619,
+        "last_search": 1769867921143,
         "created_at": 1769354018053,
         "locale": "id"
       },
@@ -6614,9 +6636,9 @@
         "keyword": "Macak Kelaran - Damara De feat. Tadeus Lavora ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769603724619,
+        "last_search": 1769867921143,
         "created_at": 1769410290383,
         "locale": "id"
       },
@@ -9073,9 +9095,9 @@
         "keyword": "GuyonWaton",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769707419092,
+        "last_search": 1769867921144,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -9485,6 +9507,17 @@
         "last_search": 1769791972515,
         "created_at": 1769791972515,
         "locale": "id"
+      },
+      {
+        "id": "kw_f08383c9-7e4c-4861-8e36-39a6a4813a11",
+        "keyword": "GuyonWaton - Pelanggaran",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769867921144,
+        "created_at": 1769867921144,
+        "locale": "id"
       }
     ],
     "n": [
@@ -9636,9 +9669,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 20,
+        "impressions": 21,
         "clicks": 0,
-        "last_search": 1769840985945,
+        "last_search": 1769867921143,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -11444,6 +11477,17 @@
         "clicks": 0,
         "last_search": 1769857402478,
         "created_at": 1769857402478,
+        "locale": "id"
+      },
+      {
+        "id": "kw_55d87da7-0ab8-449e-bd8c-874d5cc6d88d",
+        "keyword": "NDX AKA - Pelaku Macak Korban",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769867921143,
+        "created_at": 1769867921143,
         "locale": "id"
       }
     ],
@@ -17188,6 +17232,28 @@
         "last_search": 1769857402478,
         "created_at": 1769857402478,
         "locale": "id"
+      },
+      {
+        "id": "kw_40dbea27-e8de-4b33-8bce-eea3625cfc0b",
+        "keyword": "Aasilah Cilla - YANG TERBAIK DI BUMI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769867921144,
+        "created_at": 1769867921144,
+        "locale": "id"
+      },
+      {
+        "id": "kw_06303637-fec9-4ba1-a7c6-608c279e7fa0",
+        "keyword": "Aasilah Cilla",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769867921144,
+        "created_at": 1769867921144,
+        "locale": "id"
       }
     ],
     "r": [
@@ -19607,9 +19673,9 @@
         "keyword": "SUWUN MAKASIH",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769603724619,
+        "last_search": 1769867921144,
         "created_at": 1769603724619,
         "locale": "id"
       },
@@ -20580,6 +20646,17 @@
         "last_search": 1769860809914,
         "created_at": 1769860809914,
         "locale": "id"
+      },
+      {
+        "id": "kw_8601420e-44f1-42e2-b7e6-4985f2e79685",
+        "keyword": "SUWUN MAKASIH - Pakdhe Baz ft Wandra",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769867921144,
+        "created_at": 1769867921144,
+        "locale": "id"
       }
     ],
     "y": [
@@ -20779,6 +20856,17 @@
         "clicks": 0,
         "last_search": 1769707419092,
         "created_at": 1769707419092,
+        "locale": "id"
+      },
+      {
+        "id": "kw_afe770c1-ce1a-4e98-8344-757f7bd55155",
+        "keyword": "YANG TERBAIK DI BUMI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769867921144,
+        "created_at": 1769867921144,
         "locale": "id"
       }
     ],
