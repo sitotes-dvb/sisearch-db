@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769852634750,
+    "last_updated": 1769857378338,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -160,9 +160,9 @@
         "keyword": "D'Bagindas",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769522415615,
+        "last_search": 1769857378299,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -732,9 +732,9 @@
         "keyword": "D'Bagindas - Ay",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769423057828,
+        "last_search": 1769857378299,
         "created_at": 1769407810239,
         "locale": "id"
       },
@@ -2189,6 +2189,39 @@
         "last_search": 1769852634730,
         "created_at": 1769852634730,
         "locale": "id"
+      },
+      {
+        "id": "kw_776f17e1-6c5b-4e20-b286-6f8322ce0e90",
+        "keyword": "Dance Monkey",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378299,
+        "created_at": 1769857378298,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6316a13e-d004-404a-a772-873ffb6a8eb0",
+        "keyword": "Dirty Heads - Vacation -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378299,
+        "created_at": 1769857378299,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ff78b2d1-2501-4395-a0b0-56acb4cbad27",
+        "keyword": "Dirty Heads",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378299,
+        "created_at": 1769857378299,
+        "locale": "id"
       }
     ],
     "l": [
@@ -2839,6 +2872,28 @@
         "clicks": 0,
         "last_search": 1769852634730,
         "created_at": 1769852634730,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7e5b250d-a343-4451-b3d3-b2276169a0f3",
+        "keyword": "Lorde - Mood Ring",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378299,
+        "created_at": 1769857378299,
+        "locale": "id"
+      },
+      {
+        "id": "kw_00a40f6d-ff56-4cb7-a01e-2b63d38ea6a3",
+        "keyword": "Lorde",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378299,
+        "created_at": 1769857378299,
         "locale": "id"
       }
     ],
@@ -4733,6 +4788,28 @@
         "clicks": 0,
         "last_search": 1769840985945,
         "created_at": 1769840985945,
+        "locale": "id"
+      },
+      {
+        "id": "kw_11636ce7-2c94-4364-83d2-4b7cf173d897",
+        "keyword": "Kidd G - I Think I Love Her",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378299,
+        "created_at": 1769857378299,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e2f8355b-68dc-4802-b4bf-f19d4c431bdd",
+        "keyword": "Kidd G",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378299,
+        "created_at": 1769857378299,
         "locale": "id"
       }
     ],
@@ -7278,6 +7355,39 @@
         "clicks": 0,
         "last_search": 1769840985945,
         "created_at": 1769840985945,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d5a9b943-fd06-48b2-8188-e784bf151311",
+        "keyword": "Machine Gun Kelly & Lil Wayne - ay!",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378298,
+        "created_at": 1769857378298,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c48b67b8-649f-4d81-9a62-3fe0f84f504c",
+        "keyword": "Machine Gun Kelly & Lil Wayne",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378298,
+        "created_at": 1769857378298,
+        "locale": "id"
+      },
+      {
+        "id": "kw_57fbfd13-f6b5-48b5-a3ad-ca368398301b",
+        "keyword": "Mood Ring",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378299,
+        "created_at": 1769857378299,
         "locale": "id"
       }
     ],
@@ -11082,6 +11192,17 @@
         "last_search": 1769840985945,
         "created_at": 1769840985945,
         "locale": "id"
+      },
+      {
+        "id": "kw_819a3c23-a319-476f-9a32-93bfccf70e60",
+        "keyword": "NU'EST 'INSIDE OUT'",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378299,
+        "created_at": 1769857378299,
+        "locale": "id"
       }
     ],
     "b": [
@@ -13099,6 +13220,50 @@
         "last_search": 1769852634730,
         "created_at": 1769852634730,
         "locale": "id"
+      },
+      {
+        "id": "kw_166ecdc9-355d-4f97-b2b9-692819d28fd2",
+        "keyword": "The Score - Enemies -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378298,
+        "created_at": 1769857378298,
+        "locale": "id"
+      },
+      {
+        "id": "kw_43f918ba-8e08-4880-878d-3f6b018fbf90",
+        "keyword": "The Score",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378298,
+        "created_at": 1769857378298,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2c643964-e4d6-49bd-8b6e-45ade4028764",
+        "keyword": "Tones and I - Dance Monkey",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378298,
+        "created_at": 1769857378298,
+        "locale": "id"
+      },
+      {
+        "id": "kw_14edb3d7-4398-426c-8992-56885c768a9c",
+        "keyword": "Tones and I",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378298,
+        "created_at": 1769857378298,
+        "locale": "id"
       }
     ],
     "e": [
@@ -13540,6 +13705,17 @@
         "clicks": 0,
         "last_search": 1769795317317,
         "created_at": 1769795317305,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d4f811df-aec2-463e-a030-7c160108ec99",
+        "keyword": "Enemies -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378298,
+        "created_at": 1769857378298,
         "locale": "id"
       }
     ],
@@ -14136,6 +14312,17 @@
         "clicks": 0,
         "last_search": 1769795317318,
         "created_at": 1769795317318,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4f7aed6f-7b06-4eb2-a36f-0200b7e77ee6",
+        "keyword": "Warpaint",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378317,
+        "created_at": 1769857378317,
         "locale": "id"
       }
     ],
@@ -15148,9 +15335,9 @@
         "keyword": "Ay",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769423057828,
+        "last_search": 1769857378299,
         "created_at": 1769407810239,
         "locale": "id"
       },
@@ -16615,6 +16802,39 @@
         "clicks": 0,
         "last_search": 1769852634730,
         "created_at": 1769852634730,
+        "locale": "id"
+      },
+      {
+        "id": "kw_abbabe16-65fe-40b9-92bc-1346e951e6ba",
+        "keyword": "ay!",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378298,
+        "created_at": 1769857378298,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b9745d05-83f9-43bc-8f55-1875abcd1dfd",
+        "keyword": "Alan Walker, @VoliContra - Warpaint",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378316,
+        "created_at": 1769857378316,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c0ce23e3-e7f9-420f-94b0-2f1041dd395b",
+        "keyword": "Alan Walker, @VoliContra",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378317,
+        "created_at": 1769857378316,
         "locale": "id"
       }
     ],
@@ -19920,6 +20140,28 @@
         "last_search": 1769852634730,
         "created_at": 1769852634730,
         "locale": "id"
+      },
+      {
+        "id": "kw_487175a2-46e9-46dd-b8e3-9b49165c3618",
+        "keyword": "Syd - Insane -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378299,
+        "created_at": 1769857378299,
+        "locale": "id"
+      },
+      {
+        "id": "kw_408c88d0-0ba1-4938-8f79-5fb44a9f1b93",
+        "keyword": "Syd",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378299,
+        "created_at": 1769857378299,
+        "locale": "id"
       }
     ],
     "y": [
@@ -20993,6 +21235,28 @@
         "last_search": 1769792968006,
         "created_at": 1769792968006,
         "locale": "id"
+      },
+      {
+        "id": "kw_078bb8fd-7ef8-4cd1-825c-1ad486d91282",
+        "keyword": "Insane -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378299,
+        "created_at": 1769857378299,
+        "locale": "id"
+      },
+      {
+        "id": "kw_644977e1-7633-4663-8277-153fb98fabd0",
+        "keyword": "I Think I Love Her",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378299,
+        "created_at": 1769857378299,
+        "locale": "id"
       }
     ],
     "o": [
@@ -21746,6 +22010,17 @@
         "clicks": 0,
         "last_search": 1769760517514,
         "created_at": 1769760517514,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f164c30b-922a-4b1f-bc7e-94a7eeec161c",
+        "keyword": "Vacation -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857378299,
+        "created_at": 1769857378299,
         "locale": "id"
       }
     ],
