@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769857378338,
+    "last_updated": 1769857402518,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -160,9 +160,9 @@
         "keyword": "D'Bagindas",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769857378299,
+        "last_search": 1769857402478,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -732,9 +732,9 @@
         "keyword": "D'Bagindas - Ay",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769857378299,
+        "last_search": 1769857402478,
         "created_at": 1769407810239,
         "locale": "id"
       },
@@ -2222,6 +2222,28 @@
         "last_search": 1769857378299,
         "created_at": 1769857378299,
         "locale": "id"
+      },
+      {
+        "id": "kw_2c50ecb9-60fa-4481-acc9-fb903788e335",
+        "keyword": "Drive - Bersama Bintang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cd8d2fb4-c5ff-4cbc-a9b4-a775cfbf31dd",
+        "keyword": "Drive",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
+        "locale": "id"
       }
     ],
     "l": [
@@ -2894,6 +2916,17 @@
         "clicks": 0,
         "last_search": 1769857378299,
         "created_at": 1769857378299,
+        "locale": "id"
+      },
+      {
+        "id": "kw_795c23c8-e5ff-4219-b869-b43a652f0df0",
+        "keyword": "Lagu Rindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
         "locale": "id"
       }
     ],
@@ -3794,9 +3827,9 @@
         "keyword": "Kangen Band",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769758674000,
+        "last_search": 1769857402478,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -3948,9 +3981,9 @@
         "keyword": "Kerispatih",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769669620389,
+        "last_search": 1769857402478,
         "created_at": 1769610174633,
         "locale": "id"
       },
@@ -4811,6 +4844,50 @@
         "last_search": 1769857378299,
         "created_at": 1769857378299,
         "locale": "id"
+      },
+      {
+        "id": "kw_288e62b4-a57a-4051-bf2b-90327d92a86a",
+        "keyword": "Kerispatih - Lagu Rindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6863ed0d-27bb-4d9b-8e1e-08607aace029",
+        "keyword": "KARNAMEREKA - Cerita Malam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6704e996-c56f-4bc1-9d25-6f48e28817e1",
+        "keyword": "KARNAMEREKA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f972df96-bc1c-4f25-a1bb-8c88b87902f8",
+        "keyword": "Kangen Band - Tentang Bintang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
+        "locale": "id"
       }
     ],
     "p": [
@@ -5182,9 +5259,9 @@
         "keyword": "Peterpan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769760517514,
+        "last_search": 1769857402478,
         "created_at": 1769477147758,
         "locale": "id"
       },
@@ -5989,6 +6066,28 @@
         "clicks": 0,
         "last_search": 1769782560565,
         "created_at": 1769782560565,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e56200c8-b65b-4f87-8a92-cb0f52257e43",
+        "keyword": "Peterpan - Aku Dan Bintang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
+        "locale": "id"
+      },
+      {
+        "id": "kw_da1c3fda-726d-4f6e-8d45-e6bbc8f2c84a",
+        "keyword": "Peterpan - Mimpi Yang Sempurna",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
         "locale": "id"
       }
     ],
@@ -7388,6 +7487,17 @@
         "clicks": 0,
         "last_search": 1769857378299,
         "created_at": 1769857378299,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b7b48bfe-7898-4dde-8c99-b151b1a538b9",
+        "keyword": "Mimpi Yang Sempurna",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
         "locale": "id"
       }
     ],
@@ -11203,6 +11313,17 @@
         "last_search": 1769857378299,
         "created_at": 1769857378299,
         "locale": "id"
+      },
+      {
+        "id": "kw_a662e27a-f8cf-4e9c-a710-51b6f9172f17",
+        "keyword": "Nike Ardila",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
+        "locale": "id"
       }
     ],
     "b": [
@@ -11996,6 +12117,50 @@
         "clicks": 0,
         "last_search": 1769782560565,
         "created_at": 1769782560565,
+        "locale": "id"
+      },
+      {
+        "id": "kw_56a1c671-c7ee-40d0-a8da-74e278c107dc",
+        "keyword": "Bulan Bintang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cabf7d05-a405-4e19-9c35-06e3ad31d68f",
+        "keyword": "Bersama Bintang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
+        "locale": "id"
+      },
+      {
+        "id": "kw_81b82b5b-cb86-4a5d-97b2-1fc69e90bdb8",
+        "keyword": "Bintang Kehidupan - Nike Ardila",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c488976b-7c6f-40c8-a6db-af4b5e96362e",
+        "keyword": "Bintang Kehidupan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
         "locale": "id"
       }
     ],
@@ -13263,6 +13428,17 @@
         "clicks": 0,
         "last_search": 1769857378298,
         "created_at": 1769857378298,
+        "locale": "id"
+      },
+      {
+        "id": "kw_01ee8e10-dafe-4759-b58e-ed4075268e90",
+        "keyword": "Tentang Bintang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
         "locale": "id"
       }
     ],
@@ -14986,6 +15162,17 @@
         "last_search": 1769795317318,
         "created_at": 1769795317318,
         "locale": "id"
+      },
+      {
+        "id": "kw_5b7425a9-9545-44ef-ba80-2e10968f6a18",
+        "keyword": "Cerita Malam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
+        "locale": "id"
       }
     ],
     "a": [
@@ -15335,9 +15522,9 @@
         "keyword": "Ay",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769857378299,
+        "last_search": 1769857402478,
         "created_at": 1769407810239,
         "locale": "id"
       },
@@ -16836,6 +17023,28 @@
         "last_search": 1769857378317,
         "created_at": 1769857378316,
         "locale": "id"
+      },
+      {
+        "id": "kw_2cbe4949-99ce-4cef-acab-a05cc3df194b",
+        "keyword": "Aku Dan Bintang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
+        "locale": "id"
+      },
+      {
+        "id": "kw_093dbed6-6186-4b67-85c8-d3ce27806967",
+        "keyword": "Akhir Sebuah Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
+        "locale": "id"
       }
     ],
     "r": [
@@ -16954,9 +17163,9 @@
         "keyword": "Rhoma Irama",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769407509350,
+        "last_search": 1769857402478,
         "created_at": 1769407471814,
         "locale": "id"
       },
@@ -17717,6 +17926,17 @@
         "clicks": 0,
         "last_search": 1769782700667,
         "created_at": 1769782700667,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3434d84a-43b4-4b2f-9ef7-84a235a5a43f",
+        "keyword": "Rhoma Irama - Bulan Bintang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
         "locale": "id"
       }
     ],
@@ -19552,9 +19772,9 @@
         "keyword": "Safira Inema",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769795317318,
+        "last_search": 1769857402478,
         "created_at": 1769705686139,
         "locale": "id"
       },
@@ -20161,6 +20381,17 @@
         "clicks": 0,
         "last_search": 1769857378299,
         "created_at": 1769857378299,
+        "locale": "id"
+      },
+      {
+        "id": "kw_be1e2ab1-38e3-4c60-9b44-50cf531ad024",
+        "keyword": "Safira Inema - Akhir Sebuah Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769857402478,
+        "created_at": 1769857402478,
         "locale": "id"
       }
     ],
