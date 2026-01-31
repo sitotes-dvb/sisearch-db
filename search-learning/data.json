@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769849699575,
+    "last_updated": 1769852634750,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2156,6 +2156,39 @@
         "last_search": 1769841715626,
         "created_at": 1769841715626,
         "locale": "id"
+      },
+      {
+        "id": "kw_20c459ff-51ba-467e-8a02-128571d3b7f5",
+        "keyword": "Demi Tuhan Aku Ikhlas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769852634730,
+        "created_at": 1769852634729,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4cefccb8-fc05-411a-90cc-53b1b4500690",
+        "keyword": "Diana Dee - Aku Ikhlas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769852634730,
+        "created_at": 1769852634730,
+        "locale": "id"
+      },
+      {
+        "id": "kw_22354b41-2a2c-4c25-ab68-88c62e976249",
+        "keyword": "Diana Dee",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769852634730,
+        "created_at": 1769852634730,
+        "locale": "id"
       }
     ],
     "l": [
@@ -2795,6 +2828,17 @@
         "clicks": 0,
         "last_search": 1769781853917,
         "created_at": 1769781853917,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3236cb4b-b575-4a05-b811-b642a6285d3b",
+        "keyword": "Lungamu Ninggal Kenangan 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769852634730,
+        "created_at": 1769852634730,
         "locale": "id"
       }
     ],
@@ -6922,9 +6966,9 @@
         "keyword": "Menungso Oratoto",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769707419092,
+        "last_search": 1769852634730,
         "created_at": 1769707419092,
         "locale": "id"
       },
@@ -7287,9 +7331,9 @@
         "keyword": "Happy Asmara",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1769795317318,
+        "last_search": 1769852634730,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -7830,6 +7874,17 @@
         "clicks": 0,
         "last_search": 1769795317318,
         "created_at": 1769795317318,
+        "locale": "id"
+      },
+      {
+        "id": "kw_431e8132-99d3-46e3-b53f-d0819317edae",
+        "keyword": "Happy Asmara - Tak Ikhlasno",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769852634730,
+        "created_at": 1769852634730,
         "locale": "id"
       }
     ],
@@ -9625,9 +9680,9 @@
         "keyword": "Northsle Ft Agiff",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769840985944,
+        "last_search": 1769852634730,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -12159,9 +12214,9 @@
         "keyword": "Tresno Liyane",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769840985944,
+        "last_search": 1769852634730,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -12181,9 +12236,9 @@
         "keyword": "TEKOMLAKU",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769707419092,
+        "last_search": 1769852634730,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -12665,9 +12720,9 @@
         "keyword": "Tresno Liyane - Northsle Ft Agiff",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769840985944,
+        "last_search": 1769852634730,
         "created_at": 1769672111094,
         "locale": "id"
       },
@@ -12731,9 +12786,9 @@
         "keyword": "TEKOMLAKU - Menungso Oratoto",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769707419092,
+        "last_search": 1769852634730,
         "created_at": 1769707419092,
         "locale": "id"
       },
@@ -13032,6 +13087,17 @@
         "clicks": 0,
         "last_search": 1769795317318,
         "created_at": 1769795317318,
+        "locale": "id"
+      },
+      {
+        "id": "kw_776710bd-7dfe-472a-997b-8aa405a8a2f3",
+        "keyword": "Tak Ikhlasno",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769852634730,
+        "created_at": 1769852634730,
         "locale": "id"
       }
     ],
@@ -16484,6 +16550,72 @@
         "last_search": 1769841715626,
         "created_at": 1769841715626,
         "locale": "id"
+      },
+      {
+        "id": "kw_e8699a09-6648-4386-9a5f-00c5aa79e789",
+        "keyword": "Aftershine feat. Damara De - Aku Ikhlas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769852634729,
+        "created_at": 1769852634729,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f1d3cad7-2ba2-4e29-aa92-2033dc7f39c1",
+        "keyword": "Aftershine feat. Damara De",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769852634729,
+        "created_at": 1769852634729,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9706aed4-7beb-4e78-b996-9a17c9827900",
+        "keyword": "Aku Ikhlas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769852634729,
+        "created_at": 1769852634729,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4e16a02e-56f6-4787-9d75-ae67eac00a95",
+        "keyword": "Armada Feat. Ifan Seventeen - Demi Tuhan Aku Ikhlas ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769852634729,
+        "created_at": 1769852634729,
+        "locale": "id"
+      },
+      {
+        "id": "kw_148e9dd8-a393-4669-80eb-f71f27c021ab",
+        "keyword": "Armada Feat. Ifan Seventeen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769852634729,
+        "created_at": 1769852634729,
+        "locale": "id"
+      },
+      {
+        "id": "kw_741ccb0c-1618-4e85-9df8-80cb4a36c500",
+        "keyword": "Aku Ikhlas Melepaskanmu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769852634730,
+        "created_at": 1769852634730,
+        "locale": "id"
       }
     ],
     "r": [
@@ -16690,9 +16822,9 @@
         "keyword": "Raiso Dadi Siji - Sarah Brilian feat. Stress Royal ...",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1769840985944,
+        "last_search": 1769852634730,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -16701,9 +16833,9 @@
         "keyword": "Raiso Dadi Siji",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1769840985944,
+        "last_search": 1769852634730,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -17968,9 +18100,9 @@
         "keyword": "Sarah Brilian feat. Stress Royal",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1769840985944,
+        "last_search": 1769852634730,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -19765,6 +19897,28 @@
         "clicks": 0,
         "last_search": 1769840985945,
         "created_at": 1769840985945,
+        "locale": "id"
+      },
+      {
+        "id": "kw_63c40f50-a83a-448e-9dc9-6c364d0d4f27",
+        "keyword": "Shandy Pagalla - Aku Ikhlas Melepaskanmu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769852634730,
+        "created_at": 1769852634730,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fba6961b-d72b-4770-98b4-fa3e0d8eca10",
+        "keyword": "Shandy Pagalla",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769852634730,
+        "created_at": 1769852634730,
         "locale": "id"
       }
     ],
