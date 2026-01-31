@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769878163424,
+    "last_updated": 1769878445876,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -237,9 +237,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 39,
+        "impressions": 40,
         "clicks": 0,
-        "last_search": 1769878163413,
+        "last_search": 1769878445858,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -1524,9 +1524,9 @@
         "keyword": "Denny Caknan - SATRU 2 -",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769849699566,
+        "last_search": 1769878445858,
         "created_at": 1769670975194,
         "locale": "id"
       },
@@ -2309,6 +2309,28 @@
         "clicks": 0,
         "last_search": 1769878149439,
         "created_at": 1769878149439,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5fc382aa-c505-4c4a-932b-0f71b67f7a5e",
+        "keyword": "Dj Qhelfin - Nona SMA 2 -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769878445858,
+        "created_at": 1769878445858,
+        "locale": "id"
+      },
+      {
+        "id": "kw_51fbffe7-612f-43e6-87f0-c468647e28ce",
+        "keyword": "Dj Qhelfin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769878445858,
+        "created_at": 1769878445858,
         "locale": "id"
       }
     ],
@@ -3266,9 +3288,9 @@
         "keyword": "Kisinan 2",
         "tags": [],
         "weight": 1,
-        "impressions": 11,
+        "impressions": 12,
         "clicks": 0,
-        "last_search": 1769849699566,
+        "last_search": 1769878445858,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -3497,9 +3519,9 @@
         "keyword": "Kalah",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769840411155,
+        "last_search": 1769878445858,
         "created_at": 1769428790060,
         "locale": "id"
       },
@@ -3519,9 +3541,9 @@
         "keyword": "Kalah Cepet",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769840411155,
+        "last_search": 1769878445859,
         "created_at": 1769428790060,
         "locale": "id"
       },
@@ -5108,6 +5130,50 @@
         "last_search": 1769878163413,
         "created_at": 1769878163413,
         "locale": "id"
+      },
+      {
+        "id": "kw_c0f020fd-4aea-4bb8-a6c0-a4f5270196e5",
+        "keyword": "Kalah 2 -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769878445858,
+        "created_at": 1769878445858,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2fb67dc4-135f-4d22-8aaf-9b4e72678ff1",
+        "keyword": "Kimcil Kepolen -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769878445858,
+        "created_at": 1769878445858,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b070d854-695e-4ee7-b36a-37caa6168b01",
+        "keyword": "Kalah Materi - Ade Astrid X Gerengseng Team ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769878445858,
+        "created_at": 1769878445858,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b082c677-fb07-44d8-ac30-ffeca85c328f",
+        "keyword": "Kalah Materi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769878445858,
+        "created_at": 1769878445858,
+        "locale": "id"
       }
     ],
     "p": [
@@ -6320,6 +6386,17 @@
         "last_search": 1769860809913,
         "created_at": 1769860809913,
         "locale": "id"
+      },
+      {
+        "id": "kw_2256a2df-c950-44d3-a68c-2010b50d95f7",
+        "keyword": "PICA PICA 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769878445858,
+        "created_at": 1769878445858,
+        "locale": "id"
       }
     ],
     "m": [
@@ -6394,9 +6471,9 @@
         "keyword": "Masdddho",
         "tags": [],
         "weight": 1,
-        "impressions": 15,
+        "impressions": 16,
         "clicks": 0,
-        "last_search": 1769849699566,
+        "last_search": 1769878445858,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -6603,9 +6680,9 @@
         "keyword": "Masdddho - Kisinan 2",
         "tags": [],
         "weight": 1,
-        "impressions": 11,
+        "impressions": 12,
         "clicks": 0,
-        "last_search": 1769849699566,
+        "last_search": 1769878445858,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -7729,6 +7806,17 @@
         "clicks": 0,
         "last_search": 1769857402478,
         "created_at": 1769857402478,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bc73ef7b-9db8-4fb3-8d27-60060628b66c",
+        "keyword": "MELAS -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769878445858,
+        "created_at": 1769878445858,
         "locale": "id"
       }
     ],
@@ -9010,6 +9098,28 @@
         "last_search": 1769876229414,
         "created_at": 1769876218021,
         "locale": "id"
+      },
+      {
+        "id": "kw_1c27845c-4f52-48c2-b007-925897a1b836",
+        "keyword": "Juan Reza - PICA PICA 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769878445858,
+        "created_at": 1769878445858,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8eb8370a-c63a-4d63-9b14-06a3001fa308",
+        "keyword": "Juan Reza",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769878445858,
+        "created_at": 1769878445858,
+        "locale": "id"
       }
     ],
     "g": [
@@ -9801,9 +9911,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 24,
+        "impressions": 25,
         "clicks": 0,
-        "last_search": 1769878163413,
+        "last_search": 1769878445858,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -10373,9 +10483,9 @@
         "keyword": "Nella Kharisma",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1769840411155,
+        "last_search": 1769878445859,
         "created_at": 1769428790060,
         "locale": "id"
       },
@@ -11385,9 +11495,9 @@
         "keyword": "Nella Kharisma - Kalah Cepet",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769840411155,
+        "last_search": 1769878445859,
         "created_at": 1769740737933,
         "locale": "id"
       },
@@ -11664,6 +11774,28 @@
         "clicks": 0,
         "last_search": 1769878149439,
         "created_at": 1769878149439,
+        "locale": "id"
+      },
+      {
+        "id": "kw_596c7063-5460-47c4-adb0-bc7827bde93a",
+        "keyword": "Nona SMA 2 -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769878445858,
+        "created_at": 1769878445858,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2a289ed5-30d7-48cf-99f4-094e386f3946",
+        "keyword": "NDX AKA - Kimcil Kepolen -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769878445858,
+        "created_at": 1769878445858,
         "locale": "id"
       }
     ],
@@ -14267,6 +14399,28 @@
         "last_search": 1769857378298,
         "created_at": 1769857378298,
         "locale": "id"
+      },
+      {
+        "id": "kw_61a1288f-b4ac-4a6c-8e9b-47ae340293f5",
+        "keyword": "EVAN LOSS - MELAS -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769878445858,
+        "created_at": 1769878445858,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dcd406df-ba76-4fbd-9086-4fd16a1788c9",
+        "keyword": "EVAN LOSS",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769878445858,
+        "created_at": 1769878445858,
+        "locale": "id"
       }
     ],
     "w": [
@@ -15797,9 +15951,9 @@
         "keyword": "Aftershine",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769603724619,
+        "last_search": 1769878445858,
         "created_at": 1769398806467,
         "locale": "id"
       },
@@ -16347,9 +16501,9 @@
         "keyword": "Aftershine ft. Restianade",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769840411155,
+        "last_search": 1769878445858,
         "created_at": 1769428790060,
         "locale": "id"
       },
@@ -17029,9 +17183,9 @@
         "keyword": "Aftershine ft. Restianade - Kalah",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769840411155,
+        "last_search": 1769878445858,
         "created_at": 1769740737932,
         "locale": "id"
       },
@@ -17506,6 +17660,28 @@
         "clicks": 0,
         "last_search": 1769878149439,
         "created_at": 1769878149439,
+        "locale": "id"
+      },
+      {
+        "id": "kw_16cc74d1-755b-4429-a49e-25569af5a813",
+        "keyword": "Aftershine - Kalah 2 -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769878445858,
+        "created_at": 1769878445857,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8778eb27-b865-4872-86e3-973dac9d00a0",
+        "keyword": "Ade Astrid X Gerengseng Team",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769878445858,
+        "created_at": 1769878445858,
         "locale": "id"
       }
     ],
@@ -20102,9 +20278,9 @@
         "keyword": "SATRU 2 -",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769849699566,
+        "last_search": 1769878445858,
         "created_at": 1769670975194,
         "locale": "id"
       },
