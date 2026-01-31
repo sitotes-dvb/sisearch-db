@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769857402518,
+    "last_updated": 1769860809936,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -182,9 +182,9 @@
         "keyword": "Demeises",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769748764074,
+        "last_search": 1769860809914,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -2244,6 +2244,39 @@
         "last_search": 1769857402478,
         "created_at": 1769857402478,
         "locale": "id"
+      },
+      {
+        "id": "kw_eec2ada2-080e-4af6-aeef-d81e0f4988bf",
+        "keyword": "Daftar Koleksi / Kangen Band @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809909,
+        "created_at": 1769860809909,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a7d9eb73-24b6-4c81-b9c5-cd3dcd487a4c",
+        "keyword": "Demeises - Dengarlah Bintang Hatiku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809914,
+        "created_at": 1769860809913,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3bb8180c-2702-47ee-a158-194b723c31f2",
+        "keyword": "Dengarlah Bintang Hatiku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809914,
+        "created_at": 1769860809914,
+        "locale": "id"
       }
     ],
     "l": [
@@ -2927,6 +2960,28 @@
         "clicks": 0,
         "last_search": 1769857402478,
         "created_at": 1769857402478,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f4bff90b-47b0-4f89-9a28-66ce08c7c21a",
+        "keyword": "Laoneis Band - Cepat Pulang ADI (Ayah Dan Ibu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809913,
+        "created_at": 1769860809913,
+        "locale": "id"
+      },
+      {
+        "id": "kw_46d16693-5d8c-4a09-99b6-72e934437705",
+        "keyword": "Laoneis Band",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809913,
+        "created_at": 1769860809913,
         "locale": "id"
       }
     ],
@@ -3827,9 +3882,9 @@
         "keyword": "Kangen Band",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769857402478,
+        "last_search": 1769860809909,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -3937,9 +3992,9 @@
         "keyword": "Kembali Pulang",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582688684,
+        "last_search": 1769860809913,
         "created_at": 1769582688684,
         "locale": "id"
       },
@@ -4887,6 +4942,50 @@
         "clicks": 0,
         "last_search": 1769857402478,
         "created_at": 1769857402478,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8ec0a9b0-6ae5-4c3f-abfe-4882953e2f51",
+        "keyword": "Kangen Band - Bintang 14 Hari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809909,
+        "created_at": 1769860809908,
+        "locale": "id"
+      },
+      {
+        "id": "kw_42e1152a-2568-43cd-9de8-96a1cc77921b",
+        "keyword": "Kembali Pulang - Kangen Band",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809913,
+        "created_at": 1769860809913,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e257f817-f67f-43a6-ae77-1554505938af",
+        "keyword": "Kangen Band - Pujaan Hati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809913,
+        "created_at": 1769860809913,
+        "locale": "id"
+      },
+      {
+        "id": "kw_49b9aa77-94af-4ead-b4a8-45d37b2964aa",
+        "keyword": "Kangen Band - Cinta yang Sempurna",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809914,
+        "created_at": 1769860809914,
         "locale": "id"
       }
     ],
@@ -6088,6 +6187,17 @@
         "clicks": 0,
         "last_search": 1769857402478,
         "created_at": 1769857402478,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c9733e9a-90d5-4541-88ae-166230c62251",
+        "keyword": "Pujaan Hati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809913,
+        "created_at": 1769860809913,
         "locale": "id"
       }
     ],
@@ -8756,6 +8866,17 @@
         "clicks": 0,
         "last_search": 1769782700667,
         "created_at": 1769782700667,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b49477c6-abc6-4531-9500-aa3838813ed8",
+        "keyword": "Jangan Pergi Cintaku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809913,
+        "created_at": 1769860809913,
         "locale": "id"
       }
     ],
@@ -12162,6 +12283,17 @@
         "last_search": 1769857402478,
         "created_at": 1769857402478,
         "locale": "id"
+      },
+      {
+        "id": "kw_046f0da2-22da-4528-bfe6-dae998626ead",
+        "keyword": "Bintang 14 Hari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809909,
+        "created_at": 1769860809909,
+        "locale": "id"
       }
     ],
     "t": [
@@ -14926,9 +15058,9 @@
         "keyword": "Cinta yang Sempurna",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582566047,
+        "last_search": 1769860809914,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -15172,6 +15304,17 @@
         "clicks": 0,
         "last_search": 1769857402478,
         "created_at": 1769857402478,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f5a613f6-e602-4fee-a798-8262d1e4899b",
+        "keyword": "Cepat Pulang ADI (Ayah Dan Ibu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809913,
+        "created_at": 1769860809913,
         "locale": "id"
       }
     ],
@@ -19145,9 +19288,9 @@
         "keyword": "Sheila On 7",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769782700667,
+        "last_search": 1769860809914,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -20393,6 +20536,50 @@
         "last_search": 1769857402478,
         "created_at": 1769857402478,
         "locale": "id"
+      },
+      {
+        "id": "kw_3480d312-5c5a-45d3-9003-d32ce9e68568",
+        "keyword": "Syahrini - Seperti Itu Lalu -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809913,
+        "created_at": 1769860809913,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f78e5f93-7565-48ea-8993-4ff43154eca2",
+        "keyword": "Syahrini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809913,
+        "created_at": 1769860809913,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4330cd96-cd9d-4263-9334-f106618570b1",
+        "keyword": "Seperti Itu Lalu -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809913,
+        "created_at": 1769860809913,
+        "locale": "id"
+      },
+      {
+        "id": "kw_75f1aff6-183f-482b-b7e2-5fc63f7a3f79",
+        "keyword": "Sheila On 7 - Itu Aku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809914,
+        "created_at": 1769860809914,
+        "locale": "id"
       }
     ],
     "y": [
@@ -21057,6 +21244,28 @@
         "last_search": 1769782560565,
         "created_at": 1769782560565,
         "locale": "id"
+      },
+      {
+        "id": "kw_8ec257ff-f9ae-4731-971b-d123ecce6fc9",
+        "keyword": "Fani Ellen - Jangan Pergi Cintaku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809913,
+        "created_at": 1769860809913,
+        "locale": "id"
+      },
+      {
+        "id": "kw_78c79fde-dd19-4ba1-ba35-2027f2d57e72",
+        "keyword": "Fani Ellen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809913,
+        "created_at": 1769860809913,
+        "locale": "id"
       }
     ],
     "i": [
@@ -21487,6 +21696,17 @@
         "clicks": 0,
         "last_search": 1769857378299,
         "created_at": 1769857378299,
+        "locale": "id"
+      },
+      {
+        "id": "kw_14787ac7-39da-4578-a9ff-c5c3893ef217",
+        "keyword": "Itu Aku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769860809914,
+        "created_at": 1769860809914,
         "locale": "id"
       }
     ],
