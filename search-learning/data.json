@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769867921165,
+    "last_updated": 1769868093259,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2505,9 +2505,9 @@
         "keyword": "LAVORA Ft. Damara De",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769791972515,
+        "last_search": 1769868093198,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -2835,9 +2835,9 @@
         "keyword": "LAVORA Ft. Damara De - Nresnani",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769791972515,
+        "last_search": 1769868093198,
         "created_at": 1769707419091,
         "locale": "id"
       },
@@ -2982,6 +2982,28 @@
         "clicks": 0,
         "last_search": 1769860809913,
         "created_at": 1769860809913,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b856411a-f116-4d98-82fd-39589293aaa2",
+        "keyword": "Latif Nurohman - Titeni Lan Enteni",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769868093199,
+        "created_at": 1769868093199,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5efb93b6-e0a2-4f18-b741-a9c2c101d893",
+        "keyword": "Latif Nurohman",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769868093199,
+        "created_at": 1769868093199,
         "locale": "id"
       }
     ],
@@ -9293,9 +9315,9 @@
         "keyword": "Gagal",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769707419092,
+        "last_search": 1769868093198,
         "created_at": 1769707419092,
         "locale": "id"
       },
@@ -10208,9 +10230,9 @@
         "keyword": "Nresnani",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769791972515,
+        "last_search": 1769868093198,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -10439,9 +10461,9 @@
         "keyword": "Ngatmombilung",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1769849699566,
+        "last_search": 1769868093198,
         "created_at": 1769506971020,
         "locale": "id"
       },
@@ -11198,9 +11220,9 @@
         "keyword": "Ngatmombilung - Gagal",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769707419092,
+        "last_search": 1769868093198,
         "created_at": 1769707419091,
         "locale": "id"
       },
@@ -13615,6 +13637,17 @@
         "clicks": 0,
         "last_search": 1769857402478,
         "created_at": 1769857402478,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3d999b33-77f2-49b8-97f9-4254272b042d",
+        "keyword": "Titeni Lan Enteni",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769868093199,
+        "created_at": 1769868093199,
         "locale": "id"
       }
     ],
