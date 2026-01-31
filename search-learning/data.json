@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769873931109,
+    "last_updated": 1769876218036,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -952,9 +952,9 @@
         "keyword": "DENOK",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506236653,
+        "last_search": 1769876218021,
         "created_at": 1769409730861,
         "locale": "id"
       },
@@ -963,9 +963,9 @@
         "keyword": "Denny Caknan Feat. Abah Lala - Delik Delikan ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506236654,
+        "last_search": 1769876218021,
         "created_at": 1769409730862,
         "locale": "id"
       },
@@ -974,9 +974,9 @@
         "keyword": "Denny Caknan Feat. Abah Lala",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506236654,
+        "last_search": 1769876218021,
         "created_at": 1769409730862,
         "locale": "id"
       },
@@ -985,9 +985,9 @@
         "keyword": "Delik Delikan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506236654,
+        "last_search": 1769876218021,
         "created_at": 1769409730862,
         "locale": "id"
       },
@@ -2277,6 +2277,17 @@
         "last_search": 1769860809914,
         "created_at": 1769860809914,
         "locale": "id"
+      },
+      {
+        "id": "kw_d3a80234-8957-4434-8e3a-04dff0f5f1e6",
+        "keyword": "DENOK - Cindi Cintya feat Sadewok",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769876218021,
+        "created_at": 1769876218021,
+        "locale": "id"
       }
     ],
     "l": [
@@ -3420,9 +3431,9 @@
         "keyword": "Kere Munggah Bale",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506236654,
+        "last_search": 1769876218021,
         "created_at": 1769409730861,
         "locale": "id"
       },
@@ -5030,6 +5041,28 @@
         "clicks": 0,
         "last_search": 1769867921144,
         "created_at": 1769867921144,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3c7f1f8a-405e-4e95-9a06-235d08fdb9f2",
+        "keyword": "Kere Munggah Bale - Iwan Anoman",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769876218021,
+        "created_at": 1769876218021,
+        "locale": "id"
+      },
+      {
+        "id": "kw_49596cf3-2c0c-417e-80a4-efcb2b251083",
+        "keyword": "Kumpulan Gitar Cindi Cintya -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769876218021,
+        "created_at": 1769876218021,
         "locale": "id"
       }
     ],
@@ -8334,9 +8367,9 @@
         "keyword": "Jihan Audy",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769582439065,
+        "last_search": 1769876218021,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -8921,6 +8954,17 @@
         "clicks": 0,
         "last_search": 1769860809913,
         "created_at": 1769860809913,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d5d0f73f-6ffd-4d33-8e04-d2ae899aef9b",
+        "keyword": "Jihan Audy - Sultan Mah Bebas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769876218021,
+        "created_at": 1769876218021,
         "locale": "id"
       }
     ],
@@ -12786,9 +12830,9 @@
         "keyword": "Tresno Marang Tonggo",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506236654,
+        "last_search": 1769876218021,
         "created_at": 1769409730861,
         "locale": "id"
       },
@@ -13649,6 +13693,17 @@
         "last_search": 1769868093199,
         "created_at": 1769868093199,
         "locale": "id"
+      },
+      {
+        "id": "kw_a2a3a5bd-a519-46bb-9d42-48f01b74c2d3",
+        "keyword": "Tupang X Ayu Octavia feat Dyan Bro -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769876218021,
+        "created_at": 1769876218021,
+        "locale": "id"
       }
     ],
     "e": [
@@ -13756,9 +13811,9 @@
         "keyword": "Esa Risty ft Erlangga Gusfian",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506236654,
+        "last_search": 1769876218021,
         "created_at": 1769409730861,
         "locale": "id"
       },
@@ -14937,9 +14992,9 @@
         "keyword": "Cindi Cintya feat Sadewok",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506236653,
+        "last_search": 1769876218021,
         "created_at": 1769409730861,
         "locale": "id"
       },
@@ -14959,9 +15014,9 @@
         "keyword": "Cinta Tak Terpisahkan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506236653,
+        "last_search": 1769876218021,
         "created_at": 1769409730861,
         "locale": "id"
       },
@@ -14970,9 +15025,9 @@
         "keyword": "Cak Diqin ft Safitri",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506236653,
+        "last_search": 1769876218021,
         "created_at": 1769409730861,
         "locale": "id"
       },
@@ -15392,6 +15447,17 @@
         "clicks": 0,
         "last_search": 1769860809913,
         "created_at": 1769860809913,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1c43834d-9f99-401b-850e-4ca6e044a0ed",
+        "keyword": "Cinta Tak Terpisahkan - Cak Diqin ft Safitri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769876218021,
+        "created_at": 1769876218021,
         "locale": "id"
       }
     ],
@@ -16028,9 +16094,9 @@
         "keyword": "Arya Satria Dan Denok - Tresno Marang Tonggo ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506236654,
+        "last_search": 1769876218021,
         "created_at": 1769409730861,
         "locale": "id"
       },
@@ -16039,9 +16105,9 @@
         "keyword": "Arya Satria Dan Denok",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506236654,
+        "last_search": 1769876218021,
         "created_at": 1769409730861,
         "locale": "id"
       },
@@ -18969,9 +19035,9 @@
         "keyword": "Santri Pekok",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506236654,
+        "last_search": 1769876218021,
         "created_at": 1769409730861,
         "locale": "id"
       },
@@ -18991,9 +19057,9 @@
         "keyword": "Slintutan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506236654,
+        "last_search": 1769876218021,
         "created_at": 1769409730862,
         "locale": "id"
       },
@@ -19002,9 +19068,9 @@
         "keyword": "Sultan Mah Bebas",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506236654,
+        "last_search": 1769876218021,
         "created_at": 1769409730862,
         "locale": "id"
       },
@@ -20690,6 +20756,28 @@
         "last_search": 1769867921144,
         "created_at": 1769867921144,
         "locale": "id"
+      },
+      {
+        "id": "kw_c1d57ee2-741a-4584-a752-391bd05eb0a8",
+        "keyword": "Santri Pekok - Esa Risty ft Erlangga Gusfian",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769876218021,
+        "created_at": 1769876218021,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5218190d-357e-4318-aff5-793a24c3f7b1",
+        "keyword": "Slintutan - Fendik Adella ft Difarina Indra",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769876218021,
+        "created_at": 1769876218021,
+        "locale": "id"
       }
     ],
     "y": [
@@ -21107,9 +21195,9 @@
         "keyword": "Fendik Adella ft Difarina Indra",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506236654,
+        "last_search": 1769876218021,
         "created_at": 1769409730862,
         "locale": "id"
       },
@@ -21472,9 +21560,9 @@
         "keyword": "Iwan Anoman",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769506236654,
+        "last_search": 1769876218021,
         "created_at": 1769409730862,
         "locale": "id"
       },
