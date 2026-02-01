@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769944974654,
+    "last_updated": 1769945075599,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -347,9 +347,9 @@
         "keyword": "DENNY CAKNAN X NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395894349,
+        "last_search": 1769945075592,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -1513,9 +1513,9 @@
         "keyword": "Demi Kowe -",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769873931049,
+        "last_search": 1769945075592,
         "created_at": 1769670975193,
         "locale": "id"
       },
@@ -2063,9 +2063,9 @@
         "keyword": "Daftar Koleksi / Royhan Ni Amillah @Chordtela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769781853917,
+        "last_search": 1769945075592,
         "created_at": 1769781853917,
         "locale": "id"
       },
@@ -2343,6 +2343,28 @@
         "last_search": 1769883135960,
         "created_at": 1769883135960,
         "locale": "id"
+      },
+      {
+        "id": "kw_3c265b31-3876-486b-b16e-c90a031860f8",
+        "keyword": "Didik Budi feat. Sadewok",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769945075592,
+        "created_at": 1769945075592,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6d8b45e8-0044-4c3a-8bcb-e6efe3fdddb1",
+        "keyword": "DENNY CAKNAN X NDX AKA - ROPANG (Roda ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769945075592,
+        "created_at": 1769945075592,
+        "locale": "id"
       }
     ],
     "l": [
@@ -2406,9 +2428,9 @@
         "keyword": "Lanang Tenan",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769878163413,
+        "last_search": 1769945075592,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -2912,9 +2934,9 @@
         "keyword": "LOSSKITA",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769781853917,
+        "last_search": 1769945075592,
         "created_at": 1769707419092,
         "locale": "id"
       },
@@ -5251,6 +5273,17 @@
         "last_search": 1769883135960,
         "created_at": 1769883135960,
         "locale": "id"
+      },
+      {
+        "id": "kw_c29f712a-8134-4f5b-888b-042966eb3980",
+        "keyword": "Kumpulan Gitar NDX AKA -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769945075592,
+        "created_at": 1769945075592,
+        "locale": "id"
       }
     ],
     "p": [
@@ -5292,9 +5325,9 @@
         "keyword": "Pendhoza",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769873931049,
+        "last_search": 1769945075592,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -5347,9 +5380,9 @@
         "keyword": "Pusma Shakira feat Royhan Ni Amillah",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769781853917,
+        "last_search": 1769945075591,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -6205,9 +6238,9 @@
         "keyword": "Pendhoza - Demi Kowe -",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769873931049,
+        "last_search": 1769945075592,
         "created_at": 1769670975193,
         "locale": "id"
       },
@@ -6392,9 +6425,9 @@
         "keyword": "Pusma Shakira feat Royhan Ni Amillah - EGO WONG ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769781853916,
+        "last_search": 1769945075591,
         "created_at": 1769781853916,
         "locale": "id"
       },
@@ -9944,9 +9977,9 @@
         "keyword": "Ndarboy Genk",
         "tags": [],
         "weight": 1,
-        "impressions": 14,
+        "impressions": 15,
         "clicks": 0,
-        "last_search": 1769944974622,
+        "last_search": 1769945075592,
         "created_at": 1769359994200,
         "locale": "id"
       },
@@ -10032,9 +10065,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 27,
+        "impressions": 28,
         "clicks": 0,
-        "last_search": 1769912332423,
+        "last_search": 1769945075591,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -10054,9 +10087,9 @@
         "keyword": "Ndarboy Genk - Lanang Tenan",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769878163413,
+        "last_search": 1769945075592,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -11121,9 +11154,9 @@
         "keyword": "NDX AKA - Ego Wong Tuo Hiphop Dangdut Version ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769781853917,
+        "last_search": 1769945075591,
         "created_at": 1769520854914,
         "locale": "id"
       },
@@ -14163,9 +14196,9 @@
         "keyword": "EGO WONG",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769781853917,
+        "last_search": 1769945075591,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -14416,9 +14449,9 @@
         "keyword": "Ego Wong Tuo Hiphop Dangdut Version",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769781853917,
+        "last_search": 1769945075591,
         "created_at": 1769520854914,
         "locale": "id"
       },
@@ -14493,9 +14526,9 @@
         "keyword": "EGO - LOSSKITA",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769781853917,
+        "last_search": 1769945075592,
         "created_at": 1769707419092,
         "locale": "id"
       },
@@ -14504,9 +14537,9 @@
         "keyword": "EGO",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769781853917,
+        "last_search": 1769945075592,
         "created_at": 1769707419092,
         "locale": "id"
       },
@@ -17977,9 +18010,9 @@
         "keyword": "ROPANG (Roda",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395894349,
+        "last_search": 1769945075592,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -20102,9 +20135,9 @@
         "keyword": "Sadewok",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769770136735,
+        "last_search": 1769945075592,
         "created_at": 1769520499398,
         "locale": "id"
       },
@@ -21059,9 +21092,9 @@
         "keyword": "Sadewok - Sabar -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769770136735,
+        "last_search": 1769945075592,
         "created_at": 1769770136734,
         "locale": "id"
       },
@@ -21070,9 +21103,9 @@
         "keyword": "Sabar -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769770136735,
+        "last_search": 1769945075592,
         "created_at": 1769770136735,
         "locale": "id"
       },
@@ -22576,6 +22609,28 @@
         "clicks": 0,
         "last_search": 1769878163413,
         "created_at": 1769878163413,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c3e8fea1-238d-4bf4-940b-a406eb0dda97",
+        "keyword": "ILMU PADI - Didik Budi feat. Sadewok",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769945075591,
+        "created_at": 1769945075591,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bfd92b4f-623b-452e-82e6-2023532b93b3",
+        "keyword": "ILMU PADI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769945075591,
+        "created_at": 1769945075591,
         "locale": "id"
       }
     ],
