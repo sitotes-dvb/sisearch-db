@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769883135986,
+    "last_updated": 1769912332441,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3071,6 +3071,39 @@
         "last_search": 1769868093199,
         "created_at": 1769868093199,
         "locale": "id"
+      },
+      {
+        "id": "kw_3a445fdd-5401-4ced-99ad-efcec81934db",
+        "keyword": "Lintang Kairo Feat Cak Katiyo - Layang Pegat ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769912332424,
+        "created_at": 1769912332423,
+        "locale": "id"
+      },
+      {
+        "id": "kw_26a1c253-7880-4413-9330-25f289e4657b",
+        "keyword": "Lintang Kairo Feat Cak Katiyo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769912332424,
+        "created_at": 1769912332424,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9000abdb-d288-42ac-8a17-7856484f4837",
+        "keyword": "Layang Pegat",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769912332424,
+        "created_at": 1769912332424,
+        "locale": "id"
       }
     ],
     "k": [
@@ -3926,9 +3959,9 @@
         "keyword": "Kelingan Mantan",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769873931049,
+        "last_search": 1769912332423,
         "created_at": 1769582439065,
         "locale": "id"
       },
@@ -7884,6 +7917,28 @@
         "last_search": 1769878591057,
         "created_at": 1769878591057,
         "locale": "id"
+      },
+      {
+        "id": "kw_d37b328c-b3da-4909-8d57-0f0db1bb9043",
+        "keyword": "Maqdalena Feat Arya Satria - Ngenteni Balimu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769912332424,
+        "created_at": 1769912332424,
+        "locale": "id"
+      },
+      {
+        "id": "kw_68ebe252-8a37-4b38-98a3-28a34e4a5926",
+        "keyword": "Maqdalena Feat Arya Satria",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769912332424,
+        "created_at": 1769912332424,
+        "locale": "id"
       }
     ],
     "h": [
@@ -9977,9 +10032,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 26,
+        "impressions": 27,
         "clicks": 0,
-        "last_search": 1769878591070,
+        "last_search": 1769912332423,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -10274,9 +10329,9 @@
         "keyword": "Ngertenono Ati",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769878163413,
+        "last_search": 1769912332424,
         "created_at": 1769407733906,
         "locale": "id"
       },
@@ -10362,9 +10417,9 @@
         "keyword": "Northsle Ft Agiff",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769852634730,
+        "last_search": 1769912332423,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -11462,9 +11517,9 @@
         "keyword": "NDX AKA - Kelingan Mantan",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769873931049,
+        "last_search": 1769912332423,
         "created_at": 1769703958514,
         "locale": "id"
       },
@@ -11825,9 +11880,9 @@
         "keyword": "NDX AKA - Ngertenono Ati",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769878163413,
+        "last_search": 1769912332424,
         "created_at": 1769878149439,
         "locale": "id"
       },
@@ -11906,6 +11961,17 @@
         "clicks": 0,
         "last_search": 1769883135960,
         "created_at": 1769883135960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cd6efc9f-9ebc-403c-bc22-9f982da3dad5",
+        "keyword": "Ngenteni Balimu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769912332424,
+        "created_at": 1769912332424,
         "locale": "id"
       }
     ],
@@ -13094,9 +13160,9 @@
         "keyword": "Tresno Liyane",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769852634730,
+        "last_search": 1769912332423,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -13270,9 +13336,9 @@
         "keyword": "Tekomlaku feat. Ervinsof",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769873931049,
+        "last_search": 1769912332424,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -13600,9 +13666,9 @@
         "keyword": "Tresno Liyane - Northsle Ft Agiff",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769852634730,
+        "last_search": 1769912332423,
         "created_at": 1769672111094,
         "locale": "id"
       },
@@ -13655,9 +13721,9 @@
         "keyword": "Tekomlaku feat. Ervinsof - Raiso Ngapusi",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769873931049,
+        "last_search": 1769912332424,
         "created_at": 1769703958513,
         "locale": "id"
       },
@@ -15159,6 +15225,17 @@
         "clicks": 0,
         "last_search": 1769878149439,
         "created_at": 1769878149439,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f10ef8f1-03a6-4e21-9d7b-5ba76a5b0872",
+        "keyword": "Wis Kasep -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769912332423,
+        "created_at": 1769912332423,
         "locale": "id"
       }
     ],
@@ -17815,6 +17892,28 @@
         "last_search": 1769883135960,
         "created_at": 1769883135960,
         "locale": "id"
+      },
+      {
+        "id": "kw_d910ee9c-d5c1-49f7-ad7a-2ecca12fae3d",
+        "keyword": "Akustik Westprog Feat Rindy Antika -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769912332423,
+        "created_at": 1769912332423,
+        "locale": "id"
+      },
+      {
+        "id": "kw_da4827b1-8ad3-4842-b9bc-9842506d2ceb",
+        "keyword": "Aftershine Ft. Damara.De",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769912332424,
+        "created_at": 1769912332424,
+        "locale": "id"
       }
     ],
     "r": [
@@ -18153,9 +18252,9 @@
         "keyword": "Raiso Ngapusi",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769873931049,
+        "last_search": 1769912332424,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -21262,6 +21361,28 @@
         "last_search": 1769883135961,
         "created_at": 1769883135961,
         "locale": "id"
+      },
+      {
+        "id": "kw_19c426ae-feb4-4094-9589-826cf9f73431",
+        "keyword": "Simpang Lima - Wis Kasep -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769912332423,
+        "created_at": 1769912332423,
+        "locale": "id"
+      },
+      {
+        "id": "kw_41fc8f90-e894-4a18-88cd-1572d700dbd5",
+        "keyword": "Simpang Lima",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769912332423,
+        "created_at": 1769912332423,
+        "locale": "id"
       }
     ],
     "y": [
@@ -21494,6 +21615,28 @@
         "clicks": 0,
         "last_search": 1769878163413,
         "created_at": 1769878149439,
+        "locale": "id"
+      },
+      {
+        "id": "kw_abdcd613-17a7-451c-bf08-54d38411de70",
+        "keyword": "Yowes Modaro - Aftershine Ft. Damara.De",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769912332424,
+        "created_at": 1769912332424,
+        "locale": "id"
+      },
+      {
+        "id": "kw_58b8bf90-c675-43d0-8304-f88ae4788380",
+        "keyword": "Yowes Modaro",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769912332424,
+        "created_at": 1769912332424,
         "locale": "id"
       }
     ],
