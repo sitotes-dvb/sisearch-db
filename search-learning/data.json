@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769945224656,
+    "last_updated": 1769945375665,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -237,9 +237,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 44,
+        "impressions": 45,
         "clicks": 0,
-        "last_search": 1769945224649,
+        "last_search": 1769945375657,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -270,9 +270,9 @@
         "keyword": "Denny Caknan - Cundamani",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1769944249058,
+        "last_search": 1769945375657,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -402,9 +402,9 @@
         "keyword": "Denny Caknan - Crito Mustahil",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769397199463,
+        "last_search": 1769945375657,
         "created_at": 1769397199463,
         "locale": "id"
       },
@@ -435,9 +435,9 @@
         "keyword": "Denny Caknan feat. Guyon Waton - Widodari",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769397199479,
+        "last_search": 1769945375657,
         "created_at": 1769397199479,
         "locale": "id"
       },
@@ -446,9 +446,9 @@
         "keyword": "Denny Caknan feat. Guyon Waton",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769407672119,
+        "last_search": 1769945375657,
         "created_at": 1769397199479,
         "locale": "id"
       },
@@ -567,9 +567,9 @@
         "keyword": "Daftar Koleksi / Denny Caknan @Chordtela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 12,
+        "impressions": 13,
         "clicks": 0,
-        "last_search": 1769944249058,
+        "last_search": 1769945375657,
         "created_at": 1769407631223,
         "locale": "id"
       },
@@ -5284,6 +5284,39 @@
         "last_search": 1769945075592,
         "created_at": 1769945075592,
         "locale": "id"
+      },
+      {
+        "id": "kw_08735c09-0305-4671-b908-cef95342b348",
+        "keyword": "Kembang Wangi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769945375657,
+        "created_at": 1769945375657,
+        "locale": "id"
+      },
+      {
+        "id": "kw_aebe61ac-3f31-4125-be92-ef51bde2e197",
+        "keyword": "Kristina - Secawan Madu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769945375657,
+        "created_at": 1769945375657,
+        "locale": "id"
+      },
+      {
+        "id": "kw_098017c5-5ca7-4235-b605-f2c2248b2fad",
+        "keyword": "Kristina",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769945375657,
+        "created_at": 1769945375657,
+        "locale": "id"
       }
     ],
     "p": [
@@ -7983,6 +8016,28 @@
         "last_search": 1769945224649,
         "created_at": 1769945224649,
         "locale": "id"
+      },
+      {
+        "id": "kw_47f6444a-83d6-4cb4-8a76-962527259923",
+        "keyword": "MOMONON - Canda Tawamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769945375657,
+        "created_at": 1769945375657,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a96cbb40-2e97-4c26-9cb2-270323da7cdb",
+        "keyword": "MOMONON",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769945375657,
+        "created_at": 1769945375657,
+        "locale": "id"
       }
     ],
     "h": [
@@ -8035,9 +8090,9 @@
         "keyword": "Happy Asmara",
         "tags": [],
         "weight": 1,
-        "impressions": 11,
+        "impressions": 12,
         "clicks": 0,
-        "last_search": 1769852634730,
+        "last_search": 1769945375657,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -8589,6 +8644,17 @@
         "clicks": 0,
         "last_search": 1769852634730,
         "created_at": 1769852634730,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eebb467c-4d0f-4c27-8594-cee88fbd640c",
+        "keyword": "Happy Asmara - Kembang Wangi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769945375657,
+        "created_at": 1769945375657,
         "locale": "id"
       }
     ],
@@ -9988,9 +10054,9 @@
         "keyword": "Ndarboy Genk",
         "tags": [],
         "weight": 1,
-        "impressions": 15,
+        "impressions": 16,
         "clicks": 0,
-        "last_search": 1769945075592,
+        "last_search": 1769945375657,
         "created_at": 1769359994200,
         "locale": "id"
       },
@@ -11418,9 +11484,9 @@
         "keyword": "Ndarboy Genk - Anak Lanang",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769878163413,
+        "last_search": 1769945375657,
         "created_at": 1769670975177,
         "locale": "id"
       },
@@ -14660,9 +14726,9 @@
         "keyword": "WALI",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769669620389,
+        "last_search": 1769945375657,
         "created_at": 1769359994199,
         "locale": "id"
       },
@@ -14726,9 +14792,9 @@
         "keyword": "Widodari",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769407672119,
+        "last_search": 1769945375657,
         "created_at": 1769397199479,
         "locale": "id"
       },
@@ -15292,6 +15358,17 @@
         "last_search": 1769945224649,
         "created_at": 1769945224649,
         "locale": "id"
+      },
+      {
+        "id": "kw_afd9b255-ad4e-42b5-8cec-02d9b0835dda",
+        "keyword": "WALI - Adinda",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769945375657,
+        "created_at": 1769945375657,
+        "locale": "id"
       }
     ],
     "c": [
@@ -15322,9 +15399,9 @@
         "keyword": "Cundamani",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1769944249058,
+        "last_search": 1769945375657,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -15344,9 +15421,9 @@
         "keyword": "Crito Mustahil",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769407751811,
+        "last_search": 1769945375657,
         "created_at": 1769397199463,
         "locale": "id"
       },
@@ -15986,6 +16063,17 @@
         "clicks": 0,
         "last_search": 1769876229414,
         "created_at": 1769876218021,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bbc7e010-4ec6-461f-8cb9-fd7ec07259a8",
+        "keyword": "Canda Tawamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769945375657,
+        "created_at": 1769945375657,
         "locale": "id"
       }
     ],
@@ -17337,9 +17425,9 @@
         "keyword": "Anak Lanang",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769878163413,
+        "last_search": 1769945375657,
         "created_at": 1769670975177,
         "locale": "id"
       },
@@ -17968,6 +18056,50 @@
         "clicks": 0,
         "last_search": 1769912332424,
         "created_at": 1769912332424,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d6838ab6-f351-43bf-8b44-a6bb7cf83e9d",
+        "keyword": "Adinda",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769945375657,
+        "created_at": 1769945375657,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9b5dfdac-c57a-4914-9701-200259d04f15",
+        "keyword": "Abi Rafdi - Aja' Tapacauka' Sabbara'",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769945375657,
+        "created_at": 1769945375657,
+        "locale": "id"
+      },
+      {
+        "id": "kw_774cbaff-ff92-47f0-a1d5-40e90e1f73a2",
+        "keyword": "Abi Rafdi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769945375657,
+        "created_at": 1769945375657,
+        "locale": "id"
+      },
+      {
+        "id": "kw_355275a4-249e-4bd6-b666-f93d4f6b4e7a",
+        "keyword": "Aja' Tapacauka' Sabbara'",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769945375657,
+        "created_at": 1769945375657,
         "locale": "id"
       }
     ],
@@ -21437,6 +21569,17 @@
         "clicks": 0,
         "last_search": 1769912332423,
         "created_at": 1769912332423,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7330e4a3-d26a-48f1-8cfd-351aa540f3db",
+        "keyword": "Secawan Madu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769945375657,
+        "created_at": 1769945375657,
         "locale": "id"
       }
     ],
