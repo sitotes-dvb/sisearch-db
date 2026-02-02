@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770042114196,
+    "last_updated": 1770042282187,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2815,6 +2815,28 @@
         "clicks": 0,
         "last_search": 1770042114178,
         "created_at": 1770042114177,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a972fc4c-8663-41ff-bda5-3346f4b36a78",
+        "keyword": "Daftar Koleksi / Aftershine -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282129,
+        "created_at": 1770042282129,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c47e76b0-a70e-4108-ad29-a5e829add639",
+        "keyword": "Daftar Koleksi / Tiara Linggar @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282130,
+        "created_at": 1770042282130,
         "locale": "id"
       }
     ],
@@ -6097,6 +6119,39 @@
         "clicks": 0,
         "last_search": 1770042114176,
         "created_at": 1770042114176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_55291dec-2881-4718-8bf0-673dfc440051",
+        "keyword": "Kumpulan Gitar Tiara Linggar -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282130,
+        "created_at": 1770042282130,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cf0236e8-21cd-45e1-8cfc-6d0deb9014d4",
+        "keyword": "Kesucian Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282130,
+        "created_at": 1770042282130,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b84826b3-0128-43af-8b84-ec85bb587810",
+        "keyword": "Kelingan Tresnamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282130,
+        "created_at": 1770042282130,
         "locale": "id"
       }
     ],
@@ -11278,6 +11333,28 @@
         "last_search": 1770042114176,
         "created_at": 1770042114176,
         "locale": "id"
+      },
+      {
+        "id": "kw_8d59b099-4ba2-4469-8aab-a1a2e3bf2ea8",
+        "keyword": "Gafarock - Selamat Jalan Godfather Of Broken Heart ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282130,
+        "created_at": 1770042282130,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eb092bd8-0e3e-44d1-98fa-e201ffb9f019",
+        "keyword": "Gafarock",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282130,
+        "created_at": 1770042282130,
+        "locale": "id"
       }
     ],
     "n": [
@@ -13480,6 +13557,17 @@
         "last_search": 1770042114176,
         "created_at": 1770042114176,
         "locale": "id"
+      },
+      {
+        "id": "kw_3fff4b7b-9886-4d6a-aec3-6c0226ad29fc",
+        "keyword": "Nangisi Lungamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282129,
+        "created_at": 1770042282129,
+        "locale": "id"
       }
     ],
     "b": [
@@ -15030,9 +15118,9 @@
         "keyword": "Tri Suaka ft. Jihan Audy",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769506432226,
+        "last_search": 1770042282129,
         "created_at": 1769506432226,
         "locale": "id"
       },
@@ -16046,6 +16134,39 @@
         "clicks": 0,
         "last_search": 1770042114176,
         "created_at": 1770042114176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_741ec0fc-386d-481a-ba87-d53cbfe3b902",
+        "keyword": "Tri Suaka ft. Jihan Audy - Salah Tompo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282129,
+        "created_at": 1770042282129,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b1cc3998-854d-48aa-9c50-429ba629117b",
+        "keyword": "Tak Tunggu Balimu - Fendik Adella Ft. Difarina Indra ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282130,
+        "created_at": 1770042282130,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7d7b99ae-6946-42b2-aeca-1b530ab75668",
+        "keyword": "Tak Tunggu Balimu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282130,
+        "created_at": 1770042282130,
         "locale": "id"
       }
     ],
@@ -20411,6 +20532,28 @@
         "last_search": 1770042114178,
         "created_at": 1770042114178,
         "locale": "id"
+      },
+      {
+        "id": "kw_c3591f1b-4f36-4e9a-a557-12f21b381518",
+        "keyword": "Aftershine Ft. Tiara Linggar - Nangisi Lungamu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282129,
+        "created_at": 1770042282129,
+        "locale": "id"
+      },
+      {
+        "id": "kw_af93445a-6b72-4371-be89-3caa6c3cc418",
+        "keyword": "Aftershine Ft. Tiara Linggar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282129,
+        "created_at": 1770042282129,
+        "locale": "id"
       }
     ],
     "r": [
@@ -21532,9 +21675,9 @@
         "keyword": "Syahiba Saufa",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1770025434557,
+        "last_search": 1770042282130,
         "created_at": 1769396521656,
         "locale": "id"
       },
@@ -22412,9 +22555,9 @@
         "keyword": "Salah Tompo",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769506432226,
+        "last_search": 1770042282129,
         "created_at": 1769506432226,
         "locale": "id"
       },
@@ -24221,6 +24364,50 @@
         "last_search": 1770042114177,
         "created_at": 1770042114177,
         "locale": "id"
+      },
+      {
+        "id": "kw_a4d371fd-3d76-41d2-9906-8ea811f1527e",
+        "keyword": "Selamat Jalan Godfather Of Broken Heart",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282130,
+        "created_at": 1770042282130,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d39e6230-09bd-4987-80c9-190644d2e39a",
+        "keyword": "Syahiba Saufa - Kesucian Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282130,
+        "created_at": 1770042282130,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6b0a8a27-34e1-481d-ab97-a948566b408e",
+        "keyword": "Soul Explain Feat MK CREW - Kelingan Tresnamu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282130,
+        "created_at": 1770042282130,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9b1c6219-a266-42d3-b527-14abe670fd64",
+        "keyword": "Soul Explain Feat MK CREW",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282130,
+        "created_at": 1770042282130,
+        "locale": "id"
       }
     ],
     "y": [
@@ -24984,6 +25171,17 @@
         "last_search": 1770015494803,
         "created_at": 1769860809913,
         "locale": "id"
+      },
+      {
+        "id": "kw_8c59952e-14ec-4df2-91f6-76f5f2bd6126",
+        "keyword": "Fendik Adella Ft. Difarina Indra",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282130,
+        "created_at": 1770042282130,
+        "locale": "id"
       }
     ],
     "i": [
@@ -25514,6 +25712,28 @@
         "last_search": 1770040365774,
         "created_at": 1770040365774,
         "locale": "id"
+      },
+      {
+        "id": "kw_b7589d2b-6c10-4d14-ace5-049673b4cecb",
+        "keyword": "Indra Bendot - Ono Wayahe -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282129,
+        "created_at": 1770042282129,
+        "locale": "id"
+      },
+      {
+        "id": "kw_adeed3db-b2e3-45fc-a23b-6f53ecbac0a0",
+        "keyword": "Indra Bendot",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282130,
+        "created_at": 1770042282129,
+        "locale": "id"
       }
     ],
     "o": [
@@ -25944,6 +26164,17 @@
         "clicks": 0,
         "last_search": 1770035176661,
         "created_at": 1770035176661,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ed8a715f-4aab-4ecf-a8e7-bd77a3c469a6",
+        "keyword": "Ono Wayahe -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042282130,
+        "created_at": 1770042282130,
         "locale": "id"
       }
     ],
