@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770047013617,
+    "last_updated": 1770047295539,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3753,6 +3753,28 @@
         "last_search": 1770044302972,
         "created_at": 1770044302972,
         "locale": "id"
+      },
+      {
+        "id": "kw_a16c8eac-01b3-445f-8f08-a476a1513856",
+        "keyword": "Lintang Marwanda - Kangen Banget",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295508,
+        "created_at": 1770047295508,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fae1a14e-60d1-4b26-87dd-ccb62f912ad6",
+        "keyword": "Lintang Marwanda",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295508,
+        "created_at": 1770047295508,
+        "locale": "id"
       }
     ],
     "k": [
@@ -6251,6 +6273,61 @@
         "clicks": 0,
         "last_search": 1770046454641,
         "created_at": 1770046454641,
+        "locale": "id"
+      },
+      {
+        "id": "kw_35c1cebb-5076-42a7-aac3-529aa1b397b9",
+        "keyword": "Kancani Aku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295507,
+        "created_at": 1770047295507,
+        "locale": "id"
+      },
+      {
+        "id": "kw_617a8d45-1a6f-4b91-88a9-6cbea063cb01",
+        "keyword": "Kangen!",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295508,
+        "created_at": 1770047295508,
+        "locale": "id"
+      },
+      {
+        "id": "kw_60fa9d2c-6e97-4980-8ae2-ce7e2e89f287",
+        "keyword": "Kangen Banget",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295508,
+        "created_at": 1770047295508,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8f962303-b259-4f29-913d-60b9674967d4",
+        "keyword": "Kancani Uripku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295522,
+        "created_at": 1770047295522,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dc08cab5-5837-4343-aa3c-57c920f94cec",
+        "keyword": "Kediri Ninggal Lungo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295523,
+        "created_at": 1770047295523,
         "locale": "id"
       }
     ],
@@ -13799,6 +13876,61 @@
         "last_search": 1770047013597,
         "created_at": 1770047013597,
         "locale": "id"
+      },
+      {
+        "id": "kw_76a40368-cadd-40c4-bcc9-28619b584884",
+        "keyword": "Nangismu Tak Kancani",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295522,
+        "created_at": 1770047295509,
+        "locale": "id"
+      },
+      {
+        "id": "kw_540afa44-2f32-4a4b-93c0-7de47ba82eb1",
+        "keyword": "Nabila Maharani ft Tri Suaka - Kancani Uripku ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295522,
+        "created_at": 1770047295522,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c5193636-6a94-4fa2-a1b2-3341d689595e",
+        "keyword": "Nabila Maharani ft Tri Suaka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295522,
+        "created_at": 1770047295522,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d83e89a2-fff2-473b-998f-68e8151fe7f0",
+        "keyword": "Ndarboy Genk feat. Fauzi Haidi - Tak Kancani ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295522,
+        "created_at": 1770047295522,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eb9e143a-ae9e-448b-82e5-3bb579828ce5",
+        "keyword": "Ndarboy Genk feat. Fauzi Haidi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295522,
+        "created_at": 1770047295522,
+        "locale": "id"
       }
     ],
     "b": [
@@ -16399,6 +16531,39 @@
         "last_search": 1770042282130,
         "created_at": 1770042282130,
         "locale": "id"
+      },
+      {
+        "id": "kw_14146d4b-4fcf-4fa9-b568-f699af591fc6",
+        "keyword": "TTM Akustik ft. Putri Andien - Kancani Aku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295507,
+        "created_at": 1770047295507,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fe87fbcf-aca6-474c-90e5-39e9aa110462",
+        "keyword": "TTM Akustik ft. Putri Andien",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295507,
+        "created_at": 1770047295507,
+        "locale": "id"
+      },
+      {
+        "id": "kw_146aab63-9126-4988-a097-46797f7aca38",
+        "keyword": "Tak Kancani",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295522,
+        "created_at": 1770047295522,
+        "locale": "id"
       }
     ],
     "e": [
@@ -17014,9 +17179,9 @@
         "keyword": "Watak",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770047013597,
+        "last_search": 1770047295523,
         "created_at": 1769395121055,
         "locale": "id"
       },
@@ -17696,9 +17861,9 @@
         "keyword": "Watak - Alindra Musik -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770047013597,
+        "last_search": 1770047295523,
         "created_at": 1770047013597,
         "locale": "id"
       }
@@ -20802,10 +20967,32 @@
         "keyword": "Alindra Musik -",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1770047295523,
+        "created_at": 1770047013597,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a3738ce9-8dd9-410d-bbd4-ad48ad579f20",
+        "keyword": "ASHA ft. Yaya.Hnd - Kangen!",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1770047013597,
-        "created_at": 1770047013597,
+        "last_search": 1770047295508,
+        "created_at": 1770047295508,
+        "locale": "id"
+      },
+      {
+        "id": "kw_86939240-5d48-4c63-a06e-95ff6f33fc2f",
+        "keyword": "ASHA ft. Yaya.Hnd",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295508,
+        "created_at": 1770047295508,
         "locale": "id"
       }
     ],
@@ -24716,6 +24903,39 @@
         "last_search": 1770046454640,
         "created_at": 1770046454640,
         "locale": "id"
+      },
+      {
+        "id": "kw_df01ee04-61a5-410b-9266-b99e912d7684",
+        "keyword": "Shinta Arsinta feat. Achmad Twentynine - Satunggal ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295508,
+        "created_at": 1770047295508,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f0a25c10-a83e-44a9-b1fc-72a7e120020a",
+        "keyword": "Shinta Arsinta feat. Achmad Twentynine",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295509,
+        "created_at": 1770047295509,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d791a014-8e9e-42a8-982b-0dd3f246f319",
+        "keyword": "Satunggal",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295509,
+        "created_at": 1770047295509,
+        "locale": "id"
       }
     ],
     "y": [
@@ -24992,6 +25212,28 @@
         "clicks": 0,
         "last_search": 1770040053562,
         "created_at": 1770040053562,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b1491562-7266-4ebe-8248-9e83c27dff87",
+        "keyword": "Yeni Inka - Kancani Aku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295507,
+        "created_at": 1770047295507,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c46853a3-32a1-4e40-8749-33a08956db04",
+        "keyword": "Yeni Inka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295508,
+        "created_at": 1770047295507,
         "locale": "id"
       }
     ],
@@ -25509,9 +25751,9 @@
         "keyword": "Ilux ID",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769878163413,
+        "last_search": 1770047295509,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -26041,6 +26283,28 @@
         "clicks": 0,
         "last_search": 1770042282130,
         "created_at": 1770042282129,
+        "locale": "id"
+      },
+      {
+        "id": "kw_59f6060b-2c64-4f80-b82f-ddbd9033e855",
+        "keyword": "Ilux ID - Nangismu Tak Kancani",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295509,
+        "created_at": 1770047295509,
+        "locale": "id"
+      },
+      {
+        "id": "kw_577f726d-41fc-4935-9dd5-3fe4f05ee9ea",
+        "keyword": "Ilux ID - Kediri Ninggal Lungo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770047295523,
+        "created_at": 1770047295523,
         "locale": "id"
       }
     ],
