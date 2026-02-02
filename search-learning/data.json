@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769991517762,
+    "last_updated": 1770015494821,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2387,6 +2387,50 @@
         "last_search": 1769991517740,
         "created_at": 1769991517740,
         "locale": "id"
+      },
+      {
+        "id": "kw_310af8c5-033a-4791-8c2e-eb01c73fb1d0",
+        "keyword": "Daftar Koleksi / Kangen Band -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770015494803,
+        "created_at": 1770015494803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6c9a407e-f4c2-4cb2-bc80-9fcc66a0ba7b",
+        "keyword": "Derradru - Karo Kowe",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770015494803,
+        "created_at": 1770015494803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_191cac70-7da9-4948-a765-ed83f0d8340e",
+        "keyword": "Derradru",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770015494803,
+        "created_at": 1770015494803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_73a5bc0a-95ee-49d1-9481-d6746a673185",
+        "keyword": "Doy",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770015494803,
+        "created_at": 1770015494803,
+        "locale": "id"
       }
     ],
     "l": [
@@ -4047,9 +4091,9 @@
         "keyword": "Kangen Band",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769991414196,
+        "last_search": 1770015494803,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -4157,9 +4201,9 @@
         "keyword": "Kembali Pulang",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769860809913,
+        "last_search": 1770015494803,
         "created_at": 1769582688684,
         "locale": "id"
       },
@@ -5103,9 +5147,9 @@
         "keyword": "Kangen Band - Tentang Bintang",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769991414196,
+        "last_search": 1770015494803,
         "created_at": 1769857402478,
         "locale": "id"
       },
@@ -5114,9 +5158,9 @@
         "keyword": "Kangen Band - Bintang 14 Hari",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769860809909,
+        "last_search": 1770015494803,
         "created_at": 1769860809908,
         "locale": "id"
       },
@@ -5125,9 +5169,9 @@
         "keyword": "Kembali Pulang - Kangen Band",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769860809913,
+        "last_search": 1770015494803,
         "created_at": 1769860809913,
         "locale": "id"
       },
@@ -5338,6 +5382,28 @@
         "clicks": 0,
         "last_search": 1769945375657,
         "created_at": 1769945375657,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a1c68301-9905-4f94-afff-beeacab80c30",
+        "keyword": "Karo Kowe",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770015494803,
+        "created_at": 1770015494803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_44faebdf-7e7e-4d10-aab7-9d88416e897c",
+        "keyword": "Kangen Band - Doy",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770015494803,
+        "created_at": 1770015494803,
         "locale": "id"
       }
     ],
@@ -8082,6 +8148,28 @@
         "last_search": 1769945375657,
         "created_at": 1769945375657,
         "locale": "id"
+      },
+      {
+        "id": "kw_edfb7ca2-233b-41a5-b827-79f76ed52464",
+        "keyword": "MotiforA - Abadi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770015494803,
+        "created_at": 1770015494803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_62466a51-1fb8-4d2b-995a-725f4a31d5b1",
+        "keyword": "MotiforA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770015494803,
+        "created_at": 1770015494803,
+        "locale": "id"
       }
     ],
     "h": [
@@ -9357,9 +9445,9 @@
         "keyword": "Jangan Pergi Cintaku",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769860809913,
+        "last_search": 1770015494803,
         "created_at": 1769860809913,
         "locale": "id"
       },
@@ -12993,9 +13081,9 @@
         "keyword": "Bintang 14 Hari",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769860809909,
+        "last_search": 1770015494803,
         "created_at": 1769860809909,
         "locale": "id"
       },
@@ -13008,6 +13096,17 @@
         "clicks": 0,
         "last_search": 1769991517740,
         "created_at": 1769991517740,
+        "locale": "id"
+      },
+      {
+        "id": "kw_abcf851d-2e2f-423a-a028-0bebcf0480bd",
+        "keyword": "Bintang Selanjutnya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770015494803,
+        "created_at": 1770015494803,
         "locale": "id"
       }
     ],
@@ -14282,9 +14381,9 @@
         "keyword": "Tentang Bintang",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769991414196,
+        "last_search": 1770015494803,
         "created_at": 1769857402478,
         "locale": "id"
       },
@@ -18233,6 +18332,17 @@
         "last_search": 1769991517739,
         "created_at": 1769991517739,
         "locale": "id"
+      },
+      {
+        "id": "kw_c56112cf-8a53-4997-affd-efe54e4c19d5",
+        "keyword": "Abadi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770015494803,
+        "created_at": 1770015494803,
+        "locale": "id"
       }
     ],
     "r": [
@@ -21587,9 +21697,9 @@
         "keyword": "Syahrini - Seperti Itu Lalu -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769860809913,
+        "last_search": 1770015494803,
         "created_at": 1769860809913,
         "locale": "id"
       },
@@ -21598,9 +21708,9 @@
         "keyword": "Syahrini",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769860809913,
+        "last_search": 1770015494803,
         "created_at": 1769860809913,
         "locale": "id"
       },
@@ -21609,9 +21719,9 @@
         "keyword": "Seperti Itu Lalu -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769860809913,
+        "last_search": 1770015494803,
         "created_at": 1769860809913,
         "locale": "id"
       },
@@ -22493,9 +22603,9 @@
         "keyword": "Fani Ellen - Jangan Pergi Cintaku",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769860809913,
+        "last_search": 1770015494803,
         "created_at": 1769860809913,
         "locale": "id"
       },
@@ -22504,9 +22614,9 @@
         "keyword": "Fani Ellen",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769860809913,
+        "last_search": 1770015494803,
         "created_at": 1769860809913,
         "locale": "id"
       }
