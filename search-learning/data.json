@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770040053581,
+    "last_updated": 1770040365815,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2694,6 +2694,72 @@
         "clicks": 0,
         "last_search": 1770040053563,
         "created_at": 1770040053563,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a22e2691-cae6-459f-8e47-9e49c1b934b1",
+        "keyword": "Dini Chan - Sedia Aku Sebelum Hujan Datang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365773,
+        "created_at": 1770040365773,
+        "locale": "id"
+      },
+      {
+        "id": "kw_34ca3af4-7026-4cf4-bd23-e7d815fd0466",
+        "keyword": "Dini Chan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365773,
+        "created_at": 1770040365773,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6c39103a-346f-46ff-b9b1-0a17b826826d",
+        "keyword": "Daftar Koleksi / Dini Chan @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365773,
+        "created_at": 1770040365773,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7e53d9c1-b488-4bb0-bf0c-ed44e2b07c14",
+        "keyword": "Daftar Koleksi / Idgitaf -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365773,
+        "created_at": 1770040365773,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6baa32c0-5c90-4899-8b4c-b882f4e7bc83",
+        "keyword": "Denis Farasya - Penawar Atiku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365774,
+        "created_at": 1770040365774,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f886ed44-2d40-449d-b9b9-fb6d89d66b60",
+        "keyword": "Denis Farasya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365774,
+        "created_at": 1770040365774,
         "locale": "id"
       }
     ],
@@ -5922,6 +5988,28 @@
         "last_search": 1770040053562,
         "created_at": 1770040053562,
         "locale": "id"
+      },
+      {
+        "id": "kw_e001986d-0000-4f32-aa38-e873ec81cf6b",
+        "keyword": "Kumpulan Gitar Idgitaf -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365773,
+        "created_at": 1770040365773,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d2b7801f-378f-48bc-b8b1-5dab27141e7a",
+        "keyword": "Kumpulan Gitar Dini Chan -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365774,
+        "created_at": 1770040365774,
+        "locale": "id"
       }
     ],
     "p": [
@@ -7287,6 +7375,17 @@
         "clicks": 0,
         "last_search": 1770037623821,
         "created_at": 1770037623821,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eb29f623-769e-4d08-a1f0-6b1d53b9d589",
+        "keyword": "Penawar Atiku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365774,
+        "created_at": 1770040365774,
         "locale": "id"
       }
     ],
@@ -8907,6 +9006,39 @@
         "last_search": 1770037595683,
         "created_at": 1770037595683,
         "locale": "id"
+      },
+      {
+        "id": "kw_68f83c71-9b45-4f2d-ad01-4a592a94119d",
+        "keyword": "Motif Band - Mengapa Kau Pergi ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365773,
+        "created_at": 1770040365773,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b45d14a5-840b-48ca-a214-664e569cc34c",
+        "keyword": "Motif Band",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365773,
+        "created_at": 1770040365773,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6b4e1be0-80ad-4433-811f-e80f9192594b",
+        "keyword": "Mengapa Kau Pergi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365773,
+        "created_at": 1770040365773,
+        "locale": "id"
       }
     ],
     "h": [
@@ -9579,6 +9711,28 @@
         "clicks": 0,
         "last_search": 1770037623820,
         "created_at": 1770037623820,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e32aa487-0458-48da-93d9-5cf54fd58a93",
+        "keyword": "Hujan Gerimis Aje - Benyamin Sueb",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365773,
+        "created_at": 1770040365773,
+        "locale": "id"
+      },
+      {
+        "id": "kw_07e452b2-8e1e-47a7-a21a-b248d9c3e5aa",
+        "keyword": "Hujan Gerimis Aje",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365773,
+        "created_at": 1770040365773,
         "locale": "id"
       }
     ],
@@ -14130,6 +14284,17 @@
         "clicks": 0,
         "last_search": 1770036697200,
         "created_at": 1770036697200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_949dd49b-712f-40e0-a669-64ec4176f16c",
+        "keyword": "Benyamin Sueb",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365773,
+        "created_at": 1770040365773,
         "locale": "id"
       }
     ],
@@ -23649,6 +23814,39 @@
         "last_search": 1770037623820,
         "created_at": 1770037623820,
         "locale": "id"
+      },
+      {
+        "id": "kw_4d99d14b-93aa-4a14-8d37-c76a033fd381",
+        "keyword": "Sedia Aku Sebelum Hujan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365773,
+        "created_at": 1770040365773,
+        "locale": "id"
+      },
+      {
+        "id": "kw_48859ff1-c093-41f3-b420-734cfb15674d",
+        "keyword": "Sedia Aku Sebelum Hujan Datang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365773,
+        "created_at": 1770040365773,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9105ab75-2aed-42a5-bcd1-8b752547781c",
+        "keyword": "Satu-Satu -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365774,
+        "created_at": 1770040365774,
+        "locale": "id"
       }
     ],
     "y": [
@@ -24908,6 +25106,39 @@
         "clicks": 0,
         "last_search": 1770037595683,
         "created_at": 1770037595683,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fc6d3bab-086c-48a7-b235-65620c53eb91",
+        "keyword": "Idgitaf - Sedia Aku Sebelum Hujan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365773,
+        "created_at": 1770040365773,
+        "locale": "id"
+      },
+      {
+        "id": "kw_acd3a822-3c54-4b31-9fe2-b439bca53e6e",
+        "keyword": "Idgitaf",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365773,
+        "created_at": 1770040365773,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b037e066-610b-4f1f-ba2b-7593af120f6e",
+        "keyword": "Idgitaf - Satu-Satu -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040365774,
+        "created_at": 1770040365774,
         "locale": "id"
       }
     ],
