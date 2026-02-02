@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770039714310,
+    "last_updated": 1770040053581,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2673,6 +2673,28 @@
         "last_search": 1770037623821,
         "created_at": 1770037623821,
         "locale": "id"
+      },
+      {
+        "id": "kw_2024bb20-90b3-4284-8513-626e095251e5",
+        "keyword": "Difki Khalif - Lamunan Di Kota Itu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040053562,
+        "created_at": 1770040053562,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b30394a1-5610-475b-b7ce-af4c43d7359b",
+        "keyword": "Difki Khalif",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040053563,
+        "created_at": 1770040053563,
+        "locale": "id"
       }
     ],
     "l": [
@@ -3484,10 +3506,32 @@
         "keyword": "Lamunan -",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1770040053561,
+        "created_at": 1770036109479,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3f3d87a5-a08f-4dd3-b806-e4815fb80807",
+        "keyword": "Larut Dalam Lamunan",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1770036109479,
-        "created_at": 1770036109479,
+        "last_search": 1770040053562,
+        "created_at": 1770040053562,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cef58d8b-9296-4f77-9b29-48783e65cc86",
+        "keyword": "Lamunan Di Kota Itu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040053563,
+        "created_at": 1770040053563,
         "locale": "id"
       }
     ],
@@ -5840,9 +5884,9 @@
         "keyword": "Ku Puja Puja",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770036697200,
+        "last_search": 1770040053562,
         "created_at": 1770036697200,
         "locale": "id"
       },
@@ -5866,6 +5910,17 @@
         "clicks": 0,
         "last_search": 1770037623821,
         "created_at": 1770037623821,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b3fc30f3-0180-4a6f-ae57-20ed4bc9bb9c",
+        "keyword": "Kapalang Nyaah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040053562,
+        "created_at": 1770040053562,
         "locale": "id"
       }
     ],
@@ -11649,9 +11704,9 @@
         "keyword": "Nella Kharisma",
         "tags": [],
         "weight": 1,
-        "impressions": 11,
+        "impressions": 12,
         "clicks": 0,
-        "last_search": 1770036697200,
+        "last_search": 1770040053562,
         "created_at": 1769428790060,
         "locale": "id"
       },
@@ -13090,9 +13145,9 @@
         "keyword": "Nella Kharisma - Ku Puja Puja",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770036697200,
+        "last_search": 1770040053562,
         "created_at": 1770036697200,
         "locale": "id"
       },
@@ -15585,6 +15640,28 @@
         "last_search": 1770037623821,
         "created_at": 1770037623821,
         "locale": "id"
+      },
+      {
+        "id": "kw_763a783e-b90f-4ef9-8035-49f8a500dc24",
+        "keyword": "Thomas Arya feat. Yelse - Larut Dalam Lamunan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040053562,
+        "created_at": 1770040053562,
+        "locale": "id"
+      },
+      {
+        "id": "kw_34e61f06-118c-42d9-909e-0885fd1fe645",
+        "keyword": "Thomas Arya feat. Yelse",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040053562,
+        "created_at": 1770040053562,
+        "locale": "id"
       }
     ],
     "e": [
@@ -16115,6 +16192,39 @@
         "last_search": 1770037595683,
         "created_at": 1770037595683,
         "locale": "id"
+      },
+      {
+        "id": "kw_5da7edd0-31e4-404a-b13d-8da3d103ff2b",
+        "keyword": "Engkang -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040053562,
+        "created_at": 1770040053562,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6510fbc1-7c24-4396-8179-b3813769053d",
+        "keyword": "Eni Mulyasari - Engkang -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040053562,
+        "created_at": 1770040053562,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4dac3092-5c7d-41dc-8b6d-a3aa1d15bdc4",
+        "keyword": "Eni Mulyasari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040053562,
+        "created_at": 1770040053562,
+        "locale": "id"
       }
     ],
     "w": [
@@ -16189,9 +16299,9 @@
         "keyword": "Wahyu F Giri",
         "tags": [],
         "weight": 1,
-        "impressions": 12,
+        "impressions": 13,
         "clicks": 0,
-        "last_search": 1770036109479,
+        "last_search": 1770040053561,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -16816,9 +16926,9 @@
         "keyword": "Wahyu F Giri - Lamunan -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770036109479,
+        "last_search": 1770040053561,
         "created_at": 1770036109479,
         "locale": "id"
       },
@@ -17964,9 +18074,9 @@
         "keyword": "Abiel Jatnika",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407810239,
+        "last_search": 1770040053562,
         "created_at": 1769407810239,
         "locale": "id"
       },
@@ -19816,6 +19926,72 @@
         "clicks": 0,
         "last_search": 1770037623821,
         "created_at": 1770037623821,
+        "locale": "id"
+      },
+      {
+        "id": "kw_05c1e1c7-6147-466a-ba91-2f095c0e9374",
+        "keyword": "Azmy Z - Engkang -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040053561,
+        "created_at": 1770040053561,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a10c10e7-fd52-4314-842f-59450c1eaddf",
+        "keyword": "Azmy Z",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040053562,
+        "created_at": 1770040053561,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4829295c-c9e0-4490-b15a-5a60f8204329",
+        "keyword": "Andika Mahesa ft. Dodhy Kangen Band -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040053562,
+        "created_at": 1770040053562,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ab5ba4f8-c4bb-4346-8e56-6fe8bec85b20",
+        "keyword": "ARWANA - Lamunan -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040053562,
+        "created_at": 1770040053562,
+        "locale": "id"
+      },
+      {
+        "id": "kw_64c1aeea-9ca3-47c4-aa8f-70035fd263c2",
+        "keyword": "ARWANA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040053562,
+        "created_at": 1770040053562,
+        "locale": "id"
+      },
+      {
+        "id": "kw_22b8208d-f083-4ffe-aebd-52447ed5a764",
+        "keyword": "Abiel Jatnika - Kapalang Nyaah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040053562,
+        "created_at": 1770040053562,
         "locale": "id"
       }
     ],
@@ -23727,6 +23903,28 @@
         "clicks": 0,
         "last_search": 1769912332424,
         "created_at": 1769912332424,
+        "locale": "id"
+      },
+      {
+        "id": "kw_534a9219-2cc5-489c-9454-3731464bd3ee",
+        "keyword": "Yayan Jatnika - Lamunan -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040053562,
+        "created_at": 1770040053562,
+        "locale": "id"
+      },
+      {
+        "id": "kw_84883f56-79f3-40c8-8745-9793c487b7e6",
+        "keyword": "Yayan Jatnika",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040053562,
+        "created_at": 1770040053562,
         "locale": "id"
       }
     ],
