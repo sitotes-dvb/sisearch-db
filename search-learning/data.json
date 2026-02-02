@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770047692140,
+    "last_updated": 1770048909432,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -446,9 +446,9 @@
         "keyword": "Denny Caknan feat. Guyon Waton - Widodari",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769945375657,
+        "last_search": 1770048909404,
         "created_at": 1769397199479,
         "locale": "id"
       },
@@ -457,9 +457,9 @@
         "keyword": "Denny Caknan feat. Guyon Waton",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769945375657,
+        "last_search": 1770048909404,
         "created_at": 1769397199479,
         "locale": "id"
       },
@@ -963,9 +963,9 @@
         "keyword": "DENOK",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770039714292,
+        "last_search": 1770048909405,
         "created_at": 1769409730861,
         "locale": "id"
       },
@@ -2294,9 +2294,9 @@
         "keyword": "DENOK - Cindi Cintya feat Sadewok",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770039714292,
+        "last_search": 1770048909405,
         "created_at": 1769876218021,
         "locale": "id"
       },
@@ -6313,9 +6313,9 @@
         "keyword": "Kancani Uripku",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770047304989,
+        "last_search": 1770048909406,
         "created_at": 1770047295522,
         "locale": "id"
       },
@@ -6328,6 +6328,17 @@
         "clicks": 0,
         "last_search": 1770047304989,
         "created_at": 1770047295523,
+        "locale": "id"
+      },
+      {
+        "id": "kw_460cbddf-7edd-4310-82b3-7f89e50c5c66",
+        "keyword": "Kang Herry Ft Citra Marcellina",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
         "locale": "id"
       }
     ],
@@ -7738,6 +7749,17 @@
         "clicks": 0,
         "last_search": 1770046454639,
         "created_at": 1770046454639,
+        "locale": "id"
+      },
+      {
+        "id": "kw_02c7dd17-7402-456b-8fca-fc90effb5c09",
+        "keyword": "Pratitasari -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
         "locale": "id"
       }
     ],
@@ -9446,6 +9468,17 @@
         "last_search": 1770046454640,
         "created_at": 1770046454640,
         "locale": "id"
+      },
+      {
+        "id": "kw_435b1013-9c9b-4636-82a2-458d956acbf7",
+        "keyword": "MADEP NGAREP",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
+        "locale": "id"
       }
     ],
     "h": [
@@ -10140,6 +10173,17 @@
         "clicks": 0,
         "last_search": 1770040365773,
         "created_at": 1770040365773,
+        "locale": "id"
+      },
+      {
+        "id": "kw_02e705d5-e149-4b5c-97b2-bc06448786f6",
+        "keyword": "Hepi Endinge (Ora",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
         "locale": "id"
       }
     ],
@@ -13893,9 +13937,9 @@
         "keyword": "Nabila Maharani ft Tri Suaka - Kancani Uripku ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770047304989,
+        "last_search": 1770048909405,
         "created_at": 1770047295522,
         "locale": "id"
       },
@@ -13904,9 +13948,9 @@
         "keyword": "Nabila Maharani ft Tri Suaka",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770047304989,
+        "last_search": 1770048909405,
         "created_at": 1770047295522,
         "locale": "id"
       },
@@ -13930,6 +13974,28 @@
         "clicks": 0,
         "last_search": 1770047304989,
         "created_at": 1770047295522,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cbd08557-9bed-4b8e-8404-ddee0abd44be",
+        "keyword": "Ndarboy Genk feat. Denny Caknan - Rungokno Aku ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909404,
+        "created_at": 1770048909404,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d0cf50b0-07eb-458a-895a-aa2cdff3cefd",
+        "keyword": "Ndarboy Genk feat. Denny Caknan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909404,
         "locale": "id"
       }
     ],
@@ -14922,6 +14988,28 @@
         "clicks": 0,
         "last_search": 1770042114176,
         "created_at": 1770042114176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_61f74a3f-d546-4f0f-b452-fb97c063f124",
+        "keyword": "Bidadari Hatiku - Kang Herry Ft Citra Marcellina ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4303ef3d-ce3c-4c33-bc51-908505144d7f",
+        "keyword": "Bidadari Hatiku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
         "locale": "id"
       }
     ],
@@ -16564,6 +16652,28 @@
         "last_search": 1770047304989,
         "created_at": 1770047295522,
         "locale": "id"
+      },
+      {
+        "id": "kw_c6b73bc0-111d-4324-b0e3-0b2ff2cb6910",
+        "keyword": "True Tama - Widodari Weleri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4ef123d1-3849-4b71-a9c6-8da3d7af5b0e",
+        "keyword": "True Tama",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
+        "locale": "id"
       }
     ],
     "e": [
@@ -17212,9 +17322,9 @@
         "keyword": "Widodari",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769945375657,
+        "last_search": 1770048909404,
         "created_at": 1769397199479,
         "locale": "id"
       },
@@ -17866,6 +17976,28 @@
         "last_search": 1770047304989,
         "created_at": 1770047013597,
         "locale": "id"
+      },
+      {
+        "id": "kw_c240d2cc-a6f7-4ccf-ba32-a0308c901bba",
+        "keyword": "Widodari Weleri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_23920364-f860-46a6-bb85-afd81a51f203",
+        "keyword": "Widodoro Swargaku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
+        "locale": "id"
       }
     ],
     "c": [
@@ -18094,9 +18226,9 @@
         "keyword": "Cindi Cintya feat Sadewok",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770039714292,
+        "last_search": 1770048909405,
         "created_at": 1769409730861,
         "locale": "id"
       },
@@ -21942,6 +22074,17 @@
         "last_search": 1770046454640,
         "created_at": 1770046454640,
         "locale": "id"
+      },
+      {
+        "id": "kw_c34d3b15-dd8e-4cd5-b9e0-5b9cd7f00678",
+        "keyword": "Rungokno Aku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
+        "locale": "id"
       }
     ],
     "s": [
@@ -24936,6 +25079,50 @@
         "last_search": 1770047304989,
         "created_at": 1770047295509,
         "locale": "id"
+      },
+      {
+        "id": "kw_d0ac79cb-4ae7-4d9b-a4d8-2d1a11a8d03b",
+        "keyword": "Sasya Arkhisna - Widodoro Swargaku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f47d6204-7801-477a-87c5-8e859b3f2295",
+        "keyword": "Sasya Arkhisna",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_aeb27ed7-ed80-481e-b330-871a1bd73fbb",
+        "keyword": "Sandewo - Pratitasari -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2587fa90-6943-46a2-9423-505493b67922",
+        "keyword": "Sandewo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
+        "locale": "id"
       }
     ],
     "y": [
@@ -25731,6 +25918,50 @@
         "clicks": 0,
         "last_search": 1770042282130,
         "created_at": 1770042282130,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c66bde6d-84fe-45a3-9856-2f0bb54620ee",
+        "keyword": "Fahri Djaelani & Putri Andien - Hepi Endinge (Ora ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_09619f81-70ab-41c8-961f-dd93bf16c8c2",
+        "keyword": "Fahri Djaelani & Putri Andien",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1cb4f1d6-21e8-41d5-949b-8a7cdd6e9a95",
+        "keyword": "FEROLEN BAND - MADEP NGAREP",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6d7ba382-d4d6-49bc-b6e4-5abea908a64b",
+        "keyword": "FEROLEN BAND",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770048909405,
+        "created_at": 1770048909405,
         "locale": "id"
       }
     ],
