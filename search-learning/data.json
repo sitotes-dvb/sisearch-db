@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770036109497,
+    "last_updated": 1770036697218,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -248,9 +248,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 47,
+        "impressions": 48,
         "clicks": 0,
-        "last_search": 1770036109479,
+        "last_search": 1770036697200,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -2618,6 +2618,17 @@
         "last_search": 1770036109479,
         "created_at": 1770036109479,
         "locale": "id"
+      },
+      {
+        "id": "kw_7b15b91d-cbce-4a36-b664-9f1def898c2a",
+        "keyword": "Denny Caknan - Titipane Gusti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036697200,
+        "created_at": 1770036697200,
+        "locale": "id"
       }
     ],
     "l": [
@@ -3684,9 +3695,9 @@
         "keyword": "KISINAN",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770036109478,
+        "last_search": 1770036697199,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -5554,9 +5565,9 @@
         "keyword": "KISINAN - Masdddho -",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770036109478,
+        "last_search": 1770036697199,
         "created_at": 1769878591057,
         "locale": "id"
       },
@@ -5778,6 +5789,17 @@
         "clicks": 0,
         "last_search": 1770036109478,
         "created_at": 1770036109478,
+        "locale": "id"
+      },
+      {
+        "id": "kw_92d92033-cf43-4b9f-bef6-84dec786667d",
+        "keyword": "Ku Puja Puja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036697200,
+        "created_at": 1770036697200,
         "locale": "id"
       }
     ],
@@ -6040,9 +6062,9 @@
         "keyword": "Pelampiasan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769883135960,
+        "last_search": 1770036697199,
         "created_at": 1769408177176,
         "locale": "id"
       },
@@ -6051,9 +6073,9 @@
         "keyword": "Pelampiasan 2 - Nayla Fardila Feat Jasun Marju ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769883135960,
+        "last_search": 1770036697199,
         "created_at": 1769408177176,
         "locale": "id"
       },
@@ -6062,9 +6084,9 @@
         "keyword": "Pelampiasan 2",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769883135960,
+        "last_search": 1770036697199,
         "created_at": 1769408177176,
         "locale": "id"
       },
@@ -7067,6 +7089,50 @@
         "clicks": 0,
         "last_search": 1770036109479,
         "created_at": 1770036109479,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b7ffc255-feeb-4449-add2-01326a00071b",
+        "keyword": "Pelampiasan Cintamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036697200,
+        "created_at": 1770036697200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_168879d8-389a-408f-89d2-163c20edfdd3",
+        "keyword": "PELAMPIASAN feat. Jembo, Thommy",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036697200,
+        "created_at": 1770036697200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_44c1d882-0d4b-44b5-b3f2-af21382f2463",
+        "keyword": "Pasrah -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036697200,
+        "created_at": 1770036697200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f8b0b59f-c769-44dc-a3dc-a02f604eef66",
+        "keyword": "Pelampiasan Ati -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036697200,
+        "created_at": 1770036697200,
         "locale": "id"
       }
     ],
@@ -8495,9 +8561,9 @@
         "keyword": "Masdddho -",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770036109478,
+        "last_search": 1770036697199,
         "created_at": 1769878591057,
         "locale": "id"
       },
@@ -9293,6 +9359,28 @@
         "clicks": 0,
         "last_search": 1770035176661,
         "created_at": 1770035176661,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5a957f5f-8705-44b1-a590-74677a1a58dc",
+        "keyword": "Hanriisan - Pelampiasan Ati -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036697200,
+        "created_at": 1770036697200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_16a42b1b-975f-4d28-9f79-4ecfcadf9eb8",
+        "keyword": "Hanriisan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036697200,
+        "created_at": 1770036697200,
         "locale": "id"
       }
     ],
@@ -10824,9 +10912,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 29,
+        "impressions": 30,
         "clicks": 0,
-        "last_search": 1770036109479,
+        "last_search": 1770036697200,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -11297,9 +11385,9 @@
         "keyword": "Nayla Fardila",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769883135960,
+        "last_search": 1770036697199,
         "created_at": 1769408177175,
         "locale": "id"
       },
@@ -11330,9 +11418,9 @@
         "keyword": "Nayla Fardila Feat Jasun Marju",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769883135960,
+        "last_search": 1770036697199,
         "created_at": 1769408177176,
         "locale": "id"
       },
@@ -11396,9 +11484,9 @@
         "keyword": "Nella Kharisma",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1769944974622,
+        "last_search": 1770036697200,
         "created_at": 1769428790060,
         "locale": "id"
       },
@@ -12738,9 +12826,9 @@
         "keyword": "Nayla Fardila - Pelampiasan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769883135960,
+        "last_search": 1770036697199,
         "created_at": 1769883135960,
         "locale": "id"
       },
@@ -12819,6 +12907,28 @@
         "clicks": 0,
         "last_search": 1770035176662,
         "created_at": 1770035176662,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4a8151fc-224a-4092-b167-881728670e41",
+        "keyword": "NDX AKA - Pasrah -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036697200,
+        "created_at": 1770036697200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_58fe1c03-fa19-4b36-9bb9-21278941d57e",
+        "keyword": "Nella Kharisma - Ku Puja Puja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036697200,
+        "created_at": 1770036697200,
         "locale": "id"
       }
     ],
@@ -13734,6 +13844,50 @@
         "clicks": 0,
         "last_search": 1770026601865,
         "created_at": 1770026601865,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7a1a5aba-15dc-49b4-96db-6e42ff4fd495",
+        "keyword": "Butterfly - Pelampiasan Cintamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036697199,
+        "created_at": 1770036697199,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ad6c2708-a5d0-4e90-9696-95f69961f06f",
+        "keyword": "Butterfly",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036697200,
+        "created_at": 1770036697199,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6e4f86f3-7bd6-4e13-a568-2f74e6a74a54",
+        "keyword": "Bobby Colombo - PELAMPIASAN feat. Jembo, Thommy ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036697200,
+        "created_at": 1770036697200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6d4ec762-c746-44e8-854c-4df98f6c25d9",
+        "keyword": "Bobby Colombo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036697200,
+        "created_at": 1770036697200,
         "locale": "id"
       }
     ],
@@ -14931,9 +15085,9 @@
         "keyword": "TTM Akustik Ft. Putri Andien - Cerito Loro",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769795317318,
+        "last_search": 1770036697200,
         "created_at": 1769795317318,
         "locale": "id"
       },
@@ -14942,9 +15096,9 @@
         "keyword": "TTM Akustik Ft. Putri Andien",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769795317318,
+        "last_search": 1770036697200,
         "created_at": 1769795317318,
         "locale": "id"
       },
@@ -15045,6 +15199,17 @@
         "clicks": 0,
         "last_search": 1769945385106,
         "created_at": 1769945385106,
+        "locale": "id"
+      },
+      {
+        "id": "kw_36754790-ee3e-491d-af27-c7e8e3b9920e",
+        "keyword": "Titipane Gusti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036697200,
+        "created_at": 1770036697200,
         "locale": "id"
       }
     ],
@@ -16906,9 +17071,9 @@
         "keyword": "Cerito Loro",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769795317318,
+        "last_search": 1770036697200,
         "created_at": 1769795317318,
         "locale": "id"
       },
