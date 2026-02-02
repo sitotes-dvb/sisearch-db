@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770042282187,
+    "last_updated": 1770044302995,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2838,6 +2838,17 @@
         "last_search": 1770042282130,
         "created_at": 1770042282130,
         "locale": "id"
+      },
+      {
+        "id": "kw_d3e8634a-2982-4078-8309-1e182398f378",
+        "keyword": "Daftar Koleksi / Ena Vika",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770044302973,
+        "created_at": 1770044302972,
+        "locale": "id"
       }
     ],
     "l": [
@@ -2890,9 +2901,9 @@
         "keyword": "LAVORA Ft Ena Vika",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769878591070,
+        "last_search": 1770044302972,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -3011,9 +3022,9 @@
         "keyword": "LAVORA",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769762224447,
+        "last_search": 1770044302972,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -3099,9 +3110,9 @@
         "keyword": "LAVORA Ft Ratih SDE",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769672111093,
+        "last_search": 1770044302972,
         "created_at": 1769410290383,
         "locale": "id"
       },
@@ -3352,9 +3363,9 @@
         "keyword": "LAVORA - Akhire Bali -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769672111093,
+        "last_search": 1770044302972,
         "created_at": 1769672111093,
         "locale": "id"
       },
@@ -3363,9 +3374,9 @@
         "keyword": "LAVORA Ft Ratih SDE - Ora Ngemis Bali",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769672111093,
+        "last_search": 1770044302972,
         "created_at": 1769672111093,
         "locale": "id"
       },
@@ -3686,6 +3697,17 @@
         "clicks": 0,
         "last_search": 1770040949657,
         "created_at": 1770040949657,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7d39df54-5c90-427f-a2ea-2028a3fb164b",
+        "keyword": "LAVORA - Pengen Bali -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770044302972,
+        "created_at": 1770044302972,
         "locale": "id"
       }
     ],
@@ -4872,9 +4894,9 @@
         "keyword": "Kumpulan Gitar LAVORA -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769672111093,
+        "last_search": 1770044302972,
         "created_at": 1769672111093,
         "locale": "id"
       },
@@ -6027,9 +6049,9 @@
         "keyword": "Kisinan 2 -",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770036746351,
+        "last_search": 1770044302972,
         "created_at": 1770036109478,
         "locale": "id"
       },
@@ -7541,6 +7563,17 @@
         "last_search": 1770040949657,
         "created_at": 1770040949657,
         "locale": "id"
+      },
+      {
+        "id": "kw_0474a1a0-077a-439a-b8af-fff30e5acb0b",
+        "keyword": "Pengen Bali -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770044302972,
+        "created_at": 1770044302972,
+        "locale": "id"
       }
     ],
     "m": [
@@ -7615,9 +7648,9 @@
         "keyword": "Masdddho",
         "tags": [],
         "weight": 1,
-        "impressions": 20,
+        "impressions": 21,
         "clicks": 0,
-        "last_search": 1770036746351,
+        "last_search": 1770044302972,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -9122,9 +9155,9 @@
         "keyword": "Masdddho - Kisinan 2 -",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770036746351,
+        "last_search": 1770044302972,
         "created_at": 1770036109478,
         "locale": "id"
       },
@@ -11891,9 +11924,9 @@
         "keyword": "Northsle Ft Agiff",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1770037215977,
+        "last_search": 1770044302972,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -14898,9 +14931,9 @@
         "keyword": "Tresno Liyane",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1770037215977,
+        "last_search": 1770044302972,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -15404,9 +15437,9 @@
         "keyword": "Tresno Liyane - Northsle Ft Agiff",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770037215977,
+        "last_search": 1770044302972,
         "created_at": 1769672111094,
         "locale": "id"
       },
@@ -19603,9 +19636,9 @@
         "keyword": "Akhire Bali -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769672111093,
+        "last_search": 1770044302972,
         "created_at": 1769672111093,
         "locale": "id"
       },
@@ -20595,9 +20628,9 @@
         "keyword": "Rasah Bali - LAVORA Ft Ena Vika",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769878591070,
+        "last_search": 1770044302972,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -20606,9 +20639,9 @@
         "keyword": "Rasah Bali",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769878591070,
+        "last_search": 1770044302972,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -21222,9 +21255,9 @@
         "keyword": "Rasah Bali 2 - LAVORA Ft Ena Vika",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769672111093,
+        "last_search": 1770044302972,
         "created_at": 1769672111093,
         "locale": "id"
       },
@@ -21233,9 +21266,9 @@
         "keyword": "Rasah Bali 2",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769672111093,
+        "last_search": 1770044302972,
         "created_at": 1769672111093,
         "locale": "id"
       },
@@ -25874,9 +25907,9 @@
         "keyword": "Ora Ngemis Bali",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769672111093,
+        "last_search": 1770044302972,
         "created_at": 1769410290383,
         "locale": "id"
       },
@@ -26006,9 +26039,9 @@
         "keyword": "Ora Ngemis Bali -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769672111093,
+        "last_search": 1770044302972,
         "created_at": 1769672111093,
         "locale": "id"
       },
@@ -26206,9 +26239,9 @@
         "keyword": "Xaluna - Ora Ngemis Bali -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769672111093,
+        "last_search": 1770044302972,
         "created_at": 1769672111093,
         "locale": "id"
       },
@@ -26217,9 +26250,9 @@
         "keyword": "Xaluna",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769672111093,
+        "last_search": 1770044302972,
         "created_at": 1769672111093,
         "locale": "id"
       },
