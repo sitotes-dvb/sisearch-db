@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770049426043,
+    "last_updated": 1770051864890,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2914,6 +2914,17 @@
         "clicks": 0,
         "last_search": 1770049426026,
         "created_at": 1770049414835,
+        "locale": "id"
+      },
+      {
+        "id": "kw_58bcad97-a693-41b8-b549-f500ca268d4c",
+        "keyword": "Daftar Koleksi / Vierratale -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770051864855,
+        "created_at": 1770051864855,
         "locale": "id"
       }
     ],
@@ -6373,6 +6384,17 @@
         "last_search": 1770048918123,
         "created_at": 1770048909405,
         "locale": "id"
+      },
+      {
+        "id": "kw_8527d1d2-255c-46cf-9c39-f4b9bff0dce7",
+        "keyword": "Kita Bicara -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770051864869,
+        "created_at": 1770051864868,
+        "locale": "id"
       }
     ],
     "p": [
@@ -6722,9 +6744,9 @@
         "keyword": "Pertemuan Singkat",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864855,
         "created_at": 1769430306099,
         "locale": "id"
       },
@@ -7602,9 +7624,9 @@
         "keyword": "Pertemuan Singkat - Vierratale",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864855,
         "created_at": 1769945385106,
         "locale": "id"
       },
@@ -12441,9 +12463,9 @@
         "keyword": "NARA",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864855,
         "created_at": 1769430306099,
         "locale": "id"
       },
@@ -12463,9 +12485,9 @@
         "keyword": "Nosstress",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864856,
         "created_at": 1769430306099,
         "locale": "id"
       },
@@ -14030,6 +14052,28 @@
         "last_search": 1770048918123,
         "created_at": 1770048909404,
         "locale": "id"
+      },
+      {
+        "id": "kw_942c3912-3adf-4d9c-8e57-2bde54b49820",
+        "keyword": "NARA - Sayonara -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770051864855,
+        "created_at": 1770051864855,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ab193e00-78d6-4c18-a138-acdd72061a71",
+        "keyword": "Nosstress - Kita Bicara -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770051864856,
+        "created_at": 1770051864855,
+        "locale": "id"
       }
     ],
     "b": [
@@ -15492,9 +15536,9 @@
         "keyword": "Tinky Winky - FIX YOU !",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864855,
         "created_at": 1769430306099,
         "locale": "id"
       },
@@ -15503,9 +15547,9 @@
         "keyword": "Tinky Winky",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864855,
         "created_at": 1769430306099,
         "locale": "id"
       },
@@ -16350,9 +16394,9 @@
         "keyword": "Tamu -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864855,
         "created_at": 1769945385106,
         "locale": "id"
       },
@@ -16706,6 +16750,17 @@
         "clicks": 0,
         "last_search": 1770048918123,
         "created_at": 1770048909405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_89f8e9eb-258e-40fc-b5b9-d80643ba1ab9",
+        "keyword": "Tatap Mata -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770051864855,
+        "created_at": 1770051864855,
         "locale": "id"
       }
     ],
@@ -19592,9 +19647,9 @@
         "keyword": "Arvian Dwi",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864855,
         "created_at": 1769430306099,
         "locale": "id"
       },
@@ -21159,6 +21214,28 @@
         "last_search": 1770047304989,
         "created_at": 1770047295508,
         "locale": "id"
+      },
+      {
+        "id": "kw_96a95b77-15c4-4598-9438-97750cc08de3",
+        "keyword": "Arvian Dwi - Ajarkan Aku -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770051864855,
+        "created_at": 1770051864855,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e3b16587-8a43-4579-8881-0aa847516854",
+        "keyword": "Ajarkan Aku -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770051864855,
+        "created_at": 1770051864855,
+        "locale": "id"
       }
     ],
     "r": [
@@ -22478,9 +22555,9 @@
         "keyword": "Stand Here Alone",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864855,
         "created_at": 1769407471814,
         "locale": "id"
       },
@@ -23006,9 +23083,9 @@
         "keyword": "Satine Zaneta",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864855,
         "created_at": 1769430306099,
         "locale": "id"
       },
@@ -23028,9 +23105,9 @@
         "keyword": "Sosok Sempurna",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864855,
         "created_at": 1769430306099,
         "locale": "id"
       },
@@ -23039,9 +23116,9 @@
         "keyword": "Sore Itu",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864855,
         "created_at": 1769430306099,
         "locale": "id"
       },
@@ -23072,9 +23149,9 @@
         "keyword": "Shakirra Vier",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864855,
         "created_at": 1769430306099,
         "locale": "id"
       },
@@ -24711,9 +24788,9 @@
         "keyword": "Satine Zaneta - Tamu -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864855,
         "created_at": 1769945385106,
         "locale": "id"
       },
@@ -24722,9 +24799,9 @@
         "keyword": "Stand Here Alone - Sosok Sempurna",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864855,
         "created_at": 1769945385106,
         "locale": "id"
       },
@@ -25155,6 +25232,28 @@
         "clicks": 0,
         "last_search": 1770048918123,
         "created_at": 1770048909405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e059148d-7762-445a-8514-81d13925c47a",
+        "keyword": "Sayonara -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770051864855,
+        "created_at": 1770051864855,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b5e246fe-5918-4690-913d-873e6aa2d42b",
+        "keyword": "Shakirra Vier - Tatap Mata -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770051864855,
+        "created_at": 1770051864855,
         "locale": "id"
       }
     ],
@@ -25716,9 +25815,9 @@
         "keyword": "FIX YOU !",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864855,
         "created_at": 1769430306099,
         "locale": "id"
       },
@@ -27143,9 +27242,9 @@
         "keyword": "Vierratale",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864855,
         "created_at": 1769430306099,
         "locale": "id"
       },
@@ -27154,9 +27253,9 @@
         "keyword": "Vagetoz - Sore Itu",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864855,
         "created_at": 1769430306099,
         "locale": "id"
       },
@@ -27165,9 +27264,9 @@
         "keyword": "Vagetoz",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769945385106,
+        "last_search": 1770051864855,
         "created_at": 1769430306099,
         "locale": "id"
       },
