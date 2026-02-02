@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770036697218,
+    "last_updated": 1770036746411,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -248,9 +248,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 48,
+        "impressions": 49,
         "clicks": 0,
-        "last_search": 1770036697200,
+        "last_search": 1770036746351,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -2613,9 +2613,9 @@
         "keyword": "Denny Caknan - Wirang -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770036109479,
+        "last_search": 1770036746351,
         "created_at": 1770036109479,
         "locale": "id"
       },
@@ -2628,6 +2628,17 @@
         "clicks": 0,
         "last_search": 1770036697200,
         "created_at": 1770036697200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e0c923e4-98b3-4749-8214-f41b29e78f0e",
+        "keyword": "Daftar Koleksi / GuyonWaton -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036746351,
+        "created_at": 1770036746351,
         "locale": "id"
       }
     ],
@@ -4256,9 +4267,9 @@
         "keyword": "Korban Janji",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769795317317,
+        "last_search": 1770036746351,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -5785,9 +5796,9 @@
         "keyword": "Kisinan 2 -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770036109478,
+        "last_search": 1770036746351,
         "created_at": 1770036109478,
         "locale": "id"
       },
@@ -7085,9 +7096,9 @@
         "keyword": "Pelanggaran -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770036109479,
+        "last_search": 1770036746351,
         "created_at": 1770036109479,
         "locale": "id"
       },
@@ -7208,9 +7219,9 @@
         "keyword": "Masdddho",
         "tags": [],
         "weight": 1,
-        "impressions": 19,
+        "impressions": 20,
         "clicks": 0,
-        "last_search": 1770036109478,
+        "last_search": 1770036746351,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -8715,9 +8726,9 @@
         "keyword": "Masdddho - Kisinan 2 -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770036109478,
+        "last_search": 1770036746351,
         "created_at": 1770036109478,
         "locale": "id"
       }
@@ -10294,9 +10305,9 @@
         "keyword": "GuyonWaton",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1770036109479,
+        "last_search": 1770036746351,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -10756,10 +10767,32 @@
         "keyword": "GuyonWaton - Pelanggaran -",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1770036746351,
+        "created_at": 1770036109479,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d4fa02f2-07e4-4a63-9d81-b8001856cfb8",
+        "keyword": "Gathel -",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1770036109479,
-        "created_at": 1770036109479,
+        "last_search": 1770036746351,
+        "created_at": 1770036746351,
+        "locale": "id"
+      },
+      {
+        "id": "kw_46cf7590-1864-4789-81c1-039a29735744",
+        "keyword": "Gampil -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036746352,
+        "created_at": 1770036746352,
         "locale": "id"
       }
     ],
@@ -10912,9 +10945,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 30,
+        "impressions": 31,
         "clicks": 0,
-        "last_search": 1770036697200,
+        "last_search": 1770036746351,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -11682,9 +11715,9 @@
         "keyword": "Ngatmombilung",
         "tags": [],
         "weight": 1,
-        "impressions": 12,
+        "impressions": 13,
         "clicks": 0,
-        "last_search": 1769878591070,
+        "last_search": 1770036746352,
         "created_at": 1769506971020,
         "locale": "id"
       },
@@ -12929,6 +12962,28 @@
         "clicks": 0,
         "last_search": 1770036697200,
         "created_at": 1770036697200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6101d775-210b-43e9-926f-3f5d42494a33",
+        "keyword": "NDX AKA - Gathel -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036746351,
+        "created_at": 1770036746351,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3bc57899-94f2-455d-9c9e-fda608a43d64",
+        "keyword": "Ngatmombilung - Gampil -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036746351,
+        "created_at": 1770036746351,
         "locale": "id"
       }
     ],
@@ -15274,9 +15329,9 @@
         "keyword": "Eny Sagita",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1769878163413,
+        "last_search": 1770036746351,
         "created_at": 1769407631223,
         "locale": "id"
       },
@@ -15648,9 +15703,9 @@
         "keyword": "Eny Sagita - Korban Janji",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769795317317,
+        "last_search": 1770036746351,
         "created_at": 1769795317305,
         "locale": "id"
       },
@@ -15707,6 +15762,17 @@
         "clicks": 0,
         "last_search": 1770026601864,
         "created_at": 1770026601864,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e93562e1-7e27-42ba-b433-dbbd65ba5fb0",
+        "keyword": "Eling Ae -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036746351,
+        "created_at": 1770036746351,
         "locale": "id"
       }
     ],
@@ -16398,9 +16464,9 @@
         "keyword": "Wirang -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770036109479,
+        "last_search": 1770036746351,
         "created_at": 1770036109479,
         "locale": "id"
       },
@@ -17590,9 +17656,9 @@
         "keyword": "Arya Galih",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769840985945,
+        "last_search": 1770036746351,
         "created_at": 1769407902838,
         "locale": "id"
       },
@@ -18184,9 +18250,9 @@
         "keyword": "AKD Band Feat Agung Pradanta, Icha",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1770036746351,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -19277,6 +19343,17 @@
         "clicks": 0,
         "last_search": 1770026601864,
         "created_at": 1770026601864,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8c110b3f-16d4-4f0b-a4a5-2590c7523515",
+        "keyword": "Arya Galih - Eling Ae -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770036746351,
+        "created_at": 1770036746351,
         "locale": "id"
       }
     ],
@@ -21444,9 +21521,9 @@
         "keyword": "SAKTENANE",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769703914633,
+        "last_search": 1770036746351,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -21455,9 +21532,9 @@
         "keyword": "Sadar Diri - AKD Band Feat Agung Pradanta, Icha ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1770036746351,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -21466,9 +21543,9 @@
         "keyword": "Sadar Diri",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769519200482,
+        "last_search": 1770036746351,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -24679,9 +24756,9 @@
         "keyword": "Vadesta Ft. Destya Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1769873931049,
+        "last_search": 1770036746351,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -24811,9 +24888,9 @@
         "keyword": "Vadesta Ft. Destya Eka - SAKTENANE",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769703914633,
+        "last_search": 1770036746351,
         "created_at": 1769703841678,
         "locale": "id"
       },
