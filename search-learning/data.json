@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770027468473,
+    "last_updated": 1770035176685,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2574,6 +2574,28 @@
         "last_search": 1770025486803,
         "created_at": 1770025486803,
         "locale": "id"
+      },
+      {
+        "id": "kw_d4a10ea5-0a6a-4262-a007-f1c209df3fbf",
+        "keyword": "Didi Kempot Feat. Diana Sastra - Remang Remang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770035176662,
+        "created_at": 1770035176662,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3950e430-930e-4f7c-a277-1f4f49c29b75",
+        "keyword": "Didi Kempot Feat. Diana Sastra",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770035176662,
+        "created_at": 1770035176662,
+        "locale": "id"
       }
     ],
     "l": [
@@ -3356,6 +3378,28 @@
         "clicks": 0,
         "last_search": 1770024031726,
         "created_at": 1770024031726,
+        "locale": "id"
+      },
+      {
+        "id": "kw_15e469d9-bb6d-4bbe-9725-02fbd3500cf0",
+        "keyword": "Lukman Richo - Pilangsari Ninggal Janji",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770035176662,
+        "created_at": 1770035176662,
+        "locale": "id"
+      },
+      {
+        "id": "kw_be430c94-5a9e-4fb5-89bd-41262e0d1fdb",
+        "keyword": "Lukman Richo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770035176662,
+        "created_at": 1770035176662,
         "locale": "id"
       }
     ],
@@ -5680,6 +5724,17 @@
         "last_search": 1770026601865,
         "created_at": 1770026601865,
         "locale": "id"
+      },
+      {
+        "id": "kw_84686552-20e9-40a3-a574-a007e72ab390",
+        "keyword": "Kowe Lungo Ninggal Aku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770035176661,
+        "created_at": 1770035176661,
+        "locale": "id"
       }
     ],
     "p": [
@@ -6946,6 +7001,17 @@
         "clicks": 0,
         "last_search": 1770026601864,
         "created_at": 1770026601864,
+        "locale": "id"
+      },
+      {
+        "id": "kw_77ce2488-c2be-4439-aa92-6931d7535ca4",
+        "keyword": "Pilangsari Ninggal Janji",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770035176662,
+        "created_at": 1770035176662,
         "locale": "id"
       }
     ],
@@ -8574,9 +8640,9 @@
         "keyword": "Happy Asmara",
         "tags": [],
         "weight": 1,
-        "impressions": 13,
+        "impressions": 14,
         "clicks": 0,
-        "last_search": 1770027468455,
+        "last_search": 1770035176661,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -9150,6 +9216,17 @@
         "clicks": 0,
         "last_search": 1770026601864,
         "created_at": 1770026601864,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3743001a-4d1a-4ce3-ba84-ed6b3db9ea7f",
+        "keyword": "Happy Asmara - Kowe Lungo Ninggal Aku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770035176661,
+        "created_at": 1770035176661,
         "locale": "id"
       }
     ],
@@ -12643,6 +12720,28 @@
         "clicks": 0,
         "last_search": 1770026601865,
         "created_at": 1770026601864,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d2bc91ab-a333-48b1-a353-396e0f240bd3",
+        "keyword": "Nyonggo -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770035176661,
+        "created_at": 1770035176661,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3402583f-94e4-474b-a23c-9587996823f3",
+        "keyword": "Ngajeni -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770035176662,
+        "created_at": 1770035176662,
         "locale": "id"
       }
     ],
@@ -19808,6 +19907,17 @@
         "last_search": 1770026601864,
         "created_at": 1770026601864,
         "locale": "id"
+      },
+      {
+        "id": "kw_3e07ccf9-ea7d-4542-958f-07ee69f9cd03",
+        "keyword": "Remang Remang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770035176662,
+        "created_at": 1770035176662,
+        "locale": "id"
       }
     ],
     "s": [
@@ -21103,9 +21213,9 @@
         "keyword": "Sadewok",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769945075592,
+        "last_search": 1770035176662,
         "created_at": 1769520499398,
         "locale": "id"
       },
@@ -22471,6 +22581,17 @@
         "clicks": 0,
         "last_search": 1770025434557,
         "created_at": 1770025434557,
+        "locale": "id"
+      },
+      {
+        "id": "kw_07bbe462-fb13-4db9-8364-ffd370fe4724",
+        "keyword": "Sadewok - Ngajeni -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770035176662,
+        "created_at": 1770035176662,
         "locale": "id"
       }
     ],
@@ -24096,6 +24217,28 @@
         "clicks": 0,
         "last_search": 1769991517740,
         "created_at": 1769991517740,
+        "locale": "id"
+      },
+      {
+        "id": "kw_71a395ed-3338-4ced-a1ff-6ec08f4d387b",
+        "keyword": "OM Wawes - Nyonggo -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770035176661,
+        "created_at": 1770035176661,
+        "locale": "id"
+      },
+      {
+        "id": "kw_83f1b932-c629-47d9-a84a-3403ece0e4d9",
+        "keyword": "OM Wawes",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770035176661,
+        "created_at": 1770035176661,
         "locale": "id"
       }
     ],
