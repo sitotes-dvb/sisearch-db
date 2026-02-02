@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770040365815,
+    "last_updated": 1770040949677,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -248,9 +248,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 50,
+        "impressions": 51,
         "clicks": 0,
-        "last_search": 1770037215977,
+        "last_search": 1770040949657,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -336,9 +336,9 @@
         "keyword": "Denny Caknan Feat Bella Bonita",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769878975380,
+        "last_search": 1770040949657,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -369,9 +369,9 @@
         "keyword": "Denny Caknan - Tunggal Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395894349,
+        "last_search": 1770040949657,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -380,9 +380,9 @@
         "keyword": "Denny Caknan - Sugeng Dalu",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769397199479,
+        "last_search": 1770040949657,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -2129,9 +2129,9 @@
         "keyword": "Denny Caknan Feat Bella Bonita - SINARENGAN ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769878975380,
+        "last_search": 1770040949657,
         "created_at": 1769791972514,
         "locale": "id"
       },
@@ -2760,6 +2760,28 @@
         "clicks": 0,
         "last_search": 1770040365774,
         "created_at": 1770040365774,
+        "locale": "id"
+      },
+      {
+        "id": "kw_92023bfd-44f5-4fc8-96b5-3473e454a04f",
+        "keyword": "Denny Caknan - LOS DOL -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040949657,
+        "created_at": 1770040949657,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9a0e5a74-403b-4a29-886a-be535f46cdda",
+        "keyword": "Denny Caknan - Sekti -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040949657,
+        "created_at": 1770040949657,
         "locale": "id"
       }
     ],
@@ -3598,6 +3620,17 @@
         "clicks": 0,
         "last_search": 1770040053563,
         "created_at": 1770040053563,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b62a0257-0748-4001-a384-1b24964cf7dc",
+        "keyword": "LOS DOL -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040949657,
+        "created_at": 1770040949657,
         "locale": "id"
       }
     ],
@@ -4872,9 +4905,9 @@
         "keyword": "Kumpulan Gitar Denny Caknan -",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770025434558,
+        "last_search": 1770040949657,
         "created_at": 1769707449045,
         "locale": "id"
       },
@@ -6009,6 +6042,17 @@
         "clicks": 0,
         "last_search": 1770040365774,
         "created_at": 1770040365774,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3da84401-a715-45f4-9458-c00f129c07be",
+        "keyword": "Kumpulan Gitar Eka Jaya -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040949657,
+        "created_at": 1770040949657,
         "locale": "id"
       }
     ],
@@ -7386,6 +7430,17 @@
         "clicks": 0,
         "last_search": 1770040365774,
         "created_at": 1770040365774,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cdcbb177-fe28-44ca-9a95-16a3a2485d0a",
+        "keyword": "Piyambakan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040949657,
+        "created_at": 1770040949657,
         "locale": "id"
       }
     ],
@@ -14436,9 +14491,9 @@
         "keyword": "Tunggal Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769407509350,
+        "last_search": 1770040949657,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -15826,6 +15881,28 @@
         "clicks": 0,
         "last_search": 1770040053562,
         "created_at": 1770040053562,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b2c9ea54-13d5-4831-b1d5-76afca841d40",
+        "keyword": "Topik Sudirman - Piyambakan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040949657,
+        "created_at": 1770040949657,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f216586d-57b8-49df-899c-46c82121df16",
+        "keyword": "Topik Sudirman",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040949657,
+        "created_at": 1770040949657,
         "locale": "id"
       }
     ],
@@ -21224,9 +21301,9 @@
         "keyword": "SINARENGAN",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769878975380,
+        "last_search": 1770040949657,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -21235,9 +21312,9 @@
         "keyword": "Sugeng Dalu",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769397199479,
+        "last_search": 1770040949657,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -22665,9 +22742,9 @@
         "keyword": "Saktenane 3",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769703914633,
+        "last_search": 1770040949657,
         "created_at": 1769611865001,
         "locale": "id"
       },
@@ -23846,6 +23923,50 @@
         "clicks": 0,
         "last_search": 1770040365774,
         "created_at": 1770040365774,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9ff67d0f-7b41-412f-bde0-4b5507c13178",
+        "keyword": "Sekti -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040949657,
+        "created_at": 1770040949657,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4370fdaa-5478-452c-a309-bff245fd3c9c",
+        "keyword": "Sara Rahayu - Sesal -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040949657,
+        "created_at": 1770040949657,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9e9f7983-9e0c-4888-a467-fc3f34d83fa5",
+        "keyword": "Sara Rahayu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040949657,
+        "created_at": 1770040949657,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0b2a9690-9cb8-42a7-bb79-96ebda329083",
+        "keyword": "Sesal -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770040949657,
+        "created_at": 1770040949657,
         "locale": "id"
       }
     ],
@@ -25735,9 +25856,9 @@
         "keyword": "Vadesta Ft. Destya Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1770036746351,
+        "last_search": 1770040949657,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -25900,9 +26021,9 @@
         "keyword": "Vadesta Ft. Destya Eka - Saktenane 3",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769703914633,
+        "last_search": 1770040949657,
         "created_at": 1769703874522,
         "locale": "id"
       },
