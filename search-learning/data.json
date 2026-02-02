@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770015494821,
+    "last_updated": 1770024031768,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -39,6 +39,17 @@
         "clicks": 0,
         "last_search": 1769748226720,
         "created_at": 1769748226720,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3a57f993-73b1-42e9-bad8-2bf518915008",
+        "keyword": "29 -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031725,
+        "created_at": 1770024031725,
         "locale": "id"
       }
     ],
@@ -2431,6 +2442,105 @@
         "last_search": 1770015494803,
         "created_at": 1770015494803,
         "locale": "id"
+      },
+      {
+        "id": "kw_b202fdeb-98ae-420f-9ffc-6e941ef7c4d3",
+        "keyword": "Diva Hani - Ceo Yang Menyamar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031725,
+        "created_at": 1770024031725,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4b26ace7-ae52-47f9-aebd-092cc027a33c",
+        "keyword": "Diva Hani",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031725,
+        "created_at": 1770024031725,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8a8e5fa7-a0c8-4aa4-b960-26d4ee414461",
+        "keyword": "Daftar Koleksi / Shanty Salsa @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031725,
+        "created_at": 1770024031725,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f3cc0341-c6ac-4e7d-aa28-40e64087434b",
+        "keyword": "Daftar Koleksi / Diva Hani @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031725,
+        "created_at": 1770024031725,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f516d786-54d5-4e7f-bfa4-ce8896fd317a",
+        "keyword": "Daftar Koleksi / Lia Paramitha @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031725,
+        "created_at": 1770024031725,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c586c90c-c70f-4a0e-af5a-5a6083015767",
+        "keyword": "Demi Lovato - 29 -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031725,
+        "created_at": 1770024031725,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d4ec0002-9959-43a1-a20c-8435b2124ecf",
+        "keyword": "Demi Lovato",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031725,
+        "created_at": 1770024031725,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a6f4eb78-1207-4374-8c7c-740a66607117",
+        "keyword": "Dian Piesesha - Embun Pagi Di Sela Mentari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031726,
+        "created_at": 1770024031726,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bff83baf-c041-454a-9050-a9d481a28f19",
+        "keyword": "Dian Piesesha",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031726,
+        "created_at": 1770024031726,
+        "locale": "id"
       }
     ],
     "l": [
@@ -3191,6 +3301,28 @@
         "clicks": 0,
         "last_search": 1769912332424,
         "created_at": 1769912332424,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c1e35c21-3523-4b8a-8867-3d145b263f95",
+        "keyword": "Lia Paramitha Ft. Shanty Salsa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031725,
+        "created_at": 1770024031725,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4409081a-07c1-4f0f-ba22-a5be0e57878b",
+        "keyword": "Lestari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031726,
+        "created_at": 1770024031726,
         "locale": "id"
       }
     ],
@@ -5404,6 +5536,17 @@
         "clicks": 0,
         "last_search": 1770015494803,
         "created_at": 1770015494803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9c3d41e5-ed0d-4c08-b859-de01d68aa3e7",
+        "keyword": "Kumpulan Gitar Lia Paramitha -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031725,
+        "created_at": 1770024031725,
         "locale": "id"
       }
     ],
@@ -8169,6 +8312,28 @@
         "clicks": 0,
         "last_search": 1770015494803,
         "created_at": 1770015494803,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b0025883-8f93-40a0-b3d4-ec3045eb8eb7",
+        "keyword": "Mahligaimu dari Airmataku - Lestari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031725,
+        "created_at": 1770024031725,
+        "locale": "id"
+      },
+      {
+        "id": "kw_54e19f52-5d87-486d-b04d-f6e4d3af4a4a",
+        "keyword": "Mahligaimu dari Airmataku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031726,
+        "created_at": 1770024031725,
         "locale": "id"
       }
     ],
@@ -14894,6 +15059,17 @@
         "last_search": 1769878445858,
         "created_at": 1769878445858,
         "locale": "id"
+      },
+      {
+        "id": "kw_dcfa98c2-970c-42a1-a1da-e3a439d00933",
+        "keyword": "Embun Pagi Di Sela Mentari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031726,
+        "created_at": 1770024031726,
+        "locale": "id"
       }
     ],
     "w": [
@@ -15555,6 +15731,17 @@
         "clicks": 0,
         "last_search": 1769945375657,
         "created_at": 1769945375657,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1960a863-d794-4225-8149-ca538531bb06",
+        "keyword": "Wulan Suci -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031726,
+        "created_at": 1770024031726,
         "locale": "id"
       }
     ],
@@ -16283,6 +16470,50 @@
         "clicks": 0,
         "last_search": 1769991517739,
         "created_at": 1769991517739,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5f3fa12c-66d4-4060-9447-5cfbbe43b195",
+        "keyword": "Ceo Yang Menyamar - Lia Paramitha Ft. Shanty Salsa ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031725,
+        "created_at": 1770024031725,
+        "locale": "id"
+      },
+      {
+        "id": "kw_982f01ac-3f3b-4ddc-8ca7-9d3db4d70982",
+        "keyword": "Ceo Yang Menyamar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031725,
+        "created_at": 1770024031725,
+        "locale": "id"
+      },
+      {
+        "id": "kw_28c21ef8-2567-4eca-afff-c268a320b780",
+        "keyword": "Chord Shinta A ft Diva Hani - Wulan Suci -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031726,
+        "created_at": 1770024031726,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4e10d0cf-e0be-4514-94f5-7359358ea03a",
+        "keyword": "Chord Shinta A ft Diva Hani",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770024031726,
+        "created_at": 1770024031726,
         "locale": "id"
       }
     ],
