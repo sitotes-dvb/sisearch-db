@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770037595702,
+    "last_updated": 1770037623905,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2650,6 +2650,28 @@
         "clicks": 0,
         "last_search": 1770037595684,
         "created_at": 1770037595684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_51d852c1-2165-48e8-b5de-fda15dd4fbef",
+        "keyword": "Denda - Terlalu Sayang -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623821,
+        "created_at": 1770037623821,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a7b248d4-2b67-4923-9d6b-e1bd7478665e",
+        "keyword": "Denda",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623821,
+        "created_at": 1770037623821,
         "locale": "id"
       }
     ],
@@ -5834,6 +5856,17 @@
         "last_search": 1770037595683,
         "created_at": 1770037595683,
         "locale": "id"
+      },
+      {
+        "id": "kw_128030b3-1f93-43ed-910e-053d86c0900f",
+        "keyword": "Ku Memang Terlalu Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623821,
+        "created_at": 1770037623821,
+        "locale": "id"
       }
     ],
     "p": [
@@ -7188,6 +7221,17 @@
         "clicks": 0,
         "last_search": 1770037595683,
         "created_at": 1770037595683,
+        "locale": "id"
+      },
+      {
+        "id": "kw_20322010-aec5-47da-8393-f5b0fcd0a38f",
+        "keyword": "Perih -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623821,
+        "created_at": 1770037623821,
         "locale": "id"
       }
     ],
@@ -9469,6 +9513,17 @@
         "clicks": 0,
         "last_search": 1770036697200,
         "created_at": 1770036697200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_adc5479c-b0eb-401c-a266-fb503a355806",
+        "keyword": "Hey Ladies -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623820,
+        "created_at": 1770037623820,
         "locale": "id"
       }
     ],
@@ -15453,6 +15508,83 @@
         "last_search": 1770037595684,
         "created_at": 1770037595684,
         "locale": "id"
+      },
+      {
+        "id": "kw_4d1058a3-34d4-481b-8599-d8979fefd101",
+        "keyword": "Terlalu Cinta -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623820,
+        "created_at": 1770037623820,
+        "locale": "id"
+      },
+      {
+        "id": "kw_81bf810a-9004-4e5f-a711-db0d931aa71a",
+        "keyword": "Terlalu Lama -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623820,
+        "created_at": 1770037623820,
+        "locale": "id"
+      },
+      {
+        "id": "kw_411ed2a4-766b-44a7-9559-198d8d70073b",
+        "keyword": "Tgk. Hafidh Al-Fairusy - Ku Memang Terlalu Cinta ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623821,
+        "created_at": 1770037623821,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a9eb13c8-6038-4292-bb86-7c69f86a38a8",
+        "keyword": "Tgk. Hafidh Al-Fairusy",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623821,
+        "created_at": 1770037623821,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8da8183e-aa9b-43a8-8280-8466d68375c3",
+        "keyword": "Terlalu Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623821,
+        "created_at": 1770037623821,
+        "locale": "id"
+      },
+      {
+        "id": "kw_091fe87c-0a0f-483e-a8cd-c13426877467",
+        "keyword": "Terlalu Sayang -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623821,
+        "created_at": 1770037623821,
+        "locale": "id"
+      },
+      {
+        "id": "kw_06a1a5a0-9481-450c-9104-4304363aa957",
+        "keyword": "Terlalu Bodoh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623821,
+        "created_at": 1770037623821,
+        "locale": "id"
       }
     ],
     "e": [
@@ -18591,9 +18723,9 @@
         "keyword": "Arief",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582645422,
+        "last_search": 1770037623820,
         "created_at": 1769582645422,
         "locale": "id"
       },
@@ -19608,6 +19740,83 @@
         "last_search": 1770037595684,
         "created_at": 1770037595683,
         "locale": "id"
+      },
+      {
+        "id": "kw_a1cbcf75-0c20-4573-aa86-89f4e72f251b",
+        "keyword": "Arief - Salahku Terlalu Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623820,
+        "created_at": 1770037623820,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4703a0bd-16e4-482e-89a3-3d89fdb2358a",
+        "keyword": "Avolia - Hey Ladies -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623820,
+        "created_at": 1770037623820,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0dadf9bf-0c5e-404e-886d-42ca450670ae",
+        "keyword": "Avolia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623820,
+        "created_at": 1770037623820,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f6c22c08-3eaf-4fab-8ebb-0ce3ed11eb46",
+        "keyword": "Asrul Sita - Terlalu Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623821,
+        "created_at": 1770037623821,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9153bc09-2935-401e-80a2-a7f5be3d1590",
+        "keyword": "Asrul Sita",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623821,
+        "created_at": 1770037623821,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4cc46eef-cf5d-45d4-8276-b5d4150c1569",
+        "keyword": "Ara Johari - Terlalu Bodoh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623821,
+        "created_at": 1770037623821,
+        "locale": "id"
+      },
+      {
+        "id": "kw_35dfa2c0-6fde-496a-85d3-dd7dcc948f36",
+        "keyword": "Ara Johari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623821,
+        "created_at": 1770037623821,
+        "locale": "id"
       }
     ],
     "r": [
@@ -20243,9 +20452,9 @@
         "keyword": "Rossa",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769610174624,
+        "last_search": 1770037623820,
         "created_at": 1769610174624,
         "locale": "id"
       },
@@ -20522,6 +20731,28 @@
         "clicks": 0,
         "last_search": 1770035176662,
         "created_at": 1770035176662,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8c0533bc-cdde-4ed2-9323-2c574416355e",
+        "keyword": "Rossa - Terlalu Cinta -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623820,
+        "created_at": 1770037623820,
+        "locale": "id"
+      },
+      {
+        "id": "kw_107235a6-fb0a-4551-9275-1e3438b47453",
+        "keyword": "Rungkad -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623821,
+        "created_at": 1770037623821,
         "locale": "id"
       }
     ],
@@ -22357,9 +22588,9 @@
         "keyword": "Safira Inema",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769991414197,
+        "last_search": 1770037623821,
         "created_at": 1769705686139,
         "locale": "id"
       },
@@ -23219,6 +23450,28 @@
         "clicks": 0,
         "last_search": 1770037595683,
         "created_at": 1770037595683,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c485df96-5284-449b-8d90-ecdb1fc22e4d",
+        "keyword": "Salahku Terlalu Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623820,
+        "created_at": 1770037623820,
+        "locale": "id"
+      },
+      {
+        "id": "kw_09e3449c-5fb8-46ce-b4b2-b1f72e4eae51",
+        "keyword": "Safira Inema - Rungkad -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623820,
+        "created_at": 1770037623820,
         "locale": "id"
       }
     ],
@@ -25097,9 +25350,9 @@
         "keyword": "Vierra",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769583885578,
+        "last_search": 1770037623820,
         "created_at": 1769583885578,
         "locale": "id"
       },
@@ -25299,6 +25552,28 @@
         "clicks": 0,
         "last_search": 1769945224649,
         "created_at": 1769945224649,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5e7010fa-b175-44b3-af97-7f2e02181eef",
+        "keyword": "Vierra - Terlalu Lama -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623820,
+        "created_at": 1770037623820,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4a0e8984-3d7d-440a-b399-ee3cedbdf05b",
+        "keyword": "Vierra - Perih -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037623821,
+        "created_at": 1770037623821,
         "locale": "id"
       }
     ],
