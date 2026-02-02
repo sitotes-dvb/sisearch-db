@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770037215995,
+    "last_updated": 1770037595702,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2338,9 +2338,9 @@
         "keyword": "Dj Qhelfin",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769878445858,
+        "last_search": 1770037595684,
         "created_at": 1769878445858,
         "locale": "id"
       },
@@ -2639,6 +2639,17 @@
         "clicks": 0,
         "last_search": 1770036746351,
         "created_at": 1770036746351,
+        "locale": "id"
+      },
+      {
+        "id": "kw_85867fae-d05d-4ee1-9547-e45533e16be9",
+        "keyword": "Dj Qhelfin - Terlalu Indah -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595684,
+        "created_at": 1770037595684,
         "locale": "id"
       }
     ],
@@ -5812,6 +5823,17 @@
         "last_search": 1770036697200,
         "created_at": 1770036697200,
         "locale": "id"
+      },
+      {
+        "id": "kw_50de99fc-dd8f-4157-a401-a83e95cffe63",
+        "keyword": "Ko Terlalu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
+        "locale": "id"
       }
     ],
     "p": [
@@ -7144,6 +7166,28 @@
         "clicks": 0,
         "last_search": 1770036697200,
         "created_at": 1770036697200,
+        "locale": "id"
+      },
+      {
+        "id": "kw_457f646c-4dc0-4d2a-b23e-712d6fe5b251",
+        "keyword": "Papinka - Terlalu Cepat -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3c52fb54-ab0e-4d98-8226-05a90f2b7829",
+        "keyword": "Papinka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
         "locale": "id"
       }
     ],
@@ -8730,6 +8774,39 @@
         "clicks": 0,
         "last_search": 1770036746351,
         "created_at": 1770036109478,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cc0d0d37-f6b5-46d5-93f5-1dfde5175fbb",
+        "keyword": "Macepurba X D'Ari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
+        "locale": "id"
+      },
+      {
+        "id": "kw_768f4d6f-d5f2-416f-9e7a-956c3d749660",
+        "keyword": "Meli LIDA - Terlalu Mencintaimu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bf7cb400-6fcb-4c11-a6c6-09ad0a7aaebb",
+        "keyword": "Meli LIDA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
         "locale": "id"
       }
     ],
@@ -15266,6 +15343,116 @@
         "last_search": 1770036697200,
         "created_at": 1770036697200,
         "locale": "id"
+      },
+      {
+        "id": "kw_c7420cee-dc07-450c-bbeb-05e272478d64",
+        "keyword": "Terlalu -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595682,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7ef39a38-f088-4539-8b7a-29cd7174beb1",
+        "keyword": "Terlalu Cepat -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
+        "locale": "id"
+      },
+      {
+        "id": "kw_42b70c42-de90-423c-88fb-31278da26c7d",
+        "keyword": "TERLALU SIBUK - Macepurba X D'Ari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
+        "locale": "id"
+      },
+      {
+        "id": "kw_66a43487-db67-4298-83c4-8649f3315728",
+        "keyword": "TERLALU SIBUK",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6b8f7393-df68-4512-942a-c83ad03a58e8",
+        "keyword": "Terlalu Mengerti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
+        "locale": "id"
+      },
+      {
+        "id": "kw_152778d1-0afc-4905-a3be-43537ea3cfff",
+        "keyword": "Terlalu Lelah -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4c0232b1-3e67-4ec1-8cbc-d1c00e663e02",
+        "keyword": "Terlalu Manis",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
+        "locale": "id"
+      },
+      {
+        "id": "kw_88ff85d8-9ac0-42de-b8b0-d3166ca165c1",
+        "keyword": "Terlalu Mencintaimu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cdc15c1a-3c9b-4088-9509-f49a5aee8abb",
+        "keyword": "Terlalu Berharap (ft Rap Of Psycho",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595684,
+        "created_at": 1770037595684,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f7e4d19f-dbcd-44fb-896a-cf762a385448",
+        "keyword": "Terlalu Indah -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595684,
+        "created_at": 1770037595684,
+        "locale": "id"
       }
     ],
     "e": [
@@ -15773,6 +15960,28 @@
         "clicks": 0,
         "last_search": 1770036746351,
         "created_at": 1770036746351,
+        "locale": "id"
+      },
+      {
+        "id": "kw_30aee691-d6cd-49bc-a682-d6b0726bbfa4",
+        "keyword": "EVO - Terlalu Lelah -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5cd71024-689f-405a-90d1-ca1caf1e31b6",
+        "keyword": "EVO",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
         "locale": "id"
       }
     ],
@@ -16479,6 +16688,28 @@
         "clicks": 0,
         "last_search": 1770036109479,
         "created_at": 1770036109479,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b27aa3e3-c5a7-4141-b1b5-d1fe6bbc59cd",
+        "keyword": "Wizz Baker - Terlalu Mengerti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ba13cdec-4503-42ab-a19e-7e1b1194c1ba",
+        "keyword": "Wizz Baker",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
         "locale": "id"
       }
     ],
@@ -19355,6 +19586,28 @@
         "last_search": 1770036746351,
         "created_at": 1770036746351,
         "locale": "id"
+      },
+      {
+        "id": "kw_2affaaca-8442-4a31-b089-7a08e3cb95eb",
+        "keyword": "Anak kompleks - Terlalu Berharap (ft Rap Of Psycho ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1e3231a7-7df3-4b70-80cf-4f7bc3263984",
+        "keyword": "Anak kompleks",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595684,
+        "created_at": 1770037595683,
+        "locale": "id"
       }
     ],
     "r": [
@@ -21697,9 +21950,9 @@
         "keyword": "ST12",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582566047,
+        "last_search": 1770037595682,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -22214,9 +22467,9 @@
         "keyword": "SLANK",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769747894346,
+        "last_search": 1770037595683,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -22944,6 +23197,28 @@
         "clicks": 0,
         "last_search": 1770035176662,
         "created_at": 1770035176662,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b2abc771-48f2-4fc6-b5df-15670e267ddf",
+        "keyword": "ST12 - Terlalu -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595682,
+        "created_at": 1770037595682,
+        "locale": "id"
+      },
+      {
+        "id": "kw_129e47be-2b3b-420c-9f59-997a2de635ab",
+        "keyword": "SLANK - Terlalu Manis",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
         "locale": "id"
       }
     ],
@@ -24160,6 +24435,28 @@
         "clicks": 0,
         "last_search": 1769945075591,
         "created_at": 1769945075591,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e771ee85-d2f9-45b6-b296-0af87d5e19e8",
+        "keyword": "Inggid Wakano feat. Silet Open Up - Ko Terlalu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6f5a531e-d4bc-4fc3-8ed5-02774b7c1c96",
+        "keyword": "Inggid Wakano feat. Silet Open Up",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770037595683,
+        "created_at": 1770037595683,
         "locale": "id"
       }
     ],
