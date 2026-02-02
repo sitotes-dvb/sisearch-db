@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770044302995,
+    "last_updated": 1770046454673,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2848,6 +2848,50 @@
         "clicks": 0,
         "last_search": 1770044302973,
         "created_at": 1770044302972,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dfac1e95-96f6-4637-8950-c4f244f344ec",
+        "keyword": "Dinda Dewi - Njarem -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c3ca74c1-de8b-45d3-85e8-5cd473289937",
+        "keyword": "Dinda Dewi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8d1dd425-2c28-472d-9081-df156626baa4",
+        "keyword": "Dianggep Apa -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
+        "locale": "id"
+      },
+      {
+        "id": "kw_09d46792-2dad-42d5-96c4-c04ba73570ce",
+        "keyword": "Dianggep Apa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
         "locale": "id"
       }
     ],
@@ -6175,6 +6219,39 @@
         "last_search": 1770042282130,
         "created_at": 1770042282130,
         "locale": "id"
+      },
+      {
+        "id": "kw_ff6010ba-b62f-458f-ba84-bfe28507eafd",
+        "keyword": "Kejem -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
+        "locale": "id"
+      },
+      {
+        "id": "kw_edd45a65-58e2-40bb-88b1-9f8624262ed8",
+        "keyword": "KAMAR 17 -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
+        "locale": "id"
+      },
+      {
+        "id": "kw_78301d11-aab0-4c9c-8269-a9b2156d4b9a",
+        "keyword": "Kumpulan Gitar Dinda Dewi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454641,
+        "created_at": 1770046454641,
+        "locale": "id"
       }
     ],
     "p": [
@@ -6777,9 +6854,9 @@
         "keyword": "Pusma Shakira feat. Dini Kurnia",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582439065,
+        "last_search": 1770046454639,
         "created_at": 1769582439065,
         "locale": "id"
       },
@@ -7573,6 +7650,17 @@
         "clicks": 0,
         "last_search": 1770044302972,
         "created_at": 1770044302972,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a5594e93-eb60-468b-9fc5-55a9551a3b47",
+        "keyword": "Pusma Shakira feat. Dini Kurnia - NJAREM",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454639,
+        "created_at": 1770046454639,
         "locale": "id"
       }
     ],
@@ -9259,6 +9347,28 @@
         "last_search": 1770042114178,
         "created_at": 1770042114178,
         "locale": "id"
+      },
+      {
+        "id": "kw_f60aa438-0275-4b3e-b6ca-43b9e946717a",
+        "keyword": "Mocil Sianida Dhiemas - Gusti Tulungen Aku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4e7a3f12-e069-428b-8ed0-5cbf58b27150",
+        "keyword": "Mocil Sianida Dhiemas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
+        "locale": "id"
       }
     ],
     "h": [
@@ -10671,6 +10781,28 @@
         "last_search": 1770025486832,
         "created_at": 1770025486832,
         "locale": "id"
+      },
+      {
+        "id": "kw_45ed190c-ef86-4454-981d-0c8801dab1ec",
+        "keyword": "Jihad Soecipto - Kejem -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e49b05b2-46f8-43b7-923e-24f8a6785fe9",
+        "keyword": "Jihad Soecipto",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
+        "locale": "id"
       }
     ],
     "g": [
@@ -11388,6 +11520,28 @@
         "last_search": 1770042282130,
         "created_at": 1770042282130,
         "locale": "id"
+      },
+      {
+        "id": "kw_4f8c126b-f201-486e-83bf-e34ec25b8c28",
+        "keyword": "GMLT ft. X-Tecto Sendu Kelaran",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ad7e4227-c822-4917-b354-af9b996c65d0",
+        "keyword": "Gusti Tulungen Aku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454641,
+        "created_at": 1770046454641,
+        "locale": "id"
       }
     ],
     "n": [
@@ -11539,9 +11693,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 33,
+        "impressions": 34,
         "clicks": 0,
-        "last_search": 1770040962604,
+        "last_search": 1770046454640,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -13600,6 +13754,39 @@
         "clicks": 0,
         "last_search": 1770042282129,
         "created_at": 1770042282129,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5f1ecd61-17b9-4ffb-89b4-c2314b80eaf8",
+        "keyword": "NJAREM",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
+        "locale": "id"
+      },
+      {
+        "id": "kw_24bcff8c-b77f-49b5-a0dc-c2abfdc6efed",
+        "keyword": "Njarem -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
+        "locale": "id"
+      },
+      {
+        "id": "kw_91b2caff-a664-4243-9cb3-a796316db4bc",
+        "keyword": "NDX AKA - Remukan Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
         "locale": "id"
       }
     ],
@@ -21524,6 +21711,17 @@
         "last_search": 1770037623821,
         "created_at": 1770037623821,
         "locale": "id"
+      },
+      {
+        "id": "kw_9ec2f85f-e620-47a1-aa0d-a158a3c55afc",
+        "keyword": "Remukan Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
+        "locale": "id"
       }
     ],
     "s": [
@@ -21950,9 +22148,9 @@
         "keyword": "Shinta Arsinta",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769762224447,
+        "last_search": 1770046454640,
         "created_at": 1769407631223,
         "locale": "id"
       },
@@ -23358,9 +23556,9 @@
         "keyword": "Safira Inema",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770037623821,
+        "last_search": 1770046454640,
         "created_at": 1769705686139,
         "locale": "id"
       },
@@ -24440,6 +24638,50 @@
         "clicks": 0,
         "last_search": 1770042282130,
         "created_at": 1770042282130,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cc3888c0-70a5-4e36-8130-1906d95ff80c",
+        "keyword": "Shawong - Dianggep Apa -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
+        "locale": "id"
+      },
+      {
+        "id": "kw_957c1063-5588-4828-9968-29f1becd3493",
+        "keyword": "Shawong",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
+        "locale": "id"
+      },
+      {
+        "id": "kw_718ff586-6512-4557-b277-57ae9a558979",
+        "keyword": "Safira Inema - Dianggep Apa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d5dbd309-573d-4383-80ba-45ad3fa85da0",
+        "keyword": "Shinta Arsinta - KAMAR 17 -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770046454640,
+        "created_at": 1770046454640,
         "locale": "id"
       }
     ],
