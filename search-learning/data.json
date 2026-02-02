@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1769991414206,
+    "last_updated": 1769991517762,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1568,9 +1568,9 @@
         "keyword": "Didi Kempot",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769760095553,
+        "last_search": 1769991517739,
         "created_at": 1769703914634,
         "locale": "id"
       },
@@ -2364,6 +2364,28 @@
         "clicks": 0,
         "last_search": 1769945075592,
         "created_at": 1769945075592,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6ff683bf-f7ce-4475-a31f-a38598722902",
+        "keyword": "Didi Kempot - Ora Iso Mulih -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769991517739,
+        "created_at": 1769991517739,
+        "locale": "id"
+      },
+      {
+        "id": "kw_233f3ca9-dcfd-4c2b-90d4-c51e9fdd3db4",
+        "keyword": "Dongaku Nggo Kowe",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769991517740,
+        "created_at": 1769991517740,
         "locale": "id"
       }
     ],
@@ -6551,6 +6573,17 @@
         "last_search": 1769945385106,
         "created_at": 1769945385106,
         "locale": "id"
+      },
+      {
+        "id": "kw_7137fb3a-c93e-4640-a3a2-1a9a9fe396f7",
+        "keyword": "Pisah -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769991517740,
+        "created_at": 1769991517740,
+        "locale": "id"
       }
     ],
     "m": [
@@ -7439,9 +7472,9 @@
         "keyword": "MIQBAL GA ft SISKA AMANDA",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769703874522,
+        "last_search": 1769991517739,
         "created_at": 1769611865001,
         "locale": "id"
       },
@@ -7527,9 +7560,9 @@
         "keyword": "MIQBAL GA ft SISKA AMANDA - ORA ISO",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769703874522,
+        "last_search": 1769991517739,
         "created_at": 1769703874522,
         "locale": "id"
       },
@@ -9392,9 +9425,9 @@
         "keyword": "GuyonWaton Official",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769359994200,
+        "last_search": 1769991517740,
         "created_at": 1769359994200,
         "locale": "id"
       },
@@ -9535,9 +9568,9 @@
         "keyword": "GuyonWaton x Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769878975380,
+        "last_search": 1769991517740,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -9964,9 +9997,9 @@
         "keyword": "GuyonWaton x Denny Caknan - SANES",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769878975380,
+        "last_search": 1769991517740,
         "created_at": 1769791972515,
         "locale": "id"
       },
@@ -10001,6 +10034,17 @@
         "clicks": 0,
         "last_search": 1769878149439,
         "created_at": 1769878149439,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9fd551d5-f04f-459e-9e54-98ee947daab0",
+        "keyword": "GuyonWaton Official - Pisah -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769991517740,
+        "created_at": 1769991517740,
         "locale": "id"
       }
     ],
@@ -10065,9 +10109,9 @@
         "keyword": "Ndarboy Genk",
         "tags": [],
         "weight": 1,
-        "impressions": 16,
+        "impressions": 17,
         "clicks": 0,
-        "last_search": 1769945375657,
+        "last_search": 1769991517740,
         "created_at": 1769359994200,
         "locale": "id"
       },
@@ -12094,6 +12138,17 @@
         "last_search": 1769912332424,
         "created_at": 1769912332424,
         "locale": "id"
+      },
+      {
+        "id": "kw_2d89097d-72b1-4c7b-977e-fe62c52b2d9b",
+        "keyword": "Ndarboy Genk - Baik Baik Saja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769991517740,
+        "created_at": 1769991517740,
+        "locale": "id"
       }
     ],
     "b": [
@@ -12943,6 +12998,17 @@
         "last_search": 1769860809909,
         "created_at": 1769860809909,
         "locale": "id"
+      },
+      {
+        "id": "kw_ceb8d512-868e-42f3-9d21-073b4ce1c189",
+        "keyword": "Baik Baik Saja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769991517740,
+        "created_at": 1769991517740,
+        "locale": "id"
       }
     ],
     "t": [
@@ -13479,9 +13545,9 @@
         "keyword": "TEKOMLAKU feat Ervinsof",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769873931049,
+        "last_search": 1769991517740,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -13831,9 +13897,9 @@
         "keyword": "TEKOMLAKU feat Ervinsof - Raiso Ngapusi 2",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769873931049,
+        "last_search": 1769991517740,
         "created_at": 1769703958513,
         "locale": "id"
       },
@@ -16097,6 +16163,28 @@
         "last_search": 1769945375657,
         "created_at": 1769945375657,
         "locale": "id"
+      },
+      {
+        "id": "kw_29584c5c-05bd-4b70-b350-27225f0b5fc6",
+        "keyword": "Cindi Cintya Dewi - Sak Kuate Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769991517739,
+        "created_at": 1769991517739,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d7dc22ba-cc47-4f8d-b95f-b8453684ee1a",
+        "keyword": "Cindi Cintya Dewi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769991517739,
+        "created_at": 1769991517739,
+        "locale": "id"
       }
     ],
     "a": [
@@ -18123,6 +18211,28 @@
         "last_search": 1769945375657,
         "created_at": 1769945375657,
         "locale": "id"
+      },
+      {
+        "id": "kw_159d7634-d350-41b1-9d16-34fa38fb2035",
+        "keyword": "Aftershine Ft. Damara De - Ora Iso Lali",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769991517739,
+        "created_at": 1769991517739,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4bc7441c-7950-45b3-ab33-6db08cf89db0",
+        "keyword": "Aftershine Ft. Damara De",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769991517739,
+        "created_at": 1769991517739,
+        "locale": "id"
       }
     ],
     "r": [
@@ -18472,9 +18582,9 @@
         "keyword": "Raiso Ngapusi 2",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769873931049,
+        "last_search": 1769991517740,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -18945,9 +19055,9 @@
         "keyword": "Reggae Tony Q Rastafara",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769758686746,
+        "last_search": 1769991517740,
         "created_at": 1769758674000,
         "locale": "id"
       },
@@ -19607,9 +19717,9 @@
         "keyword": "SANES",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769878975380,
+        "last_search": 1769991517740,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -21625,6 +21735,39 @@
         "last_search": 1769945385106,
         "created_at": 1769945385106,
         "locale": "id"
+      },
+      {
+        "id": "kw_a49a3c18-6c10-46b9-a395-994e715f5ebf",
+        "keyword": "Sak Kuate Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769991517740,
+        "created_at": 1769991517740,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4ab7931b-3f9c-4827-aef7-86f3fba15dce",
+        "keyword": "Slemanreceh - Dongaku Nggo Kowe",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769991517740,
+        "created_at": 1769991517740,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a31d41e6-8b62-44c8-a057-415452b5f05a",
+        "keyword": "Slemanreceh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769991517740,
+        "created_at": 1769991517740,
+        "locale": "id"
       }
     ],
     "y": [
@@ -23058,9 +23201,9 @@
         "keyword": "ORA ISO",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769703874522,
+        "last_search": 1769991517739,
         "created_at": 1769611865001,
         "locale": "id"
       },
@@ -23205,6 +23348,50 @@
         "clicks": 0,
         "last_search": 1769782560565,
         "created_at": 1769782560565,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6751ebd4-a040-4686-ac37-b243e60c201a",
+        "keyword": "Ora Iso Mulih -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769991517739,
+        "created_at": 1769991517739,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7be40165-049d-417e-9191-61f991b219ba",
+        "keyword": "Ora Iso Lali",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769991517739,
+        "created_at": 1769991517739,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2e6ced46-861d-494d-878b-e8223f7d735f",
+        "keyword": "Ojo Lali - Reggae Tony Q Rastafara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769991517740,
+        "created_at": 1769991517740,
+        "locale": "id"
+      },
+      {
+        "id": "kw_670659ff-0526-4612-ba07-35f35da3b0d2",
+        "keyword": "Ojo Lali",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1769991517740,
+        "created_at": 1769991517740,
         "locale": "id"
       }
     ],
