@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770040962614,
+    "last_updated": 1770042114196,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2793,6 +2793,28 @@
         "clicks": 0,
         "last_search": 1770040962604,
         "created_at": 1770040962604,
+        "locale": "id"
+      },
+      {
+        "id": "kw_101b1737-fd67-4b7e-ba24-904d667add35",
+        "keyword": "Denpoden Feat. Erurroh - Aemboh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114177,
+        "created_at": 1770042114177,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c7b38266-b4f4-4796-b69b-37190dddca4b",
+        "keyword": "Denpoden Feat. Erurroh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114178,
+        "created_at": 1770042114177,
         "locale": "id"
       }
     ],
@@ -6065,6 +6087,17 @@
         "last_search": 1770040949657,
         "created_at": 1770040949657,
         "locale": "id"
+      },
+      {
+        "id": "kw_550e5472-cd25-49f6-909e-77519c8ea6c8",
+        "keyword": "Kok Iso Yo? -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114176,
+        "created_at": 1770042114176,
+        "locale": "id"
       }
     ],
     "p": [
@@ -7349,9 +7382,9 @@
         "keyword": "Pelanggaran -",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770036746351,
+        "last_search": 1770042114176,
         "created_at": 1770036109479,
         "locale": "id"
       },
@@ -9105,6 +9138,39 @@
         "last_search": 1770040365773,
         "created_at": 1770040365773,
         "locale": "id"
+      },
+      {
+        "id": "kw_41ba2e82-0fd0-4e21-af0c-7233360c8361",
+        "keyword": "Missel Laura Dahlia - Ujian Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114177,
+        "created_at": 1770042114177,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1f973931-642c-46be-b6eb-8630cadf64dc",
+        "keyword": "Missel Laura Dahlia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114177,
+        "created_at": 1770042114177,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8c33e949-3826-4846-bb16-6516fb372d8b",
+        "keyword": "Mongso Udan -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114178,
+        "created_at": 1770042114178,
+        "locale": "id"
       }
     ],
     "h": [
@@ -10712,9 +10778,9 @@
         "keyword": "GuyonWaton",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1770036746351,
+        "last_search": 1770042114176,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -11174,9 +11240,9 @@
         "keyword": "GuyonWaton - Pelanggaran -",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770036746351,
+        "last_search": 1770042114176,
         "created_at": 1770036109479,
         "locale": "id"
       },
@@ -11200,6 +11266,17 @@
         "clicks": 0,
         "last_search": 1770036746352,
         "created_at": 1770036746352,
+        "locale": "id"
+      },
+      {
+        "id": "kw_39117f4c-8c4b-4d28-9461-135935f62f8c",
+        "keyword": "GuyonWaton - Kok Iso Yo? -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114176,
+        "created_at": 1770042114176,
         "locale": "id"
       }
     ],
@@ -11825,9 +11902,9 @@
         "keyword": "Nayla Fardila",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770036697199,
+        "last_search": 1770042114176,
         "created_at": 1769408177175,
         "locale": "id"
       },
@@ -13392,6 +13469,17 @@
         "last_search": 1770036746351,
         "created_at": 1770036746351,
         "locale": "id"
+      },
+      {
+        "id": "kw_f8ed707d-f276-4cca-a58e-9364bf2f464a",
+        "keyword": "Nayla Fardila - Tegel -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114176,
+        "created_at": 1770042114176,
+        "locale": "id"
       }
     ],
     "b": [
@@ -14361,6 +14449,28 @@
         "clicks": 0,
         "last_search": 1770040365773,
         "created_at": 1770040365773,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a05a25dc-2522-40fc-80d8-1caca2dc1161",
+        "keyword": "Bestie 2 - Sam Kawe ft Elnet Band",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114176,
+        "created_at": 1770042114176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d199259f-c6f0-441f-8fb2-4184883e9786",
+        "keyword": "Bestie 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114176,
+        "created_at": 1770042114176,
         "locale": "id"
       }
     ],
@@ -15914,6 +16024,28 @@
         "clicks": 0,
         "last_search": 1770040949657,
         "created_at": 1770040949657,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5d418023-89c0-4cba-8a50-5f893d095f7f",
+        "keyword": "Tegel -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114176,
+        "created_at": 1770042114176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a0b64468-d7da-483d-96ed-3636ce49960a",
+        "keyword": "Tegel -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114176,
+        "created_at": 1770042114176,
         "locale": "id"
       }
     ],
@@ -20246,6 +20378,39 @@
         "last_search": 1770040053562,
         "created_at": 1770040053562,
         "locale": "id"
+      },
+      {
+        "id": "kw_0544e672-e857-4817-8a08-5e494a752767",
+        "keyword": "Aemboh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114178,
+        "created_at": 1770042114178,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b4209d7d-2e47-4425-9501-0207532a39c6",
+        "keyword": "Alan Kasaji - Mongso Udan -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114178,
+        "created_at": 1770042114178,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d5637a12-f539-4132-bc60-22694365b147",
+        "keyword": "Alan Kasaji",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114178,
+        "created_at": 1770042114178,
+        "locale": "id"
       }
     ],
     "r": [
@@ -23979,6 +24144,83 @@
         "last_search": 1770040949657,
         "created_at": 1770040949657,
         "locale": "id"
+      },
+      {
+        "id": "kw_2bfc03bb-a302-4b20-a164-d8b51297a9a3",
+        "keyword": "SHR Project - Tegel -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114176,
+        "created_at": 1770042114176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ffe6baf8-42b0-4f06-a5db-408b48503d5e",
+        "keyword": "SHR Project",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114176,
+        "created_at": 1770042114176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cba092a2-4d9a-44ad-861c-bd731293b9ab",
+        "keyword": "Skaustik - Tegel -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114176,
+        "created_at": 1770042114176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b94f3603-9731-4a24-8afd-f2acb0bdf101",
+        "keyword": "Skaustik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114176,
+        "created_at": 1770042114176,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a6d62cb3-bf0e-47f1-9eda-ba9d12136d97",
+        "keyword": "Sam Kawe ft Elnet Band",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114177,
+        "created_at": 1770042114177,
+        "locale": "id"
+      },
+      {
+        "id": "kw_99f5753e-e0d2-4321-ae45-e30c3ce4a294",
+        "keyword": "Saba Wetan - Tegel -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114177,
+        "created_at": 1770042114177,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a3c2561d-f801-4a20-bc33-621896f8cee3",
+        "keyword": "Saba Wetan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114177,
+        "created_at": 1770042114177,
+        "locale": "id"
       }
     ],
     "y": [
@@ -26247,6 +26489,17 @@
         "clicks": 0,
         "last_search": 1769610174633,
         "created_at": 1769610174633,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7694a90a-0f8e-44a4-889c-b5907f24cc43",
+        "keyword": "Ujian Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770042114177,
+        "created_at": 1770042114177,
         "locale": "id"
       }
     ],
