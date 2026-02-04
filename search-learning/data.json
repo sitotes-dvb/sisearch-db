@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770219375096,
+    "last_updated": 1770231288665,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -6736,6 +6736,17 @@
         "last_search": 1770218578447,
         "created_at": 1770218578447,
         "locale": "id"
+      },
+      {
+        "id": "kw_6b267e76-f664-4187-b591-3450d45d8599",
+        "keyword": "Kumpulan Gitar Woro Widowati -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770231288625,
+        "created_at": 1770231288624,
+        "locale": "id"
       }
     ],
     "p": [
@@ -8212,6 +8223,17 @@
         "last_search": 1770218578447,
         "created_at": 1770218578447,
         "locale": "id"
+      },
+      {
+        "id": "kw_2387a08c-bacb-4e2e-992b-cd4d8472b77c",
+        "keyword": "Pendamping Hidup",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770231288625,
+        "created_at": 1770231288625,
+        "locale": "id"
       }
     ],
     "m": [
@@ -9254,9 +9276,9 @@
         "keyword": "Mencintai Dengan Ngeyel",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769707419091,
+        "last_search": 1770231288624,
         "created_at": 1769707419091,
         "locale": "id"
       },
@@ -10701,6 +10723,28 @@
         "clicks": 0,
         "last_search": 1770219375055,
         "created_at": 1770219375054,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eae941c0-5221-48f2-a0f9-5f15ba6709be",
+        "keyword": "Hargai Selagi Ada - Elgi Andara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770231288625,
+        "created_at": 1770231288625,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f979b438-fa13-4798-91e5-42ec0c4d6a30",
+        "keyword": "Hargai Selagi Ada",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770231288626,
+        "created_at": 1770231288626,
         "locale": "id"
       }
     ],
@@ -12375,9 +12419,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 35,
+        "impressions": 36,
         "clicks": 0,
-        "last_search": 1770218281802,
+        "last_search": 1770231288624,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -12760,9 +12804,9 @@
         "keyword": "Northsle Ft Agiff",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1770044302972,
+        "last_search": 1770231288625,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -13442,9 +13486,9 @@
         "keyword": "NDX AKA - Angin Dalu (HipHop Dangdut Version ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520854914,
+        "last_search": 1770231288624,
         "created_at": 1769520854914,
         "locale": "id"
       },
@@ -13750,9 +13794,9 @@
         "keyword": "NDX AKA - Rasah Dadi Pelangi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769672111093,
+        "last_search": 1770231288624,
         "created_at": 1769672111093,
         "locale": "id"
       },
@@ -16064,9 +16108,9 @@
         "keyword": "Tresno Liyane",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1770044302972,
+        "last_search": 1770231288625,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -16570,9 +16614,9 @@
         "keyword": "Tresno Liyane - Northsle Ft Agiff",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770044302972,
+        "last_search": 1770231288625,
         "created_at": 1769672111094,
         "locale": "id"
       },
@@ -18062,6 +18106,17 @@
         "last_search": 1770040053562,
         "created_at": 1770040053562,
         "locale": "id"
+      },
+      {
+        "id": "kw_1dca3e15-4396-4e04-917c-3ee85f9aa379",
+        "keyword": "Elgi Andara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770231288626,
+        "created_at": 1770231288626,
+        "locale": "id"
       }
     ],
     "w": [
@@ -18598,9 +18653,9 @@
         "keyword": "Woro Widowati - Mencintai Dengan Ngeyel",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769707419091,
+        "last_search": 1770231288624,
         "created_at": 1769707419091,
         "locale": "id"
       },
@@ -18609,9 +18664,9 @@
         "keyword": "Woro Widowati",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769707419091,
+        "last_search": 1770231288624,
         "created_at": 1769707419091,
         "locale": "id"
       },
@@ -18888,6 +18943,17 @@
         "clicks": 0,
         "last_search": 1770218281802,
         "created_at": 1770218281802,
+        "locale": "id"
+      },
+      {
+        "id": "kw_83f8df42-2315-4628-bba2-d242e47b2f95",
+        "keyword": "Woro Widowati - Siji Saklawase",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770231288625,
+        "created_at": 1770231288625,
         "locale": "id"
       }
     ],
@@ -20747,9 +20813,9 @@
         "keyword": "Angin Dalu (HipHop Dangdut Version",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769520854914,
+        "last_search": 1770231288624,
         "created_at": 1769520854914,
         "locale": "id"
       },
@@ -22237,6 +22303,39 @@
         "last_search": 1770219375056,
         "created_at": 1770219375056,
         "locale": "id"
+      },
+      {
+        "id": "kw_ed772552-8d78-4aae-83fd-f0eb0f04ac77",
+        "keyword": "Ashira Zamita - Raja Dan Ratu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770231288625,
+        "created_at": 1770231288625,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9b911dad-ff01-4087-8afc-cb516897b6ce",
+        "keyword": "Ashira Zamita",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770231288625,
+        "created_at": 1770231288625,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2ce4ff7e-3e56-4eba-b642-c7c23e14da30",
+        "keyword": "Anak Wayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770231288625,
+        "created_at": 1770231288625,
+        "locale": "id"
       }
     ],
     "r": [
@@ -22938,9 +23037,9 @@
         "keyword": "Rasah Dadi Pelangi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769672111093,
+        "last_search": 1770231288624,
         "created_at": 1769672111093,
         "locale": "id"
       },
@@ -23272,6 +23371,17 @@
         "clicks": 0,
         "last_search": 1770218281798,
         "created_at": 1770218281798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d90b95fd-33fa-4282-a17a-6ddba16064ca",
+        "keyword": "Raja Dan Ratu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770231288625,
+        "created_at": 1770231288625,
         "locale": "id"
       }
     ],
@@ -26388,6 +26498,39 @@
         "last_search": 1770219375056,
         "created_at": 1770219375056,
         "locale": "id"
+      },
+      {
+        "id": "kw_b15b0be1-bdf7-4ec2-bde4-6d7cd1eab3e3",
+        "keyword": "SINJOKLA - Pendamping Hidup",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770231288625,
+        "created_at": 1770231288625,
+        "locale": "id"
+      },
+      {
+        "id": "kw_778845f2-5e5a-498c-80b5-f96648dd0100",
+        "keyword": "SINJOKLA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770231288625,
+        "created_at": 1770231288625,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1a092ede-0562-4cc0-8438-9e7bcc7d9e04",
+        "keyword": "Siji Saklawase",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770231288625,
+        "created_at": 1770231288625,
+        "locale": "id"
       }
     ],
     "y": [
@@ -27434,9 +27577,9 @@
         "keyword": "Iwan Fals",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1770218270044,
+        "last_search": 1770231288625,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -27933,6 +28076,17 @@
         "clicks": 0,
         "last_search": 1770219375057,
         "created_at": 1770219375057,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4faf49ab-4ad2-44f7-b916-b0af0dffbf08",
+        "keyword": "Iwan Fals - Anak Wayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770231288625,
+        "created_at": 1770231288625,
         "locale": "id"
       }
     ],
