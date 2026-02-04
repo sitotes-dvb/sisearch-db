@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770200458729,
+    "last_updated": 1770215621121,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2947,6 +2947,17 @@
         "clicks": 0,
         "last_search": 1770174865542,
         "created_at": 1770174865530,
+        "locale": "id"
+      },
+      {
+        "id": "kw_762b1791-a7ff-4245-a49e-f66c8aa58968",
+        "keyword": "Dari planet lain -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621098,
+        "created_at": 1770215621098,
         "locale": "id"
       }
     ],
@@ -6438,6 +6449,50 @@
         "clicks": 0,
         "last_search": 1770174865530,
         "created_at": 1770174865530,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dcb952b4-a7b4-4b6f-a15c-11e369d40312",
+        "keyword": "Kisah Yang Lain",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b4561957-ed79-41dd-aad9-089dbf884731",
+        "keyword": "KAU HIDUP DIHATIKU",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7b1af4c0-42a9-47c1-84da-c82689d47d31",
+        "keyword": "Kotak - Terbang -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
+        "locale": "id"
+      },
+      {
+        "id": "kw_89efdd96-92e6-4eb6-8f34-66d061bc8b1c",
+        "keyword": "Kotak",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
         "locale": "id"
       }
     ],
@@ -10284,6 +10339,17 @@
         "last_search": 1770048918123,
         "created_at": 1770048909405,
         "locale": "id"
+      },
+      {
+        "id": "kw_7b9b9dd8-a302-4015-b935-1418378e4d6f",
+        "keyword": "Hilang Baganti Buruak Batuka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
+        "locale": "id"
       }
     ],
     "j": [
@@ -14129,6 +14195,28 @@
         "last_search": 1770051864856,
         "created_at": 1770051864855,
         "locale": "id"
+      },
+      {
+        "id": "kw_65ad7844-773b-4ff8-add1-070be75e872f",
+        "keyword": "No Name Crew - I Miss U",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8d1b4060-0a60-4d25-9f64-febca32ca0f0",
+        "keyword": "No Name Crew",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
+        "locale": "id"
       }
     ],
     "b": [
@@ -14588,9 +14676,9 @@
         "keyword": "Banda Neira",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769518999262,
+        "last_search": 1770215621097,
         "created_at": 1769518999262,
         "locale": "id"
       },
@@ -15142,6 +15230,17 @@
         "clicks": 0,
         "last_search": 1770048918123,
         "created_at": 1770048909405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e514ef43-6f6a-4931-a8f2-79e8fced2123",
+        "keyword": "Banda Neira - Yang Patah Tumbuh, Yang Hilang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
         "locale": "id"
       }
     ],
@@ -16817,6 +16916,17 @@
         "last_search": 1770051864855,
         "created_at": 1770051864855,
         "locale": "id"
+      },
+      {
+        "id": "kw_1d059038-06eb-4d3a-898c-a86e68f3feb3",
+        "keyword": "Terbang -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
+        "locale": "id"
       }
     ],
     "e": [
@@ -17399,9 +17509,9 @@
         "keyword": "WALI",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769945375657,
+        "last_search": 1770215621098,
         "created_at": 1769359994199,
         "locale": "id"
       },
@@ -18140,6 +18250,17 @@
         "clicks": 0,
         "last_search": 1770048918123,
         "created_at": 1770048909405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c212f4e6-be6b-406c-bda6-35720115cd54",
+        "keyword": "WALI - Ada Gajah Dibalik Batu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621098,
+        "created_at": 1770215621097,
         "locale": "id"
       }
     ],
@@ -18923,6 +19044,17 @@
         "clicks": 0,
         "last_search": 1770025486832,
         "created_at": 1770025486832,
+        "locale": "id"
+      },
+      {
+        "id": "kw_94a73979-ee26-43d3-974a-b7f96ed11542",
+        "keyword": "Cinta Yang Lain",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
         "locale": "id"
       }
     ],
@@ -20252,9 +20384,9 @@
         "keyword": "Armada",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770215621096,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -21291,6 +21423,61 @@
         "last_search": 1770051864855,
         "created_at": 1770051864855,
         "locale": "id"
+      },
+      {
+        "id": "kw_044786ce-184e-4aa6-a930-6d9e26b9ba03",
+        "keyword": "Armada - Asal Kau Bahagia -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621096,
+        "created_at": 1770215621096,
+        "locale": "id"
+      },
+      {
+        "id": "kw_652d7c06-d634-41ca-9f15-fa7279f0e61e",
+        "keyword": "Asal Kau Bahagia -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6c925eb3-e3bd-49ee-ba46-288744fe32de",
+        "keyword": "Anggi Marito - Kisah Yang Lain",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
+        "locale": "id"
+      },
+      {
+        "id": "kw_57d9588f-b0c5-4240-95d5-b94aeb5d72a4",
+        "keyword": "Anggi Marito",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
+        "locale": "id"
+      },
+      {
+        "id": "kw_63df1073-2790-4213-821d-7d802715d375",
+        "keyword": "Ada Gajah Dibalik Batu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621098,
+        "created_at": 1770215621098,
+        "locale": "id"
       }
     ],
     "r": [
@@ -22271,6 +22458,28 @@
         "clicks": 0,
         "last_search": 1770174865543,
         "created_at": 1770174865543,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b947e349-5f2c-4b32-92a7-a1b3fb6ee18e",
+        "keyword": "Rayola - Hilang Baganti Buruak Batuka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9aa5e171-9fd3-4874-8ed8-f21a62f44d60",
+        "keyword": "Rayola",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
         "locale": "id"
       }
     ],
@@ -25332,6 +25541,28 @@
         "last_search": 1770051864855,
         "created_at": 1770051864855,
         "locale": "id"
+      },
+      {
+        "id": "kw_16d1b95d-e7fb-430d-8bb3-43a3f5356e55",
+        "keyword": "Sal Priadi - Dari planet lain -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621098,
+        "created_at": 1770215621098,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fca30351-20c3-4020-a442-3bf650ab2df9",
+        "keyword": "Sal Priadi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621098,
+        "created_at": 1770215621098,
+        "locale": "id"
       }
     ],
     "y": [
@@ -25630,6 +25861,17 @@
         "clicks": 0,
         "last_search": 1770047304989,
         "created_at": 1770047295507,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fe937641-6a2e-4898-a5ac-89ef174053a0",
+        "keyword": "Yang Patah Tumbuh, Yang Hilang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
         "locale": "id"
       }
     ],
@@ -26746,6 +26988,39 @@
         "last_search": 1770047304989,
         "created_at": 1770047295523,
         "locale": "id"
+      },
+      {
+        "id": "kw_be491800-a0d2-4c7c-9101-0c28327c0561",
+        "keyword": "I Miss U",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
+        "locale": "id"
+      },
+      {
+        "id": "kw_82e2ef76-432b-42b8-bb63-a52b646d771e",
+        "keyword": "ILIR 7 - KAU HIDUP DIHATIKU",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5be498f7-b1a0-4a89-84eb-9ad0e5a89876",
+        "keyword": "ILIR 7",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
+        "locale": "id"
       }
     ],
     "o": [
@@ -27754,6 +28029,28 @@
         "clicks": 0,
         "last_search": 1770042114177,
         "created_at": 1770042114177,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dc8383e9-dd4f-470b-8b10-fc9e69d8d491",
+        "keyword": "Ungu - Cinta Yang Lain",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6fe1aea3-46ab-401d-b83f-23f9e53e86c0",
+        "keyword": "Ungu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215621097,
+        "created_at": 1770215621097,
         "locale": "id"
       }
     ],
