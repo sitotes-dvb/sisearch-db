@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770215682977,
+    "last_updated": 1770218270084,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1854,9 +1854,9 @@
         "keyword": "Disini Di Batas Kota Ini (Versi Lawas",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769760517514,
+        "last_search": 1770218270043,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -1887,9 +1887,9 @@
         "keyword": "Dere",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769760327977,
+        "last_search": 1770218270043,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -2958,6 +2958,28 @@
         "clicks": 0,
         "last_search": 1770215621098,
         "created_at": 1770215621098,
+        "locale": "id"
+      },
+      {
+        "id": "kw_65d07f5f-060e-480c-9b10-792a44fa1c23",
+        "keyword": "Daftar Koleksi / Piche Kota -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218270043,
+        "created_at": 1770218270043,
+        "locale": "id"
+      },
+      {
+        "id": "kw_20fa2e07-8acb-44b1-b71b-870270da3b93",
+        "keyword": "Dere - Kota -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218270043,
+        "created_at": 1770218270043,
         "locale": "id"
       }
     ],
@@ -6516,6 +6538,39 @@
         "last_search": 1770215621097,
         "created_at": 1770215621097,
         "locale": "id"
+      },
+      {
+        "id": "kw_d8abe5a8-89bc-4d24-b28c-0753061ecc06",
+        "keyword": "Kumpulan Gitar Piche Kota",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218270043,
+        "created_at": 1770218270043,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c0464505-60c8-4d65-ba6e-b44b11145498",
+        "keyword": "Kota -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218270043,
+        "created_at": 1770218270043,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fad5cbe6-d253-42ed-a307-013a26a19959",
+        "keyword": "Kumpulan Gitar Yovie Widianto -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218270044,
+        "created_at": 1770218270043,
+        "locale": "id"
       }
     ],
     "p": [
@@ -7085,9 +7140,9 @@
         "keyword": "Piche Kota",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770215682958,
+        "last_search": 1770218270043,
         "created_at": 1769517639264,
         "locale": "id"
       },
@@ -7767,9 +7822,9 @@
         "keyword": "Piche Kota - Bahagia Lagi -",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770215682958,
+        "last_search": 1770218270043,
         "created_at": 1770026601864,
         "locale": "id"
       },
@@ -7936,6 +7991,39 @@
         "clicks": 0,
         "last_search": 1770048918123,
         "created_at": 1770048909405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cf692c80-4fb0-444e-aba2-23e844bfa34d",
+        "keyword": "Piche Kota, Yovie Widianto - Pada Satu Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218270043,
+        "created_at": 1770218270043,
+        "locale": "id"
+      },
+      {
+        "id": "kw_02035c41-b020-4550-9422-0eb213b9a72c",
+        "keyword": "Piche Kota, Yovie Widianto",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218270043,
+        "created_at": 1770218270043,
+        "locale": "id"
+      },
+      {
+        "id": "kw_40f714bf-d517-4c1c-aba9-94af447ab4df",
+        "keyword": "Pada Satu Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218270043,
+        "created_at": 1770218270043,
         "locale": "id"
       }
     ],
@@ -14305,6 +14393,17 @@
         "last_search": 1770215621097,
         "created_at": 1770215621097,
         "locale": "id"
+      },
+      {
+        "id": "kw_1dd3bb10-c029-4fca-873f-5621d7a8153b",
+        "keyword": "Nyatane Opo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218270044,
+        "created_at": 1770218270044,
+        "locale": "id"
       }
     ],
     "b": [
@@ -15182,9 +15281,9 @@
         "keyword": "Bahagia Lagi -",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770215682958,
+        "last_search": 1770218270043,
         "created_at": 1770026601864,
         "locale": "id"
       },
@@ -15340,6 +15439,17 @@
         "clicks": 0,
         "last_search": 1770215682958,
         "created_at": 1770215682958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f9464b45-29c1-4edd-b27b-ea62130cf67d",
+        "keyword": "Biarlah Ku Sendiri (Loela Drakel",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218270045,
+        "created_at": 1770218270045,
         "locale": "id"
       }
     ],
@@ -16163,9 +16273,9 @@
         "keyword": "Tommy J Pisa",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769760517514,
+        "last_search": 1770218270043,
         "created_at": 1769669620389,
         "locale": "id"
       },
@@ -16460,9 +16570,9 @@
         "keyword": "Tommy J Pisa - Disini Di Batas Kota Ini (Versi Lawas ...",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769760517514,
+        "last_search": 1770218270043,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -17036,6 +17146,28 @@
         "clicks": 0,
         "last_search": 1770215682958,
         "created_at": 1770215682958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1d3392af-b9d0-4f83-ac6c-77176a19b9b2",
+        "keyword": "Tagor Pangaribuan - Biarlah Ku Sendiri (Loela Drakel ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218270044,
+        "created_at": 1770218270044,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b5809913-a44b-4fec-98c1-5bcdfe672901",
+        "keyword": "Tagor Pangaribuan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218270045,
+        "created_at": 1770218270045,
         "locale": "id"
       }
     ],
@@ -18382,6 +18514,28 @@
         "clicks": 0,
         "last_search": 1770215682958,
         "created_at": 1770215682958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bcf669c7-517f-4e03-962b-8fda7a3e07e6",
+        "keyword": "Wildan Nolan - Nyatane Opo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218270044,
+        "created_at": 1770218270044,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d7bff5b9-76a4-4286-a339-89bd24cf39da",
+        "keyword": "Wildan Nolan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218270044,
+        "created_at": 1770218270044,
         "locale": "id"
       }
     ],
@@ -26763,9 +26917,9 @@
         "keyword": "Iwan Fals",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1769760517514,
+        "last_search": 1770218270044,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -27218,6 +27372,17 @@
         "clicks": 0,
         "last_search": 1770215682958,
         "created_at": 1770215682958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_194dd688-9ffe-401b-a71b-b5806e9835d8",
+        "keyword": "Iwan Fals - Kota -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218270044,
+        "created_at": 1770218270044,
         "locale": "id"
       }
     ],
