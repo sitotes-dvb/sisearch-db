@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770051864890,
+    "last_updated": 1770174865566,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -85,6 +85,17 @@
         "clicks": 0,
         "last_search": 1769792968006,
         "created_at": 1769792968006,
+        "locale": "id"
+      },
+      {
+        "id": "kw_90512f3a-5fcd-405c-acd0-109773d6279a",
+        "keyword": "30 November 91 -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770174865530,
+        "created_at": 1770174865530,
         "locale": "id"
       }
     ],
@@ -2096,9 +2107,9 @@
         "keyword": "Daftar Koleksi / Komang Antara @Chordtela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769782191701,
+        "last_search": 1770174865542,
         "created_at": 1769782191701,
         "locale": "id"
       },
@@ -2925,6 +2936,17 @@
         "clicks": 0,
         "last_search": 1770051864855,
         "created_at": 1770051864855,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d6150659-cdeb-4b74-a60a-ba41fc2e8c97",
+        "keyword": "Daftar Koleksi / Raim Laode -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770174865542,
+        "created_at": 1770174865530,
         "locale": "id"
       }
     ],
@@ -3818,6 +3840,17 @@
         "clicks": 0,
         "last_search": 1770049426026,
         "created_at": 1770049414836,
+        "locale": "id"
+      },
+      {
+        "id": "kw_51808cc0-aa8c-4749-9d67-243b5665425b",
+        "keyword": "Lesung Pipi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770174865543,
+        "created_at": 1770174865543,
         "locale": "id"
       }
     ],
@@ -5598,9 +5631,9 @@
         "keyword": "Komang Antara feat. Nik Arthati - BIBIH MUNJU ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769782191700,
+        "last_search": 1770174865530,
         "created_at": 1769782191700,
         "locale": "id"
       },
@@ -5609,9 +5642,9 @@
         "keyword": "Komang Antara feat. Nik Arthati",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769782191700,
+        "last_search": 1770174865530,
         "created_at": 1769782191700,
         "locale": "id"
       },
@@ -5620,9 +5653,9 @@
         "keyword": "Kumpulan Gitar Komang Antara -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769782191701,
+        "last_search": 1770174865542,
         "created_at": 1769782191701,
         "locale": "id"
       },
@@ -5631,9 +5664,9 @@
         "keyword": "Kumpulan Gitar Komang Rediasa -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769782191701,
+        "last_search": 1770174865542,
         "created_at": 1769782191701,
         "locale": "id"
       },
@@ -6394,6 +6427,17 @@
         "clicks": 0,
         "last_search": 1770051864869,
         "created_at": 1770051864868,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9ef193ab-241f-4f56-9b1a-5203676162d2",
+        "keyword": "Komang -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770174865530,
+        "created_at": 1770174865530,
         "locale": "id"
       }
     ],
@@ -9012,9 +9056,9 @@
         "keyword": "Mr.Rayen Feat Omang Verly - Tresna Butuh Materi ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769782191700,
+        "last_search": 1770174865530,
         "created_at": 1769782191700,
         "locale": "id"
       },
@@ -9023,9 +9067,9 @@
         "keyword": "Mr.Rayen Feat Omang Verly",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769782191700,
+        "last_search": 1770174865530,
         "created_at": 1769782191700,
         "locale": "id"
       },
@@ -9034,9 +9078,9 @@
         "keyword": "Mang Ek Ok - Nyohnye Wi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769782191701,
+        "last_search": 1770174865542,
         "created_at": 1769782191701,
         "locale": "id"
       },
@@ -9045,9 +9089,9 @@
         "keyword": "Mang Ek Ok",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769782191701,
+        "last_search": 1770174865542,
         "created_at": 1769782191701,
         "locale": "id"
       },
@@ -11229,9 +11273,9 @@
         "keyword": "Gus Jody",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769782191700,
+        "last_search": 1770174865530,
         "created_at": 1769428790060,
         "locale": "id"
       },
@@ -11717,6 +11761,17 @@
         "clicks": 0,
         "last_search": 1770046454641,
         "created_at": 1770046454641,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9a7cceed-5c3d-422b-82e3-4f8f449335bb",
+        "keyword": "Gus Jody - 30 November 91 -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770174865530,
+        "created_at": 1770174865530,
         "locale": "id"
       }
     ],
@@ -13640,9 +13695,9 @@
         "keyword": "Nyohnye Wi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769782191701,
+        "last_search": 1770174865542,
         "created_at": 1769782191701,
         "locale": "id"
       },
@@ -14830,9 +14885,9 @@
         "keyword": "BIBIH MUNJU",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769782191700,
+        "last_search": 1770174865530,
         "created_at": 1769782191700,
         "locale": "id"
       },
@@ -16229,9 +16284,9 @@
         "keyword": "Tresna Butuh Materi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769782191700,
+        "last_search": 1770174865530,
         "created_at": 1769782191700,
         "locale": "id"
       },
@@ -21651,9 +21706,9 @@
         "keyword": "Raim Laode",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769782700667,
+        "last_search": 1770174865530,
         "created_at": 1769510714274,
         "locale": "id"
       },
@@ -22194,6 +22249,28 @@
         "clicks": 0,
         "last_search": 1770048918123,
         "created_at": 1770048909405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8bc67fa1-9ebc-449d-b3ff-68361c19ddb9",
+        "keyword": "Raim Laode - Komang -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770174865530,
+        "created_at": 1770174865530,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2876c623-4430-4d88-ba44-97df2ec066e8",
+        "keyword": "Raim Laode - Lesung Pipi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770174865543,
+        "created_at": 1770174865543,
         "locale": "id"
       }
     ],
