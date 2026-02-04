@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770218270084,
+    "last_updated": 1770218281813,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2980,6 +2980,28 @@
         "clicks": 0,
         "last_search": 1770218270043,
         "created_at": 1770218270043,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0458f515-1eac-4de9-a8c1-51a0786d2252",
+        "keyword": "DIORAMA - Takdire Pisah -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218281798,
+        "created_at": 1770218281798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2e12a6e0-dd11-47c0-9e7f-6baebe1a762f",
+        "keyword": "DIORAMA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218281798,
+        "created_at": 1770218281798,
         "locale": "id"
       }
     ],
@@ -6571,6 +6593,17 @@
         "last_search": 1770218270044,
         "created_at": 1770218270043,
         "locale": "id"
+      },
+      {
+        "id": "kw_003c1693-2e94-45cd-9c5f-c4e9eda30c8c",
+        "keyword": "Ku Ingin Pisah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218281798,
+        "created_at": 1770218281798,
+        "locale": "id"
       }
     ],
     "p": [
@@ -6590,9 +6623,9 @@
         "keyword": "Pisah",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769354018053,
+        "last_search": 1770218281797,
         "created_at": 1769354018053,
         "locale": "id"
       },
@@ -7811,9 +7844,9 @@
         "keyword": "Pisah -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769991517740,
+        "last_search": 1770218281797,
         "created_at": 1769991517740,
         "locale": "id"
       },
@@ -8024,6 +8057,17 @@
         "clicks": 0,
         "last_search": 1770218270043,
         "created_at": 1770218270043,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7cd60b75-839a-4779-b3ef-ddce64a751d0",
+        "keyword": "Pisah K Lanjut Ft Andy Lo Wi & Jhalo Jz",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218281802,
+        "created_at": 1770218281798,
         "locale": "id"
       }
     ],
@@ -11243,6 +11287,17 @@
         "last_search": 1770046454640,
         "created_at": 1770046454640,
         "locale": "id"
+      },
+      {
+        "id": "kw_b70b7294-c91a-45ca-ba7f-6a0d3afb99f0",
+        "keyword": "Jangan Ada Kata Pisah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218281798,
+        "created_at": 1770218281798,
+        "locale": "id"
       }
     ],
     "g": [
@@ -11273,9 +11328,9 @@
         "keyword": "GuyonWaton Official",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769991517740,
+        "last_search": 1770218281797,
         "created_at": 1769359994200,
         "locale": "id"
       },
@@ -11889,9 +11944,9 @@
         "keyword": "GuyonWaton Official - Pisah -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769991517740,
+        "last_search": 1770218281797,
         "created_at": 1769991517740,
         "locale": "id"
       },
@@ -12166,9 +12221,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 34,
+        "impressions": 35,
         "clicks": 0,
-        "last_search": 1770046454640,
+        "last_search": 1770218281802,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -14404,6 +14459,39 @@
         "last_search": 1770218270044,
         "created_at": 1770218270044,
         "locale": "id"
+      },
+      {
+        "id": "kw_573c07ad-09ef-46f7-8fcf-4c594ecb867b",
+        "keyword": "Nabila Taqiyyah - Ku Ingin Pisah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218281798,
+        "created_at": 1770218281798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1af47770-3ee0-4aad-bf76-ec5b43e1af3f",
+        "keyword": "Nabila Taqiyyah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218281798,
+        "created_at": 1770218281798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_08944445-ca01-4e70-b429-47897914b2e1",
+        "keyword": "NDX AKA - Wegah Pisah -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218281802,
+        "created_at": 1770218281802,
+        "locale": "id"
       }
     ],
     "b": [
@@ -15459,9 +15547,9 @@
         "keyword": "Takkan Pisah - Eren",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769359994199,
+        "last_search": 1770218281798,
         "created_at": 1769359994199,
         "locale": "id"
       },
@@ -15470,9 +15558,9 @@
         "keyword": "Takkan Pisah",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769359994199,
+        "last_search": 1770218281798,
         "created_at": 1769359994199,
         "locale": "id"
       },
@@ -15503,9 +15591,9 @@
         "keyword": "Tak Ingin Pisah Lagi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769359994200,
+        "last_search": 1770218281798,
         "created_at": 1769359994200,
         "locale": "id"
       },
@@ -17169,6 +17257,28 @@
         "last_search": 1770218270045,
         "created_at": 1770218270045,
         "locale": "id"
+      },
+      {
+        "id": "kw_f8604cc0-eac5-4ff4-9c29-abb5e810b1ee",
+        "keyword": "Takkan Pisah -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218281798,
+        "created_at": 1770218281798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9791f9c5-fd72-48ad-9981-747d0e8a9d9b",
+        "keyword": "Takdire Pisah -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218281798,
+        "created_at": 1770218281798,
+        "locale": "id"
       }
     ],
     "e": [
@@ -17177,9 +17287,9 @@
         "keyword": "Eren",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769359994199,
+        "last_search": 1770218281798,
         "created_at": 1769359994199,
         "locale": "id"
       },
@@ -17751,9 +17861,9 @@
         "keyword": "WALI",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770215682958,
+        "last_search": 1770218281798,
         "created_at": 1769359994199,
         "locale": "id"
       },
@@ -18536,6 +18646,28 @@
         "clicks": 0,
         "last_search": 1770218270044,
         "created_at": 1770218270044,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4ce83ea4-890d-4096-b2c9-419881322ad3",
+        "keyword": "WALI - Takkan Pisah -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218281798,
+        "created_at": 1770218281798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_aec5a538-1340-4440-b2fc-62e38fbbc032",
+        "keyword": "Wegah Pisah -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218281802,
+        "created_at": 1770218281802,
         "locale": "id"
       }
     ],
@@ -19330,6 +19462,28 @@
         "clicks": 0,
         "last_search": 1770215621097,
         "created_at": 1770215621097,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ba983873-a3ea-4af0-a9b1-3f0fc9855cc3",
+        "keyword": "Chord KapthenpureK - Pisah K Lanjut Ft Andy Lo Wi & Jhalo Jz",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218281798,
+        "created_at": 1770218281798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_65b63795-b3b8-4cf5-8ab4-69c45081a412",
+        "keyword": "Chord KapthenpureK",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218281798,
+        "created_at": 1770218281798,
         "locale": "id"
       }
     ],
@@ -21816,9 +21970,9 @@
         "keyword": "Rizky Febian Feat. Marion Jola",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769359994200,
+        "last_search": 1770218281798,
         "created_at": 1769359994200,
         "locale": "id"
       },
@@ -22789,6 +22943,39 @@
         "last_search": 1770215621097,
         "created_at": 1770215621097,
         "locale": "id"
+      },
+      {
+        "id": "kw_a9e9bc2f-5a4b-4224-b1d8-2d12b987655a",
+        "keyword": "Restu - Jangan Ada Kata Pisah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218281797,
+        "created_at": 1770218281797,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bd9e099b-8055-4ac9-8599-3b202033bcf1",
+        "keyword": "Restu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218281797,
+        "created_at": 1770218281797,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7e618e91-6d84-4f50-b59e-9f86be69dab5",
+        "keyword": "Rizky Febian Feat. Marion Jola - Tak Ingin Pisah Lagi ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218281798,
+        "created_at": 1770218281798,
+        "locale": "id"
       }
     ],
     "s": [
@@ -22973,9 +23160,9 @@
         "keyword": "Syahiba Saufa",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1770042282130,
+        "last_search": 1770218281797,
         "created_at": 1769396521656,
         "locale": "id"
       },
@@ -25870,6 +26057,17 @@
         "clicks": 0,
         "last_search": 1770215621098,
         "created_at": 1770215621098,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c7a69629-6c15-49eb-937b-dac308c2704a",
+        "keyword": "Syahiba Saufa - Pisah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770218281797,
+        "created_at": 1770218281797,
         "locale": "id"
       }
     ],
