@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770215621121,
+    "last_updated": 1770215682977,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3863,6 +3863,28 @@
         "last_search": 1770174865543,
         "created_at": 1770174865543,
         "locale": "id"
+      },
+      {
+        "id": "kw_657dbc91-d0f0-4790-80b6-a66fbdaa69d6",
+        "keyword": "Langit Bumi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215682958,
+        "created_at": 1770215682958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a2171a7c-70d1-46df-8b04-80eff008f229",
+        "keyword": "Lumpur Dan Berlian",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215682958,
+        "created_at": 1770215682958,
+        "locale": "id"
       }
     ],
     "k": [
@@ -6467,9 +6489,9 @@
         "keyword": "KAU HIDUP DIHATIKU",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770215621097,
+        "last_search": 1770215682958,
         "created_at": 1770215621097,
         "locale": "id"
       },
@@ -7063,9 +7085,9 @@
         "keyword": "Piche Kota",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770215682958,
         "created_at": 1769517639264,
         "locale": "id"
       },
@@ -7745,9 +7767,9 @@
         "keyword": "Piche Kota - Bahagia Lagi -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770215682958,
         "created_at": 1770026601864,
         "locale": "id"
       },
@@ -9633,6 +9655,28 @@
         "last_search": 1770048918123,
         "created_at": 1770048909405,
         "locale": "id"
+      },
+      {
+        "id": "kw_b06913aa-42aa-4e92-b71c-255434ffee52",
+        "keyword": "Mitty Zasia - Tak Searah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215682958,
+        "created_at": 1770215682958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d9d98c3a-4882-403f-8307-f351c16e57d2",
+        "keyword": "Mitty Zasia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215682958,
+        "created_at": 1770215682958,
+        "locale": "id"
       }
     ],
     "h": [
@@ -10349,6 +10393,28 @@
         "clicks": 0,
         "last_search": 1770215621097,
         "created_at": 1770215621097,
+        "locale": "id"
+      },
+      {
+        "id": "kw_61df7792-d969-47f5-8b9f-b2b088bd3869",
+        "keyword": "Hidup Ini Mahal -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215682958,
+        "created_at": 1770215682958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4ea7106b-361c-47e2-9b5f-2b470cd34657",
+        "keyword": "Harusnya Aku -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215682958,
+        "created_at": 1770215682958,
         "locale": "id"
       }
     ],
@@ -11838,6 +11904,28 @@
         "clicks": 0,
         "last_search": 1770174865530,
         "created_at": 1770174865530,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c5d8951c-954c-49e1-b420-0cf3a3820d09",
+        "keyword": "Goliath - Hidup Ini Mahal -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215682958,
+        "created_at": 1770215682958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8c868b5a-97fd-4e7e-82dc-9302d6e33e29",
+        "keyword": "Goliath",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215682958,
+        "created_at": 1770215682958,
         "locale": "id"
       }
     ],
@@ -15094,9 +15182,9 @@
         "keyword": "Bahagia Lagi -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770215682958,
         "created_at": 1770026601864,
         "locale": "id"
       },
@@ -15241,6 +15329,17 @@
         "clicks": 0,
         "last_search": 1770215621097,
         "created_at": 1770215621097,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8578c5b6-ea9b-48b2-9d05-8278b77365c7",
+        "keyword": "Bertahan Terluka -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215682958,
+        "created_at": 1770215682958,
         "locale": "id"
       }
     ],
@@ -16927,6 +17026,17 @@
         "last_search": 1770215621097,
         "created_at": 1770215621097,
         "locale": "id"
+      },
+      {
+        "id": "kw_8fe9376c-e919-4341-9530-745e80db2df1",
+        "keyword": "Tak Searah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215682958,
+        "created_at": 1770215682958,
+        "locale": "id"
       }
     ],
     "e": [
@@ -17509,9 +17619,9 @@
         "keyword": "WALI",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770215621098,
+        "last_search": 1770215682958,
         "created_at": 1769359994199,
         "locale": "id"
       },
@@ -18261,6 +18371,17 @@
         "clicks": 0,
         "last_search": 1770215621098,
         "created_at": 1770215621097,
+        "locale": "id"
+      },
+      {
+        "id": "kw_38c990f0-eac7-483b-a6ff-26b94e4db36b",
+        "keyword": "WALI - Langit Bumi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215682958,
+        "created_at": 1770215682958,
         "locale": "id"
       }
     ],
@@ -20384,9 +20505,9 @@
         "keyword": "Armada",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770215621096,
+        "last_search": 1770215682958,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -21429,9 +21550,9 @@
         "keyword": "Armada - Asal Kau Bahagia -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770215621096,
+        "last_search": 1770215682958,
         "created_at": 1770215621096,
         "locale": "id"
       },
@@ -21440,9 +21561,9 @@
         "keyword": "Asal Kau Bahagia -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770215621097,
+        "last_search": 1770215682958,
         "created_at": 1770215621097,
         "locale": "id"
       },
@@ -21477,6 +21598,39 @@
         "clicks": 0,
         "last_search": 1770215621098,
         "created_at": 1770215621098,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b96412ae-7856-48cd-b5db-c13bc156af5c",
+        "keyword": "Armada - Awas Jatuh Cinta -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215682958,
+        "created_at": 1770215682958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9f3ad47b-6dc8-4f08-a246-700b451ee955",
+        "keyword": "Awas Jatuh Cinta -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215682958,
+        "created_at": 1770215682958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3e545566-b4f3-43b6-8d26-a07ee36ab383",
+        "keyword": "Armada - Harusnya Aku -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215682958,
+        "created_at": 1770215682958,
         "locale": "id"
       }
     ],
@@ -26414,6 +26568,28 @@
         "last_search": 1770048918123,
         "created_at": 1770048909405,
         "locale": "id"
+      },
+      {
+        "id": "kw_c994abb2-8f27-489e-852a-5d418ab42273",
+        "keyword": "Fabio Asher - Bertahan Terluka -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215682958,
+        "created_at": 1770215682958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a56edf04-7966-4106-9c1c-63045285f907",
+        "keyword": "Fabio Asher",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215682958,
+        "created_at": 1770215682958,
+        "locale": "id"
       }
     ],
     "i": [
@@ -27005,9 +27181,9 @@
         "keyword": "ILIR 7 - KAU HIDUP DIHATIKU",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770215621097,
+        "last_search": 1770215682958,
         "created_at": 1770215621097,
         "locale": "id"
       },
@@ -27016,10 +27192,32 @@
         "keyword": "ILIR 7",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1770215682958,
+        "created_at": 1770215621097,
+        "locale": "id"
+      },
+      {
+        "id": "kw_486ad526-d8c0-46bb-bb38-f59c32e7341d",
+        "keyword": "IPANK - Lumpur Dan Berlian",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1770215621097,
-        "created_at": 1770215621097,
+        "last_search": 1770215682958,
+        "created_at": 1770215682958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2c404785-ba2d-4c94-b7e8-5c4d93ea5892",
+        "keyword": "IPANK",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770215682958,
+        "created_at": 1770215682958,
         "locale": "id"
       }
     ],
