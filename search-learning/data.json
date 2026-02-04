@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770218578469,
+    "last_updated": 1770219375096,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1084,9 +1084,9 @@
         "keyword": "Dewa 19",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1770025486831,
+        "last_search": 1770219375054,
         "created_at": 1769423057828,
         "locale": "id"
       },
@@ -1634,9 +1634,9 @@
         "keyword": "Dewi Lanjar",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770025434558,
+        "last_search": 1770219375056,
         "created_at": 1769707449045,
         "locale": "id"
       },
@@ -3013,6 +3013,105 @@
         "clicks": 0,
         "last_search": 1770218578447,
         "created_at": 1770218578447,
+        "locale": "id"
+      },
+      {
+        "id": "kw_807d31f2-8e0d-463d-9824-99fda03611eb",
+        "keyword": "Dewi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375054,
+        "created_at": 1770219375054,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b6af282f-786f-4985-9116-4d0ea3c72d7a",
+        "keyword": "Dewa 19 - Dewi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375054,
+        "created_at": 1770219375054,
+        "locale": "id"
+      },
+      {
+        "id": "kw_779e34e8-b985-4d63-84f8-c453cef997fa",
+        "keyword": "Dewi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375054,
+        "created_at": 1770219375054,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7705bedf-f2bf-4bbc-bf2e-e357f3b6cf96",
+        "keyword": "Dewi Malam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375054,
+        "created_at": 1770219375054,
+        "locale": "id"
+      },
+      {
+        "id": "kw_501eeb5b-50fe-4250-9ea9-32b9783cd2f7",
+        "keyword": "Dewi Kilisuci",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375055,
+        "created_at": 1770219375055,
+        "locale": "id"
+      },
+      {
+        "id": "kw_37b457d9-ae4a-4cd4-8d63-404a7c77ae99",
+        "keyword": "Dewi Dewi - Begitu Salah Begitu Benar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375056,
+        "created_at": 1770219375056,
+        "locale": "id"
+      },
+      {
+        "id": "kw_82df3109-d49e-4734-84cf-76a999b3fc45",
+        "keyword": "Dewi Dewi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375056,
+        "created_at": 1770219375056,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4129a404-6c41-4d53-b9fd-2bd4b69b3796",
+        "keyword": "Dewi Persik - Indah Pada Waktunya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375057,
+        "created_at": 1770219375057,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0e541efa-8f06-4ec0-824a-bb4e087f9139",
+        "keyword": "Dewi Persik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375057,
+        "created_at": 1770219375057,
         "locale": "id"
       }
     ],
@@ -10422,9 +10521,9 @@
         "keyword": "Hijau Daun",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769760095553,
+        "last_search": 1770219375055,
         "created_at": 1769760095553,
         "locale": "id"
       },
@@ -10591,6 +10690,17 @@
         "clicks": 0,
         "last_search": 1770215682958,
         "created_at": 1770215682958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fd685baa-3836-417e-91b4-71120a471ba1",
+        "keyword": "Hijau Daun - Dewi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375055,
+        "created_at": 1770219375054,
         "locale": "id"
       }
     ],
@@ -14536,6 +14646,28 @@
         "last_search": 1770218281802,
         "created_at": 1770218281802,
         "locale": "id"
+      },
+      {
+        "id": "kw_24af81d4-d67c-4f04-b751-9a6c58b6a130",
+        "keyword": "Niken Salindry - Dewi Kilisuci",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375055,
+        "created_at": 1770219375055,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a95b7bf4-abbb-43ae-8bf8-bc4f3dfe45d8",
+        "keyword": "Niken Salindry",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375055,
+        "created_at": 1770219375055,
+        "locale": "id"
       }
     ],
     "b": [
@@ -15582,6 +15714,17 @@
         "clicks": 0,
         "last_search": 1770218270045,
         "created_at": 1770218270045,
+        "locale": "id"
+      },
+      {
+        "id": "kw_edf14a82-71ad-43ee-bdf3-275079b6dc84",
+        "keyword": "Begitu Salah Begitu Benar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375057,
+        "created_at": 1770219375057,
         "locale": "id"
       }
     ],
@@ -17333,6 +17476,28 @@
         "clicks": 0,
         "last_search": 1770218578447,
         "created_at": 1770218578447,
+        "locale": "id"
+      },
+      {
+        "id": "kw_217ed1af-1646-4fe4-89e6-eb5df6036033",
+        "keyword": "Threesixty Skatepunk - Dewi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375042,
+        "created_at": 1770219375041,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f2edd53d-e7e7-4754-bf13-717d14f4378e",
+        "keyword": "Threesixty Skatepunk",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375054,
+        "created_at": 1770219375042,
         "locale": "id"
       }
     ],
@@ -19539,6 +19704,28 @@
         "clicks": 0,
         "last_search": 1770218281798,
         "created_at": 1770218281798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_034b44b2-8cbd-49ce-a6c5-c294f31c9f39",
+        "keyword": "Christian Sugiono - Dewi Malam ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375054,
+        "created_at": 1770219375054,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8d67b721-85cb-4de3-942a-0fcb123ff2c9",
+        "keyword": "Christian Sugiono",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375054,
+        "created_at": 1770219375054,
         "locale": "id"
       }
     ],
@@ -22016,6 +22203,39 @@
         "clicks": 0,
         "last_search": 1770218578447,
         "created_at": 1770218578447,
+        "locale": "id"
+      },
+      {
+        "id": "kw_783c2176-ba56-4b50-b49c-984a13be306f",
+        "keyword": "Aku Tak Berdaya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375056,
+        "created_at": 1770219375056,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fc170a80-f11b-401b-88e1-6976ed62a03d",
+        "keyword": "Alexa - Dewi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375056,
+        "created_at": 1770219375056,
+        "locale": "id"
+      },
+      {
+        "id": "kw_877f2db8-7738-4e68-85c6-18184120bbaa",
+        "keyword": "Alexa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375056,
+        "created_at": 1770219375056,
         "locale": "id"
       }
     ],
@@ -26146,6 +26366,28 @@
         "last_search": 1770218281797,
         "created_at": 1770218281797,
         "locale": "id"
+      },
+      {
+        "id": "kw_f814fe7c-d730-4284-807a-38b3cf4ef3c1",
+        "keyword": "Sindy Purbawati - Dewi Lanjar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375055,
+        "created_at": 1770219375055,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d81e359d-e100-4ae6-9675-5013b01e5cd5",
+        "keyword": "Sindy Purbawati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375056,
+        "created_at": 1770219375056,
+        "locale": "id"
       }
     ],
     "y": [
@@ -27658,6 +27900,39 @@
         "clicks": 0,
         "last_search": 1770218270044,
         "created_at": 1770218270044,
+        "locale": "id"
+      },
+      {
+        "id": "kw_978ead97-1b1b-4a0b-a908-0def1e48d284",
+        "keyword": "Indah Dewi Pertiwi - Aku Tak Berdaya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375056,
+        "created_at": 1770219375056,
+        "locale": "id"
+      },
+      {
+        "id": "kw_62f46e34-4ab4-4499-86a4-b57069cf0b17",
+        "keyword": "Indah Dewi Pertiwi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375056,
+        "created_at": 1770219375056,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5020aa5d-cb74-4e03-9f77-08a55901bcbe",
+        "keyword": "Indah Pada Waktunya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770219375057,
+        "created_at": 1770219375057,
         "locale": "id"
       }
     ],
