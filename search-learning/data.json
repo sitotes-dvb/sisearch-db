@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770278557447,
+    "last_updated": 1770290666066,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1304,9 +1304,9 @@
         "keyword": "Dash Uciha",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510958795,
+        "last_search": 1770290666025,
         "created_at": 1769510958795,
         "locale": "id"
       },
@@ -3124,6 +3124,50 @@
         "last_search": 1770278557433,
         "created_at": 1770278557433,
         "locale": "id"
+      },
+      {
+        "id": "kw_4ebe906b-69a4-471f-a793-4a1f534faef7",
+        "keyword": "D'Masiv - MERINDUKANMU",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666009,
+        "created_at": 1770290666009,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4ee5c8cd-93fe-498a-ac18-2a9a9d5a22bb",
+        "keyword": "D'Masiv",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666009,
+        "created_at": 1770290666009,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f4372682-2f9d-401c-8ecf-99cd7d6644a0",
+        "keyword": "Daftar Koleksi / Khifnu -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666025,
+        "created_at": 1770290666025,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7fd4ebc6-0553-4dd0-b2df-db4373c80ce3",
+        "keyword": "Dash Uciha - Merindukanmu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666025,
+        "created_at": 1770290666025,
+        "locale": "id"
       }
     ],
     "l": [
@@ -4049,6 +4093,17 @@
         "clicks": 0,
         "last_search": 1770215682958,
         "created_at": 1770215682958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9c3c274f-14af-48df-ae81-76c94f5176e1",
+        "keyword": "Lagi Lagi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666026,
+        "created_at": 1770290666026,
         "locale": "id"
       }
     ],
@@ -6758,6 +6813,50 @@
         "last_search": 1770231288625,
         "created_at": 1770231288624,
         "locale": "id"
+      },
+      {
+        "id": "kw_aec42e20-878d-4019-861b-2f285930db78",
+        "keyword": "Khifnu - Merindumu lagi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666008,
+        "created_at": 1770290666008,
+        "locale": "id"
+      },
+      {
+        "id": "kw_15069ef7-b357-4f2e-84d9-4184db50e984",
+        "keyword": "Khifnu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666009,
+        "created_at": 1770290666008,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f0b3438f-5c8c-45f7-bfc5-6116eba1751e",
+        "keyword": "Kumpulan Gitar Khifnu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666026,
+        "created_at": 1770290666026,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9e00be24-7c54-48e6-973d-679cc878eb88",
+        "keyword": "Kadung Merindu -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666026,
+        "created_at": 1770290666026,
+        "locale": "id"
       }
     ],
     "p": [
@@ -8484,9 +8583,9 @@
         "keyword": "Meiska",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407784909,
+        "last_search": 1770290666026,
         "created_at": 1769407784909,
         "locale": "id"
       },
@@ -8770,9 +8869,9 @@
         "keyword": "Merindu Lagi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510958795,
+        "last_search": 1770290666009,
         "created_at": 1769510958795,
         "locale": "id"
       },
@@ -9984,6 +10083,50 @@
         "clicks": 0,
         "last_search": 1770215682958,
         "created_at": 1770215682958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fcbf1443-603e-43ab-8f61-0ecc2f0314c7",
+        "keyword": "Merindumu lagi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666009,
+        "created_at": 1770290666009,
+        "locale": "id"
+      },
+      {
+        "id": "kw_692a6fb7-a2a4-4b72-9914-0eb16b73a553",
+        "keyword": "MERINDUKANMU",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666025,
+        "created_at": 1770290666025,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fe58c823-764a-490f-8afc-de1fe88e649a",
+        "keyword": "Merindukanmu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666025,
+        "created_at": 1770290666025,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7caf4a8b-cf61-4ed0-82e4-b771706c59ee",
+        "keyword": "Meiska - Kadung Merindu -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666026,
+        "created_at": 1770290666026,
         "locale": "id"
       }
     ],
@@ -17554,6 +17697,17 @@
         "last_search": 1770219375054,
         "created_at": 1770219375042,
         "locale": "id"
+      },
+      {
+        "id": "kw_bf0d44fb-aff5-4f2f-9210-e49c07eb75ad",
+        "keyword": "Tetap Merindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666025,
+        "created_at": 1770290666025,
+        "locale": "id"
       }
     ],
     "e": [
@@ -18977,6 +19131,17 @@
         "last_search": 1770231288625,
         "created_at": 1770231288625,
         "locale": "id"
+      },
+      {
+        "id": "kw_e1532ad3-9163-44e3-85cf-bfa0b929c69b",
+        "keyword": "Wulan Merindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666026,
+        "created_at": 1770290666026,
+        "locale": "id"
       }
     ],
     "c": [
@@ -19814,6 +19979,28 @@
         "clicks": 0,
         "last_search": 1770219375054,
         "created_at": 1770219375054,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ff7402fc-a8ae-49b2-9756-4044eb3574c4",
+        "keyword": "Cici Paramida - Wulan Merindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666026,
+        "created_at": 1770290666026,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1235bfe8-b71f-4b03-b20f-2b1a74bd6e77",
+        "keyword": "Cici Paramida",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666026,
+        "created_at": 1770290666026,
         "locale": "id"
       }
     ],
@@ -22861,9 +23048,9 @@
         "keyword": "Rizky Febian",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769518999262,
+        "last_search": 1770290666025,
         "created_at": 1769518999262,
         "locale": "id"
       },
@@ -23404,6 +23591,39 @@
         "clicks": 0,
         "last_search": 1770231288625,
         "created_at": 1770231288625,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2e30de1c-4b71-4973-a9b3-4c82fd7c8f37",
+        "keyword": "Rizky Febian - Tetap Merindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666025,
+        "created_at": 1770290666025,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fcce5b66-af8a-4ec6-b9ad-ab040838e86e",
+        "keyword": "Raissa Anggiani - Lagi Lagi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666026,
+        "created_at": 1770290666026,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ea8fbf69-bb62-43e3-8c07-0c267a2504d2",
+        "keyword": "Raissa Anggiani",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666026,
+        "created_at": 1770290666026,
         "locale": "id"
       }
     ],
@@ -26616,9 +26836,9 @@
         "keyword": "Yovie & Nuno",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510958795,
+        "last_search": 1770290666009,
         "created_at": 1769510958795,
         "locale": "id"
       },
@@ -26862,6 +27082,17 @@
         "clicks": 0,
         "last_search": 1770215621097,
         "created_at": 1770215621097,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0f00f82f-e4e4-4c1c-bd8e-24ebd079eca8",
+        "keyword": "Yovie & Nuno - Merindu Lagi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770290666009,
+        "created_at": 1770290666009,
         "locale": "id"
       }
     ],
