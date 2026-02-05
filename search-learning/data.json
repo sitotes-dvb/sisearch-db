@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770291349396,
+    "last_updated": 1770297749722,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -259,9 +259,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 58,
+        "impressions": 59,
         "clicks": 0,
-        "last_search": 1770264001733,
+        "last_search": 1770297749661,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -1546,9 +1546,9 @@
         "keyword": "Denny Caknan - SATRU 2 -",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770200458690,
+        "last_search": 1770297749661,
         "created_at": 1769670975194,
         "locale": "id"
       },
@@ -1590,9 +1590,9 @@
         "keyword": "Didi Kempot",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769991517739,
+        "last_search": 1770297749662,
         "created_at": 1769703914634,
         "locale": "id"
       },
@@ -3168,6 +3168,28 @@
         "last_search": 1770290666025,
         "created_at": 1770290666025,
         "locale": "id"
+      },
+      {
+        "id": "kw_3cde756e-bd5f-4cbd-9837-3f73cbf8edb6",
+        "keyword": "Didi Kempot - Cidro -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297749662,
+        "created_at": 1770297749661,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1bb2699e-a7a4-472e-a1ff-ee988b256b77",
+        "keyword": "Daftar Koleksi / Cindi Cintya Dewi @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297749662,
+        "created_at": 1770297749662,
+        "locale": "id"
       }
     ],
     "l": [
@@ -4127,6 +4149,17 @@
         "last_search": 1770291349355,
         "created_at": 1770291349355,
         "locale": "id"
+      },
+      {
+        "id": "kw_b810bbbb-d1ed-41aa-a4fd-dd23623802d5",
+        "keyword": "Loro Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297749662,
+        "created_at": 1770297749662,
+        "locale": "id"
       }
     ],
     "k": [
@@ -4982,9 +5015,9 @@
         "keyword": "Kelingan Mantan",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770278557433,
+        "last_search": 1770297749661,
         "created_at": 1769582439065,
         "locale": "id"
       },
@@ -8185,9 +8218,9 @@
         "keyword": "Pelanggaran -",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770042114176,
+        "last_search": 1770297749662,
         "created_at": 1770036109479,
         "locale": "id"
       },
@@ -10183,6 +10216,17 @@
         "last_search": 1770290666026,
         "created_at": 1770290666026,
         "locale": "id"
+      },
+      {
+        "id": "kw_e95b8744-57d3-48af-8d60-33d619995fe7",
+        "keyword": "Manungso Lemah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297749662,
+        "created_at": 1770297749662,
+        "locale": "id"
       }
     ],
     "h": [
@@ -11900,9 +11944,9 @@
         "keyword": "GuyonWaton",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1770042114176,
+        "last_search": 1770297749662,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -12362,9 +12406,9 @@
         "keyword": "GuyonWaton - Pelanggaran -",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770042114176,
+        "last_search": 1770297749662,
         "created_at": 1770036109479,
         "locale": "id"
       },
@@ -12628,9 +12672,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 37,
+        "impressions": 38,
         "clicks": 0,
-        "last_search": 1770278557433,
+        "last_search": 1770297749661,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -13200,9 +13244,9 @@
         "keyword": "Nella Kharisma",
         "tags": [],
         "weight": 1,
-        "impressions": 14,
+        "impressions": 15,
         "clicks": 0,
-        "last_search": 1770047692119,
+        "last_search": 1770297749662,
         "created_at": 1769428790060,
         "locale": "id"
       },
@@ -13948,9 +13992,9 @@
         "keyword": "Nella Kharisma - Aku Cah Kerjo ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769762224447,
+        "last_search": 1770297749662,
         "created_at": 1769670975177,
         "locale": "id"
       },
@@ -14113,9 +14157,9 @@
         "keyword": "NDX AKA - Kelingan Mantan",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770278557433,
+        "last_search": 1770297749661,
         "created_at": 1769703958514,
         "locale": "id"
       },
@@ -14920,6 +14964,17 @@
         "clicks": 0,
         "last_search": 1770219375055,
         "created_at": 1770219375055,
+        "locale": "id"
+      },
+      {
+        "id": "kw_57f21bcc-e5eb-43e4-901b-0a8f290b150d",
+        "keyword": "NDX AKA - Loro Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297749662,
+        "created_at": 1770297749662,
         "locale": "id"
       }
     ],
@@ -18392,6 +18447,28 @@
         "last_search": 1770278557433,
         "created_at": 1770278557433,
         "locale": "id"
+      },
+      {
+        "id": "kw_2282a8a7-5178-4bc3-a275-5119403fb990",
+        "keyword": "Eko ESB - Manungso Lemah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297749662,
+        "created_at": 1770297749662,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1530c598-eb95-475f-896a-45151ea81365",
+        "keyword": "Eko ESB",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297749662,
+        "created_at": 1770297749662,
+        "locale": "id"
       }
     ],
     "w": [
@@ -19964,9 +20041,9 @@
         "keyword": "Cindi Cintya Dewi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769991517739,
+        "last_search": 1770297749661,
         "created_at": 1769991517739,
         "locale": "id"
       },
@@ -20100,6 +20177,39 @@
         "clicks": 0,
         "last_search": 1770290666026,
         "created_at": 1770290666026,
+        "locale": "id"
+      },
+      {
+        "id": "kw_56b17f2c-2f6c-47f9-8544-db21a81b4078",
+        "keyword": "Cidro 2 - Cindi Cintya Dewi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297749661,
+        "created_at": 1770297749661,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8569e572-eda4-4163-b125-eb5c1b8ab837",
+        "keyword": "Cidro 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297749661,
+        "created_at": 1770297749661,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5c33bf13-2f33-4f61-a445-ec8deb7e9c9a",
+        "keyword": "Cidro -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297749662,
+        "created_at": 1770297749662,
         "locale": "id"
       }
     ],
@@ -21440,9 +21550,9 @@
         "keyword": "Aku Cah Kerjo",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769762224448,
+        "last_search": 1770297749662,
         "created_at": 1769670975177,
         "locale": "id"
       },
@@ -25426,9 +25536,9 @@
         "keyword": "SATRU 2 -",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770200458690,
+        "last_search": 1770297749661,
         "created_at": 1769670975194,
         "locale": "id"
       },
