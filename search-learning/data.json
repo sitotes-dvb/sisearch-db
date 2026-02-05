@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770297857518,
+    "last_updated": 1770297948744,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -10304,6 +10304,61 @@
         "last_search": 1770297749662,
         "created_at": 1770297749662,
         "locale": "id"
+      },
+      {
+        "id": "kw_dc2342f9-9996-4245-9038-d5c6987af78b",
+        "keyword": "Moza - Medley",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948723,
+        "created_at": 1770297948723,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c238ef91-3817-4c52-849a-05f288802b35",
+        "keyword": "Moza",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948723,
+        "created_at": 1770297948723,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c61d9b45-5c97-4432-b5d2-e1d774d25522",
+        "keyword": "Medley",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948723,
+        "created_at": 1770297948723,
+        "locale": "id"
+      },
+      {
+        "id": "kw_39249084-6192-4006-b2c2-6cc8ad8ec900",
+        "keyword": "Melly Goeslaw - Gantung -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fd7996da-08fb-460a-bb48-d982f0173ca5",
+        "keyword": "Melly Goeslaw",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
+        "locale": "id"
       }
     ],
     "h": [
@@ -11076,6 +11131,28 @@
         "last_search": 1770231288626,
         "created_at": 1770231288626,
         "locale": "id"
+      },
+      {
+        "id": "kw_53089e9c-72e2-43a2-a1b8-0787250e2dd4",
+        "keyword": "Hingga Akhir Waktu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
+        "locale": "id"
+      },
+      {
+        "id": "kw_342d16ef-2226-4195-b2ad-625ed6680562",
+        "keyword": "Hingga Napas Ini Habis",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
+        "locale": "id"
       }
     ],
     "j": [
@@ -11392,9 +11469,9 @@
         "keyword": "Judika",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769758686746,
+        "last_search": 1770297948723,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -11825,6 +11902,72 @@
         "clicks": 0,
         "last_search": 1770218281798,
         "created_at": 1770218281798,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ab0bc070-4d0b-4056-8849-2db9f4e581e7",
+        "keyword": "Judika - Jikalau Kau Cinta -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948723,
+        "created_at": 1770297948723,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2d0abac0-f6d4-453c-b6d8-bd0dc77110e1",
+        "keyword": "Jikalau Kau Cinta -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948723,
+        "created_at": 1770297948723,
+        "locale": "id"
+      },
+      {
+        "id": "kw_53ca69ff-1249-44a4-b31c-aea5c82eb546",
+        "keyword": "Jangan Pernah Berubah - ST 12",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948723,
+        "created_at": 1770297948723,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4d2546cd-ca33-41eb-b7f2-cffc95bdef5e",
+        "keyword": "Jangan Pernah Berubah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948723,
+        "created_at": 1770297948723,
+        "locale": "id"
+      },
+      {
+        "id": "kw_babb816e-ac43-408b-8c23-838387765948",
+        "keyword": "Juicy Luicy - Tanpa Tergesa -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
+        "locale": "id"
+      },
+      {
+        "id": "kw_11e76791-3bf7-4d00-b6a5-9d2e2d0cea20",
+        "keyword": "Juicy Luicy",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
         "locale": "id"
       }
     ],
@@ -12597,6 +12740,17 @@
         "clicks": 0,
         "last_search": 1770215682958,
         "created_at": 1770215682958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_391da38f-89b7-4981-9377-e061d3c3589d",
+        "keyword": "Gantung -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
         "locale": "id"
       }
     ],
@@ -15053,6 +15207,28 @@
         "last_search": 1770297749662,
         "created_at": 1770297749662,
         "locale": "id"
+      },
+      {
+        "id": "kw_63d14a06-2746-4115-bdf7-570cdaf4665b",
+        "keyword": "Nineball - Hingga Akhir Waktu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
+        "locale": "id"
+      },
+      {
+        "id": "kw_52ff7e6a-7c7a-4903-ab35-596cc936ab1e",
+        "keyword": "Nineball",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
+        "locale": "id"
       }
     ],
     "b": [
@@ -15831,9 +16007,9 @@
         "keyword": "Budi Doremi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769782560565,
+        "last_search": 1770297948724,
         "created_at": 1769782560565,
         "locale": "id"
       },
@@ -16121,6 +16297,17 @@
         "clicks": 0,
         "last_search": 1770297857460,
         "created_at": 1770297857460,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a36339c5-1ac1-414e-8fed-b30102d885e4",
+        "keyword": "Budi Doremi - Tak Kan Hilang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
         "locale": "id"
       }
     ],
@@ -17949,6 +18136,28 @@
         "clicks": 0,
         "last_search": 1770291349355,
         "created_at": 1770291349355,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cb45bdb3-3342-40a6-b107-73bb52b6f241",
+        "keyword": "Tanpa Tergesa -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
+        "locale": "id"
+      },
+      {
+        "id": "kw_29ef2695-0d44-4f2c-9b89-b95b37767eb6",
+        "keyword": "Tak Kan Hilang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
         "locale": "id"
       }
     ],
@@ -20321,6 +20530,17 @@
         "last_search": 1770297749662,
         "created_at": 1770297749662,
         "locale": "id"
+      },
+      {
+        "id": "kw_eda762bb-7e0f-4deb-b08a-9f7a2e6a3cc4",
+        "keyword": "Celengan Rindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
+        "locale": "id"
       }
     ],
     "a": [
@@ -21143,9 +21363,9 @@
         "keyword": "Angga Candra",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769606173936,
+        "last_search": 1770297948724,
         "created_at": 1769477147758,
         "locale": "id"
       },
@@ -22863,6 +23083,17 @@
         "clicks": 0,
         "last_search": 1770231288625,
         "created_at": 1770231288625,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9a18f867-3729-4b9e-9378-5e2e7a02f4d7",
+        "keyword": "Angga Candra - Sampai Tutup Usia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
         "locale": "id"
       }
     ],
@@ -27114,6 +27345,28 @@
         "last_search": 1770297857460,
         "created_at": 1770297857460,
         "locale": "id"
+      },
+      {
+        "id": "kw_f14cbee8-5031-4f14-84ce-6be33133f38c",
+        "keyword": "ST 12",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
+        "locale": "id"
+      },
+      {
+        "id": "kw_48647128-8703-442b-bee9-3fad32c328e2",
+        "keyword": "Sampai Tutup Usia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
+        "locale": "id"
       }
     ],
     "y": [
@@ -27997,6 +28250,39 @@
         "clicks": 0,
         "last_search": 1770215682958,
         "created_at": 1770215682958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8a02b7d0-5529-4299-b370-280dd77e6eeb",
+        "keyword": "Fiersa Besari - Celengan Rindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
+        "locale": "id"
+      },
+      {
+        "id": "kw_76f59942-05dd-4180-828d-ba0db81ead6b",
+        "keyword": "Fiersa Besari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0fda1305-5619-4a59-8bd4-5bca3707e75c",
+        "keyword": "Fiersa Besari - Hingga Napas Ini Habis",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297948724,
+        "created_at": 1770297948724,
         "locale": "id"
       }
     ],
