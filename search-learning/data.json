@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770290666066,
+    "last_updated": 1770291349396,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -4105,6 +4105,28 @@
         "last_search": 1770290666026,
         "created_at": 1770290666026,
         "locale": "id"
+      },
+      {
+        "id": "kw_a555f64d-fe1f-436c-9ffb-85e4ce3c0475",
+        "keyword": "Langit Tak Seharusnya Biru",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770291349354,
+        "created_at": 1770291349354,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e1a6ae63-2ebd-4927-9050-92921a9af77a",
+        "keyword": "LONTEKU -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770291349355,
+        "created_at": 1770291349355,
+        "locale": "id"
       }
     ],
     "k": [
@@ -6857,6 +6879,28 @@
         "last_search": 1770290666026,
         "created_at": 1770290666026,
         "locale": "id"
+      },
+      {
+        "id": "kw_35d0c15a-d426-44fa-96c8-114d5cc3f1df",
+        "keyword": "Ku Bukan Mesin Lotremu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770291349354,
+        "created_at": 1770291349354,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d963fc25-4363-4adf-8434-01caff498c69",
+        "keyword": "Kau Pemeran Utama Di Sebuah Opera -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770291349354,
+        "created_at": 1770291349354,
+        "locale": "id"
       }
     ],
     "p": [
@@ -8343,6 +8387,17 @@
         "clicks": 0,
         "last_search": 1770231288625,
         "created_at": 1770231288625,
+        "locale": "id"
+      },
+      {
+        "id": "kw_569541af-d334-4b3f-87de-507fd4a5384d",
+        "keyword": "Pesawat Tempurku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770291349354,
+        "created_at": 1770291349354,
         "locale": "id"
       }
     ],
@@ -16878,9 +16933,9 @@
         "keyword": "The Jansen",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769782700667,
+        "last_search": 1770291349354,
         "created_at": 1769747925962,
         "locale": "id"
       },
@@ -17707,6 +17762,50 @@
         "clicks": 0,
         "last_search": 1770290666025,
         "created_at": 1770290666025,
+        "locale": "id"
+      },
+      {
+        "id": "kw_15ea9f51-9463-440f-b60f-9dd793f9d261",
+        "keyword": "The Jansen - Ku Bukan Mesin Lotremu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770291349354,
+        "created_at": 1770291349354,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d7cd5816-c6d3-4376-b0ba-d4d28e7533be",
+        "keyword": "The Jansen - Langit Tak Seharusnya Biru",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770291349354,
+        "created_at": 1770291349354,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1e9ef792-328f-4f3c-b23c-e390142618e2",
+        "keyword": "The Jansen - Tipu Daya Sejarah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770291349355,
+        "created_at": 1770291349355,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8698a685-0566-4cfb-863f-092e9bd0b13f",
+        "keyword": "Tipu Daya Sejarah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770291349355,
+        "created_at": 1770291349355,
         "locale": "id"
       }
     ],
@@ -27830,9 +27929,9 @@
         "keyword": "Iwan Fals",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1770231288625,
+        "last_search": 1770291349354,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -28340,6 +28439,28 @@
         "clicks": 0,
         "last_search": 1770231288625,
         "created_at": 1770231288625,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ee62de0a-d92c-434e-8825-78183dd4a314",
+        "keyword": "Iwan Fals - Pesawat Tempurku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770291349354,
+        "created_at": 1770291349354,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0fcf3d28-63ab-4d31-a3f7-81bfdf8ebc1b",
+        "keyword": "Iwan Fals - LONTEKU -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770291349355,
+        "created_at": 1770291349354,
         "locale": "id"
       }
     ],
