@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770297749722,
+    "last_updated": 1770297857518,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -259,9 +259,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 59,
+        "impressions": 60,
         "clicks": 0,
-        "last_search": 1770297749661,
+        "last_search": 1770297857459,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -391,9 +391,9 @@
         "keyword": "Denny Caknan - Sugeng Dalu",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770040962605,
+        "last_search": 1770297857459,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -2613,9 +2613,9 @@
         "keyword": "Daftar Koleksi / Denny Caknan -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770036109479,
+        "last_search": 1770297857460,
         "created_at": 1770036109479,
         "locale": "id"
       },
@@ -2624,9 +2624,9 @@
         "keyword": "Denny Caknan - Wirang -",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770264001733,
+        "last_search": 1770297857460,
         "created_at": 1770036109479,
         "locale": "id"
       },
@@ -3189,6 +3189,50 @@
         "clicks": 0,
         "last_search": 1770297749662,
         "created_at": 1770297749662,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a6737bbe-24fb-48b8-921c-5b4bccf2d57e",
+        "keyword": "Dyah Novia - Sugeng Dalu Sayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297857460,
+        "created_at": 1770297857460,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3d5b2ec1-acea-4a33-9323-f466407198ff",
+        "keyword": "Dyah Novia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297857460,
+        "created_at": 1770297857460,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7f1d907b-7572-410c-88d1-91a504d0cea8",
+        "keyword": "Denny Caknan - Selamat Malam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297857460,
+        "created_at": 1770297857460,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4cf5a75b-1c05-4c73-961d-67da42d01c8e",
+        "keyword": "Daftar Koleksi / Dyah Novia -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297857460,
+        "created_at": 1770297857460,
         "locale": "id"
       }
     ],
@@ -4159,6 +4203,28 @@
         "clicks": 0,
         "last_search": 1770297749662,
         "created_at": 1770297749662,
+        "locale": "id"
+      },
+      {
+        "id": "kw_25b56a2a-2b11-40bc-80cd-bf70faa07f8d",
+        "keyword": "Leona Zhen - Isih Sayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297857460,
+        "created_at": 1770297857460,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fce07138-6c08-46bc-87a3-68ddfc32b4a1",
+        "keyword": "Leona Zhen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297857460,
+        "created_at": 1770297857460,
         "locale": "id"
       }
     ],
@@ -6933,6 +6999,17 @@
         "clicks": 0,
         "last_search": 1770291349354,
         "created_at": 1770291349354,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d70bd4d3-5a1f-4106-93e2-6679f54a615b",
+        "keyword": "Kumpulan Gitar Dyah Novia -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297857460,
+        "created_at": 1770297857460,
         "locale": "id"
       }
     ],
@@ -14839,9 +14916,9 @@
         "keyword": "Ndarboy Genk feat. Denny Caknan - Rungokno Aku ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770048918123,
+        "last_search": 1770297857459,
         "created_at": 1770048909404,
         "locale": "id"
       },
@@ -14850,9 +14927,9 @@
         "keyword": "Ndarboy Genk feat. Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770048918123,
+        "last_search": 1770297857460,
         "created_at": 1770048909404,
         "locale": "id"
       },
@@ -16033,6 +16110,17 @@
         "clicks": 0,
         "last_search": 1770219375057,
         "created_at": 1770219375057,
+        "locale": "id"
+      },
+      {
+        "id": "kw_460f451b-b452-4fd8-95c9-adc425b42a17",
+        "keyword": "BESAN",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297857460,
+        "created_at": 1770297857460,
         "locale": "id"
       }
     ],
@@ -19159,9 +19247,9 @@
         "keyword": "Wirang -",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770264001733,
+        "last_search": 1770297857460,
         "created_at": 1770036109479,
         "locale": "id"
       },
@@ -19317,6 +19405,28 @@
         "clicks": 0,
         "last_search": 1770290666026,
         "created_at": 1770290666026,
+        "locale": "id"
+      },
+      {
+        "id": "kw_da8d176d-81e7-42ba-b39c-f912b7350dbc",
+        "keyword": "WARASTRA MUSIC - BESAN",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297857460,
+        "created_at": 1770297857460,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b9319376-15bb-47ff-b52e-837dbf9c405e",
+        "keyword": "WARASTRA MUSIC",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297857460,
+        "created_at": 1770297857460,
         "locale": "id"
       }
     ],
@@ -23708,9 +23818,9 @@
         "keyword": "Rungokno Aku",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770048918123,
+        "last_search": 1770297857460,
         "created_at": 1770048909405,
         "locale": "id"
       },
@@ -23974,9 +24084,9 @@
         "keyword": "Sugeng Dalu",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770040962605,
+        "last_search": 1770297857459,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -26982,6 +27092,28 @@
         "last_search": 1770231288625,
         "created_at": 1770231288625,
         "locale": "id"
+      },
+      {
+        "id": "kw_956fc712-e849-4bba-a655-73f6466ac85b",
+        "keyword": "Sugeng Dalu Sayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297857460,
+        "created_at": 1770297857460,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3177e5fb-d246-422a-abfc-e5744d3dc11a",
+        "keyword": "Selamat Malam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770297857460,
+        "created_at": 1770297857460,
+        "locale": "id"
       }
     ],
     "y": [
@@ -28105,9 +28237,9 @@
         "keyword": "Isih Sayang",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769703874522,
+        "last_search": 1770297857460,
         "created_at": 1769611865001,
         "locale": "id"
       },
