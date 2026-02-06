@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770357692291,
+    "last_updated": 1770357811212,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -96,6 +96,19 @@
         "clicks": 0,
         "last_search": 1770174865530,
         "created_at": 1770174865530,
+        "locale": "id"
+      }
+    ],
+    "6": [
+      {
+        "id": "kw_fa46340d-ef0a-4110-acda-393906247c27",
+        "keyword": "606116 -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811189,
+        "created_at": 1770357811189,
         "locale": "id"
       }
     ],
@@ -3343,6 +3356,17 @@
         "clicks": 0,
         "last_search": 1770357692252,
         "created_at": 1770357692252,
+        "locale": "id"
+      },
+      {
+        "id": "kw_173051f7-1755-4eb8-9347-c0e195c3e6b3",
+        "keyword": "Daftar Koleksi / ROMI & The JAHATs",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811188,
+        "created_at": 1770357811188,
         "locale": "id"
       }
     ],
@@ -8751,6 +8775,28 @@
         "last_search": 1770291349354,
         "created_at": 1770291349354,
         "locale": "id"
+      },
+      {
+        "id": "kw_17c81675-afe5-4cc7-b474-09e68e767ef5",
+        "keyword": "Pena Bertinta Api",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811189,
+        "created_at": 1770357811189,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d2767149-b1b6-4210-a433-efae536e5403",
+        "keyword": "Pulangku Untuk Pergi Kembali",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811189,
+        "created_at": 1770357811189,
+        "locale": "id"
       }
     ],
     "m": [
@@ -10633,6 +10679,17 @@
         "clicks": 0,
         "last_search": 1770357692266,
         "created_at": 1770357692266,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6629debd-3802-42e9-b811-4b797d93a047",
+        "keyword": "Merah Muda Berduri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811189,
+        "created_at": 1770357811189,
         "locale": "id"
       }
     ],
@@ -16749,6 +16806,50 @@
         "last_search": 1770357692267,
         "created_at": 1770357692267,
         "locale": "id"
+      },
+      {
+        "id": "kw_beaacc30-a929-41af-87cd-248cd86d408e",
+        "keyword": "Bunga Kertas Merah Berduri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811188,
+        "created_at": 1770357811188,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7294c929-8a43-42c0-ad1f-4158f307c079",
+        "keyword": "Bonet Less - Merah Muda Berduri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811189,
+        "created_at": 1770357811189,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d45680aa-8438-40c2-ba9b-9e7521e5d719",
+        "keyword": "Bonet Less",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811189,
+        "created_at": 1770357811189,
+        "locale": "id"
+      },
+      {
+        "id": "kw_871c5200-dfe9-45c3-8959-7c64a3a31aa0",
+        "keyword": "Bukit Berbunga",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811189,
+        "created_at": 1770357811189,
+        "locale": "id"
       }
     ],
     "t": [
@@ -18664,6 +18765,17 @@
         "clicks": 0,
         "last_search": 1770357692251,
         "created_at": 1770357692251,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c6549cff-2ae9-4360-afcd-6ab8ea9f6ed3",
+        "keyword": "Tagepe -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811189,
+        "created_at": 1770357811189,
         "locale": "id"
       }
     ],
@@ -24434,9 +24546,9 @@
         "keyword": "ROMI & The JAHATs",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769770136735,
+        "last_search": 1770357811189,
         "created_at": 1769747925962,
         "locale": "id"
       },
@@ -24790,6 +24902,94 @@
         "clicks": 0,
         "last_search": 1770303248273,
         "created_at": 1770303248273,
+        "locale": "id"
+      },
+      {
+        "id": "kw_18eeaeb5-3561-495e-b628-acdd9ebcb845",
+        "keyword": "Romi Jahat - Bunga Kertas Merah Berduri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811188,
+        "created_at": 1770357811188,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5ef22b9d-3621-46a8-88e0-ef9f4b2921a8",
+        "keyword": "Romi Jahat",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811188,
+        "created_at": 1770357811188,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0f6fa3ac-4be8-4c00-a2dc-545f256f741b",
+        "keyword": "Roy Saklil - Tagepe -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811189,
+        "created_at": 1770357811188,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7162d2db-c387-4740-9f96-9e62db3edfc6",
+        "keyword": "Roy Saklil",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811189,
+        "created_at": 1770357811189,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4a239e45-73da-43ab-bfa9-493c3ee2d2b2",
+        "keyword": "ROMI & The JAHATs - Pena Bertinta Api",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811189,
+        "created_at": 1770357811189,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e023968a-e220-43bb-97b0-2a7a43ab675a",
+        "keyword": "Romi Jahat - 606116 -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811189,
+        "created_at": 1770357811189,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0f8f1e16-ba32-4402-8aa0-27892e7404bd",
+        "keyword": "ROMI & The JAHATs - Film Murahan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811189,
+        "created_at": 1770357811189,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5ed03d98-1db9-489d-8f47-798ce34d0748",
+        "keyword": "Romi Jahat - Pulangku Untuk Pergi Kembali",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811189,
+        "created_at": 1770357811189,
         "locale": "id"
       }
     ],
@@ -28977,6 +29177,28 @@
         "last_search": 1770303248273,
         "created_at": 1770303248273,
         "locale": "id"
+      },
+      {
+        "id": "kw_819219ac-05c6-489a-9eb5-a6416cc1dffc",
+        "keyword": "Frustrasi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811188,
+        "created_at": 1770357811188,
+        "locale": "id"
+      },
+      {
+        "id": "kw_254502ff-8533-46a7-ace9-cef59ccc7d7f",
+        "keyword": "Film Murahan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811189,
+        "created_at": 1770357811189,
+        "locale": "id"
       }
     ],
     "i": [
@@ -29150,9 +29372,9 @@
         "keyword": "Iwan Fals",
         "tags": [],
         "weight": 1,
-        "impressions": 11,
+        "impressions": 12,
         "clicks": 0,
-        "last_search": 1770303248273,
+        "last_search": 1770357811188,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -29704,6 +29926,17 @@
         "clicks": 0,
         "last_search": 1770346752762,
         "created_at": 1770346752761,
+        "locale": "id"
+      },
+      {
+        "id": "kw_01d2f3aa-f2cb-4098-b2f6-ecb31ba7d667",
+        "keyword": "Iwan Fals - Frustrasi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811188,
+        "created_at": 1770357811188,
         "locale": "id"
       }
     ],
@@ -30735,6 +30968,28 @@
         "clicks": 0,
         "last_search": 1770215621097,
         "created_at": 1770215621097,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a9755b56-755e-4a9b-9aa5-d6bbc3219863",
+        "keyword": "Uci Bing Slamet - Bukit Berbunga",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811189,
+        "created_at": 1770357811189,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9de016b4-1a3e-4fa5-90ff-b977f4a06ba1",
+        "keyword": "Uci Bing Slamet",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357811189,
+        "created_at": 1770357811189,
         "locale": "id"
       }
     ],
