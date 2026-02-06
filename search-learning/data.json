@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770368049430,
+    "last_updated": 1770368273466,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3379,6 +3379,17 @@
         "last_search": 1770368049405,
         "created_at": 1770368049405,
         "locale": "id"
+      },
+      {
+        "id": "kw_d5e68958-3654-48a0-8288-ad2b268a61d9",
+        "keyword": "Daftar Koleksi / Cassandra -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368273386,
+        "created_at": 1770368273386,
+        "locale": "id"
       }
     ],
     "l": [
@@ -4425,6 +4436,28 @@
         "clicks": 0,
         "last_search": 1770357692251,
         "created_at": 1770304112648,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1b6e25fe-5667-4ed7-869a-ad8cbc945231",
+        "keyword": "Lavina - Pilihan Hatiku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368273386,
+        "created_at": 1770368273386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5c9c4b83-feff-4731-8949-06619daaa19b",
+        "keyword": "Lavina",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368273386,
+        "created_at": 1770368273386,
         "locale": "id"
       }
     ],
@@ -7387,6 +7420,17 @@
         "last_search": 1770368049406,
         "created_at": 1770368049406,
         "locale": "id"
+      },
+      {
+        "id": "kw_830f33b4-39ba-41ca-be5f-b4e2f022f34d",
+        "keyword": "Kumpulan Gitar Cassandra -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368273386,
+        "created_at": 1770368273386,
+        "locale": "id"
       }
     ],
     "p": [
@@ -8906,6 +8950,17 @@
         "clicks": 0,
         "last_search": 1770357811189,
         "created_at": 1770357811189,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7e2881c2-d606-4984-a1e1-1f81ce7d1c89",
+        "keyword": "Pilihan Hatiku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368273386,
+        "created_at": 1770368273386,
         "locale": "id"
       }
     ],
@@ -10855,6 +10910,28 @@
         "clicks": 0,
         "last_search": 1770361852311,
         "created_at": 1770361852311,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1ad6f912-2a3e-4e6e-86f8-f8a746d93b47",
+        "keyword": "Mendua - Astrid -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368273386,
+        "created_at": 1770368273386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7aafd96c-713c-4b37-b398-86f74b080c7a",
+        "keyword": "Mendua",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368273386,
+        "created_at": 1770368273386,
         "locale": "id"
       }
     ],
@@ -17147,6 +17224,17 @@
         "last_search": 1770361852310,
         "created_at": 1770361852310,
         "locale": "id"
+      },
+      {
+        "id": "kw_c0754877-97af-4629-bcf3-cd7e30692d54",
+        "keyword": "Butuh Cinta -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368273386,
+        "created_at": 1770368273386,
+        "locale": "id"
       }
     ],
     "t": [
@@ -21022,9 +21110,9 @@
         "keyword": "Cassandra",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770368049405,
+        "last_search": 1770368273386,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -21550,9 +21638,9 @@
         "keyword": "Cassandra - Cinta Terbaik -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770368049405,
+        "last_search": 1770368273386,
         "created_at": 1770368049405,
         "locale": "id"
       },
@@ -21561,9 +21649,9 @@
         "keyword": "Cinta Terbaik -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770368049405,
+        "last_search": 1770368273386,
         "created_at": 1770368049405,
         "locale": "id"
       },
@@ -21587,6 +21675,94 @@
         "clicks": 0,
         "last_search": 1770368049406,
         "created_at": 1770368049406,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9964e4e1-d68a-4c49-aea1-6e20fe51e7ba",
+        "keyword": "Cassandra - Cinta Dari Jauh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368273386,
+        "created_at": 1770368273386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6f0a29e2-163a-4e64-b149-07be26d5c000",
+        "keyword": "Cinta Dari Jauh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368273386,
+        "created_at": 1770368273386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ae08e3eb-19d0-4b0b-9fa9-1f4551d47f22",
+        "keyword": "Cassandra - Cinta Sekali Saja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368273386,
+        "created_at": 1770368273386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d1e7d78d-38ab-40f9-b5b5-91c22868a441",
+        "keyword": "Cinta Sekali Saja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368273386,
+        "created_at": 1770368273386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_157ff60b-838a-47ee-8ae1-da259191ca82",
+        "keyword": "Cassandra - Cinta Bukan Milik Kita",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368273386,
+        "created_at": 1770368273386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e7f33d03-b138-4df8-8ed0-19381b996b11",
+        "keyword": "Cinta Bukan Milik Kita",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368273386,
+        "created_at": 1770368273386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e7f3fa21-0c8f-4722-8841-0fb717e04424",
+        "keyword": "Cassandra - Butuh Cinta -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368273386,
+        "created_at": 1770368273386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ef5a5119-1b12-4fe9-82c4-77e0b7df09b4",
+        "keyword": "Cassandra - Aku Janji -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368273386,
+        "created_at": 1770368273386,
         "locale": "id"
       }
     ],
@@ -24229,6 +24405,28 @@
         "clicks": 0,
         "last_search": 1770368049406,
         "created_at": 1770368049406,
+        "locale": "id"
+      },
+      {
+        "id": "kw_709c72e1-25f9-4f7e-9e3f-1689116ea93b",
+        "keyword": "Astrid -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368273386,
+        "created_at": 1770368273386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cd07cbcd-b423-42f4-86c5-53f0cc4fc8d3",
+        "keyword": "Aku Janji -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368273386,
+        "created_at": 1770368273386,
         "locale": "id"
       }
     ],
