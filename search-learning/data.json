@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770369072869,
+    "last_updated": 1770369832158,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -5391,9 +5391,9 @@
         "keyword": "Kekasih Bayangan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770360163344,
+        "last_search": 1770369832137,
         "created_at": 1769582688684,
         "locale": "id"
       },
@@ -7338,9 +7338,9 @@
         "keyword": "Kekasih Bayangan -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770360163344,
+        "last_search": 1770369832137,
         "created_at": 1770360163344,
         "locale": "id"
       },
@@ -7430,6 +7430,28 @@
         "clicks": 0,
         "last_search": 1770368273386,
         "created_at": 1770368273386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_58cdb0d5-9689-4fc2-ad3e-8a841cbcaabb",
+        "keyword": "KIM, Nabila Taqiyyah - Bayangan Cinta Yang Lalu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770369832138,
+        "created_at": 1770369832138,
+        "locale": "id"
+      },
+      {
+        "id": "kw_495cb195-a85f-4bd3-92b0-0d591665d85e",
+        "keyword": "KIM, Nabila Taqiyyah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770369832138,
+        "created_at": 1770369832138,
         "locale": "id"
       }
     ],
@@ -10932,6 +10954,28 @@
         "clicks": 0,
         "last_search": 1770368273386,
         "created_at": 1770368273386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_313ebe3d-1eda-4986-b56c-1a9eae325188",
+        "keyword": "Malam Ini Indah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770369832137,
+        "created_at": 1770369832137,
+        "locale": "id"
+      },
+      {
+        "id": "kw_58378e7f-252b-435d-952e-1b1b23e05789",
+        "keyword": "Menghilang Tanpa Bayangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770369832137,
+        "created_at": 1770369832137,
         "locale": "id"
       }
     ],
@@ -17197,9 +17241,9 @@
         "keyword": "Bayangan Kekasih",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770360163345,
+        "last_search": 1770369832137,
         "created_at": 1770360163345,
         "locale": "id"
       },
@@ -17208,9 +17252,9 @@
         "keyword": "Bayangan Kasih",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770360163354,
+        "last_search": 1770369832138,
         "created_at": 1770360163353,
         "locale": "id"
       },
@@ -17267,6 +17311,50 @@
         "clicks": 0,
         "last_search": 1770368273386,
         "created_at": 1770368273386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f6ce5eb3-d45e-44c9-b9bf-8d5bbb54646f",
+        "keyword": "Bayangan Penyesalan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770369832137,
+        "created_at": 1770369832137,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c4467a7a-7fe7-4b13-8546-95c39ae7210e",
+        "keyword": "Ben Tusipa - Menghilang Tanpa Bayangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770369832137,
+        "created_at": 1770369832137,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1b9f76b7-eb1b-4ee2-9d96-84b48c9000fa",
+        "keyword": "Ben Tusipa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770369832137,
+        "created_at": 1770369832137,
+        "locale": "id"
+      },
+      {
+        "id": "kw_43f5c029-a2dc-4640-9889-0cc9c2ed20cf",
+        "keyword": "Bayangan Cinta Yang Lalu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770369832138,
+        "created_at": 1770369832138,
         "locale": "id"
       }
     ],
@@ -17881,9 +17969,9 @@
         "keyword": "Thomas Arya",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770361852310,
+        "last_search": 1770369832137,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -19212,9 +19300,9 @@
         "keyword": "Thomas Arya - Bayangan Kasih ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770360163353,
+        "last_search": 1770369832137,
         "created_at": 1770360163353,
         "locale": "id"
       },
@@ -20769,9 +20857,9 @@
         "keyword": "Cakra Khan",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770360163344,
+        "last_search": 1770369832137,
         "created_at": 1769359994199,
         "locale": "id"
       },
@@ -21660,9 +21748,9 @@
         "keyword": "Cakra Khan - Kekasih Bayangan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770360163344,
+        "last_search": 1770369832137,
         "created_at": 1770360163344,
         "locale": "id"
       },
@@ -29030,6 +29118,28 @@
         "last_search": 1770368766070,
         "created_at": 1770368766070,
         "locale": "id"
+      },
+      {
+        "id": "kw_9a21a623-96e0-42d1-b8c8-9f2a3ba365c1",
+        "keyword": "Street Punk - Malam Ini Indah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770369832137,
+        "created_at": 1770369832137,
+        "locale": "id"
+      },
+      {
+        "id": "kw_71883a71-2168-49ee-adf8-0dea47eba11c",
+        "keyword": "Street Punk",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770369832137,
+        "created_at": 1770369832137,
+        "locale": "id"
       }
     ],
     "y": [
@@ -30008,9 +30118,9 @@
         "keyword": "Febian - Kekasih Bayangan -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770360163344,
+        "last_search": 1770369832137,
         "created_at": 1770360163344,
         "locale": "id"
       },
@@ -30019,9 +30129,9 @@
         "keyword": "Febian",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770360163344,
+        "last_search": 1770369832137,
         "created_at": 1770360163344,
         "locale": "id"
       },
@@ -30030,9 +30140,9 @@
         "keyword": "Fatricia Halona - Kekasih Bayangan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770360163344,
+        "last_search": 1770369832137,
         "created_at": 1770360163344,
         "locale": "id"
       },
@@ -30041,9 +30151,9 @@
         "keyword": "Fatricia Halona",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770360163344,
+        "last_search": 1770369832137,
         "created_at": 1770360163344,
         "locale": "id"
       },
@@ -30052,9 +30162,9 @@
         "keyword": "Fany Zee - Bayangan Kekasih",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770360163345,
+        "last_search": 1770369832137,
         "created_at": 1770360163345,
         "locale": "id"
       },
@@ -30063,9 +30173,9 @@
         "keyword": "Fany Zee",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770360163345,
+        "last_search": 1770369832137,
         "created_at": 1770360163345,
         "locale": "id"
       }
@@ -30881,9 +30991,9 @@
         "keyword": "Olivia Gunawan",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770360163344,
+        "last_search": 1770369832137,
         "created_at": 1769396521656,
         "locale": "id"
       },
@@ -31288,10 +31398,32 @@
         "keyword": "Olivia Gunawan - Kekasih Bayangan",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1770369832137,
+        "created_at": 1770360163344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_febcdfc2-5cc6-4731-bae7-3f0a3a7ce332",
+        "keyword": "Ovhi Firsty - Bayangan Penyesalan",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1770360163344,
-        "created_at": 1770360163344,
+        "last_search": 1770369832137,
+        "created_at": 1770369832137,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2a0e2462-4ac3-4aa1-a494-fb8187fba04c",
+        "keyword": "Ovhi Firsty",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770369832137,
+        "created_at": 1770369832137,
         "locale": "id"
       }
     ],
