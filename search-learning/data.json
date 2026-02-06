@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770361999204,
+    "last_updated": 1770368049430,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1438,9 +1438,9 @@
         "keyword": "Dika Nurdika",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582566047,
+        "last_search": 1770368049406,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -3367,6 +3367,17 @@
         "clicks": 0,
         "last_search": 1770357811188,
         "created_at": 1770357811188,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c80ae0fc-fc69-4c58-aa77-ae8b4a6d812e",
+        "keyword": "Dika Nurdika - Cinta Ini -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368049405,
+        "created_at": 1770368049405,
         "locale": "id"
       }
     ],
@@ -5314,9 +5325,9 @@
         "keyword": "Kangen Band",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1770025486832,
+        "last_search": 1770368049405,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -6414,9 +6425,9 @@
         "keyword": "Kangen Band - Cinta yang Sempurna",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769860809914,
+        "last_search": 1770368049405,
         "created_at": 1769860809914,
         "locale": "id"
       },
@@ -7364,6 +7375,17 @@
         "clicks": 0,
         "last_search": 1770361852311,
         "created_at": 1770361852311,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5ceb7c71-df89-49be-9276-077b3a0b3a1f",
+        "keyword": "Khadijah -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368049406,
+        "created_at": 1770368049406,
         "locale": "id"
       }
     ],
@@ -11999,9 +12021,9 @@
         "keyword": "Jika Itu Yang Terbaik",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582566047,
+        "last_search": 1770368049405,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -12498,6 +12520,17 @@
         "clicks": 0,
         "last_search": 1770361852311,
         "created_at": 1770361852311,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b7cdfc19-22b6-47ab-8ff4-046e2d7a7660",
+        "keyword": "Jalan Terbaik -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368049405,
+        "created_at": 1770368049405,
         "locale": "id"
       }
     ],
@@ -19074,6 +19107,17 @@
         "last_search": 1770361852310,
         "created_at": 1770361852310,
         "locale": "id"
+      },
+      {
+        "id": "kw_be9cff8b-0e32-41db-a72b-881c2973e373",
+        "keyword": "Tanpa Cinta -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368049406,
+        "created_at": 1770368049406,
+        "locale": "id"
       }
     ],
     "e": [
@@ -20978,9 +21022,9 @@
         "keyword": "Cassandra",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582566047,
+        "last_search": 1770368049405,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -20989,9 +21033,9 @@
         "keyword": "Cinta Terbaik",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582566047,
+        "last_search": 1770368049405,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -21000,9 +21044,9 @@
         "keyword": "Cinta Kita Cinta Terbaik",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582566047,
+        "last_search": 1770368049405,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -21011,9 +21055,9 @@
         "keyword": "Cinta yang Sempurna",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769860809914,
+        "last_search": 1770368049405,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -21499,6 +21543,50 @@
         "clicks": 0,
         "last_search": 1770360163344,
         "created_at": 1770360163344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e11628d5-a150-416a-88d8-7b0738be916f",
+        "keyword": "Cassandra - Cinta Terbaik -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368049405,
+        "created_at": 1770368049405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4d4c06d9-beb6-4bc5-9f11-94919b2b5ffd",
+        "keyword": "Cinta Terbaik -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368049405,
+        "created_at": 1770368049405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_86f2b94c-6f98-4ad8-8277-e4bc7132a58f",
+        "keyword": "Cinta Ini -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368049406,
+        "created_at": 1770368049406,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b230c06e-9614-496f-9647-772c17319f50",
+        "keyword": "Cinta Terakhir -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368049406,
+        "created_at": 1770368049406,
         "locale": "id"
       }
     ],
@@ -22762,9 +22850,9 @@
         "keyword": "Ari Lasso",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769694060365,
+        "last_search": 1770368049406,
         "created_at": 1769669620390,
         "locale": "id"
       },
@@ -24130,6 +24218,17 @@
         "clicks": 0,
         "last_search": 1770346752762,
         "created_at": 1770346752762,
+        "locale": "id"
+      },
+      {
+        "id": "kw_61ffd308-1680-47ac-a7a1-43dfb2d41db3",
+        "keyword": "Ari Lasso - Cinta Terakhir -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368049406,
+        "created_at": 1770368049406,
         "locale": "id"
       }
     ],
@@ -26770,9 +26869,9 @@
         "keyword": "Syahrini Feat. Aisyahrani",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582566047,
+        "last_search": 1770368049405,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -26792,9 +26891,9 @@
         "keyword": "ST12",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770037595682,
+        "last_search": 1770368049405,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -28645,6 +28744,28 @@
         "last_search": 1770360163344,
         "created_at": 1770360163344,
         "locale": "id"
+      },
+      {
+        "id": "kw_3cfe0a93-d54f-435e-8c35-621decafaca6",
+        "keyword": "Syahrini Feat. Aisyahrani - Cinta Terbaik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368049405,
+        "created_at": 1770368049405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9ef51258-4ddf-47f3-9788-e903e71def75",
+        "keyword": "ST12 - Jalan Terbaik -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368049405,
+        "created_at": 1770368049405,
+        "locale": "id"
       }
     ],
     "y": [
@@ -28708,9 +28829,9 @@
         "keyword": "Yovie & Nuno",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770290666009,
+        "last_search": 1770368049406,
         "created_at": 1769510958795,
         "locale": "id"
       },
@@ -28763,9 +28884,9 @@
         "keyword": "Yoga Vhein",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769669678030,
+        "last_search": 1770368049405,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -28965,6 +29086,28 @@
         "clicks": 0,
         "last_search": 1770290666009,
         "created_at": 1770290666009,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e733e5bf-7a3b-43b9-a1fc-8a41417db292",
+        "keyword": "Yoga Vhein - Cinta Kita Cinta Terbaik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368049405,
+        "created_at": 1770368049405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_75dc59b6-32a2-4b0e-9774-fd542f198c2f",
+        "keyword": "Yovie & Nuno - Tanpa Cinta -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368049406,
+        "created_at": 1770368049406,
         "locale": "id"
       }
     ],
@@ -31072,9 +31215,9 @@
         "keyword": "Veve Zulfikar",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582566047,
+        "last_search": 1770368049406,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -31319,6 +31462,17 @@
         "last_search": 1770037623821,
         "created_at": 1770037623821,
         "locale": "id"
+      },
+      {
+        "id": "kw_3dbf3574-dcd7-43b5-853c-117c36a3b57a",
+        "keyword": "Veve Zulfikar - Khadijah -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368049406,
+        "created_at": 1770368049406,
+        "locale": "id"
       }
     ],
     "u": [
@@ -31382,9 +31536,9 @@
         "keyword": "UNGU",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769669678031,
+        "last_search": 1770368049405,
         "created_at": 1769510958795,
         "locale": "id"
       },
@@ -31507,6 +31661,17 @@
         "clicks": 0,
         "last_search": 1770361852311,
         "created_at": 1770361852311,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0e7fb74f-47c0-4f64-abe8-da738da2fe5b",
+        "keyword": "UNGU - Jika Itu Yang Terbaik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368049405,
+        "created_at": 1770368049405,
         "locale": "id"
       }
     ],
