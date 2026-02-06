@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770359688943,
+    "last_updated": 1770360163365,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -5347,9 +5347,9 @@
         "keyword": "Kekasih Bayangan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582688684,
+        "last_search": 1770360163344,
         "created_at": 1769582688684,
         "locale": "id"
       },
@@ -5512,9 +5512,9 @@
         "keyword": "Ku Menanti Seorang Kekasih",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769669678031,
+        "last_search": 1770360163345,
         "created_at": 1769669678031,
         "locale": "id"
       },
@@ -7287,6 +7287,61 @@
         "clicks": 0,
         "last_search": 1770359688903,
         "created_at": 1770359688903,
+        "locale": "id"
+      },
+      {
+        "id": "kw_15033b10-c1eb-479d-a31a-b954ae15a50e",
+        "keyword": "Kekasih Bayangan -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163344,
+        "created_at": 1770360163344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ca464065-6da6-465f-8017-71940c78428c",
+        "keyword": "Kekasih Gelapku - UNGU -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163345,
+        "created_at": 1770360163345,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ee614806-a2d3-4944-a968-f934f4491302",
+        "keyword": "Kekasih Gelapku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163345,
+        "created_at": 1770360163345,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e2043d7e-efe0-4dec-9cf0-24b0745dbc82",
+        "keyword": "Kamu Yang Selalu - Ryfell ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163345,
+        "created_at": 1770360163345,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bfbcad2b-a047-4a28-a605-0d0fa5c2fc34",
+        "keyword": "Kamu Yang Selalu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163345,
+        "created_at": 1770360163345,
         "locale": "id"
       }
     ],
@@ -16872,6 +16927,28 @@
         "last_search": 1770357811189,
         "created_at": 1770357811189,
         "locale": "id"
+      },
+      {
+        "id": "kw_f3d52129-e1c5-4b4b-a706-27b5a4e3dbad",
+        "keyword": "Bayangan Kekasih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163345,
+        "created_at": 1770360163345,
+        "locale": "id"
+      },
+      {
+        "id": "kw_29cc530f-4820-4ffb-8666-77a0f1600368",
+        "keyword": "Bayangan Kasih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163354,
+        "created_at": 1770360163353,
+        "locale": "id"
       }
     ],
     "t": [
@@ -17485,9 +17562,9 @@
         "keyword": "Thomas Arya",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769757147713,
+        "last_search": 1770360163353,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -18798,6 +18875,28 @@
         "clicks": 0,
         "last_search": 1770357811189,
         "created_at": 1770357811189,
+        "locale": "id"
+      },
+      {
+        "id": "kw_707d87ee-ce0d-4262-afcc-5f0d900b47cf",
+        "keyword": "Tak Berhak Cemburu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163345,
+        "created_at": 1770360163345,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2ff35fc1-eea8-4e7d-989e-491f923e7efc",
+        "keyword": "Thomas Arya - Bayangan Kasih ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163353,
+        "created_at": 1770360163353,
         "locale": "id"
       }
     ],
@@ -20307,9 +20406,9 @@
         "keyword": "Cakra Khan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769582688684,
+        "last_search": 1770360163344,
         "created_at": 1769359994199,
         "locale": "id"
       },
@@ -21191,6 +21290,17 @@
         "clicks": 0,
         "last_search": 1770297948724,
         "created_at": 1770297948724,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cd0a0fb8-04c8-4596-b026-ab1c64a8157e",
+        "keyword": "Cakra Khan - Kekasih Bayangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163344,
+        "created_at": 1770360163344,
         "locale": "id"
       }
     ],
@@ -25013,6 +25123,17 @@
         "last_search": 1770357811189,
         "created_at": 1770357811189,
         "locale": "id"
+      },
+      {
+        "id": "kw_02656f59-5738-48d1-a454-5010cddc7699",
+        "keyword": "Ryfell",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163353,
+        "created_at": 1770360163353,
+        "locale": "id"
       }
     ],
     "s": [
@@ -28271,6 +28392,28 @@
         "last_search": 1770357692266,
         "created_at": 1770357692266,
         "locale": "id"
+      },
+      {
+        "id": "kw_e8b4e721-c23c-4b89-99fd-0ad5f6011811",
+        "keyword": "Sharen Fernandez - Tak Berhak Cemburu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163344,
+        "created_at": 1770360163344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cb722590-87ef-444b-8358-c1f4faa12651",
+        "keyword": "Sharen Fernandez",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163344,
+        "created_at": 1770360163344,
+        "locale": "id"
       }
     ],
     "y": [
@@ -29221,6 +29364,72 @@
         "last_search": 1770357811189,
         "created_at": 1770357811189,
         "locale": "id"
+      },
+      {
+        "id": "kw_652f4f61-2f9a-4efb-b961-c81f774aeb27",
+        "keyword": "Febian - Kekasih Bayangan -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163344,
+        "created_at": 1770360163344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dcfc80f6-de9c-4fbb-b660-89e73c2758ef",
+        "keyword": "Febian",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163344,
+        "created_at": 1770360163344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b37475d1-dd89-4d98-9eae-62bc20afef41",
+        "keyword": "Fatricia Halona - Kekasih Bayangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163344,
+        "created_at": 1770360163344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_05a7bfcb-0165-42bd-84a2-f0cc28a064ed",
+        "keyword": "Fatricia Halona",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163344,
+        "created_at": 1770360163344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8404f3a5-f80a-4399-8d6c-51b22866c4f3",
+        "keyword": "Fany Zee - Bayangan Kekasih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163345,
+        "created_at": 1770360163345,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e41fb9b4-a21e-4402-9438-dbe837262c3e",
+        "keyword": "Fany Zee",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163345,
+        "created_at": 1770360163345,
+        "locale": "id"
       }
     ],
     "i": [
@@ -29394,9 +29603,9 @@
         "keyword": "Iwan Fals",
         "tags": [],
         "weight": 1,
-        "impressions": 12,
+        "impressions": 13,
         "clicks": 0,
-        "last_search": 1770357811188,
+        "last_search": 1770360163345,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -29504,9 +29713,9 @@
         "keyword": "Iwan Fals - Ku Menanti Seorang Kekasih",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769669678031,
+        "last_search": 1770360163345,
         "created_at": 1769669678031,
         "locale": "id"
       },
@@ -30012,9 +30221,9 @@
         "keyword": "Olivia Gunawan",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769757769515,
+        "last_search": 1770360163344,
         "created_at": 1769396521656,
         "locale": "id"
       },
@@ -30412,6 +30621,17 @@
         "clicks": 0,
         "last_search": 1770264001734,
         "created_at": 1770047013597,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c51dbe76-c13a-4eca-bc4f-9f0c8f967865",
+        "keyword": "Olivia Gunawan - Kekasih Bayangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163344,
+        "created_at": 1770360163344,
         "locale": "id"
       }
     ],
@@ -31012,6 +31232,17 @@
         "clicks": 0,
         "last_search": 1770357811189,
         "created_at": 1770357811189,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9d03d281-2c02-4437-bfc9-5f8ad3ccba70",
+        "keyword": "UNGU -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770360163345,
+        "created_at": 1770360163345,
         "locale": "id"
       }
     ],
