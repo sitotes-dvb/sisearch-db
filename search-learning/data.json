@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770360163365,
+    "last_updated": 1770361852351,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -7343,6 +7343,28 @@
         "last_search": 1770360163345,
         "created_at": 1770360163345,
         "locale": "id"
+      },
+      {
+        "id": "kw_6a9804e4-237f-4d10-933e-d0dd8583e6a3",
+        "keyword": "KitShafiq - Janji -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852311,
+        "created_at": 1770361852311,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b65be852-b5a1-4641-8a3d-9ed6f7b3b418",
+        "keyword": "KitShafiq",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852311,
+        "created_at": 1770361852311,
+        "locale": "id"
       }
     ],
     "p": [
@@ -10768,6 +10790,50 @@
         "last_search": 1770359688902,
         "created_at": 1770359688902,
         "locale": "id"
+      },
+      {
+        "id": "kw_28cebff1-e844-4e5f-adbf-1e1e381f21e3",
+        "keyword": "Mubai - Bahtera Cinta -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852310,
+        "created_at": 1770361852310,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bdcb975e-914e-4fd7-a4cc-fb0f5a895775",
+        "keyword": "Mubai",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852310,
+        "created_at": 1770361852310,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d9263992-41c2-4715-86cd-1d02c4335fcb",
+        "keyword": "Menjaga Cinta -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852310,
+        "created_at": 1770361852310,
+        "locale": "id"
+      },
+      {
+        "id": "kw_17d1be08-fb9f-4306-b141-1bf815ffece8",
+        "keyword": "Mahligai Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852311,
+        "created_at": 1770361852311,
+        "locale": "id"
       }
     ],
     "h": [
@@ -12400,6 +12466,39 @@
         "last_search": 1770357692251,
         "created_at": 1770357692251,
         "locale": "id"
+      },
+      {
+        "id": "kw_5ead1d87-0fa0-4114-be49-c0ee66e71b2d",
+        "keyword": "Janji -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852311,
+        "created_at": 1770361852311,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d69130ab-3e73-48f2-b1bf-bafee660528c",
+        "keyword": "Jihan Audy Feat Gerry Mahesa - Mahligai Cinta ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852311,
+        "created_at": 1770361852311,
+        "locale": "id"
+      },
+      {
+        "id": "kw_792dfd43-4f15-452b-af4d-97bb8f52b524",
+        "keyword": "Jihan Audy Feat Gerry Mahesa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852311,
+        "created_at": 1770361852311,
+        "locale": "id"
       }
     ],
     "g": [
@@ -13226,6 +13325,17 @@
         "clicks": 0,
         "last_search": 1770346752778,
         "created_at": 1770346752778,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cf04c730-1a94-47fc-acf7-121a8436bf03",
+        "keyword": "Gerhana Cinta Luka -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852311,
+        "created_at": 1770361852310,
         "locale": "id"
       }
     ],
@@ -16064,9 +16174,9 @@
         "keyword": "Bahtera Mahligai Cinta",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510958795,
+        "last_search": 1770361852310,
         "created_at": 1769510958795,
         "locale": "id"
       },
@@ -16949,6 +17059,50 @@
         "last_search": 1770360163354,
         "created_at": 1770360163353,
         "locale": "id"
+      },
+      {
+        "id": "kw_abe3bce2-0dd3-43a9-adc9-016298ce61e3",
+        "keyword": "Bahtera Cinta - Rhoma Irama Feat. Noer Halimah ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852310,
+        "created_at": 1770361852310,
+        "locale": "id"
+      },
+      {
+        "id": "kw_28c60bfd-92fa-4250-a7ab-11edfe136177",
+        "keyword": "Bahtera Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852310,
+        "created_at": 1770361852310,
+        "locale": "id"
+      },
+      {
+        "id": "kw_52e80a1f-d82b-41ac-9a5c-36aa9097cf28",
+        "keyword": "Bahtera",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852310,
+        "created_at": 1770361852310,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bb6711c8-c746-4ccd-9eea-f67fabb94937",
+        "keyword": "Bahtera Cinta -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852310,
+        "created_at": 1770361852310,
+        "locale": "id"
       }
     ],
     "t": [
@@ -17562,9 +17716,9 @@
         "keyword": "Thomas Arya",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770360163353,
+        "last_search": 1770361852310,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -18898,6 +19052,17 @@
         "last_search": 1770360163353,
         "created_at": 1770360163353,
         "locale": "id"
+      },
+      {
+        "id": "kw_e1dcf884-f2f3-4338-bb47-8ee37d293006",
+        "keyword": "Thomas Arya - Bahtera",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852310,
+        "created_at": 1770361852310,
+        "locale": "id"
       }
     ],
     "e": [
@@ -19515,6 +19680,17 @@
         "clicks": 0,
         "last_search": 1770303112717,
         "created_at": 1770303112717,
+        "locale": "id"
+      },
+      {
+        "id": "kw_84a1846e-3957-49dd-bbaa-91f40faeb75f",
+        "keyword": "Embun Hati -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852311,
+        "created_at": 1770361852311,
         "locale": "id"
       }
     ],
@@ -25134,6 +25310,39 @@
         "last_search": 1770360163353,
         "created_at": 1770360163353,
         "locale": "id"
+      },
+      {
+        "id": "kw_41d9f381-8d6f-4a97-b0e7-fb5d8fb13d7c",
+        "keyword": "Rhoma Irama Feat. Noer Halimah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852310,
+        "created_at": 1770361852310,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8d364865-cb81-4bf2-8de1-0658f2842149",
+        "keyword": "Rima Sister - Menjaga Cinta -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852310,
+        "created_at": 1770361852310,
+        "locale": "id"
+      },
+      {
+        "id": "kw_22509476-881d-4c25-8e89-2ae96a25cf45",
+        "keyword": "Rima Sister",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852310,
+        "created_at": 1770361852310,
+        "locale": "id"
       }
     ],
     "s": [
@@ -30169,6 +30378,28 @@
         "last_search": 1770357811188,
         "created_at": 1770357811188,
         "locale": "id"
+      },
+      {
+        "id": "kw_093e0856-acf6-4801-9edc-32ee9f2d7ef8",
+        "keyword": "Iklim - Gerhana Cinta Luka -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852310,
+        "created_at": 1770361852310,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e2e060f7-e221-4e29-b0cc-1afcf160c95a",
+        "keyword": "Iklim",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852310,
+        "created_at": 1770361852310,
+        "locale": "id"
       }
     ],
     "o": [
@@ -31206,9 +31437,9 @@
         "keyword": "Ungu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770215621097,
+        "last_search": 1770361852311,
         "created_at": 1770215621097,
         "locale": "id"
       },
@@ -31243,6 +31474,17 @@
         "clicks": 0,
         "last_search": 1770360163345,
         "created_at": 1770360163345,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9ab5fc27-7a25-4597-ba65-c07ea439d208",
+        "keyword": "Ungu - Embun Hati -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852311,
+        "created_at": 1770361852311,
         "locale": "id"
       }
     ],
@@ -31285,9 +31527,9 @@
         "keyword": "Zinidin Zidan Ft. Yaya Nadila - Bahtera Mahligai Cinta ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510958795,
+        "last_search": 1770361852310,
         "created_at": 1769510958795,
         "locale": "id"
       },
@@ -31296,9 +31538,9 @@
         "keyword": "Zinidin Zidan Ft. Yaya Nadila",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510958795,
+        "last_search": 1770361852310,
         "created_at": 1769510958795,
         "locale": "id"
       },
@@ -31366,6 +31608,28 @@
         "clicks": 0,
         "last_search": 1769767038040,
         "created_at": 1769767038040,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5096f250-3aee-4647-83e0-618e48924c33",
+        "keyword": "Zidan Yaya - Bahtera Mahligai Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852310,
+        "created_at": 1770361852310,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f6c571f4-bc3d-4c30-a605-a79fb23b97ec",
+        "keyword": "Zidan Yaya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770361852310,
+        "created_at": 1770361852310,
         "locale": "id"
       }
     ]
