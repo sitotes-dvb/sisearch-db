@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770368273466,
+    "last_updated": 1770368766106,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -12043,9 +12043,9 @@
         "keyword": "Judika",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770297948723,
+        "last_search": 1770368766069,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -12483,9 +12483,9 @@
         "keyword": "Judika - Jikalau Kau Cinta -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770297948723,
+        "last_search": 1770368766069,
         "created_at": 1770297948723,
         "locale": "id"
       },
@@ -12494,9 +12494,9 @@
         "keyword": "Jikalau Kau Cinta -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770297948723,
+        "last_search": 1770368766069,
         "created_at": 1770297948723,
         "locale": "id"
       },
@@ -12608,6 +12608,17 @@
         "clicks": 0,
         "last_search": 1770368049405,
         "created_at": 1770368049405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ce01bebb-fbd3-4f75-aeef-56d0a62013ba",
+        "keyword": "Jikalau -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368766070,
+        "created_at": 1770368766070,
         "locale": "id"
       }
     ],
@@ -16000,6 +16011,28 @@
         "clicks": 0,
         "last_search": 1770361999163,
         "created_at": 1770361999163,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f70dfb6d-9c3b-4285-beaa-b77415fb2b65",
+        "keyword": "Naif - Jikalau -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368766070,
+        "created_at": 1770368766069,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ecf6e4f1-1883-434a-a54a-dcfd6edeb476",
+        "keyword": "Naif",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368766070,
+        "created_at": 1770368766070,
         "locale": "id"
       }
     ],
@@ -21763,6 +21796,17 @@
         "clicks": 0,
         "last_search": 1770368273386,
         "created_at": 1770368273386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0671cba4-fca8-4cb1-b258-f1a3913f8a01",
+        "keyword": "Cintamu Palsu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368766070,
+        "created_at": 1770368766070,
         "locale": "id"
       }
     ],
@@ -28963,6 +29007,28 @@
         "clicks": 0,
         "last_search": 1770368049405,
         "created_at": 1770368049405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_81c97838-2912-45da-bd9f-dc86bc8fbb09",
+        "keyword": "Sejedewe - Cintamu Palsu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368766070,
+        "created_at": 1770368766070,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b8e69d3e-4439-4a73-b336-45ea576aea81",
+        "keyword": "Sejedewe",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770368766070,
+        "created_at": 1770368766070,
         "locale": "id"
       }
     ],
