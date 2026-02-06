@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770369832158,
+    "last_updated": 1770370715110,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3389,6 +3389,28 @@
         "clicks": 0,
         "last_search": 1770368273386,
         "created_at": 1770368273386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_05062e43-9d0f-4e0a-9ea0-66d45fe2b483",
+        "keyword": "D'lloyd - Mengapa Harus Jumpa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715086,
+        "created_at": 1770370715086,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1628cf64-7f8c-4633-9db7-ac2f843d596c",
+        "keyword": "D'lloyd",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715086,
+        "created_at": 1770370715086,
         "locale": "id"
       }
     ],
@@ -7453,6 +7475,61 @@
         "last_search": 1770369832138,
         "created_at": 1770369832138,
         "locale": "id"
+      },
+      {
+        "id": "kw_8dd1bf81-1464-4209-8077-3bc4061cd9b5",
+        "keyword": "Kasih Tak Sampai -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715085,
+        "created_at": 1770370715085,
+        "locale": "id"
+      },
+      {
+        "id": "kw_97a73597-99ae-4ccb-ad59-a64b67b44bbc",
+        "keyword": "Kasih Tak Sampai",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715085,
+        "created_at": 1770370715085,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0f99ce34-b1ee-4ddb-ad35-0bd05927dc5c",
+        "keyword": "Kasih Tak Nyata",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715085,
+        "created_at": 1770370715085,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ed076b16-c57e-45e9-910a-5f125645fe95",
+        "keyword": "Kumpulan Gitar Padi -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715086,
+        "created_at": 1770370715086,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ac4b427c-ac31-483d-9036-e7d5a00f8df4",
+        "keyword": "Kasih Tak Terganti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715086,
+        "created_at": 1770370715086,
+        "locale": "id"
       }
     ],
     "p": [
@@ -8352,9 +8429,9 @@
         "keyword": "Padi",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769758686746,
+        "last_search": 1770370715085,
         "created_at": 1769669678031,
         "locale": "id"
       },
@@ -8983,6 +9060,17 @@
         "clicks": 0,
         "last_search": 1770368273386,
         "created_at": 1770368273386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5b0c30ff-42e5-49e6-ae6f-c32b33d68b67",
+        "keyword": "Padi - Kasih Tak Sampai -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715085,
+        "created_at": 1770370715085,
         "locale": "id"
       }
     ],
@@ -10976,6 +11064,17 @@
         "clicks": 0,
         "last_search": 1770369832137,
         "created_at": 1770369832137,
+        "locale": "id"
+      },
+      {
+        "id": "kw_edb1eda7-54fb-4f97-8494-4d3726e7563c",
+        "keyword": "Mengapa Harus Jumpa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715086,
+        "created_at": 1770370715086,
         "locale": "id"
       }
     ],
@@ -16078,6 +16177,39 @@
         "last_search": 1770368766070,
         "created_at": 1770368766070,
         "locale": "id"
+      },
+      {
+        "id": "kw_01e84d9d-912f-42fc-9f36-ae7f6aae14b2",
+        "keyword": "Nophie 501 Ft. Aulia Nirwana - Kasih Tak Sampai ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715085,
+        "created_at": 1770370715085,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b0ae0e93-6173-490a-a873-2e8024c21879",
+        "keyword": "Nophie 501 Ft. Aulia Nirwana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715085,
+        "created_at": 1770370715085,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bd8dfa74-b181-4978-8ca5-c93308e7bb99",
+        "keyword": "Namamu Tetap Di Hati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715085,
+        "created_at": 1770370715085,
+        "locale": "id"
       }
     ],
     "b": [
@@ -17969,9 +18101,9 @@
         "keyword": "Thomas Arya",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770369832137,
+        "last_search": 1770370715085,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -19327,6 +19459,28 @@
         "last_search": 1770368049406,
         "created_at": 1770368049406,
         "locale": "id"
+      },
+      {
+        "id": "kw_d10bd86f-1bdf-426b-aa6f-4165d8833e0c",
+        "keyword": "Thomas Arya - Kasih Tak Nyata ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715085,
+        "created_at": 1770370715085,
+        "locale": "id"
+      },
+      {
+        "id": "kw_af65a4db-70d0-4ac6-98cc-1988827c9ae4",
+        "keyword": "Teman Abadi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715086,
+        "created_at": 1770370715086,
+        "locale": "id"
       }
     ],
     "e": [
@@ -19955,6 +20109,61 @@
         "clicks": 0,
         "last_search": 1770361852311,
         "created_at": 1770361852311,
+        "locale": "id"
+      },
+      {
+        "id": "kw_423c0d5d-b72e-4c2c-84e5-d25c0c7be240",
+        "keyword": "Evie Tamala",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715086,
+        "created_at": 1770370715086,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5261c1e0-c031-4cc8-8250-9e69ffa0ceb8",
+        "keyword": "Ekas feat. Nadia - Teman Abadi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715086,
+        "created_at": 1770370715086,
+        "locale": "id"
+      },
+      {
+        "id": "kw_958f5786-077b-4aba-88c7-d85ed996f9d0",
+        "keyword": "Ekas feat. Nadia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715086,
+        "created_at": 1770370715086,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3790ddc0-2369-4a21-938b-714e5c8c4afe",
+        "keyword": "Elsa Pitaloka - Kasih Tak Terganti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715086,
+        "created_at": 1770370715086,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f572eb10-0c12-47c2-bc9e-4ae825fc7941",
+        "keyword": "Elsa Pitaloka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715086,
+        "created_at": 1770370715086,
         "locale": "id"
       }
     ],
@@ -25096,9 +25305,9 @@
         "keyword": "Rembulan Malam",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582645422,
+        "last_search": 1770370715086,
         "created_at": 1769582645422,
         "locale": "id"
       },
@@ -25793,6 +26002,39 @@
         "clicks": 0,
         "last_search": 1770361852310,
         "created_at": 1770361852310,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2ebb33cd-86ab-4f18-ac9e-1353f67ea0fa",
+        "keyword": "Ramzi - Namamu Tetap Di Hati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715085,
+        "created_at": 1770370715085,
+        "locale": "id"
+      },
+      {
+        "id": "kw_de4175a0-49a4-4771-a150-9b35bc385b87",
+        "keyword": "Ramzi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715085,
+        "created_at": 1770370715085,
+        "locale": "id"
+      },
+      {
+        "id": "kw_79769b58-403a-4a65-9187-763c24c2d5a5",
+        "keyword": "Rembulan Malam - Evie Tamala",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715086,
+        "created_at": 1770370715085,
         "locale": "id"
       }
     ],
@@ -29302,9 +29544,9 @@
         "keyword": "Yelse",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769669355539,
+        "last_search": 1770370715085,
         "created_at": 1769669355539,
         "locale": "id"
       },
@@ -29482,6 +29724,17 @@
         "clicks": 0,
         "last_search": 1770368049406,
         "created_at": 1770368049406,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0517163c-2870-45a7-bd37-814925e887ea",
+        "keyword": "Yelse - Kasih Tak Sampai",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770370715085,
+        "created_at": 1770370715085,
         "locale": "id"
       }
     ],
