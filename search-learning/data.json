@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770346752802,
+    "last_updated": 1770357692291,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3289,6 +3289,61 @@
         "last_search": 1770346752761,
         "created_at": 1770346752761,
         "locale": "id"
+      },
+      {
+        "id": "kw_d30f376c-d378-4662-b7fc-79c7c742bfa0",
+        "keyword": "Dongker & Jason Ranti - disarankan di bandung ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357692251,
+        "created_at": 1770357692251,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e3f5bc4d-8847-44ee-b276-4f2347b818ba",
+        "keyword": "Dongker & Jason Ranti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357692251,
+        "created_at": 1770357692251,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bc9b3afc-bf62-440e-a77a-5b71334d5fe2",
+        "keyword": "disarankan di bandung",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357692251,
+        "created_at": 1770357692251,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3f1d5356-ddb1-4bf5-9dc1-538e1304a6b7",
+        "keyword": "Daftar Koleksi / Jason Ranti -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357692251,
+        "created_at": 1770357692251,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cdc8dae6-1b05-49a1-9904-6792236f6e3c",
+        "keyword": "Dan Bandung (Feat. Pidi Baiq",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357692252,
+        "created_at": 1770357692252,
+        "locale": "id"
       }
     ],
     "l": [
@@ -4331,9 +4386,9 @@
         "keyword": "Lagunya Begini Nadanya Begitu -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770304112648,
+        "last_search": 1770357692251,
         "created_at": 1770304112648,
         "locale": "id"
       }
@@ -7175,6 +7230,28 @@
         "clicks": 0,
         "last_search": 1770307521001,
         "created_at": 1770307521001,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e8bae0c0-e59e-490e-b5ee-1d7e590e54d3",
+        "keyword": "Kumpulan Gitar Dongker",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357692251,
+        "created_at": 1770357692251,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1f9a6467-f27e-479f-b9a4-3c131424dd63",
+        "keyword": "Kumpulan Gitar Jason Ranti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357692251,
+        "created_at": 1770357692251,
         "locale": "id"
       }
     ],
@@ -10546,6 +10623,17 @@
         "last_search": 1770346752762,
         "created_at": 1770346752762,
         "locale": "id"
+      },
+      {
+        "id": "kw_112b57b3-bcee-4319-a896-dfa915d44948",
+        "keyword": "Mojang Priangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357692266,
+        "created_at": 1770357692266,
+        "locale": "id"
       }
     ],
     "h": [
@@ -11876,9 +11964,9 @@
         "keyword": "Jason Ranti",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770304112648,
+        "last_search": 1770357692251,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -12162,10 +12250,21 @@
         "keyword": "Jason Ranti - Lagunya Begini Nadanya Begitu -",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1770357692251,
+        "created_at": 1770304112648,
+        "locale": "id"
+      },
+      {
+        "id": "kw_caa32478-ee02-46fc-adab-67787f1d737e",
+        "keyword": "Jason Ranti -tela.com",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1770304112648,
-        "created_at": 1770304112648,
+        "last_search": 1770357692251,
+        "created_at": 1770357692251,
         "locale": "id"
       }
     ],
@@ -15515,6 +15614,28 @@
         "last_search": 1770304112647,
         "created_at": 1770304112647,
         "locale": "id"
+      },
+      {
+        "id": "kw_6ddf868f-a495-45ac-81f0-b7ba84da2ab0",
+        "keyword": "Nafa Urbach - Bagai Lilin Kecil",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357692266,
+        "created_at": 1770357692266,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8f7cf117-a677-4e52-9f25-21fcfc712c33",
+        "keyword": "Nafa Urbach",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357692266,
+        "created_at": 1770357692266,
+        "locale": "id"
       }
     ],
     "b": [
@@ -16616,6 +16737,17 @@
         "clicks": 0,
         "last_search": 1770346752778,
         "created_at": 1770346752778,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dba8ccbf-4425-4900-ba57-ea6aa679cbff",
+        "keyword": "Bagai Lilin Kecil",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357692267,
+        "created_at": 1770357692267,
         "locale": "id"
       }
     ],
@@ -18488,6 +18620,50 @@
         "clicks": 0,
         "last_search": 1770303248273,
         "created_at": 1770303248273,
+        "locale": "id"
+      },
+      {
+        "id": "kw_842bb18d-be0a-4d7f-86e4-e110c991467a",
+        "keyword": "The Panasdalam Bank - Jason Ranti -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357692251,
+        "created_at": 1770357692251,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7ef05e41-3151-4403-aeeb-f47415d7baac",
+        "keyword": "The Panasdalam Bank",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357692251,
+        "created_at": 1770357692251,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f47bd1c0-9117-4590-bddf-de70b8a12b07",
+        "keyword": "The Panas Dalam - Dan Bandung (Feat. Pidi Baiq ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357692251,
+        "created_at": 1770357692251,
+        "locale": "id"
+      },
+      {
+        "id": "kw_112a88aa-6ae9-459d-90e6-fdcb358d5831",
+        "keyword": "The Panas Dalam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357692251,
+        "created_at": 1770357692251,
         "locale": "id"
       }
     ],
@@ -22331,9 +22507,9 @@
         "keyword": "Adhitia Sofyan - Sesuatu Di Jogja",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769782700667,
+        "last_search": 1770357692266,
         "created_at": 1769747925962,
         "locale": "id"
       },
@@ -22342,9 +22518,9 @@
         "keyword": "Adhitia Sofyan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769782700667,
+        "last_search": 1770357692266,
         "created_at": 1769747925962,
         "locale": "id"
       },
@@ -26636,9 +26812,9 @@
         "keyword": "Sesuatu Di Jogja",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769782700667,
+        "last_search": 1770357692266,
         "created_at": 1769747925962,
         "locale": "id"
       },
@@ -27850,6 +28026,28 @@
         "clicks": 0,
         "last_search": 1770346752762,
         "created_at": 1770346752762,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a5c49523-8b9e-4a0d-8643-0be444a406ea",
+        "keyword": "Sunda Woles - Mojang Priangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357692266,
+        "created_at": 1770357692252,
+        "locale": "id"
+      },
+      {
+        "id": "kw_546c4797-47cc-49cc-821a-421cefd49ef8",
+        "keyword": "Sunda Woles",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770357692266,
+        "created_at": 1770357692266,
         "locale": "id"
       }
     ],
