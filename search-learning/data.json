@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770379686498,
+    "last_updated": 1770380896902,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2659,9 +2659,9 @@
         "keyword": "Daftar Koleksi / GuyonWaton -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770036746351,
+        "last_search": 1770380896859,
         "created_at": 1770036746351,
         "locale": "id"
       },
@@ -5721,9 +5721,9 @@
         "keyword": "Kelangan -",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770303112717,
+        "last_search": 1770380896860,
         "created_at": 1769703841679,
         "locale": "id"
       },
@@ -6744,9 +6744,9 @@
         "keyword": "Karma -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770025486832,
+        "last_search": 1770380896860,
         "created_at": 1770025486832,
         "locale": "id"
       },
@@ -7529,6 +7529,17 @@
         "clicks": 0,
         "last_search": 1770370715086,
         "created_at": 1770370715086,
+        "locale": "id"
+      },
+      {
+        "id": "kw_06935af0-ce62-469d-a45c-aa760a680761",
+        "keyword": "Kependem Tresno (Guyon Waton",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770380896860,
+        "created_at": 1770380896860,
         "locale": "id"
       }
     ],
@@ -8770,9 +8781,9 @@
         "keyword": "Pisah -",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770361999150,
+        "last_search": 1770380896860,
         "created_at": 1769991517740,
         "locale": "id"
       },
@@ -9071,6 +9082,28 @@
         "clicks": 0,
         "last_search": 1770370715085,
         "created_at": 1770370715085,
+        "locale": "id"
+      },
+      {
+        "id": "kw_87133548-3e8b-4885-a05e-1ff36769e814",
+        "keyword": "Penak Konco",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770380896860,
+        "created_at": 1770380896860,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d94634a9-feed-44f2-a8e7-4329d1518ded",
+        "keyword": "Perlahan -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770380896860,
+        "created_at": 1770380896860,
         "locale": "id"
       }
     ],
@@ -12793,9 +12826,9 @@
         "keyword": "GuyonWaton Official",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770361999150,
+        "last_search": 1770380896860,
         "created_at": 1769359994200,
         "locale": "id"
       },
@@ -12958,9 +12991,9 @@
         "keyword": "GuyonWaton",
         "tags": [],
         "weight": 1,
-        "impressions": 12,
+        "impressions": 13,
         "clicks": 0,
-        "last_search": 1770303112717,
+        "last_search": 1770380896860,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -13123,9 +13156,9 @@
         "keyword": "GuyonWaton - Kelangan -",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770303112717,
+        "last_search": 1770380896860,
         "created_at": 1769703841679,
         "locale": "id"
       },
@@ -13409,9 +13442,9 @@
         "keyword": "GuyonWaton Official - Pisah -",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770361999150,
+        "last_search": 1770380896860,
         "created_at": 1769991517740,
         "locale": "id"
       },
@@ -13600,6 +13633,83 @@
         "clicks": 0,
         "last_search": 1770361852311,
         "created_at": 1770361852310,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9e8e3b54-2173-440b-9600-3da4d2e77cb0",
+        "keyword": "Guyon Waton - Karma -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770380896860,
+        "created_at": 1770380896859,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f4a3035f-73f9-485e-9c9a-823556e81dbe",
+        "keyword": "Guyon Waton",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770380896860,
+        "created_at": 1770380896860,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c41c9ece-33fe-495e-9ea4-174713e5713b",
+        "keyword": "GuyonWaton - Sebatas Teman",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770380896860,
+        "created_at": 1770380896860,
+        "locale": "id"
+      },
+      {
+        "id": "kw_55523cc0-ae30-43f5-b1c5-837ae182168c",
+        "keyword": "GuyonWaton - Perlahan -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770380896860,
+        "created_at": 1770380896860,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2f10e2e4-d525-439b-ae79-aab00732fe95",
+        "keyword": "GuyonWaton feat. Nadeo Winata - Cidera Serius ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770380896860,
+        "created_at": 1770380896860,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6cd5494d-c69f-4e90-be19-0984375f28b2",
+        "keyword": "GuyonWaton feat. Nadeo Winata",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770380896860,
+        "created_at": 1770380896860,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0b5724c3-f9d1-4f7e-8372-311f50a27acd",
+        "keyword": "GuyonWaton - ORA MASALAH",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770380896860,
+        "created_at": 1770380896860,
         "locale": "id"
       }
     ],
@@ -22105,6 +22215,17 @@
         "last_search": 1770368766070,
         "created_at": 1770368766070,
         "locale": "id"
+      },
+      {
+        "id": "kw_296c7ab5-fd2b-4c2e-a65a-b03ef5075c53",
+        "keyword": "Cidera Serius",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770380896860,
+        "created_at": 1770380896860,
+        "locale": "id"
       }
     ],
     "a": [
@@ -24768,6 +24889,28 @@
         "clicks": 0,
         "last_search": 1770368273386,
         "created_at": 1770368273386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_652e5fcb-7b33-415c-8b6b-1b3faf9b5448",
+        "keyword": "Agung Pradanta - Kependem Tresno (Guyon Waton ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770380896860,
+        "created_at": 1770380896860,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9efc0319-caf4-40df-99d8-0a1509d7d615",
+        "keyword": "Agung Pradanta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770380896860,
+        "created_at": 1770380896860,
         "locale": "id"
       }
     ],
@@ -29382,6 +29525,17 @@
         "last_search": 1770369832137,
         "created_at": 1770369832137,
         "locale": "id"
+      },
+      {
+        "id": "kw_1b373e76-01e2-42c4-879e-7274e4dacd06",
+        "keyword": "Sebatas Teman",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770380896860,
+        "created_at": 1770380896860,
+        "locale": "id"
       }
     ],
     "y": [
@@ -31677,6 +31831,39 @@
         "clicks": 0,
         "last_search": 1770369832137,
         "created_at": 1770369832137,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9ed171dd-e9ca-4720-babb-ce488c374fd6",
+        "keyword": "Om Wawes Feat. Guyon Waton - Penak Konco ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770380896860,
+        "created_at": 1770380896860,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f7e5f5f8-0154-47e5-816d-921ce65fa50a",
+        "keyword": "Om Wawes Feat. Guyon Waton",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770380896860,
+        "created_at": 1770380896860,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e8e6fdc6-bb81-4e44-92e2-3aa5bca261a0",
+        "keyword": "ORA MASALAH",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770380896860,
+        "created_at": 1770380896860,
         "locale": "id"
       }
     ],
