@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770307521049,
+    "last_updated": 1770346752802,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2712,9 +2712,9 @@
         "keyword": "Dini Chan - Sedia Aku Sebelum Hujan Datang ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770040365773,
+        "last_search": 1770346752761,
         "created_at": 1770040365773,
         "locale": "id"
       },
@@ -2723,9 +2723,9 @@
         "keyword": "Dini Chan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770040365773,
+        "last_search": 1770346752761,
         "created_at": 1770040365773,
         "locale": "id"
       },
@@ -2734,9 +2734,9 @@
         "keyword": "Daftar Koleksi / Dini Chan @Chordtela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770040365773,
+        "last_search": 1770346752761,
         "created_at": 1770040365773,
         "locale": "id"
       },
@@ -3277,6 +3277,17 @@
         "clicks": 0,
         "last_search": 1770307521000,
         "created_at": 1770307521000,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3edf7fa0-2eba-4335-a49f-7940a427cce4",
+        "keyword": "Daftar Koleksi / Idgitaf -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770346752761,
+        "created_at": 1770346752761,
         "locale": "id"
       }
     ],
@@ -6720,9 +6731,9 @@
         "keyword": "Kumpulan Gitar Idgitaf -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770040365773,
+        "last_search": 1770346752761,
         "created_at": 1770040365773,
         "locale": "id"
       },
@@ -6731,9 +6742,9 @@
         "keyword": "Kumpulan Gitar Dini Chan -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770040365774,
+        "last_search": 1770346752761,
         "created_at": 1770040365774,
         "locale": "id"
       },
@@ -10524,6 +10535,17 @@
         "last_search": 1770303248273,
         "created_at": 1770303248273,
         "locale": "id"
+      },
+      {
+        "id": "kw_bc1e20ee-8bfa-4446-9fdf-58f437b9bc2a",
+        "keyword": "Mantra Jiwa -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770346752762,
+        "created_at": 1770346752762,
+        "locale": "id"
       }
     ],
     "h": [
@@ -12949,6 +12971,28 @@
         "clicks": 0,
         "last_search": 1770304112662,
         "created_at": 1770304112662,
+        "locale": "id"
+      },
+      {
+        "id": "kw_27fba18f-e0b6-4097-a134-464b47c44e05",
+        "keyword": "Good Morning Everyone - Biar Hanya Aku Yang Tahu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770346752778,
+        "created_at": 1770346752778,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ebea276e-7765-4a55-a4f9-73ee2f7ef9dd",
+        "keyword": "Good Morning Everyone",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770346752778,
+        "created_at": 1770346752778,
         "locale": "id"
       }
     ],
@@ -15512,9 +15556,9 @@
         "keyword": "Boomerang - Seumur Hidupku",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769360020300,
+        "last_search": 1770346752761,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -15523,9 +15567,9 @@
         "keyword": "Boomerang",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769760327977,
+        "last_search": 1770346752761,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -16561,6 +16605,17 @@
         "clicks": 0,
         "last_search": 1770303248273,
         "created_at": 1770303248273,
+        "locale": "id"
+      },
+      {
+        "id": "kw_83de98ef-6b03-41d9-8f27-0d798a3bf7d3",
+        "keyword": "Biar Hanya Aku Yang Tahu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770346752778,
+        "created_at": 1770346752778,
         "locale": "id"
       }
     ],
@@ -22320,9 +22375,9 @@
         "keyword": "Aviwkila",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769748226720,
+        "last_search": 1770346752762,
         "created_at": 1769748226720,
         "locale": "id"
       },
@@ -23446,6 +23501,17 @@
         "clicks": 0,
         "last_search": 1770304112647,
         "created_at": 1770304112647,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9094518f-f326-4b77-86a5-4a3b5fd00f8c",
+        "keyword": "Aviwkila - Mantra Jiwa -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770346752762,
+        "created_at": 1770346752762,
         "locale": "id"
       }
     ],
@@ -24601,9 +24667,9 @@
         "keyword": "Seumur Hidupku",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769522415615,
+        "last_search": 1770346752761,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -27274,9 +27340,9 @@
         "keyword": "Sedia Aku Sebelum Hujan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770040365773,
+        "last_search": 1770346752761,
         "created_at": 1770040365773,
         "locale": "id"
       },
@@ -27285,9 +27351,9 @@
         "keyword": "Sedia Aku Sebelum Hujan Datang",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770040365773,
+        "last_search": 1770346752761,
         "created_at": 1770040365773,
         "locale": "id"
       },
@@ -27773,6 +27839,17 @@
         "clicks": 0,
         "last_search": 1770304112662,
         "created_at": 1770304112662,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c96a3f85-dda1-4ccd-aa5b-86343f167326",
+        "keyword": "Satu-Satu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770346752762,
+        "created_at": 1770346752762,
         "locale": "id"
       }
     ],
@@ -29205,9 +29282,9 @@
         "keyword": "Idgitaf - Sedia Aku Sebelum Hujan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770040365773,
+        "last_search": 1770346752761,
         "created_at": 1770040365773,
         "locale": "id"
       },
@@ -29216,9 +29293,9 @@
         "keyword": "Idgitaf",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770040365773,
+        "last_search": 1770346752761,
         "created_at": 1770040365773,
         "locale": "id"
       },
@@ -29418,6 +29495,17 @@
         "clicks": 0,
         "last_search": 1770303248273,
         "created_at": 1770303248273,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e833af7d-95bf-4a03-8687-3654a5d858dd",
+        "keyword": "Idgitaf - Satu-Satu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770346752762,
+        "created_at": 1770346752761,
         "locale": "id"
       }
     ],
