@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770465290280,
+    "last_updated": 1770465899447,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -272,9 +272,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 64,
+        "impressions": 65,
         "clicks": 0,
-        "last_search": 1770465290248,
+        "last_search": 1770465899411,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -305,9 +305,9 @@
         "keyword": "Denny Caknan - Cundamani",
         "tags": [],
         "weight": 1,
-        "impressions": 12,
+        "impressions": 13,
         "clicks": 0,
-        "last_search": 1770465290248,
+        "last_search": 1770465899411,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -393,9 +393,9 @@
         "keyword": "Denny Caknan - Tunggal Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770218578442,
+        "last_search": 1770465899425,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -690,9 +690,9 @@
         "keyword": "Denny Caknan - Langgeng Dayaning Rasa (LDR ...",
         "tags": [],
         "weight": 1,
-        "impressions": 13,
+        "impressions": 14,
         "clicks": 0,
-        "last_search": 1770465290248,
+        "last_search": 1770465899411,
         "created_at": 1769407733906,
         "locale": "id"
       },
@@ -2571,9 +2571,9 @@
         "keyword": "Denny Caknan - Sigar -",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770307521000,
+        "last_search": 1770465899411,
         "created_at": 1770025434557,
         "locale": "id"
       },
@@ -3445,6 +3445,39 @@
         "last_search": 1770462570375,
         "created_at": 1770462570375,
         "locale": "id"
+      },
+      {
+        "id": "kw_636d9a8b-85bc-4241-b265-a9ca8a0a3301",
+        "keyword": "Denny Caknan Ft Saka Kempot - Swargi Langgeng ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770465899411,
+        "created_at": 1770465899411,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9fb08956-4d4a-430d-9e0d-3ff7892e7f31",
+        "keyword": "Denny Caknan Ft Saka Kempot",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770465899411,
+        "created_at": 1770465899411,
+        "locale": "id"
+      },
+      {
+        "id": "kw_04742c63-6604-4c9c-a044-3a8cbae240fc",
+        "keyword": "Denny Caknan - SATRU 2 -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770465899424,
+        "created_at": 1770465899424,
+        "locale": "id"
       }
     ],
     "l": [
@@ -3475,9 +3508,9 @@
         "keyword": "Langgeng Dayaning Rasa (LDR",
         "tags": [],
         "weight": 1,
-        "impressions": 15,
+        "impressions": 16,
         "clicks": 0,
-        "last_search": 1770465290248,
+        "last_search": 1770465899411,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -3838,9 +3871,9 @@
         "keyword": "LDR",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769945224649,
+        "last_search": 1770465899411,
         "created_at": 1769607090803,
         "locale": "id"
       },
@@ -6359,9 +6392,9 @@
         "keyword": "Kumpulan Gitar Denny Caknan -tela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769791972515,
+        "last_search": 1770465899411,
         "created_at": 1769791972515,
         "locale": "id"
       },
@@ -16441,6 +16474,17 @@
         "last_search": 1770370715085,
         "created_at": 1770370715085,
         "locale": "id"
+      },
+      {
+        "id": "kw_5058702f-97fd-4db4-a3ad-1c07d5224c3c",
+        "keyword": "Next Life",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770465899424,
+        "created_at": 1770465899424,
+        "locale": "id"
       }
     ],
     "b": [
@@ -17859,9 +17903,9 @@
         "keyword": "Tunggal Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770218578442,
+        "last_search": 1770465899425,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -21363,9 +21407,9 @@
         "keyword": "Cundamani",
         "tags": [],
         "weight": 1,
-        "impressions": 13,
+        "impressions": 14,
         "clicks": 0,
-        "last_search": 1770465290248,
+        "last_search": 1770465899411,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -25197,6 +25241,61 @@
         "clicks": 0,
         "last_search": 1770462209216,
         "created_at": 1770462209216,
+        "locale": "id"
+      },
+      {
+        "id": "kw_83d5fe17-e45b-47ce-a504-686a6da7156e",
+        "keyword": "Asep Irama - Aku Dilahirkan Untuk Siapa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770465899411,
+        "created_at": 1770465899411,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2ac735e6-2341-4fc4-a491-bf02db2da85c",
+        "keyword": "Asep Irama",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770465899411,
+        "created_at": 1770465899411,
+        "locale": "id"
+      },
+      {
+        "id": "kw_91d102e0-feb5-4184-bf5f-9ae4e6a73806",
+        "keyword": "Aku Dilahirkan Untuk Siapa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770465899411,
+        "created_at": 1770465899411,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ef9078c5-1bf9-4f7d-9de0-6bee3560f15c",
+        "keyword": "Anson Seabra - Next Life",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770465899424,
+        "created_at": 1770465899424,
+        "locale": "id"
+      },
+      {
+        "id": "kw_def75881-8502-4ad4-bbf4-455b1c56ce5f",
+        "keyword": "Anson Seabra",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770465899424,
+        "created_at": 1770465899424,
         "locale": "id"
       }
     ],
@@ -29124,9 +29223,9 @@
         "keyword": "Sigar -",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770307521000,
+        "last_search": 1770465899411,
         "created_at": 1770025434557,
         "locale": "id"
       },
@@ -29887,6 +29986,28 @@
         "clicks": 0,
         "last_search": 1770462553493,
         "created_at": 1770462553493,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a6596fd6-d9bf-4f8f-bb97-6d44d735ce61",
+        "keyword": "Swargi Langgeng",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770465899411,
+        "created_at": 1770465899411,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7ce06bc3-e197-41f4-b6a2-8e9bc63f458c",
+        "keyword": "SATRU 2 -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770465899425,
+        "created_at": 1770465899424,
         "locale": "id"
       }
     ],
@@ -32513,9 +32634,9 @@
         "keyword": "Vita Alvia",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769945224649,
+        "last_search": 1770465899411,
         "created_at": 1769607090803,
         "locale": "id"
       },
@@ -32656,9 +32777,9 @@
         "keyword": "Vita Alvia - LDR",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769945224649,
+        "last_search": 1770465899411,
         "created_at": 1769945224649,
         "locale": "id"
       },
