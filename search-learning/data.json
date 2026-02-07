@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770465899447,
+    "last_updated": 1770473007601,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -272,9 +272,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 65,
+        "impressions": 66,
         "clicks": 0,
-        "last_search": 1770465899411,
+        "last_search": 1770473007559,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -1581,9 +1581,9 @@
         "keyword": "Denny Caknan - Tanpo Tresnamu",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770369072827,
+        "last_search": 1770473007559,
         "created_at": 1769703841679,
         "locale": "id"
       },
@@ -3477,6 +3477,28 @@
         "clicks": 0,
         "last_search": 1770465899424,
         "created_at": 1770465899424,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ee3b67af-872a-4a07-9f5f-bf98e93e254b",
+        "keyword": "Daftar Koleksi / Ervinsof -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770473007559,
+        "created_at": 1770473007559,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c7961a2b-1ad5-48b1-9c1c-5ca6cc8200f9",
+        "keyword": "Daftar Koleksi / TEKOMLAKU -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770473007559,
+        "created_at": 1770473007559,
         "locale": "id"
       }
     ],
@@ -5820,9 +5842,9 @@
         "keyword": "Kumpulan Gitar TEKOMLAKU -",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770278557433,
+        "last_search": 1770473007559,
         "created_at": 1769703958513,
         "locale": "id"
       },
@@ -12024,6 +12046,28 @@
         "last_search": 1770297948724,
         "created_at": 1770297948724,
         "locale": "id"
+      },
+      {
+        "id": "kw_203ccccf-94f7-482e-bf37-5d2a0c3fea00",
+        "keyword": "Hidayat Suli - Bakalang Tangih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770473007559,
+        "created_at": 1770473007559,
+        "locale": "id"
+      },
+      {
+        "id": "kw_db58cdc0-4b30-4a24-ab9b-9722f686df41",
+        "keyword": "Hidayat Suli",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770473007559,
+        "created_at": 1770473007559,
+        "locale": "id"
       }
     ],
     "j": [
@@ -16485,6 +16529,17 @@
         "last_search": 1770465899424,
         "created_at": 1770465899424,
         "locale": "id"
+      },
+      {
+        "id": "kw_4480976a-d63b-4eb6-b12d-4a0b591a3973",
+        "keyword": "Ngaliho",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770473007559,
+        "created_at": 1770473007559,
+        "locale": "id"
       }
     ],
     "b": [
@@ -17763,6 +17818,17 @@
         "last_search": 1770369832138,
         "created_at": 1770369832138,
         "locale": "id"
+      },
+      {
+        "id": "kw_538ca51a-37a2-47d6-b01b-84d74d572eb3",
+        "keyword": "Bakalang Tangih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770473007559,
+        "created_at": 1770473007559,
+        "locale": "id"
       }
     ],
     "t": [
@@ -18277,9 +18343,9 @@
         "keyword": "Tekomlaku feat. Ervinsof",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770278557433,
+        "last_search": 1770473007559,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -18299,9 +18365,9 @@
         "keyword": "TEKOMLAKU feat Ervinsof",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770278557433,
+        "last_search": 1770473007559,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -18541,9 +18607,9 @@
         "keyword": "Tanpo Tresnamu",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770369072827,
+        "last_search": 1770473007559,
         "created_at": 1769611865001,
         "locale": "id"
       },
@@ -18651,9 +18717,9 @@
         "keyword": "TEKOMLAKU feat Ervinsof - Raiso Ngapusi 2",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770278557433,
+        "last_search": 1770473007558,
         "created_at": 1769703958513,
         "locale": "id"
       },
@@ -18662,9 +18728,9 @@
         "keyword": "Tekomlaku feat. Ervinsof - Raiso Ngapusi",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770278557433,
+        "last_search": 1770473007559,
         "created_at": 1769703958513,
         "locale": "id"
       },
@@ -19810,6 +19876,61 @@
         "clicks": 0,
         "last_search": 1770462553493,
         "created_at": 1770462553493,
+        "locale": "id"
+      },
+      {
+        "id": "kw_80f3b581-a501-4568-8e17-098751eca512",
+        "keyword": "TEKOMLAKU ft Ervinsof - Ngaliho",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770473007559,
+        "created_at": 1770473007559,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bbfd5899-d7bc-4ae5-b0b9-acc5b4cd66f1",
+        "keyword": "TEKOMLAKU ft Ervinsof",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770473007559,
+        "created_at": 1770473007559,
+        "locale": "id"
+      },
+      {
+        "id": "kw_abb0957c-a3ba-4b8c-8aa9-d292e2bf6953",
+        "keyword": "Tami Aulia - Tak Pernah Merindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770473007559,
+        "created_at": 1770473007559,
+        "locale": "id"
+      },
+      {
+        "id": "kw_75d75ab8-1b9e-4d2d-bcd5-b34af074cde6",
+        "keyword": "Tami Aulia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770473007559,
+        "created_at": 1770473007559,
+        "locale": "id"
+      },
+      {
+        "id": "kw_49d1652a-ca70-42ec-abd0-ad79eb306f83",
+        "keyword": "Tak Pernah Merindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770473007559,
+        "created_at": 1770473007559,
         "locale": "id"
       }
     ],
@@ -25635,9 +25756,9 @@
         "keyword": "Raiso Ngapusi",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770278557433,
+        "last_search": 1770473007559,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -25646,9 +25767,9 @@
         "keyword": "Raiso Ngapusi 2",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770278557433,
+        "last_search": 1770473007559,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -28112,9 +28233,9 @@
         "keyword": "Saktenane 2",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1770369072827,
+        "last_search": 1770473007559,
         "created_at": 1769605035336,
         "locale": "id"
       },
@@ -32535,9 +32656,9 @@
         "keyword": "Vadesta Ft. Destya Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 13,
+        "impressions": 14,
         "clicks": 0,
-        "last_search": 1770369072827,
+        "last_search": 1770473007559,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -32656,9 +32777,9 @@
         "keyword": "Vadesta Ft. Destya Eka - Saktenane 2",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770369072827,
+        "last_search": 1770473007559,
         "created_at": 1769703841678,
         "locale": "id"
       },
