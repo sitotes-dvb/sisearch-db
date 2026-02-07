@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770433566992,
+    "last_updated": 1770435144752,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -13732,6 +13732,28 @@
         "clicks": 0,
         "last_search": 1770380896860,
         "created_at": 1770380896860,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f869658e-8eb2-4eb3-a7f2-a6ec3748fbd4",
+        "keyword": "Galuh Orlando - Suroboyo Ninggal Janji",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770435144713,
+        "created_at": 1770435144713,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3d54b3a7-0a1d-41a7-8fdb-35852bebe4ed",
+        "keyword": "Galuh Orlando",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770435144713,
+        "created_at": 1770435144713,
         "locale": "id"
       }
     ],
@@ -29579,6 +29601,17 @@
         "clicks": 0,
         "last_search": 1770433566955,
         "created_at": 1770432368572,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c4549098-2bc7-4c00-959e-24130b462889",
+        "keyword": "Suroboyo Ninggal Janji",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770435144713,
+        "created_at": 1770435144713,
         "locale": "id"
       }
     ],
