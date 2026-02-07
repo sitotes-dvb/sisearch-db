@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770475386923,
+    "last_updated": 1770475560502,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3511,6 +3511,17 @@
         "last_search": 1770473462335,
         "created_at": 1770473462335,
         "locale": "id"
+      },
+      {
+        "id": "kw_d31fe2a5-08ee-4379-ad1f-c784be089534",
+        "keyword": "Dalane Gusti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770475560464,
+        "created_at": 1770475560464,
+        "locale": "id"
       }
     ],
     "l": [
@@ -3563,9 +3574,9 @@
         "keyword": "LAVORA Ft Ena Vika",
         "tags": [],
         "weight": 1,
-        "impressions": 12,
+        "impressions": 13,
         "clicks": 0,
-        "last_search": 1770475386894,
+        "last_search": 1770475560463,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -3684,9 +3695,9 @@
         "keyword": "LAVORA",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770475386894,
+        "last_search": 1770475560463,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -3739,9 +3750,9 @@
         "keyword": "LAVORA Ft. Damara De",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770465290248,
+        "last_search": 1770475560464,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -4025,9 +4036,9 @@
         "keyword": "LAVORA - Akhire Bali -",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770475386894,
+        "last_search": 1770475560463,
         "created_at": 1769672111093,
         "locale": "id"
       },
@@ -4069,9 +4080,9 @@
         "keyword": "LAVORA Ft. Damara De - Nresnani",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770465290248,
+        "last_search": 1770475560464,
         "created_at": 1769707419091,
         "locale": "id"
       },
@@ -4366,9 +4377,9 @@
         "keyword": "LAVORA - Pengen Bali -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770044302972,
+        "last_search": 1770475560464,
         "created_at": 1770044302972,
         "locale": "id"
       },
@@ -7945,9 +7956,9 @@
         "keyword": "Pelampiasan 2 - Nayla Fardila Feat Jasun Marju ...",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770036697199,
+        "last_search": 1770475560464,
         "created_at": 1769408177176,
         "locale": "id"
       },
@@ -7956,9 +7967,9 @@
         "keyword": "Pelampiasan 2",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770036697199,
+        "last_search": 1770475560464,
         "created_at": 1769408177176,
         "locale": "id"
       },
@@ -9067,9 +9078,9 @@
         "keyword": "Pengen Bali -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770044302972,
+        "last_search": 1770475560464,
         "created_at": 1770044302972,
         "locale": "id"
       },
@@ -9333,9 +9344,9 @@
         "keyword": "Masdddho",
         "tags": [],
         "weight": 1,
-        "impressions": 23,
+        "impressions": 24,
         "clicks": 0,
-        "last_search": 1770475386902,
+        "last_search": 1770475560464,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -10697,9 +10708,9 @@
         "keyword": "Masdddho - Samar -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769878591057,
+        "last_search": 1770475560464,
         "created_at": 1769878591057,
         "locale": "id"
       },
@@ -13931,6 +13942,28 @@
         "last_search": 1770435144713,
         "created_at": 1770435144713,
         "locale": "id"
+      },
+      {
+        "id": "kw_92175b5d-b594-4fc4-89f7-c9506f50252c",
+        "keyword": "Guyub Rukun - Dalane Gusti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770475560464,
+        "created_at": 1770475560464,
+        "locale": "id"
+      },
+      {
+        "id": "kw_24fbfcb8-415f-4639-b2ac-fbe1b4d5fc4b",
+        "keyword": "Guyub Rukun",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770475560464,
+        "created_at": 1770475560464,
+        "locale": "id"
       }
     ],
     "n": [
@@ -14467,9 +14500,9 @@
         "keyword": "Northsle Ft Agiff",
         "tags": [],
         "weight": 1,
-        "impressions": 13,
+        "impressions": 14,
         "clicks": 0,
-        "last_search": 1770475386902,
+        "last_search": 1770475560464,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -14588,9 +14621,9 @@
         "keyword": "Nayla Fardila Feat Jasun Marju",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770036697199,
+        "last_search": 1770475560464,
         "created_at": 1769408177176,
         "locale": "id"
       },
@@ -14621,9 +14654,9 @@
         "keyword": "Nresnani",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770465290248,
+        "last_search": 1770475560464,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -16595,6 +16628,17 @@
         "last_search": 1770473462335,
         "created_at": 1770473462335,
         "locale": "id"
+      },
+      {
+        "id": "kw_7d4c60b9-d0d7-4528-bf1e-b4fb5826a3b9",
+        "keyword": "Northsle Ft Agiff - Tresno Liyane 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770475560464,
+        "created_at": 1770475560464,
+        "locale": "id"
       }
     ],
     "b": [
@@ -18255,9 +18299,9 @@
         "keyword": "Tresno Liyane 2",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407883531,
+        "last_search": 1770475560464,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -18398,9 +18442,9 @@
         "keyword": "Tekomlaku feat. Ervinsof",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1770473007559,
+        "last_search": 1770475560463,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -18783,9 +18827,9 @@
         "keyword": "Tekomlaku feat. Ervinsof - Raiso Ngapusi",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770473007559,
+        "last_search": 1770475560463,
         "created_at": 1769703958513,
         "locale": "id"
       },
@@ -24005,9 +24049,9 @@
         "keyword": "Akhire Bali -",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770475386894,
+        "last_search": 1770475560463,
         "created_at": 1769672111093,
         "locale": "id"
       },
@@ -25514,9 +25558,9 @@
         "keyword": "Rasah Bali - LAVORA Ft Ena Vika",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1770475386894,
+        "last_search": 1770475560463,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -25525,9 +25569,9 @@
         "keyword": "Rasah Bali",
         "tags": [],
         "weight": 1,
-        "impressions": 12,
+        "impressions": 13,
         "clicks": 0,
-        "last_search": 1770475386894,
+        "last_search": 1770475560463,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -25811,9 +25855,9 @@
         "keyword": "Raiso Ngapusi",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1770473007559,
+        "last_search": 1770475560463,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -26163,9 +26207,9 @@
         "keyword": "Rasah Bali Aku Wes Ora Sudi",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770475386894,
+        "last_search": 1770475560464,
         "created_at": 1769672111093,
         "locale": "id"
       },
@@ -29289,9 +29333,9 @@
         "keyword": "Samar -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769878591070,
+        "last_search": 1770475560464,
         "created_at": 1769878591070,
         "locale": "id"
       },
@@ -32289,9 +32333,9 @@
         "keyword": "Overall - Rasah Bali Aku Wes Ora Sudi",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770475386894,
+        "last_search": 1770475560464,
         "created_at": 1769672111093,
         "locale": "id"
       },
@@ -32300,9 +32344,9 @@
         "keyword": "Overall",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770475386894,
+        "last_search": 1770475560464,
         "created_at": 1769672111093,
         "locale": "id"
       },
