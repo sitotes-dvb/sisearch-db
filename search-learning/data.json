@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770480634252,
+    "last_updated": 1770483634291,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -12450,9 +12450,9 @@
         "keyword": "Judika",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770368766069,
+        "last_search": 1770483634251,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -13037,6 +13037,39 @@
         "clicks": 0,
         "last_search": 1770462209215,
         "created_at": 1770462209215,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6e1a6dd9-6871-4123-bd23-47bf2d4991a9",
+        "keyword": "Judika - Jikalau Kau Cinta -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483634251,
+        "created_at": 1770483634251,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6eae578d-1887-4442-a8dc-b8a15de33b05",
+        "keyword": "Jikalau Kau Cinta -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483634251,
+        "created_at": 1770483634251,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3bae4e85-e46b-4c49-9add-9604d8f45cbe",
+        "keyword": "Jikalau -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483634251,
+        "created_at": 1770483634251,
         "locale": "id"
       }
     ],
@@ -16568,9 +16601,9 @@
         "keyword": "Naif",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770368766070,
+        "last_search": 1770483634251,
         "created_at": 1770368766070,
         "locale": "id"
       },
@@ -16671,6 +16704,17 @@
         "clicks": 0,
         "last_search": 1770475560464,
         "created_at": 1770475560464,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4895300a-5c2d-4bc1-8607-47fbea73f579",
+        "keyword": "Naif - Jikalau -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483634251,
+        "created_at": 1770483634251,
         "locale": "id"
       }
     ],
@@ -22683,9 +22727,9 @@
         "keyword": "Cintamu Palsu -tela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770368766070,
+        "last_search": 1770483634251,
         "created_at": 1770368766070,
         "locale": "id"
       },
@@ -30136,9 +30180,9 @@
         "keyword": "Sejedewe - Cintamu Palsu -tela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770368766070,
+        "last_search": 1770483634251,
         "created_at": 1770368766070,
         "locale": "id"
       },
@@ -30147,9 +30191,9 @@
         "keyword": "Sejedewe",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770368766070,
+        "last_search": 1770483634251,
         "created_at": 1770368766070,
         "locale": "id"
       },
