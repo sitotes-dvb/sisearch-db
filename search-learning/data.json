@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770483634291,
+    "last_updated": 1770483688909,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -7717,6 +7717,28 @@
         "last_search": 1770475646206,
         "created_at": 1770475646206,
         "locale": "id"
+      },
+      {
+        "id": "kw_92de2e86-04e2-4e81-9035-d62730215d53",
+        "keyword": "Karena Ku Cinta Kau",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
+        "locale": "id"
+      },
+      {
+        "id": "kw_73f1fcd5-3b3d-42b7-9030-89bc9e4d3ef1",
+        "keyword": "Kebahagianku -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
+        "locale": "id"
       }
     ],
     "p": [
@@ -11225,9 +11247,9 @@
         "keyword": "Mubai",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770361852310,
+        "last_search": 1770483688831,
         "created_at": 1770361852310,
         "locale": "id"
       },
@@ -11317,6 +11339,17 @@
         "clicks": 0,
         "last_search": 1770462209215,
         "created_at": 1770462209215,
+        "locale": "id"
+      },
+      {
+        "id": "kw_704b7cd9-8cc1-4c3b-a73c-f6d0205241a6",
+        "keyword": "Mubai - Kebahagianku -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
         "locale": "id"
       }
     ],
@@ -12134,6 +12167,17 @@
         "last_search": 1770473007559,
         "created_at": 1770473007559,
         "locale": "id"
+      },
+      {
+        "id": "kw_b3c8b0ad-f740-4fea-9d19-38eb6f075304",
+        "keyword": "Hilang Ikatan Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
+        "locale": "id"
       }
     ],
     "j": [
@@ -12450,9 +12494,9 @@
         "keyword": "Judika",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770483634251,
+        "last_search": 1770483688831,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -13044,9 +13088,9 @@
         "keyword": "Judika - Jikalau Kau Cinta -tela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770483634251,
+        "last_search": 1770483688831,
         "created_at": 1770483634251,
         "locale": "id"
       },
@@ -13055,9 +13099,9 @@
         "keyword": "Jikalau Kau Cinta -tela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770483634251,
+        "last_search": 1770483688831,
         "created_at": 1770483634251,
         "locale": "id"
       },
@@ -13070,6 +13114,28 @@
         "clicks": 0,
         "last_search": 1770483634251,
         "created_at": 1770483634251,
+        "locale": "id"
+      },
+      {
+        "id": "kw_99cf3b9c-b42d-4338-8ad3-4eabacd63124",
+        "keyword": "Jika Cinta Dia -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
+        "locale": "id"
+      },
+      {
+        "id": "kw_da86342d-ad3c-4660-a634-8c8e8859592a",
+        "keyword": "Jika Kau Percaya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
         "locale": "id"
       }
     ],
@@ -14029,6 +14095,28 @@
         "clicks": 0,
         "last_search": 1770475560464,
         "created_at": 1770475560464,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1640f488-0212-42e9-ad81-efc63bb0a59b",
+        "keyword": "Geisha - Jika Cinta Dia -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d0ae85d1-2bdc-4632-9841-7dba3a0ed426",
+        "keyword": "Geisha",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
         "locale": "id"
       }
     ],
@@ -18005,6 +18093,39 @@
         "last_search": 1770473007559,
         "created_at": 1770473007559,
         "locale": "id"
+      },
+      {
+        "id": "kw_b4d9f3dc-c6d2-4023-b5a2-10cbe86953c3",
+        "keyword": "Bunga Citra Lestari - Karena Ku Cinta Kau",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
+        "locale": "id"
+      },
+      {
+        "id": "kw_78a7ef07-9e65-4869-9170-a686f6491c44",
+        "keyword": "Bunga Citra Lestari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e69535d5-f3b0-4e9f-9ab0-464738241d30",
+        "keyword": "Babak Terakhir",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
+        "locale": "id"
       }
     ],
     "t": [
@@ -20107,6 +20228,39 @@
         "clicks": 0,
         "last_search": 1770473007559,
         "created_at": 1770473007559,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8f5a7355-2cd4-4c06-8248-e1cbe0beb905",
+        "keyword": "Tantari - Rindu Hatiku Rindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d85efba6-1e20-457d-9bbb-f694a905a0d8",
+        "keyword": "Tantari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9c04b14d-ca36-4990-b6c3-4136f049ea7f",
+        "keyword": "Terlanjur Kecewa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688832,
+        "created_at": 1770483688832,
         "locale": "id"
       }
     ],
@@ -22764,6 +22918,39 @@
         "clicks": 0,
         "last_search": 1770462570375,
         "created_at": 1770462570374,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ff68952e-125c-4460-bd71-ffef8a264282",
+        "keyword": "Cinta Bukan Harta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e149aa3c-7802-4817-94a0-bcf6e7b30b53",
+        "keyword": "Cut Rani Auliza - Hilang Ikatan Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d312d1b2-b5db-489d-8341-e406a66d80b5",
+        "keyword": "Cut Rani Auliza",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
         "locale": "id"
       }
     ],
@@ -25594,6 +25781,28 @@
         "last_search": 1770465899424,
         "created_at": 1770465899424,
         "locale": "id"
+      },
+      {
+        "id": "kw_d5178da6-05bd-45c6-84a0-23ffac2bcb0a",
+        "keyword": "Aprilian feat Fany Zee - Terlanjur Kecewa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688832,
+        "created_at": 1770483688831,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fd48e366-13f3-4c9f-a61b-bb54d9548820",
+        "keyword": "Aprilian feat Fany Zee",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688832,
+        "created_at": 1770483688832,
+        "locale": "id"
       }
     ],
     "r": [
@@ -26009,9 +26218,9 @@
         "keyword": "Raim Laode",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770174865530,
+        "last_search": 1770483688831,
         "created_at": 1769510714274,
         "locale": "id"
       },
@@ -26872,6 +27081,28 @@
         "last_search": 1770462570375,
         "created_at": 1770462570375,
         "locale": "id"
+      },
+      {
+        "id": "kw_428d09d6-071c-4b5c-a53b-ab6bfb0d0d0f",
+        "keyword": "Rindu Hatiku Rindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9ec32e9e-9d1e-448f-93f7-8122fba33d74",
+        "keyword": "Raim Laode - Babak Terakhir",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
+        "locale": "id"
       }
     ],
     "s": [
@@ -26891,9 +27122,9 @@
         "keyword": "Seventeen",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770483688831,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -30339,6 +30570,17 @@
         "last_search": 1770475646206,
         "created_at": 1770475646206,
         "locale": "id"
+      },
+      {
+        "id": "kw_47ff25d9-f102-4385-be10-5b980b0cb448",
+        "keyword": "Seventeen - Jika Kau Percaya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
+        "locale": "id"
       }
     ],
     "y": [
@@ -32786,9 +33028,9 @@
         "keyword": "XXDITTO",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769694060365,
+        "last_search": 1770483688831,
         "created_at": 1769694060365,
         "locale": "id"
       },
@@ -32823,6 +33065,17 @@
         "clicks": 0,
         "last_search": 1770475386902,
         "created_at": 1770475386894,
+        "locale": "id"
+      },
+      {
+        "id": "kw_36f54b32-6c72-4cf9-9203-8742922c9d4b",
+        "keyword": "XXDITTO - Cinta Bukan Harta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483688831,
+        "created_at": 1770483688831,
         "locale": "id"
       }
     ],
