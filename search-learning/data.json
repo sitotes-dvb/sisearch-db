@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770483688909,
+    "last_updated": 1770483925896,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -272,9 +272,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 66,
+        "impressions": 67,
         "clicks": 0,
-        "last_search": 1770473007559,
+        "last_search": 1770483925876,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -778,9 +778,9 @@
         "keyword": "DUMES",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770036109478,
+        "last_search": 1770483925876,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -3522,6 +3522,28 @@
         "last_search": 1770475560464,
         "created_at": 1770475560464,
         "locale": "id"
+      },
+      {
+        "id": "kw_3f856538-3455-4ba1-aeff-497b311e11e1",
+        "keyword": "Daftar Koleksi / Denny Caknan -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483925876,
+        "created_at": 1770483925876,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4b18819d-47d1-4429-b679-13c2252b4f5b",
+        "keyword": "Denny Caknan - Wirang -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483925876,
+        "created_at": 1770483925876,
+        "locale": "id"
       }
     ],
     "l": [
@@ -4613,6 +4635,17 @@
         "last_search": 1770462553493,
         "created_at": 1770462553493,
         "locale": "id"
+      },
+      {
+        "id": "kw_564ca02e-35a5-4ee0-8127-f4a1ad46751b",
+        "keyword": "Lamunan -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483925876,
+        "created_at": 1770483925876,
+        "locale": "id"
       }
     ],
     "k": [
@@ -4863,9 +4896,9 @@
         "keyword": "KISINAN",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770036697199,
+        "last_search": 1770483925876,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -7739,6 +7772,28 @@
         "last_search": 1770483688831,
         "created_at": 1770483688831,
         "locale": "id"
+      },
+      {
+        "id": "kw_6390ba35-1c5d-46a8-99d4-e59bea5b97a2",
+        "keyword": "KISINAN - Masdddho -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483925876,
+        "created_at": 1770483925876,
+        "locale": "id"
+      },
+      {
+        "id": "kw_89037ed2-78e6-42b0-81b3-96185cc1c677",
+        "keyword": "Kisinan 2 -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483925876,
+        "created_at": 1770483925876,
+        "locale": "id"
       }
     ],
     "p": [
@@ -7813,9 +7868,9 @@
         "keyword": "Pakdhe Baz",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1770200458690,
+        "last_search": 1770483925876,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -8781,9 +8836,9 @@
         "keyword": "Pakdhe Baz - AJRIH -",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770200458690,
+        "last_search": 1770483925876,
         "created_at": 1769757769515,
         "locale": "id"
       },
@@ -9325,6 +9380,17 @@
         "last_search": 1770383332100,
         "created_at": 1770382400805,
         "locale": "id"
+      },
+      {
+        "id": "kw_4b22611f-2ffe-4234-a188-d50ef01741a5",
+        "keyword": "Pelanggaran -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483925876,
+        "created_at": 1770483925876,
+        "locale": "id"
       }
     ],
     "m": [
@@ -9399,9 +9465,9 @@
         "keyword": "Masdddho",
         "tags": [],
         "weight": 1,
-        "impressions": 24,
+        "impressions": 25,
         "clicks": 0,
-        "last_search": 1770475560464,
+        "last_search": 1770483925876,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -11350,6 +11416,28 @@
         "clicks": 0,
         "last_search": 1770483688831,
         "created_at": 1770483688831,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0c778c3c-238b-48dc-b605-f2d3a4d45325",
+        "keyword": "Masdddho -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483925876,
+        "created_at": 1770483925876,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8b867b33-70cf-419c-a9c8-03d1fbf31203",
+        "keyword": "Masdddho - Kisinan 2 -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483925876,
+        "created_at": 1770483925876,
         "locale": "id"
       }
     ],
@@ -13310,9 +13398,9 @@
         "keyword": "GuyonWaton x Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770465290248,
+        "last_search": 1770483925876,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -13332,9 +13420,9 @@
         "keyword": "GuyonWaton",
         "tags": [],
         "weight": 1,
-        "impressions": 13,
+        "impressions": 14,
         "clicks": 0,
-        "last_search": 1770380896860,
+        "last_search": 1770483925876,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -13739,9 +13827,9 @@
         "keyword": "GuyonWaton x Denny Caknan - SANES",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770465290248,
+        "last_search": 1770483925876,
         "created_at": 1769791972515,
         "locale": "id"
       },
@@ -14118,6 +14206,17 @@
         "last_search": 1770483688831,
         "created_at": 1770483688831,
         "locale": "id"
+      },
+      {
+        "id": "kw_0905e178-33f5-4e17-a99f-f0752c309b4a",
+        "keyword": "GuyonWaton - Pelanggaran -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483925876,
+        "created_at": 1770483925876,
+        "locale": "id"
       }
     ],
     "n": [
@@ -14269,9 +14368,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 48,
+        "impressions": 49,
         "clicks": 0,
-        "last_search": 1770475386902,
+        "last_search": 1770483925876,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -14346,9 +14445,9 @@
         "keyword": "NDX AKA - Nemen HipHop Dangdut Version",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770462553493,
+        "last_search": 1770483925876,
         "created_at": 1769396521655,
         "locale": "id"
       },
@@ -14357,9 +14456,9 @@
         "keyword": "Nemen HipHop Dangdut Version",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1770462553493,
+        "last_search": 1770483925876,
         "created_at": 1769396521655,
         "locale": "id"
       },
@@ -21020,9 +21119,9 @@
         "keyword": "Wahyu F Giri",
         "tags": [],
         "weight": 1,
-        "impressions": 17,
+        "impressions": 18,
         "clicks": 0,
-        "last_search": 1770465290248,
+        "last_search": 1770483925876,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -21251,9 +21350,9 @@
         "keyword": "WAWES feat GUYON WATON",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770036109478,
+        "last_search": 1770483925876,
         "created_at": 1769407853710,
         "locale": "id"
       },
@@ -21625,9 +21724,9 @@
         "keyword": "WAWES feat GUYON WATON - DUMES",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770036109478,
+        "last_search": 1770483925876,
         "created_at": 1770036109478,
         "locale": "id"
       },
@@ -21827,6 +21926,28 @@
         "clicks": 0,
         "last_search": 1770361999164,
         "created_at": 1770361999164,
+        "locale": "id"
+      },
+      {
+        "id": "kw_84924f72-f662-4042-8086-e047283a9c09",
+        "keyword": "Wirang -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483925876,
+        "created_at": 1770483925876,
+        "locale": "id"
+      },
+      {
+        "id": "kw_41e993c8-c7d5-469d-854a-74244e1cc2d9",
+        "keyword": "Wahyu F Giri - Lamunan -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770483925876,
+        "created_at": 1770483925876,
         "locale": "id"
       }
     ],
@@ -24522,9 +24643,9 @@
         "keyword": "AJRIH -",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770200458690,
+        "last_search": 1770483925876,
         "created_at": 1769757769515,
         "locale": "id"
       },
@@ -27694,9 +27815,9 @@
         "keyword": "SANES",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770465290248,
+        "last_search": 1770483925876,
         "created_at": 1769407853710,
         "locale": "id"
       },
