@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770462209258,
+    "last_updated": 1770462553533,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1548,9 +1548,9 @@
         "keyword": "Demi Kowe -",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769945075592,
+        "last_search": 1770462553492,
         "created_at": 1769670975193,
         "locale": "id"
       },
@@ -4058,9 +4058,9 @@
         "keyword": "Losskita",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769781853917,
+        "last_search": 1770462553493,
         "created_at": 1769781853917,
         "locale": "id"
       },
@@ -4502,6 +4502,28 @@
         "clicks": 0,
         "last_search": 1770368273386,
         "created_at": 1770368273386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_95defb04-e4a6-49cd-8b2a-35b3f7461a40",
+        "keyword": "Losskita - Lilakno Lungaku -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462553493,
+        "created_at": 1770462553493,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7e741e5b-197b-4218-afe4-76ae21737355",
+        "keyword": "Lilakno Lungaku -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462553493,
+        "created_at": 1770462553493,
         "locale": "id"
       }
     ],
@@ -5809,9 +5831,9 @@
         "keyword": "Kemput STS - Kalah Weton -",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770047692119,
+        "last_search": 1770462553493,
         "created_at": 1769740737933,
         "locale": "id"
       },
@@ -5820,9 +5842,9 @@
         "keyword": "Kemput STS",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770047692119,
+        "last_search": 1770462553493,
         "created_at": 1769740737933,
         "locale": "id"
       },
@@ -5831,9 +5853,9 @@
         "keyword": "Kalah Weton -",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770047692119,
+        "last_search": 1770462553493,
         "created_at": 1769740737933,
         "locale": "id"
       },
@@ -6656,9 +6678,9 @@
         "keyword": "Kumpulan Gitar NDX AKA -",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770040962605,
+        "last_search": 1770462553492,
         "created_at": 1769945075592,
         "locale": "id"
       },
@@ -7604,9 +7626,9 @@
         "keyword": "Pendhoza",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1769945075592,
+        "last_search": 1770462553492,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -8517,9 +8539,9 @@
         "keyword": "Pendhoza - Demi Kowe -",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769945075592,
+        "last_search": 1770462553492,
         "created_at": 1769670975193,
         "locale": "id"
       },
@@ -13939,9 +13961,9 @@
         "keyword": "NDX AKA - Ropang",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770040962604,
+        "last_search": 1770462553493,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -13950,9 +13972,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 45,
+        "impressions": 46,
         "clicks": 0,
-        "last_search": 1770383332100,
+        "last_search": 1770462553492,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -14027,9 +14049,9 @@
         "keyword": "NDX AKA - Nemen HipHop Dangdut Version",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770036109479,
+        "last_search": 1770462553493,
         "created_at": 1769396521655,
         "locale": "id"
       },
@@ -14038,9 +14060,9 @@
         "keyword": "Nemen HipHop Dangdut Version",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1770036109479,
+        "last_search": 1770462553493,
         "created_at": 1769396521655,
         "locale": "id"
       },
@@ -15017,9 +15039,9 @@
         "keyword": "NDX AKA - Angin Dalu (HipHop Dangdut Version ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770231288624,
+        "last_search": 1770462553493,
         "created_at": 1769520854914,
         "locale": "id"
       },
@@ -15039,9 +15061,9 @@
         "keyword": "NDX AKA - Ego Wong Tuo Hiphop Dangdut Version ...",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769945075591,
+        "last_search": 1770462553492,
         "created_at": 1769520854914,
         "locale": "id"
       },
@@ -15369,9 +15391,9 @@
         "keyword": "NDX AKA - Rajodo",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770369072843,
+        "last_search": 1770462553492,
         "created_at": 1769703841679,
         "locale": "id"
       },
@@ -19723,6 +19745,17 @@
         "last_search": 1770462209216,
         "created_at": 1770462209216,
         "locale": "id"
+      },
+      {
+        "id": "kw_e1e0ad88-0c12-4858-858b-8f3f5e92a3cf",
+        "keyword": "Tepung Kanji",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462553493,
+        "created_at": 1770462553493,
+        "locale": "id"
       }
     ],
     "e": [
@@ -20017,9 +20050,9 @@
         "keyword": "Ego Wong Tuo Hiphop Dangdut Version",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769945075591,
+        "last_search": 1770462553492,
         "created_at": 1769520854914,
         "locale": "id"
       },
@@ -23378,9 +23411,9 @@
         "keyword": "Angin Dalu (HipHop Dangdut Version",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770231288624,
+        "last_search": 1770462553493,
         "created_at": 1769520854914,
         "locale": "id"
       },
@@ -25206,9 +25239,9 @@
         "keyword": "Ropang",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770040962604,
+        "last_search": 1770462553493,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -25789,9 +25822,9 @@
         "keyword": "Rajodo",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770369072843,
+        "last_search": 1770462553492,
         "created_at": 1769611865001,
         "locale": "id"
       },
@@ -29788,6 +29821,28 @@
         "clicks": 0,
         "last_search": 1770462209215,
         "created_at": 1770462209215,
+        "locale": "id"
+      },
+      {
+        "id": "kw_de23314a-4555-488d-98d0-89adea283c55",
+        "keyword": "Syahiba Saufa Feat. James AP - Tepung Kanji ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462553493,
+        "created_at": 1770462553493,
+        "locale": "id"
+      },
+      {
+        "id": "kw_062b8219-6003-48dd-aed6-4de8ab1b8a48",
+        "keyword": "Syahiba Saufa Feat. James AP",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462553493,
+        "created_at": 1770462553493,
         "locale": "id"
       }
     ],
