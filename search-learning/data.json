@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770435144752,
+    "last_updated": 1770462209258,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3411,6 +3411,28 @@
         "clicks": 0,
         "last_search": 1770370715086,
         "created_at": 1770370715086,
+        "locale": "id"
+      },
+      {
+        "id": "kw_633657b0-a616-4e52-9fc1-f1976085c4e2",
+        "keyword": "D'Cozt Band - Menjaga Jodoh Orang (Feat. Tasya ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462209215,
+        "created_at": 1770462209215,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7c18ad14-fbbd-46b2-a0c1-8aa3dcb49883",
+        "keyword": "D'Cozt Band",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462209215,
+        "created_at": 1770462209215,
         "locale": "id"
       }
     ],
@@ -11131,6 +11153,17 @@
         "last_search": 1770370715086,
         "created_at": 1770370715086,
         "locale": "id"
+      },
+      {
+        "id": "kw_ad3fec83-83d9-4f3d-b1d6-07d16c2474c6",
+        "keyword": "Menjaga Jodoh Orang (Feat. Tasya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462209215,
+        "created_at": 1770462209215,
+        "locale": "id"
       }
     ],
     "h": [
@@ -12817,6 +12850,17 @@
         "clicks": 0,
         "last_search": 1770368766070,
         "created_at": 1770368766070,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c615fd28-8b37-43a3-bf9f-db8011f6be5b",
+        "keyword": "Jadi Tamu -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462209215,
+        "created_at": 1770462209215,
         "locale": "id"
       }
     ],
@@ -17793,9 +17837,9 @@
         "keyword": "Tamu Undangan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770040962605,
+        "last_search": 1770462209215,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -19645,6 +19689,39 @@
         "clicks": 0,
         "last_search": 1770433566954,
         "created_at": 1770432368571,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f0baadfd-94be-478b-920d-5bb3c6ec1045",
+        "keyword": "Tamu Kondangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462209215,
+        "created_at": 1770462209215,
+        "locale": "id"
+      },
+      {
+        "id": "kw_24674242-d338-4be9-8dc7-d23c911cd30f",
+        "keyword": "TAMU UNDANGAN",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462209216,
+        "created_at": 1770462209216,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f773e012-33d8-408a-a4be-58e196f90b08",
+        "keyword": "Tamu Undangan 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462209216,
+        "created_at": 1770462209216,
         "locale": "id"
       }
     ],
@@ -22388,9 +22465,9 @@
         "keyword": "Anggun Pramudita",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770025434557,
+        "last_search": 1770462209215,
         "created_at": 1769360249303,
         "locale": "id"
       },
@@ -24967,6 +25044,94 @@
         "last_search": 1770380896860,
         "created_at": 1770380896860,
         "locale": "id"
+      },
+      {
+        "id": "kw_ad46b97d-5237-48f9-a159-e18d62943f80",
+        "keyword": "Anggun Pramudita - Tamu Undangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462209215,
+        "created_at": 1770462209215,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a223d064-114e-4e22-af23-094616c6f46c",
+        "keyword": "Anty Witak - TAMU UNDANGAN",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462209215,
+        "created_at": 1770462209215,
+        "locale": "id"
+      },
+      {
+        "id": "kw_225f73a0-ce1b-46d0-ac50-c89033476ad7",
+        "keyword": "Anty Witak",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462209216,
+        "created_at": 1770462209216,
+        "locale": "id"
+      },
+      {
+        "id": "kw_de1c8b4c-7983-44e6-893a-dd50977e1353",
+        "keyword": "Agus Sapia - Tamu Undangan 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462209216,
+        "created_at": 1770462209216,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1f0d2dcf-0fd0-453d-b366-1df5976bf423",
+        "keyword": "Agus Sapia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462209216,
+        "created_at": 1770462209216,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a86ee42d-1b18-4f50-887d-21e6d2ed5977",
+        "keyword": "Agus Sapia - Tamu Undangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462209216,
+        "created_at": 1770462209216,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c4050c30-9bed-4a5f-a65e-9e7b687b47ca",
+        "keyword": "Arta Mahesa - Tamu Undangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462209216,
+        "created_at": 1770462209216,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7a825bf0-3924-40e6-9896-066e4b9fc2f5",
+        "keyword": "Arta Mahesa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462209216,
+        "created_at": 1770462209216,
+        "locale": "id"
       }
     ],
     "r": [
@@ -26660,9 +26825,9 @@
         "keyword": "Shinta Arsinta",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770046454640,
+        "last_search": 1770462209215,
         "created_at": 1769407631223,
         "locale": "id"
       },
@@ -29613,6 +29778,17 @@
         "last_search": 1770435144713,
         "created_at": 1770435144713,
         "locale": "id"
+      },
+      {
+        "id": "kw_a5d4b889-84de-439d-8ecc-a3560e2374bb",
+        "keyword": "Shinta Arsinta - Tamu Kondangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462209215,
+        "created_at": 1770462209215,
+        "locale": "id"
       }
     ],
     "y": [
@@ -30129,9 +30305,9 @@
         "keyword": "FDJ Emily Young",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769408285659,
+        "last_search": 1770462209216,
         "created_at": 1769408285659,
         "locale": "id"
       },
@@ -30195,9 +30371,9 @@
         "keyword": "Fresly Nikijuluw",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1770359688902,
+        "last_search": 1770462209215,
         "created_at": 1769428790060,
         "locale": "id"
       },
@@ -30672,6 +30848,28 @@
         "clicks": 0,
         "last_search": 1770433566954,
         "created_at": 1770432368571,
+        "locale": "id"
+      },
+      {
+        "id": "kw_19a415dc-e8b7-4689-a711-fc61525a6998",
+        "keyword": "Fresly Nikijuluw - Jadi Tamu -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462209215,
+        "created_at": 1770462209215,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e144c754-6c36-495b-a92c-f35577881670",
+        "keyword": "FDJ Emily Young - Tamu Undangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770462209216,
+        "created_at": 1770462209216,
         "locale": "id"
       }
     ],
@@ -31961,9 +32159,9 @@
         "keyword": "XALUNA Feat. NIA Kecil - Tamu Undangan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770040962605,
+        "last_search": 1770462209215,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -31972,9 +32170,9 @@
         "keyword": "XALUNA Feat. NIA Kecil",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770040962605,
+        "last_search": 1770462209215,
         "created_at": 1769395894349,
         "locale": "id"
       },
