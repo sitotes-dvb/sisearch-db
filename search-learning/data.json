@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770483925896,
+    "last_updated": 1770484286455,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3596,9 +3596,9 @@
         "keyword": "LAVORA Ft Ena Vika",
         "tags": [],
         "weight": 1,
-        "impressions": 13,
+        "impressions": 14,
         "clicks": 0,
-        "last_search": 1770475560463,
+        "last_search": 1770484286410,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -4645,6 +4645,28 @@
         "clicks": 0,
         "last_search": 1770483925876,
         "created_at": 1770483925876,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2d97407c-676d-4e69-b2a7-7ee934f99a87",
+        "keyword": "LAVORA Ft Yaya Hnd - Njanjeni",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286411,
+        "created_at": 1770484286411,
+        "locale": "id"
+      },
+      {
+        "id": "kw_23bbbd50-c260-4149-beb9-782996c58c54",
+        "keyword": "LAVORA Ft Yaya Hnd",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286411,
+        "created_at": 1770484286411,
         "locale": "id"
       }
     ],
@@ -7794,6 +7816,17 @@
         "last_search": 1770483925876,
         "created_at": 1770483925876,
         "locale": "id"
+      },
+      {
+        "id": "kw_3bb498fe-8086-4b06-9e55-dcb19d0ff632",
+        "keyword": "Kasekso Tresno",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286411,
+        "created_at": 1770484286411,
+        "locale": "id"
       }
     ],
     "p": [
@@ -9390,6 +9423,61 @@
         "clicks": 0,
         "last_search": 1770483925876,
         "created_at": 1770483925876,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fe8841e2-f25e-4bf7-9699-67256f06f795",
+        "keyword": "Pupuse Nelongso - Eric Sukir Genk ft Sarah Brillian ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286410,
+        "created_at": 1770484286410,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bc58abda-0f2f-45cb-8510-e7138fcc7994",
+        "keyword": "Pupuse Nelongso",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286410,
+        "created_at": 1770484286410,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fae783a2-d300-4546-b14d-92a00c1ad5d2",
+        "keyword": "PEPESTHI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286411,
+        "created_at": 1770484286411,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fe918755-d13c-4de7-b1da-e34dc0150a4c",
+        "keyword": "Pitakustik - Cerito Atiku -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286411,
+        "created_at": 1770484286411,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2b1f47da-1ee9-4f50-8d93-5fd98f8f4ec6",
+        "keyword": "Pitakustik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286411,
+        "created_at": 1770484286411,
         "locale": "id"
       }
     ],
@@ -14368,9 +14456,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 49,
+        "impressions": 50,
         "clicks": 0,
-        "last_search": 1770483925876,
+        "last_search": 1770484286410,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -14753,9 +14841,9 @@
         "keyword": "Northsle Ft Agiff",
         "tags": [],
         "weight": 1,
-        "impressions": 14,
+        "impressions": 15,
         "clicks": 0,
-        "last_search": 1770475560464,
+        "last_search": 1770484286412,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -16458,9 +16546,9 @@
         "keyword": "NDX AKA - Remukan Ati",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770046454640,
+        "last_search": 1770484286410,
         "created_at": 1770046454640,
         "locale": "id"
       },
@@ -16656,9 +16744,9 @@
         "keyword": "Niken Salindry",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770219375055,
+        "last_search": 1770484286411,
         "created_at": 1770219375055,
         "locale": "id"
       },
@@ -16902,6 +16990,28 @@
         "clicks": 0,
         "last_search": 1770483634251,
         "created_at": 1770483634251,
+        "locale": "id"
+      },
+      {
+        "id": "kw_664ae5a9-c0eb-48b4-90f3-d677a8610b9e",
+        "keyword": "Niken Salindry - Kasekso Tresno",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286411,
+        "created_at": 1770484286411,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8faf07eb-87b7-453b-943e-9cd0a7b96dcf",
+        "keyword": "Njanjeni",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286411,
+        "created_at": 1770484286411,
         "locale": "id"
       }
     ],
@@ -18563,9 +18673,9 @@
         "keyword": "Tresno Liyane",
         "tags": [],
         "weight": 1,
-        "impressions": 12,
+        "impressions": 13,
         "clicks": 0,
-        "last_search": 1770475386902,
+        "last_search": 1770484286412,
         "created_at": 1769407836965,
         "locale": "id"
       },
@@ -19069,9 +19179,9 @@
         "keyword": "Tresno Liyane - Northsle Ft Agiff",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1770475386902,
+        "last_search": 1770484286412,
         "created_at": 1769672111094,
         "locale": "id"
       },
@@ -20361,6 +20471,17 @@
         "last_search": 1770483688832,
         "created_at": 1770483688832,
         "locale": "id"
+      },
+      {
+        "id": "kw_5c6b492a-e75e-4873-bcc1-54c617148cac",
+        "keyword": "Tresno Endah -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286412,
+        "created_at": 1770484286412,
+        "locale": "id"
       }
     ],
     "e": [
@@ -21044,6 +21165,17 @@
         "clicks": 0,
         "last_search": 1770370715086,
         "created_at": 1770370715086,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d81db90d-34da-4174-9a30-13008de69433",
+        "keyword": "Eric Sukir Genk ft Sarah Brillian",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286410,
+        "created_at": 1770484286410,
         "locale": "id"
       }
     ],
@@ -23072,6 +23204,17 @@
         "clicks": 0,
         "last_search": 1770483688831,
         "created_at": 1770483688831,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1355c1eb-51fa-474e-a1ee-87b8cdd0e3c1",
+        "keyword": "Cerito Atiku -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286411,
+        "created_at": 1770484286411,
         "locale": "id"
       }
     ],
@@ -25924,6 +26067,39 @@
         "last_search": 1770483688832,
         "created_at": 1770483688832,
         "locale": "id"
+      },
+      {
+        "id": "kw_cc8b0fc9-5e3e-49b9-922a-ab1ca760b889",
+        "keyword": "Aldebaran - Tresno Endah -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286411,
+        "created_at": 1770484286411,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3f0f8792-5677-4bfb-a995-295399c1859b",
+        "keyword": "Aldebaran",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286412,
+        "created_at": 1770484286411,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bcdf1815-17fe-4059-a62b-72de44218d3a",
+        "keyword": "ANGGARA Official ft Ardinarass",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286412,
+        "created_at": 1770484286412,
+        "locale": "id"
       }
     ],
     "r": [
@@ -25965,9 +26141,9 @@
         "keyword": "Rasah Bali - LAVORA Ft Ena Vika",
         "tags": [],
         "weight": 1,
-        "impressions": 11,
+        "impressions": 12,
         "clicks": 0,
-        "last_search": 1770475560463,
+        "last_search": 1770484286410,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -25976,9 +26152,9 @@
         "keyword": "Rasah Bali",
         "tags": [],
         "weight": 1,
-        "impressions": 13,
+        "impressions": 14,
         "clicks": 0,
-        "last_search": 1770475560463,
+        "last_search": 1770484286410,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -26867,9 +27043,9 @@
         "keyword": "Remukan Ati",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770046454640,
+        "last_search": 1770484286410,
         "created_at": 1770046454640,
         "locale": "id"
       },
@@ -30702,6 +30878,28 @@
         "last_search": 1770483688831,
         "created_at": 1770483688831,
         "locale": "id"
+      },
+      {
+        "id": "kw_021a9db7-7523-441c-8bac-4267482107fc",
+        "keyword": "SLEMANRECEH - PEPESTHI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286410,
+        "created_at": 1770484286410,
+        "locale": "id"
+      },
+      {
+        "id": "kw_214b5879-60e3-4887-8372-f6ed92bd3db8",
+        "keyword": "SLEMANRECEH",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286411,
+        "created_at": 1770484286410,
+        "locale": "id"
       }
     ],
     "y": [
@@ -33085,6 +33283,28 @@
         "clicks": 0,
         "last_search": 1770475386902,
         "created_at": 1770475386902,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5f44e556-f23a-42d7-8c6a-78de19467228",
+        "keyword": "Ora Ketututan - ANGGARA Official ft Ardinarass ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286412,
+        "created_at": 1770484286412,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f02db2b3-dfee-4cc6-9ac7-f46d8b0c5629",
+        "keyword": "Ora Ketututan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770484286412,
+        "created_at": 1770484286412,
         "locale": "id"
       }
     ],
