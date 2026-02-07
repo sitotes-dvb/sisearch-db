@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770486028806,
+    "last_updated": 1770488200591,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3555,6 +3555,28 @@
         "last_search": 1770486028767,
         "created_at": 1770486028767,
         "locale": "id"
+      },
+      {
+        "id": "kw_e8072ec3-4132-4ef3-9927-6a895ecb642e",
+        "keyword": "Daftar Koleksi / Payung Teduh -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200548,
+        "created_at": 1770488200548,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1d1105ad-13c2-4777-8946-41b661195219",
+        "keyword": "Di Atas Meja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200549,
+        "created_at": 1770488200549,
+        "locale": "id"
       }
     ],
     "l": [
@@ -5578,9 +5600,9 @@
         "keyword": "Kangen Band",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1770368049405,
+        "last_search": 1770488200548,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -7849,6 +7871,17 @@
         "last_search": 1770486028767,
         "created_at": 1770486028767,
         "locale": "id"
+      },
+      {
+        "id": "kw_48812117-b340-40db-9bcf-449ca685943e",
+        "keyword": "Kangen Band - Tentang Jen -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200548,
+        "created_at": 1770488200548,
+        "locale": "id"
       }
     ],
     "p": [
@@ -9500,6 +9533,83 @@
         "clicks": 0,
         "last_search": 1770484286411,
         "created_at": 1770484286411,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7a93b344-575f-4256-b019-09ada4164e48",
+        "keyword": "Payung Teduh - Untuk Perempuan Yang Sedang Dalam ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200548,
+        "created_at": 1770488200547,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2c5ff69c-9445-422c-b442-5ba7fb219c2a",
+        "keyword": "Payung Teduh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200548,
+        "created_at": 1770488200548,
+        "locale": "id"
+      },
+      {
+        "id": "kw_06d7b6f9-83a2-43ff-ba95-8e298991599c",
+        "keyword": "Payung Teduh - Akad",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200548,
+        "created_at": 1770488200548,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3a22a63f-c046-4e0c-9c30-c40d7cb1f201",
+        "keyword": "Payung Teduh - Angin Pujaan Hujan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200548,
+        "created_at": 1770488200548,
+        "locale": "id"
+      },
+      {
+        "id": "kw_43511a29-9ad7-4b17-a7b6-d766838547e3",
+        "keyword": "Payung Teduh - Resah -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200548,
+        "created_at": 1770488200548,
+        "locale": "id"
+      },
+      {
+        "id": "kw_69293609-905a-4b66-b7d9-129c9c9de8b7",
+        "keyword": "Payung Teduh - Di Atas Meja",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200549,
+        "created_at": 1770488200549,
+        "locale": "id"
+      },
+      {
+        "id": "kw_33db3020-1b87-44ee-8e77-4995740c7928",
+        "keyword": "Payung Teduh - Mari Bercerita Feat. Icha",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200549,
+        "created_at": 1770488200549,
         "locale": "id"
       }
     ],
@@ -11548,6 +11658,17 @@
         "clicks": 0,
         "last_search": 1770483925876,
         "created_at": 1770483925876,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1ddb87c8-d0ce-4a59-bd8e-d51ed9dab483",
+        "keyword": "Mari Bercerita Feat. Icha",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200550,
+        "created_at": 1770488200549,
         "locale": "id"
       }
     ],
@@ -14346,9 +14467,9 @@
         "keyword": "Nadin Amizah",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769354018053,
+        "last_search": 1770488200548,
         "created_at": 1769354018053,
         "locale": "id"
       },
@@ -17034,6 +17155,17 @@
         "clicks": 0,
         "last_search": 1770484286411,
         "created_at": 1770484286411,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cd1d862a-d711-429a-aab7-d77158b6cd50",
+        "keyword": "Nadin Amizah - Rayuan Perempuan Gila",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200548,
+        "created_at": 1770488200548,
         "locale": "id"
       }
     ],
@@ -20514,6 +20646,28 @@
         "clicks": 0,
         "last_search": 1770486028767,
         "created_at": 1770486028767,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f46235d6-80be-4042-b85a-b45ba628f068",
+        "keyword": "Tentang Jen -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200548,
+        "created_at": 1770488200548,
+        "locale": "id"
+      },
+      {
+        "id": "kw_464023c5-b351-4284-bc64-d395ca5ec99a",
+        "keyword": "Terhanyut Dalam Kemesraan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200550,
+        "created_at": 1770488200550,
         "locale": "id"
       }
     ],
@@ -26133,6 +26287,28 @@
         "last_search": 1770484286412,
         "created_at": 1770484286412,
         "locale": "id"
+      },
+      {
+        "id": "kw_c2e62810-3a2a-4228-b301-42c4cc8a659f",
+        "keyword": "Akad",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200548,
+        "created_at": 1770488200548,
+        "locale": "id"
+      },
+      {
+        "id": "kw_743de030-9b89-40bd-bd63-599e0d163659",
+        "keyword": "Angin Pujaan Hujan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200548,
+        "created_at": 1770488200548,
+        "locale": "id"
       }
     ],
     "r": [
@@ -27432,6 +27608,28 @@
         "clicks": 0,
         "last_search": 1770483688831,
         "created_at": 1770483688831,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1de91205-e5c1-41c2-a8f4-abfaa36bdcea",
+        "keyword": "Rayuan Perempuan Gila",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200548,
+        "created_at": 1770488200548,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4f1ab92b-3087-4b39-bc8b-6fa73ee089f8",
+        "keyword": "Resah -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200549,
+        "created_at": 1770488200548,
         "locale": "id"
       }
     ],
@@ -32776,6 +32974,28 @@
         "last_search": 1770361852310,
         "created_at": 1770361852310,
         "locale": "id"
+      },
+      {
+        "id": "kw_1204f3a4-7d4a-4390-a057-44e478168121",
+        "keyword": "Ikke Nurjanah - Terhanyut Dalam Kemesraan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200550,
+        "created_at": 1770488200550,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4ccbbc56-6a70-4e34-88ac-0ac4d2352f82",
+        "keyword": "Ikke Nurjanah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200550,
+        "created_at": 1770488200550,
+        "locale": "id"
       }
     ],
     "o": [
@@ -34015,6 +34235,17 @@
         "clicks": 0,
         "last_search": 1770368049405,
         "created_at": 1770368049405,
+        "locale": "id"
+      },
+      {
+        "id": "kw_34425c4c-1315-4dae-963b-6b31f45340bc",
+        "keyword": "Untuk Perempuan Yang Sedang Dalam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770488200548,
+        "created_at": 1770488200548,
         "locale": "id"
       }
     ],
