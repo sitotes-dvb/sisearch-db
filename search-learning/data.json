@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770562188063,
+    "last_updated": 1770562769357,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -96,6 +96,41 @@
         "clicks": 0,
         "last_search": 1770174865530,
         "created_at": 1770174865530,
+        "locale": "id"
+      }
+    ],
+    "4": [
+      {
+        "id": "kw_30d80fb0-42eb-4a09-b980-b630ddc964e3",
+        "keyword": "4.20 Fourtwnty - Zona Nyaman (Ost. Filosofi Kopi 2 ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770562769317,
+        "created_at": 1770562769317,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e3833adb-ad30-4564-8e75-e65038638f23",
+        "keyword": "4.20 Fourtwnty",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770562769317,
+        "created_at": 1770562769317,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5b2fde15-33cd-4ec3-8146-d8235c478f95",
+        "keyword": "4.20 Fourtwnty - Fana Merah Jambu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770562769318,
+        "created_at": 1770562769318,
         "locale": "id"
       }
     ],
@@ -3654,6 +3689,39 @@
         "last_search": 1770562188021,
         "created_at": 1770562188021,
         "locale": "id"
+      },
+      {
+        "id": "kw_3bbc328e-c2cf-4349-b070-3b0604204548",
+        "keyword": "Daftar Koleksi / Ari Lesmana -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770562769318,
+        "created_at": 1770562769317,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6c197960-4f67-4e3e-86e6-ae8fbd12bdb0",
+        "keyword": "David Iztambul - Lah Manyuruak Tampak Juo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770562769318,
+        "created_at": 1770562769318,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d21f3a72-4a36-4ff5-8374-bf4ab1a197d8",
+        "keyword": "David Iztambul",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770562769318,
+        "created_at": 1770562769318,
+        "locale": "id"
       }
     ],
     "l": [
@@ -4822,6 +4890,17 @@
         "last_search": 1770551224010,
         "created_at": 1770551224010,
         "locale": "id"
+      },
+      {
+        "id": "kw_bd54e023-6988-4d8d-b9da-a214c211b659",
+        "keyword": "Lah Manyuruak Tampak Juo",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770562769318,
+        "created_at": 1770562769318,
+        "locale": "id"
       }
     ],
     "k": [
@@ -5534,9 +5613,9 @@
         "keyword": "Krisdayanti",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769518492927,
+        "last_search": 1770562769317,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -5721,9 +5800,9 @@
         "keyword": "Kangen Band",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1770488200548,
+        "last_search": 1770562769318,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -6788,9 +6867,9 @@
         "keyword": "Kangen Band - Bintang 14 Hari",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770015494803,
+        "last_search": 1770562769318,
         "created_at": 1769860809908,
         "locale": "id"
       },
@@ -8123,6 +8202,17 @@
         "clicks": 0,
         "last_search": 1770551390324,
         "created_at": 1770551390324,
+        "locale": "id"
+      },
+      {
+        "id": "kw_35203c4c-e119-486b-8ea5-a2e80faaabe1",
+        "keyword": "Kumpulan Gitar Fourtwnty -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770562769317,
+        "created_at": 1770562769317,
         "locale": "id"
       }
     ],
@@ -10400,9 +10490,9 @@
         "keyword": "Mangu",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769782560565,
+        "last_search": 1770562769318,
         "created_at": 1769510714274,
         "locale": "id"
       },
@@ -11016,9 +11106,9 @@
         "keyword": "Menghitung Hari 2 (Anda Perdana Cover",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769748764074,
+        "last_search": 1770562769300,
         "created_at": 1769748764074,
         "locale": "id"
       },
@@ -11977,6 +12067,28 @@
         "clicks": 0,
         "last_search": 1770550964391,
         "created_at": 1770550964391,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b4c1f954-6b75-4eba-a148-c5bd3c8a3a71",
+        "keyword": "Menghitung Hari - Krisdayanti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770562769316,
+        "created_at": 1770562769300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_429c967e-2e4d-447b-b1a4-35e18dec3121",
+        "keyword": "Menghitung Hari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770562769317,
+        "created_at": 1770562769317,
         "locale": "id"
       }
     ],
@@ -13774,6 +13886,28 @@
         "clicks": 0,
         "last_search": 1770483688831,
         "created_at": 1770483688831,
+        "locale": "id"
+      },
+      {
+        "id": "kw_00d69f13-b91c-4315-9092-7cd95973736a",
+        "keyword": "JAMRUD - Terima Kasih -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770562769317,
+        "created_at": 1770562769317,
+        "locale": "id"
+      },
+      {
+        "id": "kw_780c4fd1-4549-4c8a-973d-f44e45aff8d3",
+        "keyword": "JAMRUD",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770562769317,
+        "created_at": 1770562769317,
         "locale": "id"
       }
     ],
@@ -18462,9 +18596,9 @@
         "keyword": "Bintang 14 Hari",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770015494803,
+        "last_search": 1770562769318,
         "created_at": 1769860809909,
         "locale": "id"
       },
@@ -21229,6 +21363,17 @@
         "clicks": 0,
         "last_search": 1770551224010,
         "created_at": 1770551224010,
+        "locale": "id"
+      },
+      {
+        "id": "kw_927b62a9-6b3f-400a-8f50-b7435300a207",
+        "keyword": "Terima Kasih -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770562769317,
+        "created_at": 1770562769317,
         "locale": "id"
       }
     ],
@@ -32725,9 +32870,9 @@
         "keyword": "Fourtwnty",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769782560565,
+        "last_search": 1770562769300,
         "created_at": 1769510714274,
         "locale": "id"
       },
@@ -32835,9 +32980,9 @@
         "keyword": "Fourtwnty - Menghitung Hari 2 (Anda Perdana Cover ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769748764074,
+        "last_search": 1770562769300,
         "created_at": 1769748764074,
         "locale": "id"
       },
@@ -32857,9 +33002,9 @@
         "keyword": "Fourtwnty - Mangu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769782560565,
+        "last_search": 1770562769318,
         "created_at": 1769782560565,
         "locale": "id"
       },
@@ -33158,6 +33303,17 @@
         "clicks": 0,
         "last_search": 1770551224011,
         "created_at": 1770551224011,
+        "locale": "id"
+      },
+      {
+        "id": "kw_007a56b5-0396-4d43-8d6b-2756220640cd",
+        "keyword": "Fana Merah Jambu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770562769318,
+        "created_at": 1770562769318,
         "locale": "id"
       }
     ],
@@ -35370,6 +35526,17 @@
         "clicks": 0,
         "last_search": 1770361852310,
         "created_at": 1770361852310,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ada3c75c-57f5-4fd0-9199-dc6cbe3fffdf",
+        "keyword": "Zona Nyaman (Ost. Filosofi Kopi 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770562769317,
+        "created_at": 1770562769317,
         "locale": "id"
       }
     ]
