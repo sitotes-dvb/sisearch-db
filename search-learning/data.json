@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770550964435,
+    "last_updated": 1770551224091,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -4767,6 +4767,28 @@
         "last_search": 1770534993602,
         "created_at": 1770534993602,
         "locale": "id"
+      },
+      {
+        "id": "kw_e041cff5-0245-4da6-8f7b-bfa2b067e415",
+        "keyword": "Letter For Me - Forever With You",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224010,
+        "created_at": 1770551224010,
+        "locale": "id"
+      },
+      {
+        "id": "kw_36624524-dd3c-4f13-a662-e50e5dcbc564",
+        "keyword": "Letter For Me",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224010,
+        "created_at": 1770551224010,
+        "locale": "id"
       }
     ],
     "k": [
@@ -7991,6 +8013,72 @@
         "clicks": 0,
         "last_search": 1770550577345,
         "created_at": 1770550577345,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1bb57ac5-0344-4c1b-8d68-27500658cfc3",
+        "keyword": "Kehadiranmu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224010,
+        "created_at": 1770551224010,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d0939d8c-674d-4e45-b29c-22b191742616",
+        "keyword": "Kehadiran Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224010,
+        "created_at": 1770551224010,
+        "locale": "id"
+      },
+      {
+        "id": "kw_00eb1fca-a5df-4dfb-9eb2-148f7dc2ec3d",
+        "keyword": "Kirey - Kehadiranmu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224011,
+        "created_at": 1770551224011,
+        "locale": "id"
+      },
+      {
+        "id": "kw_84c4f06e-402a-4ed6-8a17-90f0835b96fb",
+        "keyword": "Kirey",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224011,
+        "created_at": 1770551224011,
+        "locale": "id"
+      },
+      {
+        "id": "kw_14d352c8-6e73-423e-bca3-cf6e1a5b93f9",
+        "keyword": "Kehadiranmu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224011,
+        "created_at": 1770551224011,
+        "locale": "id"
+      },
+      {
+        "id": "kw_37c94779-edc4-40da-9aa6-fe959c8e72a5",
+        "keyword": "Kutunggu Kehadiranmu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224011,
+        "created_at": 1770551224011,
         "locale": "id"
       }
     ],
@@ -12195,9 +12283,9 @@
         "keyword": "Harry Parintang",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510958795,
+        "last_search": 1770551224011,
         "created_at": 1769510958795,
         "locale": "id"
       },
@@ -12672,6 +12760,17 @@
         "clicks": 0,
         "last_search": 1770483688831,
         "created_at": 1770483688831,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7facd78a-2ea9-4f15-b902-02026bed17b5",
+        "keyword": "Harry Parintang - Yang Pertama Kali",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224011,
+        "created_at": 1770551224011,
         "locale": "id"
       }
     ],
@@ -16095,9 +16194,9 @@
         "keyword": "Nike Ardilla",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770550964391,
+        "last_search": 1770551224011,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -17431,6 +17530,17 @@
         "last_search": 1770550577344,
         "created_at": 1770550577344,
         "locale": "id"
+      },
+      {
+        "id": "kw_6ab7214b-c9f4-49fd-8654-8cb526a15005",
+        "keyword": "Nike Ardilla - Kutunggu Kehadiranmu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224011,
+        "created_at": 1770551224011,
+        "locale": "id"
       }
     ],
     "b": [
@@ -17483,9 +17593,9 @@
         "keyword": "Boomerang",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770346752761,
+        "last_search": 1770551224010,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -18808,6 +18918,17 @@
         "last_search": 1770550577345,
         "created_at": 1770550577345,
         "locale": "id"
+      },
+      {
+        "id": "kw_f67576fb-102f-4606-83b3-ccbacb7ee28e",
+        "keyword": "Boomerang - Kehadiranmu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224010,
+        "created_at": 1770551224010,
+        "locale": "id"
       }
     ],
     "t": [
@@ -19421,9 +19542,9 @@
         "keyword": "Thomas Arya",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770370715085,
+        "last_search": 1770551224010,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -21020,6 +21141,17 @@
         "clicks": 0,
         "last_search": 1770550577344,
         "created_at": 1770550577344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1cf2d641-0f3e-44b1-beed-672484eb753f",
+        "keyword": "Thomas Arya - Kehadiran Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224010,
+        "created_at": 1770551224010,
         "locale": "id"
       }
     ],
@@ -29421,9 +29553,9 @@
         "keyword": "Samsons",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770550964391,
+        "last_search": 1770551224011,
         "created_at": 1769518999262,
         "locale": "id"
       },
@@ -29619,9 +29751,9 @@
         "keyword": "ST12",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770368049405,
+        "last_search": 1770551224011,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -31736,6 +31868,39 @@
         "last_search": 1770550964392,
         "created_at": 1770550964392,
         "locale": "id"
+      },
+      {
+        "id": "kw_1002eea6-a897-416b-b11d-6a58240b6af6",
+        "keyword": "ST12 - SKJ -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224011,
+        "created_at": 1770551224011,
+        "locale": "id"
+      },
+      {
+        "id": "kw_884350cc-e157-48c3-90c4-be86c7209781",
+        "keyword": "SKJ -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224011,
+        "created_at": 1770551224011,
+        "locale": "id"
+      },
+      {
+        "id": "kw_54b41b0a-6c3f-476b-a6a0-458d70deab95",
+        "keyword": "Samsons - Kehadiranmu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224011,
+        "created_at": 1770551224011,
+        "locale": "id"
       }
     ],
     "y": [
@@ -31810,9 +31975,9 @@
         "keyword": "Yang Pertama Kali",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769510958795,
+        "last_search": 1770551224011,
         "created_at": 1769510958795,
         "locale": "id"
       },
@@ -32839,6 +33004,39 @@
         "clicks": 0,
         "last_search": 1770462209216,
         "created_at": 1770462209216,
+        "locale": "id"
+      },
+      {
+        "id": "kw_34c1a3f7-d236-4164-b06e-f178ae9d6213",
+        "keyword": "Forever With You",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224010,
+        "created_at": 1770551224010,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a59215df-4d65-490c-a38f-5d7e0a1ce8b9",
+        "keyword": "Foursquad Band - Kehadiranmu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224011,
+        "created_at": 1770551224011,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d0aa9c5f-2db2-4408-864b-c1781c96c945",
+        "keyword": "Foursquad Band",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224011,
+        "created_at": 1770551224011,
         "locale": "id"
       }
     ],
@@ -34361,9 +34559,9 @@
         "keyword": "Vagetoz",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770549338300,
+        "last_search": 1770551224010,
         "created_at": 1769430306099,
         "locale": "id"
       },
@@ -34673,6 +34871,17 @@
         "clicks": 0,
         "last_search": 1770549338300,
         "created_at": 1770432368572,
+        "locale": "id"
+      },
+      {
+        "id": "kw_85f9b9cd-414a-4b2a-844c-1c9b3965c23f",
+        "keyword": "Vagetoz - Kehadiranmu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770551224010,
+        "created_at": 1770551224010,
         "locale": "id"
       }
     ],
