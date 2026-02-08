@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770488200591,
+    "last_updated": 1770534993627,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3577,6 +3577,17 @@
         "last_search": 1770488200549,
         "created_at": 1770488200549,
         "locale": "id"
+      },
+      {
+        "id": "kw_af88f846-4d49-400b-9581-1c11d7dccc96",
+        "keyword": "Die With A Smile",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993602,
+        "created_at": 1770534993602,
+        "locale": "id"
       }
     ],
     "l": [
@@ -4700,6 +4711,28 @@
         "clicks": 0,
         "last_search": 1770484286411,
         "created_at": 1770484286411,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2f98d82f-dbfd-434d-9b25-e5906ad73350",
+        "keyword": "Lady Gaga, Bruno Mars - Die With A Smile",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993602,
+        "created_at": 1770534993602,
+        "locale": "id"
+      },
+      {
+        "id": "kw_74b60369-8891-45a3-bcb5-20883aa838c1",
+        "keyword": "Lady Gaga, Bruno Mars",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993602,
+        "created_at": 1770534993602,
         "locale": "id"
       }
     ],
@@ -9610,6 +9643,17 @@
         "clicks": 0,
         "last_search": 1770488200549,
         "created_at": 1770488200549,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0dc7818c-5e7a-427e-b1cf-2061a3eabe78",
+        "keyword": "Perfect -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993601,
+        "created_at": 1770534993601,
         "locale": "id"
       }
     ],
@@ -17167,6 +17211,72 @@
         "last_search": 1770488200548,
         "created_at": 1770488200548,
         "locale": "id"
+      },
+      {
+        "id": "kw_cf7d6c7f-8a3b-47c7-ac4a-e113faef5bb4",
+        "keyword": "Nanda Ahlul W - Rasa Rasaning Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993601,
+        "created_at": 1770534993601,
+        "locale": "id"
+      },
+      {
+        "id": "kw_651428bc-72e0-4853-a1c6-128a4d5eec93",
+        "keyword": "Nanda Ahlul W",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993601,
+        "created_at": 1770534993601,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b4887405-1f10-454f-902f-10428c104ff2",
+        "keyword": "Nissa Sabyan - Atouna El Toufoule",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993601,
+        "created_at": 1770534993601,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3010bf8a-5053-4ac7-9ae8-4c8c30ba0993",
+        "keyword": "Nissa Sabyan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993601,
+        "created_at": 1770534993601,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ae1bf686-d7a4-47e9-a96c-bfa6d6b7ae92",
+        "keyword": "Neck Deep - Wish You Were Here",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993602,
+        "created_at": 1770534993602,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cce2d19c-383e-4b33-8d6c-5f8beee1d686",
+        "keyword": "Neck Deep",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993602,
+        "created_at": 1770534993602,
+        "locale": "id"
       }
     ],
     "b": [
@@ -18488,6 +18598,28 @@
         "clicks": 0,
         "last_search": 1770483688831,
         "created_at": 1770483688831,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c2b82e77-61d3-4239-9ecb-8babc7bd8813",
+        "keyword": "Bruno Mars - It Will Rain",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993602,
+        "created_at": 1770534993602,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f36923b9-2c14-43cb-95ef-7c87abd72328",
+        "keyword": "Bruno Mars",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993602,
+        "created_at": 1770534993602,
         "locale": "id"
       }
     ],
@@ -20669,6 +20801,28 @@
         "last_search": 1770488200550,
         "created_at": 1770488200550,
         "locale": "id"
+      },
+      {
+        "id": "kw_8cd9972a-c62e-40b6-b168-23bd1e1278d6",
+        "keyword": "Tajul Feat. Wany Hasrita - Rindu Dalam Benci ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993601,
+        "created_at": 1770534993601,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c0e716fd-1e6e-454c-8e53-13229acfe0ad",
+        "keyword": "Tajul Feat. Wany Hasrita",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993601,
+        "created_at": 1770534993601,
+        "locale": "id"
       }
     ],
     "e": [
@@ -22268,6 +22422,39 @@
         "last_search": 1770483925876,
         "created_at": 1770483925876,
         "locale": "id"
+      },
+      {
+        "id": "kw_cb8f8850-8873-4005-bac7-494f67cefd35",
+        "keyword": "WHUT",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993601,
+        "created_at": 1770534993601,
+        "locale": "id"
+      },
+      {
+        "id": "kw_32e67e41-a9c4-4c99-8beb-72217d854fe0",
+        "keyword": "Wish You Were Here",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993602,
+        "created_at": 1770534993602,
+        "locale": "id"
+      },
+      {
+        "id": "kw_be2c6003-bc3f-4fd0-9b7b-fab696045d1c",
+        "keyword": "When We Were Young",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993602,
+        "created_at": 1770534993602,
+        "locale": "id"
       }
     ],
     "c": [
@@ -23402,6 +23589,17 @@
         "clicks": 0,
         "last_search": 1770484286411,
         "created_at": 1770484286411,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1ed9a380-458f-443a-963c-3b12f416075a",
+        "keyword": "Chord Gitar W-X | & Lirik Lagu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993602,
+        "created_at": 1770534993602,
         "locale": "id"
       }
     ],
@@ -24995,9 +25193,9 @@
         "keyword": "Adele",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769758254205,
+        "last_search": 1770534993602,
         "created_at": 1769758254205,
         "locale": "id"
       },
@@ -26308,6 +26506,72 @@
         "clicks": 0,
         "last_search": 1770488200548,
         "created_at": 1770488200548,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d3ee4ee0-9964-442c-b4ad-35ea50a73141",
+        "keyword": "Aisha Retno - WHUT",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993601,
+        "created_at": 1770534993601,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8e96f734-f184-4a6a-b687-d27a3a2994ae",
+        "keyword": "Aisha Retno",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993601,
+        "created_at": 1770534993601,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b7f7c9ba-c5fe-4ee5-918a-cd2ea5ac05e0",
+        "keyword": "Ali Gatie - Perfect -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993601,
+        "created_at": 1770534993601,
+        "locale": "id"
+      },
+      {
+        "id": "kw_616d094b-73cd-4726-939a-e61e1e1bbc3c",
+        "keyword": "Ali Gatie",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993601,
+        "created_at": 1770534993601,
+        "locale": "id"
+      },
+      {
+        "id": "kw_76b01b2d-ce7e-40dd-9a83-7d600d4a6f36",
+        "keyword": "Atouna El Toufoule",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993602,
+        "created_at": 1770534993601,
+        "locale": "id"
+      },
+      {
+        "id": "kw_acbdbad6-1625-41a5-8686-5a8d5124cbb9",
+        "keyword": "Adele - When We Were Young",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993602,
+        "created_at": 1770534993602,
         "locale": "id"
       }
     ],
@@ -27630,6 +27894,28 @@
         "clicks": 0,
         "last_search": 1770488200549,
         "created_at": 1770488200548,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c2ad4463-8791-417f-9c5d-1a6869ff1f7e",
+        "keyword": "Rasa Rasaning Ati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993601,
+        "created_at": 1770534993601,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5550c4ad-23db-400a-8a53-607d73f39461",
+        "keyword": "Rindu Dalam Benci",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993601,
+        "created_at": 1770534993601,
         "locale": "id"
       }
     ],
@@ -32995,6 +33281,17 @@
         "clicks": 0,
         "last_search": 1770488200550,
         "created_at": 1770488200550,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1930d736-9f3a-4c21-8080-1dbd424afde0",
+        "keyword": "It Will Rain",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770534993602,
+        "created_at": 1770534993602,
         "locale": "id"
       }
     ],
