@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770550577402,
+    "last_updated": 1770550964435,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1339,9 +1339,9 @@
         "keyword": "Di Ujung Jalan",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964392,
         "created_at": 1769518999262,
         "locale": "id"
       },
@@ -2186,9 +2186,9 @@
         "keyword": "Di Ujung Jalan Rindu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964393,
         "created_at": 1769841715626,
         "locale": "id"
       },
@@ -3609,6 +3609,17 @@
         "clicks": 0,
         "last_search": 1770550577345,
         "created_at": 1770550577345,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dd484d71-9072-42d5-963a-ffc43280cdfb",
+        "keyword": "Di Ujung Jalan -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550964391,
+        "created_at": 1770550964391,
         "locale": "id"
       }
     ],
@@ -5897,9 +5908,9 @@
         "keyword": "Kunto Aji & Nadin Amizah - Selaras",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964393,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -5908,9 +5919,9 @@
         "keyword": "Kunto Aji & Nadin Amizah",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964393,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -9754,6 +9765,17 @@
         "last_search": 1770550577344,
         "created_at": 1770550577344,
         "locale": "id"
+      },
+      {
+        "id": "kw_3f030c71-805b-4a86-83c1-ede65c1a30e4",
+        "keyword": "Penantian -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550964391,
+        "created_at": 1770550964391,
+        "locale": "id"
       }
     ],
     "m": [
@@ -10708,9 +10730,9 @@
         "keyword": "Menemukanmu",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964391,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -11812,6 +11834,17 @@
         "clicks": 0,
         "last_search": 1770488200550,
         "created_at": 1770488200549,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e6e08267-a217-4a82-95cb-391dd27dfdaf",
+        "keyword": "Menemukanmu - Seventeen -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550964391,
+        "created_at": 1770550964391,
         "locale": "id"
       }
     ],
@@ -16062,9 +16095,9 @@
         "keyword": "Nike Ardilla",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964391,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -17967,9 +18000,9 @@
         "keyword": "Berpisah Di ujung Jalan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964391,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -17978,9 +18011,9 @@
         "keyword": "Berpisah Di Ujung Jalan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964391,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -17989,9 +18022,9 @@
         "keyword": "Bryan Zparta - Di Ujung Jalan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964392,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -18000,9 +18033,9 @@
         "keyword": "Bryan Zparta",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964392,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -23178,9 +23211,9 @@
         "keyword": "Cinta Di Ujung Jalan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964391,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -23189,9 +23222,9 @@
         "keyword": "Cinta Diantara Kita - Nike Ardilla",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964391,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -23200,9 +23233,9 @@
         "keyword": "Cinta Diantara Kita",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964391,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -23787,6 +23820,28 @@
         "clicks": 0,
         "last_search": 1770550577344,
         "created_at": 1770550577344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0c8742bb-4ffc-4073-853a-66b62fcd5b51",
+        "keyword": "Chord Kalia Siska ft. SKA 86 - Berpisah Di Ujung Jalan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550964391,
+        "created_at": 1770550964391,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a641173c-76d2-43f8-8f7c-7067e8171b01",
+        "keyword": "Chord Kalia Siska ft. SKA 86",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550964391,
+        "created_at": 1770550964391,
         "locale": "id"
       }
     ],
@@ -25083,9 +25138,9 @@
         "keyword": "Agnes Monica - Cinta Di Ujung Jalan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964391,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -25094,9 +25149,9 @@
         "keyword": "Agnes Monica",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964391,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -25116,9 +25171,9 @@
         "keyword": "Armada",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770215682958,
+        "last_search": 1770550964391,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -25523,9 +25578,9 @@
         "keyword": "Aprilian feat. Fany Zee - Di Ujung Jalan Rindu ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964393,
         "created_at": 1769841715626,
         "locale": "id"
       },
@@ -25534,9 +25589,9 @@
         "keyword": "Aprilian feat. Fany Zee",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964393,
         "created_at": 1769841715626,
         "locale": "id"
       },
@@ -26781,6 +26836,17 @@
         "clicks": 0,
         "last_search": 1770550577346,
         "created_at": 1770550577345,
+        "locale": "id"
+      },
+      {
+        "id": "kw_351cfac2-ffc3-4918-9fd9-a4f1124cf146",
+        "keyword": "Armada - Penantian -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550964391,
+        "created_at": 1770550964391,
         "locale": "id"
       }
     ],
@@ -29355,9 +29421,9 @@
         "keyword": "Samsons",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964391,
         "created_at": 1769518999262,
         "locale": "id"
       },
@@ -29795,9 +29861,9 @@
         "keyword": "Sultan - Berpisah Di ujung Jalan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964391,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -29806,9 +29872,9 @@
         "keyword": "Sultan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964391,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -29817,9 +29883,9 @@
         "keyword": "Selaras",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769841715626,
+        "last_search": 1770550964393,
         "created_at": 1769669825760,
         "locale": "id"
       },
@@ -31647,6 +31713,28 @@
         "clicks": 0,
         "last_search": 1770550577344,
         "created_at": 1770550577344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f1fce748-aab0-4ee2-9d10-3b48cfd8d972",
+        "keyword": "Samsons - Di Ujung Jalan -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550964391,
+        "created_at": 1770550964391,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a3f1c416-1229-4682-afc5-dd3170ae632a",
+        "keyword": "Seventeen -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550964392,
+        "created_at": 1770550964392,
         "locale": "id"
       }
     ],
