@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770549338342,
+    "last_updated": 1770550577402,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3599,6 +3599,17 @@
         "last_search": 1770549338301,
         "created_at": 1770549338301,
         "locale": "id"
+      },
+      {
+        "id": "kw_497a74d1-992a-4007-bfff-1a6b7179cc90",
+        "keyword": "Dari Yang Terdalam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577345,
+        "created_at": 1770550577345,
+        "locale": "id"
       }
     ],
     "l": [
@@ -5424,9 +5435,9 @@
         "keyword": "Kenanglah Aku",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769518492927,
+        "last_search": 1770550577344,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -7926,6 +7937,50 @@
         "last_search": 1770488200548,
         "created_at": 1770488200548,
         "locale": "id"
+      },
+      {
+        "id": "kw_f78d6d3d-d533-4e36-b885-7fc32f6557c9",
+        "keyword": "Kenanglah Aku -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577344,
+        "created_at": 1770550577344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4d95d4a1-8aee-4ebc-8b3b-5114f24b19e0",
+        "keyword": "Khai Bahar - Bayang -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577345,
+        "created_at": 1770550577345,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cd14b6a3-0f71-4e64-ad6a-8898b3f5648b",
+        "keyword": "Khai Bahar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577345,
+        "created_at": 1770550577345,
+        "locale": "id"
+      },
+      {
+        "id": "kw_704aa77c-b8fe-4517-8759-c3a7eb802256",
+        "keyword": "Kasih Putih -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577345,
+        "created_at": 1770550577345,
+        "locale": "id"
       }
     ],
     "p": [
@@ -9665,6 +9720,39 @@
         "clicks": 0,
         "last_search": 1770534993601,
         "created_at": 1770534993601,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c52786f0-5a62-4de5-8f9c-29bd0390408e",
+        "keyword": "Peterpan -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577344,
+        "created_at": 1770550577344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4b965999-6158-442b-8e58-d5e3f800271e",
+        "keyword": "Pasha - Dari Yang Terdalam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577344,
+        "created_at": 1770550577344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_94dab5bb-a7f7-4a86-be51-cd8fbff667da",
+        "keyword": "Pasha",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577344,
+        "created_at": 1770550577344,
         "locale": "id"
       }
     ],
@@ -13937,9 +14025,9 @@
         "keyword": "Glenn Fredly",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769748226720,
+        "last_search": 1770550577345,
         "created_at": 1769748226720,
         "locale": "id"
       },
@@ -14502,6 +14590,17 @@
         "clicks": 0,
         "last_search": 1770483925876,
         "created_at": 1770483925876,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c544c6cc-473b-4f4a-af18-48ec4b9c0be7",
+        "keyword": "Glenn Fredly - Kasih Putih -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577345,
+        "created_at": 1770550577345,
         "locale": "id"
       }
     ],
@@ -15435,9 +15534,9 @@
         "keyword": "Naff - Kenanglah Aku",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769518492927,
+        "last_search": 1770550577344,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -15446,9 +15545,9 @@
         "keyword": "Naff",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770303248273,
+        "last_search": 1770550577344,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -15468,9 +15567,9 @@
         "keyword": "NAFF",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769518492927,
+        "last_search": 1770550577344,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -17288,6 +17387,17 @@
         "last_search": 1770534993602,
         "created_at": 1770534993602,
         "locale": "id"
+      },
+      {
+        "id": "kw_d62e7c17-6f90-4dca-b9e8-92d537ed8a6f",
+        "keyword": "NAFF - Kenanglah Aku -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577344,
+        "created_at": 1770550577344,
+        "locale": "id"
       }
     ],
     "b": [
@@ -18631,6 +18741,39 @@
         "clicks": 0,
         "last_search": 1770534993602,
         "created_at": 1770534993602,
+        "locale": "id"
+      },
+      {
+        "id": "kw_90a3dcbf-f6b6-4ba3-b6c9-95f938ad122c",
+        "keyword": "Berikan Aku Cinta - UNGU -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577344,
+        "created_at": 1770550577344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fd8b0ed3-1663-40a9-91a6-ae255013b391",
+        "keyword": "Berikan Aku Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577344,
+        "created_at": 1770550577344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2ca27575-09fb-46a2-9309-0bcf9802ee32",
+        "keyword": "Bayang -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577345,
+        "created_at": 1770550577345,
         "locale": "id"
       }
     ],
@@ -20833,6 +20976,17 @@
         "clicks": 0,
         "last_search": 1770534993601,
         "created_at": 1770534993601,
+        "locale": "id"
+      },
+      {
+        "id": "kw_be64d848-4a65-4d34-ae25-5131262a5059",
+        "keyword": "Ternyata Salah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577344,
+        "created_at": 1770550577344,
         "locale": "id"
       }
     ],
@@ -23612,6 +23766,28 @@
         "last_search": 1770534993602,
         "created_at": 1770534993602,
         "locale": "id"
+      },
+      {
+        "id": "kw_6f04d000-aa70-4080-9816-e8f2375ffe6d",
+        "keyword": "Chevra Papinka ft. Dyrga Dadali - Ternyata Salah ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577344,
+        "created_at": 1770550577344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e32fd24e-6d2f-49a0-b62e-f4fad895c509",
+        "keyword": "Chevra Papinka ft. Dyrga Dadali",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577344,
+        "created_at": 1770550577344,
+        "locale": "id"
       }
     ],
     "a": [
@@ -24709,9 +24885,9 @@
         "keyword": "Arief",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770303248273,
+        "last_search": 1770550577345,
         "created_at": 1769582645422,
         "locale": "id"
       },
@@ -26584,6 +26760,28 @@
         "last_search": 1770534993602,
         "created_at": 1770534993602,
         "locale": "id"
+      },
+      {
+        "id": "kw_9fb568a0-bef1-42d5-8248-efd19114bd8c",
+        "keyword": "Arief - Akulah Yang Kau Cari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577345,
+        "created_at": 1770550577345,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f5ba0e9d-9b98-4a1e-9a93-6a626a8512aa",
+        "keyword": "Akulah Yang Kau Cari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577346,
+        "created_at": 1770550577345,
+        "locale": "id"
       }
     ],
     "r": [
@@ -27947,9 +28145,9 @@
         "keyword": "Seventeen",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770483688831,
+        "last_search": 1770550577344,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -31428,6 +31626,28 @@
         "last_search": 1770484286411,
         "created_at": 1770484286410,
         "locale": "id"
+      },
+      {
+        "id": "kw_ea3e3b69-d7df-4fa6-84e1-1da589780965",
+        "keyword": "Seventeen - Sumpah Ku Mencintaimu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577344,
+        "created_at": 1770550577344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3cb1f419-98ef-43b6-a8a4-dd5936f0f127",
+        "keyword": "Sumpah Ku Mencintaimu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577344,
+        "created_at": 1770550577344,
+        "locale": "id"
       }
     ],
     "y": [
@@ -31781,6 +32001,28 @@
         "clicks": 0,
         "last_search": 1770370715085,
         "created_at": 1770370715085,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fce9b5ac-e55b-4584-9a8f-bc2e60181bc0",
+        "keyword": "Yang Terdalam - Peterpan -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577344,
+        "created_at": 1770550577343,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b4c84e62-457c-452f-a6b3-97c81e3665c7",
+        "keyword": "Yang Terdalam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577344,
+        "created_at": 1770550577344,
         "locale": "id"
       }
     ],
@@ -34554,6 +34796,17 @@
         "clicks": 0,
         "last_search": 1770488200548,
         "created_at": 1770488200548,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fe5517e6-9962-45c0-b242-ea606c162463",
+        "keyword": "UNGU -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770550577344,
+        "created_at": 1770550577344,
         "locale": "id"
       }
     ],
