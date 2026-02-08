@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770553100845,
+    "last_updated": 1770555085555,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -272,9 +272,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 69,
+        "impressions": 70,
         "clicks": 0,
-        "last_search": 1770548987916,
+        "last_search": 1770555085497,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -393,9 +393,9 @@
         "keyword": "Denny Caknan - Tunggal Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770465899425,
+        "last_search": 1770555085497,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -3621,6 +3621,28 @@
         "last_search": 1770550964391,
         "created_at": 1770550964391,
         "locale": "id"
+      },
+      {
+        "id": "kw_224b4b66-8ce3-43dd-9996-866f469900d8",
+        "keyword": "DENNY CAKNAN X NDX AKA -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770555085497,
+        "created_at": 1770555085496,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dc53ac09-840f-4d7d-a258-3476615c2b86",
+        "keyword": "Denny Caknan - Sigar -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770555085497,
+        "created_at": 1770555085497,
+        "locale": "id"
       }
     ],
     "l": [
@@ -3684,9 +3706,9 @@
         "keyword": "Lanang Tenan",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1770462570375,
+        "last_search": 1770555085497,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -4896,9 +4918,9 @@
         "keyword": "Kumpulan Gitar Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 13,
+        "impressions": 14,
         "clicks": 0,
-        "last_search": 1769606173936,
+        "last_search": 1770555085497,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -4918,9 +4940,9 @@
         "keyword": "Kumpulan Gitar NDX A.K.A",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769781853917,
+        "last_search": 1770555085497,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -8187,9 +8209,9 @@
         "keyword": "Pusma Shakira feat Royhan Ni Amillah",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770462570374,
+        "last_search": 1770555085497,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -8198,9 +8220,9 @@
         "keyword": "Prapatan Malioboro",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395894349,
+        "last_search": 1770555085497,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -9232,9 +9254,9 @@
         "keyword": "Pusma Shakira feat Royhan Ni Amillah - EGO WONG ...",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770462570374,
+        "last_search": 1770555085497,
         "created_at": 1769781853916,
         "locale": "id"
       },
@@ -14808,9 +14830,9 @@
         "keyword": "Ndarboy Genk",
         "tags": [],
         "weight": 1,
-        "impressions": 23,
+        "impressions": 24,
         "clicks": 0,
-        "last_search": 1770473462322,
+        "last_search": 1770555085497,
         "created_at": 1769359994200,
         "locale": "id"
       },
@@ -14885,9 +14907,9 @@
         "keyword": "NDX AKA - Ropang",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770462553493,
+        "last_search": 1770555085497,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -14896,9 +14918,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 50,
+        "impressions": 51,
         "clicks": 0,
-        "last_search": 1770484286410,
+        "last_search": 1770555085497,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -14907,9 +14929,9 @@
         "keyword": "NDX AKA - Prapatan Malioboro",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769395894349,
+        "last_search": 1770555085497,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -14918,9 +14940,9 @@
         "keyword": "Ndarboy Genk - Lanang Tenan",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1770462570375,
+        "last_search": 1770555085497,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -17563,6 +17585,28 @@
         "last_search": 1770553100823,
         "created_at": 1770552100300,
         "locale": "id"
+      },
+      {
+        "id": "kw_53845d08-7946-4032-9f3e-6f9eb604c194",
+        "keyword": "Nyesel Ninggal Kowe - SKYK feat. NDX AKA & Ondolka ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770555085497,
+        "created_at": 1770555085497,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fee0125a-264d-4f20-adcf-856a8b0281f1",
+        "keyword": "Nyesel Ninggal Kowe",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770555085497,
+        "created_at": 1770555085497,
+        "locale": "id"
       }
     ],
     "b": [
@@ -19091,9 +19135,9 @@
         "keyword": "Tunggal Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770465899425,
+        "last_search": 1770555085497,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -21216,9 +21260,9 @@
         "keyword": "EGO WONG",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770462570374,
+        "last_search": 1770555085497,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -27076,9 +27120,9 @@
         "keyword": "Ropang",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770462553493,
+        "last_search": 1770555085497,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -31933,6 +31977,28 @@
         "clicks": 0,
         "last_search": 1770553100823,
         "created_at": 1770552100300,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dc21c149-6f4d-4b91-ac50-ee1c702544b6",
+        "keyword": "Sigar -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770555085497,
+        "created_at": 1770555085497,
+        "locale": "id"
+      },
+      {
+        "id": "kw_036dc179-b5c9-468e-8fa4-289b411be5e7",
+        "keyword": "SKYK feat. NDX AKA & Ondolka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770555085497,
+        "created_at": 1770555085497,
         "locale": "id"
       }
     ],
