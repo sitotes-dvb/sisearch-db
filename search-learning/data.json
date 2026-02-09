@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770630085346,
+    "last_updated": 1770632823089,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3854,6 +3854,28 @@
         "last_search": 1770630085313,
         "created_at": 1770630085313,
         "locale": "id"
+      },
+      {
+        "id": "kw_e7988b5a-5da6-4373-814e-267564e67db7",
+        "keyword": "Daftar Koleksi / For Revenge -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770632823031,
+        "created_at": 1770632823031,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cedcb847-3579-477a-ad8f-1da8ef8c82d3",
+        "keyword": "DUKA -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770632823032,
+        "created_at": 1770632823032,
+        "locale": "id"
       }
     ],
     "l": [
@@ -4313,9 +4335,9 @@
         "keyword": "Last Child",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769669355539,
+        "last_search": 1770632823032,
         "created_at": 1769669355539,
         "locale": "id"
       },
@@ -5032,6 +5054,17 @@
         "clicks": 0,
         "last_search": 1770562769318,
         "created_at": 1770562769318,
+        "locale": "id"
+      },
+      {
+        "id": "kw_52f25455-cb6c-48b6-be95-f90030c15959",
+        "keyword": "Last Child - DUKA -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770632823032,
+        "created_at": 1770632823032,
         "locale": "id"
       }
     ],
@@ -10295,6 +10328,28 @@
         "last_search": 1770630085311,
         "created_at": 1770630085311,
         "locale": "id"
+      },
+      {
+        "id": "kw_878a179f-74b3-4932-b092-139815208e33",
+        "keyword": "Pulang -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770632823032,
+        "created_at": 1770632823031,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d3cf6be1-d4bc-41fa-b846-4ea9792801f3",
+        "keyword": "Penyangkalan -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770632823032,
+        "created_at": 1770632823032,
+        "locale": "id"
       }
     ],
     "m": [
@@ -11128,9 +11183,9 @@
         "keyword": "Mahen",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769945224649,
+        "last_search": 1770632823032,
         "created_at": 1769607090803,
         "locale": "id"
       },
@@ -12419,6 +12474,28 @@
         "clicks": 0,
         "last_search": 1770627857666,
         "created_at": 1770627857666,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eb5dca32-dfc2-4a99-a7d7-fb2c3e104430",
+        "keyword": "Mahen - Seamin Tak Seiman",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770632823032,
+        "created_at": 1770632823032,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cebc7a7b-7f53-4b84-b007-fe5461871801",
+        "keyword": "Masing Masing",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770632823048,
+        "created_at": 1770632823048,
         "locale": "id"
       }
     ],
@@ -13805,9 +13882,9 @@
         "keyword": "Jakarta Hari Ini",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769782700667,
+        "last_search": 1770632823031,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -22763,6 +22840,28 @@
         "last_search": 1770629255205,
         "created_at": 1770629255205,
         "locale": "id"
+      },
+      {
+        "id": "kw_5565cb9c-348f-4d6c-804d-5ba4be18bcb7",
+        "keyword": "Ernie Zakri, Ade Govinda - Masing Masing",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770632823032,
+        "created_at": 1770632823032,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ea173636-4758-4a4c-a585-96b7481eac28",
+        "keyword": "Ernie Zakri, Ade Govinda",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770632823032,
+        "created_at": 1770632823032,
+        "locale": "id"
       }
     ],
     "w": [
@@ -28005,6 +28104,17 @@
         "last_search": 1770630085312,
         "created_at": 1770630085312,
         "locale": "id"
+      },
+      {
+        "id": "kw_c5250c77-cc07-4f4a-aefe-dd3bd2e98b31",
+        "keyword": "Ada Selamanya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770632823065,
+        "created_at": 1770632823065,
+        "locale": "id"
       }
     ],
     "r": [
@@ -32580,9 +32690,9 @@
         "keyword": "Serana -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770303248273,
+        "last_search": 1770632823031,
         "created_at": 1770303248273,
         "locale": "id"
       },
@@ -33113,6 +33223,28 @@
         "last_search": 1770630085312,
         "created_at": 1770630085312,
         "locale": "id"
+      },
+      {
+        "id": "kw_92dcd089-6474-4589-a4ae-3074b7d4d4f3",
+        "keyword": "Sadrah -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770632823032,
+        "created_at": 1770632823032,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6c6976fb-003d-48ac-913d-992b3400cc77",
+        "keyword": "Seamin Tak Seiman",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770632823032,
+        "created_at": 1770632823032,
+        "locale": "id"
       }
     ],
     "y": [
@@ -33618,9 +33750,9 @@
         "keyword": "for Revenge",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769406982898,
+        "last_search": 1770632823032,
         "created_at": 1769406982898,
         "locale": "id"
       },
@@ -33794,9 +33926,9 @@
         "keyword": "For Revenge",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770303248273,
+        "last_search": 1770632823031,
         "created_at": 1769437428366,
         "locale": "id"
       },
@@ -33926,9 +34058,9 @@
         "keyword": "For Revenge X Stereo Wall - Jakarta Hari Ini",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769782700667,
+        "last_search": 1770632823031,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -33937,9 +34069,9 @@
         "keyword": "For Revenge X Stereo Wall",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769782700667,
+        "last_search": 1770632823031,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -34113,9 +34245,9 @@
         "keyword": "For Revenge - Serana -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770303248273,
+        "last_search": 1770632823031,
         "created_at": 1770303248273,
         "locale": "id"
       },
@@ -34293,6 +34425,61 @@
         "clicks": 0,
         "last_search": 1770622683117,
         "created_at": 1770622683117,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cd394f32-f34f-4ec3-a08c-81ae246043c5",
+        "keyword": "For Revenge - Pulang -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770632823031,
+        "created_at": 1770632823031,
+        "locale": "id"
+      },
+      {
+        "id": "kw_821e4c27-4290-4a8a-8803-f8e9c2684e27",
+        "keyword": "For Revenge - Sadrah -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770632823032,
+        "created_at": 1770632823032,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0583cce6-1f7f-4169-ae40-384df43c8037",
+        "keyword": "for Revenge - Penyangkalan -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770632823032,
+        "created_at": 1770632823032,
+        "locale": "id"
+      },
+      {
+        "id": "kw_215b057d-9827-45b8-8b21-0f43ccada01d",
+        "keyword": "For Revenge & Fiersa Besari - Ada Selamanya ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770632823048,
+        "created_at": 1770632823048,
+        "locale": "id"
+      },
+      {
+        "id": "kw_34b21b0f-f0d9-4a63-aebd-ff38a2a9be4c",
+        "keyword": "For Revenge & Fiersa Besari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770632823064,
+        "created_at": 1770632823064,
         "locale": "id"
       }
     ],
