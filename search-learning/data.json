@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770627218934,
+    "last_updated": 1770627857708,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -5734,9 +5734,9 @@
         "keyword": "Kita Usahakan Lagi",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857666,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -8871,9 +8871,9 @@
         "keyword": "Piche Kota",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770218270043,
+        "last_search": 1770627857654,
         "created_at": 1769517639264,
         "locale": "id"
       },
@@ -9564,9 +9564,9 @@
         "keyword": "Perahu Kertas (Ost  -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857666,
         "created_at": 1770026601864,
         "locale": "id"
       },
@@ -10096,6 +10096,17 @@
         "clicks": 0,
         "last_search": 1770622683117,
         "created_at": 1770622683117,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3d8cd92c-e401-4bca-9990-8b7ef2c48133",
+        "keyword": "Piche Kota - Bahagia Lagi -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627857654,
+        "created_at": 1770627857653,
         "locale": "id"
       }
     ],
@@ -10699,9 +10710,9 @@
         "keyword": "Mantra Band",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857666,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -10732,9 +10743,9 @@
         "keyword": "Maudy Ayunda",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857666,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -11656,9 +11667,9 @@
         "keyword": "Mantra Band - Haruskah -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857654,
         "created_at": 1770026601864,
         "locale": "id"
       },
@@ -11667,9 +11678,9 @@
         "keyword": "Maudy Ayunda - Perahu Kertas (Ost ... -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857666,
         "created_at": 1770026601864,
         "locale": "id"
       },
@@ -12210,6 +12221,17 @@
         "clicks": 0,
         "last_search": 1770627218889,
         "created_at": 1770627218876,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ebe18d3a-e26c-4ff6-ae7e-46f5ec2af54e",
+        "keyword": "Mabuk Cinta -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627857666,
+        "created_at": 1770627857666,
         "locale": "id"
       }
     ],
@@ -12835,9 +12857,9 @@
         "keyword": "Haruskah -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857666,
         "created_at": 1770026601864,
         "locale": "id"
       },
@@ -16119,9 +16141,9 @@
         "keyword": "Nabila Maharani",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857666,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -17961,6 +17983,28 @@
         "last_search": 1770622683117,
         "created_at": 1770622683117,
         "locale": "id"
+      },
+      {
+        "id": "kw_261d5185-5800-4427-a1f1-489d113b564c",
+        "keyword": "Nabila Maharani - Bila Nanti -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627857666,
+        "created_at": 1770627857666,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8bd01d69-4cb4-483a-8e73-f8d5d1355fa7",
+        "keyword": "Nyaman -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627857667,
+        "created_at": 1770627857667,
+        "locale": "id"
       }
     ],
     "b": [
@@ -18343,9 +18387,9 @@
         "keyword": "Batas Senja",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857666,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -18354,9 +18398,9 @@
         "keyword": "Berjanjilah Untuk Bahagia",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857666,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -18376,9 +18420,9 @@
         "keyword": "Berhenti Berharap",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857666,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -18849,9 +18893,9 @@
         "keyword": "Batas Senja - Kita Usahakan Lagi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857666,
         "created_at": 1770026601864,
         "locale": "id"
       },
@@ -18860,9 +18904,9 @@
         "keyword": "Berhenti Berharap - Sheila On 7",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857666,
         "created_at": 1770026601864,
         "locale": "id"
       },
@@ -19359,6 +19403,28 @@
         "clicks": 0,
         "last_search": 1770627218889,
         "created_at": 1770627218889,
+        "locale": "id"
+      },
+      {
+        "id": "kw_159ddcd1-6720-41ed-ba37-2eab21e53858",
+        "keyword": "Bahagia Lagi -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627857654,
+        "created_at": 1770627857654,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8ceaacb1-447d-4ce7-8d2c-7f629c3581ff",
+        "keyword": "Bila Nanti -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627857666,
+        "created_at": 1770627857666,
         "locale": "id"
       }
     ],
@@ -19984,9 +20050,9 @@
         "keyword": "TRAUMA",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857654,
         "created_at": 1769517639264,
         "locale": "id"
       },
@@ -21867,9 +21933,9 @@
         "keyword": "Elsya feat. Aan Story",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857654,
         "created_at": 1769517639264,
         "locale": "id"
       },
@@ -22120,9 +22186,9 @@
         "keyword": "Elsya feat. Aan Story - TRAUMA",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857654,
         "created_at": 1770026601864,
         "locale": "id"
       },
@@ -25404,9 +25470,9 @@
         "keyword": "Andmesh",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857666,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -27477,6 +27543,17 @@
         "last_search": 1770627218891,
         "created_at": 1770627218891,
         "locale": "id"
+      },
+      {
+        "id": "kw_6a43f22b-fd5f-4358-b967-fa53cbbaa2fd",
+        "keyword": "Andmesh - Nyaman -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627857666,
+        "created_at": 1770627857666,
+        "locale": "id"
       }
     ],
     "r": [
@@ -27947,9 +28024,9 @@
         "keyword": "Revo Ramon",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857666,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -28376,9 +28453,9 @@
         "keyword": "Revo Ramon - Berjanjilah Untuk Bahagia",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857666,
         "created_at": 1770026601864,
         "locale": "id"
       },
@@ -30050,9 +30127,9 @@
         "keyword": "Sheila On 7",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1770026601864,
+        "last_search": 1770627857666,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -33862,9 +33939,9 @@
         "keyword": "Iwan Fals",
         "tags": [],
         "weight": 1,
-        "impressions": 14,
+        "impressions": 15,
         "clicks": 0,
-        "last_search": 1770551390324,
+        "last_search": 1770627857666,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -34482,6 +34559,17 @@
         "clicks": 0,
         "last_search": 1770534993602,
         "created_at": 1770534993602,
+        "locale": "id"
+      },
+      {
+        "id": "kw_48a612ab-9b09-4cc8-80d9-42832c5c7176",
+        "keyword": "Iwan Fals - Mabuk Cinta -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627857666,
+        "created_at": 1770627857666,
         "locale": "id"
       }
     ],
