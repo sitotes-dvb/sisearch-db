@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770622683161,
+    "last_updated": 1770627218934,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -131,6 +131,28 @@
         "clicks": 0,
         "last_search": 1770562769318,
         "created_at": 1770562769318,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4f2e258a-d883-4616-8bae-57aebe646645",
+        "keyword": "4.20 - Aku Tenang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218889,
+        "created_at": 1770627218889,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a8b3b4f6-a4fb-4e53-bb49-9bd8322314fb",
+        "keyword": "4.20",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218889,
+        "created_at": 1770627218889,
         "locale": "id"
       }
     ],
@@ -8247,6 +8269,39 @@
         "last_search": 1770622425298,
         "created_at": 1770622425298,
         "locale": "id"
+      },
+      {
+        "id": "kw_7c973a1f-af00-4529-8d80-759b6e34b14e",
+        "keyword": "Kemarilah Tenang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218889,
+        "created_at": 1770627218889,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b41bc753-58a2-465b-af42-84a12951c1db",
+        "keyword": "Karam Di Lautan Tenang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218889,
+        "created_at": 1770627218889,
+        "locale": "id"
+      },
+      {
+        "id": "kw_82836ace-ecac-40d4-8282-b163a47d832b",
+        "keyword": "Ko Tenang Ko Aman",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218890,
+        "created_at": 1770627218890,
+        "locale": "id"
       }
     ],
     "p": [
@@ -10105,9 +10160,9 @@
         "keyword": "Masdddho - Tenang Lan Sabar",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769770136735,
+        "last_search": 1770627218891,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -10116,9 +10171,9 @@
         "keyword": "Masdddho",
         "tags": [],
         "weight": 1,
-        "impressions": 26,
+        "impressions": 27,
         "clicks": 0,
-        "last_search": 1770622683117,
+        "last_search": 1770627218891,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -10479,9 +10534,9 @@
         "keyword": "Mahalini",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769423057828,
+        "last_search": 1770627218889,
         "created_at": 1769423057828,
         "locale": "id"
       },
@@ -12144,6 +12199,17 @@
         "clicks": 0,
         "last_search": 1770622683117,
         "created_at": 1770622683117,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c07140a2-b9cb-478e-b212-f67208da3722",
+        "keyword": "Mahalini - Kemarilah Tenang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218889,
+        "created_at": 1770627218876,
         "locale": "id"
       }
     ],
@@ -13963,6 +14029,28 @@
         "clicks": 0,
         "last_search": 1770562769317,
         "created_at": 1770562769317,
+        "locale": "id"
+      },
+      {
+        "id": "kw_44e8e3e9-8a0a-491a-895c-d620c8c09404",
+        "keyword": "Judika x Andi Rianto - Tenang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218889,
+        "created_at": 1770627218889,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0fe24359-5926-417e-a12a-08d9d14b39da",
+        "keyword": "Judika x Andi Rianto",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218889,
+        "created_at": 1770627218889,
         "locale": "id"
       }
     ],
@@ -19261,6 +19349,17 @@
         "last_search": 1770551224010,
         "created_at": 1770551224010,
         "locale": "id"
+      },
+      {
+        "id": "kw_880fcd62-2c41-4d70-98e0-023a9a653ff3",
+        "keyword": "Biar Ina Tenang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218889,
+        "created_at": 1770627218889,
+        "locale": "id"
       }
     ],
     "t": [
@@ -19368,9 +19467,9 @@
         "keyword": "Tenang Lan Sabar",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769770136735,
+        "last_search": 1770627218891,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -19467,9 +19566,9 @@
         "keyword": "Tenang",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769406982898,
+        "last_search": 1770627218889,
         "created_at": 1769406982898,
         "locale": "id"
       },
@@ -21150,9 +21249,9 @@
         "keyword": "The Panasdalam Bank",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770357692251,
+        "last_search": 1770627218889,
         "created_at": 1770357692251,
         "locale": "id"
       },
@@ -21495,6 +21594,39 @@
         "clicks": 0,
         "last_search": 1770562769317,
         "created_at": 1770562769317,
+        "locale": "id"
+      },
+      {
+        "id": "kw_15cfb8ab-eced-4235-b4e1-8afbccada682",
+        "keyword": "The Panasdalam Bank - Tenang Saja (Feat. Rahmania ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218889,
+        "created_at": 1770627218889,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4f38d91a-c780-437d-81ac-8876ea8cc070",
+        "keyword": "Tenang Saja (Feat. Rahmania",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218889,
+        "created_at": 1770627218889,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1f6eb352-8f61-46e1-81d3-ca1a9942dbcb",
+        "keyword": "Tenang -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218890,
+        "created_at": 1770627218890,
         "locale": "id"
       }
     ],
@@ -22507,9 +22639,9 @@
         "keyword": "Wp Pro Channel",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407883531,
+        "last_search": 1770627218891,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -24700,9 +24832,9 @@
         "keyword": "Aku Tenang",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407883531,
+        "last_search": 1770627218889,
         "created_at": 1769407883531,
         "locale": "id"
       },
@@ -27334,6 +27466,17 @@
         "last_search": 1770550964391,
         "created_at": 1770550964391,
         "locale": "id"
+      },
+      {
+        "id": "kw_8bb5797e-5202-4f87-bcbf-3223fe5c3c8d",
+        "keyword": "Aku Tenang - Wp Pro Channel",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218891,
+        "created_at": 1770627218891,
+        "locale": "id"
       }
     ],
     "r": [
@@ -28677,6 +28820,28 @@
         "clicks": 0,
         "last_search": 1770534993601,
         "created_at": 1770534993601,
+        "locale": "id"
+      },
+      {
+        "id": "kw_35020116-a478-4938-a597-74c94d62ebe1",
+        "keyword": "Rheina - Karam Di Lautan Tenang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218889,
+        "created_at": 1770627218889,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ddfdf3a6-e090-419b-a745-fba7acf91f71",
+        "keyword": "Rheina",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218889,
+        "created_at": 1770627218889,
         "locale": "id"
       }
     ],
@@ -32299,6 +32464,50 @@
         "last_search": 1770622425299,
         "created_at": 1770622425299,
         "locale": "id"
+      },
+      {
+        "id": "kw_f5a18b21-a436-4794-a217-06e993a901ae",
+        "keyword": "Sombanusa - Biar Ina Tenang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218889,
+        "created_at": 1770627218889,
+        "locale": "id"
+      },
+      {
+        "id": "kw_48ca6701-7794-4335-be4a-2b8171e5cd18",
+        "keyword": "Sombanusa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218889,
+        "created_at": 1770627218889,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c9d49336-e941-4ddb-a488-841d01a3ea50",
+        "keyword": "Shine Of Black x DNP 14 - Ko Tenang Ko Aman ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218890,
+        "created_at": 1770627218890,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9c4f8d57-d414-4fe8-8530-62236e60e10d",
+        "keyword": "Shine Of Black x DNP 14",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218890,
+        "created_at": 1770627218890,
+        "locale": "id"
       }
     ],
     "y": [
@@ -32674,6 +32883,28 @@
         "clicks": 0,
         "last_search": 1770550577344,
         "created_at": 1770550577344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4a479502-dd14-4e42-b9a6-1709a75dc561",
+        "keyword": "Yura Yunita - Tenang -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218889,
+        "created_at": 1770627218889,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4189c602-a5c7-4b2a-861d-dbb6c68ed12f",
+        "keyword": "Yura Yunita",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770627218889,
+        "created_at": 1770627218889,
         "locale": "id"
       }
     ],
