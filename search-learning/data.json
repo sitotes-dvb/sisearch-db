@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770627857708,
+    "last_updated": 1770629255246,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3765,6 +3765,28 @@
         "clicks": 0,
         "last_search": 1770622425298,
         "created_at": 1770622425298,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bdccc78d-3221-486a-9726-398802b2686d",
+        "keyword": "Dehes - Pergilah Kasihku -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255207,
+        "created_at": 1770629255207,
+        "locale": "id"
+      },
+      {
+        "id": "kw_91426398-a6b2-441d-b6bc-922e8b0458e4",
+        "keyword": "Dehes",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255207,
+        "created_at": 1770629255207,
         "locale": "id"
       }
     ],
@@ -8302,6 +8324,17 @@
         "last_search": 1770627218890,
         "created_at": 1770627218890,
         "locale": "id"
+      },
+      {
+        "id": "kw_799d3718-d56c-4a16-8683-0310a7a14788",
+        "keyword": "Kenangan Berbagi Sepi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255206,
+        "created_at": 1770629255206,
+        "locale": "id"
       }
     ],
     "p": [
@@ -10107,6 +10140,61 @@
         "clicks": 0,
         "last_search": 1770627857654,
         "created_at": 1770627857653,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8400565c-fee9-448e-9b94-ef4c41e24995",
+        "keyword": "Pergilah Kasih -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255205,
+        "created_at": 1770629255205,
+        "locale": "id"
+      },
+      {
+        "id": "kw_899f2c69-12d5-4850-83d7-0d15cecb138f",
+        "keyword": "Pergilah Kasih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255205,
+        "created_at": 1770629255205,
+        "locale": "id"
+      },
+      {
+        "id": "kw_abe50d1a-6c99-4c3c-9f0d-cf4503d1f3d4",
+        "keyword": "Pergilah Oh Kasih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255207,
+        "created_at": 1770629255207,
+        "locale": "id"
+      },
+      {
+        "id": "kw_64ca5279-29c2-450b-bfbe-7448f10cd686",
+        "keyword": "Pergilah Kasihku -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255207,
+        "created_at": 1770629255207,
+        "locale": "id"
+      },
+      {
+        "id": "kw_59546b7e-7895-45f8-92ca-5e06d5ddc89a",
+        "keyword": "Pergilah Sayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255208,
+        "created_at": 1770629255208,
         "locale": "id"
       }
     ],
@@ -15077,6 +15165,28 @@
         "last_search": 1770550577345,
         "created_at": 1770550577345,
         "locale": "id"
+      },
+      {
+        "id": "kw_3bdb3fbb-920e-4c9e-b78e-7ec44a2c33dc",
+        "keyword": "Gaun Merah -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255206,
+        "created_at": 1770629255206,
+        "locale": "id"
+      },
+      {
+        "id": "kw_42d6fd5c-09f3-45ce-9d8f-30998b708c22",
+        "keyword": "Gaun Merah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255208,
+        "created_at": 1770629255208,
+        "locale": "id"
       }
     ],
     "n": [
@@ -18005,6 +18115,28 @@
         "last_search": 1770627857667,
         "created_at": 1770627857667,
         "locale": "id"
+      },
+      {
+        "id": "kw_6f839d68-9630-41fc-8f39-b504449e274e",
+        "keyword": "New Syclon - Pergilah Oh Kasih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255207,
+        "created_at": 1770629255207,
+        "locale": "id"
+      },
+      {
+        "id": "kw_18540db3-93c2-441f-93d5-d5c596f61d0d",
+        "keyword": "New Syclon",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255207,
+        "created_at": 1770629255207,
+        "locale": "id"
       }
     ],
     "b": [
@@ -19426,6 +19558,28 @@
         "last_search": 1770627857666,
         "created_at": 1770627857666,
         "locale": "id"
+      },
+      {
+        "id": "kw_c8fae23e-7f6b-4bde-8d66-2a7f7474a51a",
+        "keyword": "Bibi Qairina & Akhmal Daniel - Pergilah Sayang ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255208,
+        "created_at": 1770629255208,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3aa0e08d-12a0-4522-a5d0-9b56fa5fc936",
+        "keyword": "Bibi Qairina & Akhmal Daniel",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255208,
+        "created_at": 1770629255208,
+        "locale": "id"
       }
     ],
     "t": [
@@ -20039,9 +20193,9 @@
         "keyword": "Thomas Arya",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1770551390324,
+        "last_search": 1770629255206,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -21694,6 +21848,39 @@
         "last_search": 1770627218890,
         "created_at": 1770627218890,
         "locale": "id"
+      },
+      {
+        "id": "kw_2cf278b1-0b16-4880-bca4-5c668b401aa4",
+        "keyword": "Thomas Arya - Kenangan Berbagi Sepi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255206,
+        "created_at": 1770629255206,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b60df9fe-6259-4c17-880d-10b8c80c26aa",
+        "keyword": "Tryana - Gaun Merah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255207,
+        "created_at": 1770629255207,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b7d3fce9-ddc6-43a0-a498-c96d579b8aee",
+        "keyword": "Tryana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255207,
+        "created_at": 1770629255207,
+        "locale": "id"
       }
     ],
     "e": [
@@ -22373,9 +22560,9 @@
         "keyword": "Elsa Pitaloka",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770370715086,
+        "last_search": 1770629255205,
         "created_at": 1770370715086,
         "locale": "id"
       },
@@ -22388,6 +22575,17 @@
         "clicks": 0,
         "last_search": 1770484286410,
         "created_at": 1770484286410,
+        "locale": "id"
+      },
+      {
+        "id": "kw_95a9c7f8-e2b5-4ad6-9dcf-cea602b3d5ba",
+        "keyword": "Elsa Pitaloka - Pergilah Kasih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255205,
+        "created_at": 1770629255205,
         "locale": "id"
       }
     ],
@@ -24526,6 +24724,28 @@
         "clicks": 0,
         "last_search": 1770563070780,
         "created_at": 1770562188021,
+        "locale": "id"
+      },
+      {
+        "id": "kw_157dd53c-40e1-45bf-b78c-cda9dcc1c91b",
+        "keyword": "Chrisye - Pergilah Kasih -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255205,
+        "created_at": 1770629255205,
+        "locale": "id"
+      },
+      {
+        "id": "kw_65b7b8ed-4595-4220-bf6f-6fc57e90cda9",
+        "keyword": "Chrisye",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255205,
+        "created_at": 1770629255205,
         "locale": "id"
       }
     ],
@@ -30006,9 +30226,9 @@
         "keyword": "Sonia",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769518492927,
+        "last_search": 1770629255206,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -32584,6 +32804,61 @@
         "clicks": 0,
         "last_search": 1770627218890,
         "created_at": 1770627218890,
+        "locale": "id"
+      },
+      {
+        "id": "kw_17f18e15-1896-443c-b187-22712c7ae4b5",
+        "keyword": "Surya Pratama - Sampai Disini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255205,
+        "created_at": 1770629255205,
+        "locale": "id"
+      },
+      {
+        "id": "kw_42408f50-d4b9-48ab-95d5-6999d8a8adbf",
+        "keyword": "Surya Pratama",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255205,
+        "created_at": 1770629255205,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ae167d20-341b-46db-b1e6-4c5d9a5cfddc",
+        "keyword": "Sampai Disini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255205,
+        "created_at": 1770629255205,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c3006d34-98ed-463a-acaa-116c8590a7ed",
+        "keyword": "Sonia - Gaun Merah -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255206,
+        "created_at": 1770629255205,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e1379ddc-4828-4b8f-a75d-06fbd0228103",
+        "keyword": "SATU HATI SAMPAI MATI ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770629255207,
+        "created_at": 1770629255207,
         "locale": "id"
       }
     ],
