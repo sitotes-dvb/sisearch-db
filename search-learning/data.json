@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770622425337,
+    "last_updated": 1770622683161,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -307,9 +307,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 72,
+        "impressions": 73,
         "clicks": 0,
-        "last_search": 1770563070780,
+        "last_search": 1770622683117,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -1583,9 +1583,9 @@
         "keyword": "Demi Kowe -",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770462570375,
+        "last_search": 1770622683117,
         "created_at": 1769670975193,
         "locale": "id"
       },
@@ -3508,9 +3508,9 @@
         "keyword": "Denny Caknan - SATRU 2 -tela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770465899424,
+        "last_search": 1770622683117,
         "created_at": 1770465899424,
         "locale": "id"
       },
@@ -3563,9 +3563,9 @@
         "keyword": "Daftar Koleksi / Denny Caknan -tela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770483925876,
+        "last_search": 1770622683117,
         "created_at": 1770483925876,
         "locale": "id"
       },
@@ -6086,9 +6086,9 @@
         "keyword": "Krist Segara - Bakal Bali Mulih",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769670975194,
+        "last_search": 1770622683117,
         "created_at": 1769670975194,
         "locale": "id"
       },
@@ -6097,9 +6097,9 @@
         "keyword": "Krist Segara",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769670975194,
+        "last_search": 1770622683117,
         "created_at": 1769670975194,
         "locale": "id"
       },
@@ -8288,9 +8288,9 @@
         "keyword": "Pendhoza",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1770462570375,
+        "last_search": 1770622683117,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -9201,9 +9201,9 @@
         "keyword": "Pendhoza - Demi Kowe -",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770462570375,
+        "last_search": 1770622683117,
         "created_at": 1769670975193,
         "locale": "id"
       },
@@ -10031,6 +10031,17 @@
         "last_search": 1770550964391,
         "created_at": 1770550964391,
         "locale": "id"
+      },
+      {
+        "id": "kw_7f85839e-ff17-40ae-954d-280560826c02",
+        "keyword": "Pamit Kerjo -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770622683117,
+        "created_at": 1770622683117,
+        "locale": "id"
       }
     ],
     "m": [
@@ -10105,9 +10116,9 @@
         "keyword": "Masdddho",
         "tags": [],
         "weight": 1,
-        "impressions": 25,
+        "impressions": 26,
         "clicks": 0,
-        "last_search": 1770483925876,
+        "last_search": 1770622683117,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -12122,6 +12133,17 @@
         "clicks": 0,
         "last_search": 1770562769317,
         "created_at": 1770562769317,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dd8b5b26-a451-47f0-b576-7b749b6033d3",
+        "keyword": "Masdddho - Nganggur -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770622683117,
+        "created_at": 1770622683117,
         "locale": "id"
       }
     ],
@@ -15008,9 +15030,9 @@
         "keyword": "Ndarboy Genk",
         "tags": [],
         "weight": 1,
-        "impressions": 24,
+        "impressions": 25,
         "clicks": 0,
-        "last_search": 1770555085497,
+        "last_search": 1770622683117,
         "created_at": 1769359994200,
         "locale": "id"
       },
@@ -15096,9 +15118,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 51,
+        "impressions": 52,
         "clicks": 0,
-        "last_search": 1770555085497,
+        "last_search": 1770622683117,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -15668,9 +15690,9 @@
         "keyword": "Nella Kharisma",
         "tags": [],
         "weight": 1,
-        "impressions": 17,
+        "impressions": 18,
         "clicks": 0,
-        "last_search": 1770622425299,
+        "last_search": 1770622683116,
         "created_at": 1769428790060,
         "locale": "id"
       },
@@ -16416,9 +16438,9 @@
         "keyword": "Nella Kharisma - Aku Cah Kerjo ...",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770297749662,
+        "last_search": 1770622683116,
         "created_at": 1769670975177,
         "locale": "id"
       },
@@ -16438,9 +16460,9 @@
         "keyword": "Ndarboy Genk - Anak Lanang",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769945375657,
+        "last_search": 1770622683117,
         "created_at": 1769670975177,
         "locale": "id"
       },
@@ -17818,6 +17840,39 @@
         "last_search": 1770622425298,
         "created_at": 1770622425298,
         "locale": "id"
+      },
+      {
+        "id": "kw_8ba7445b-4748-4be1-aca5-93aee4a26679",
+        "keyword": "NDX AKA - Pamit Kerjo -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770622683117,
+        "created_at": 1770622683116,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c8ec9391-da84-47c4-98f9-07af859bde69",
+        "keyword": "Nganggur -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770622683117,
+        "created_at": 1770622683117,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ced417ba-fb3c-4e01-afd3-c6e8a5a25a3d",
+        "keyword": "NYAWIJI -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770622683117,
+        "created_at": 1770622683117,
+        "locale": "id"
       }
     ],
     "b": [
@@ -18431,9 +18486,9 @@
         "keyword": "Bakal Bali Mulih",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769670975194,
+        "last_search": 1770622683117,
         "created_at": 1769670975194,
         "locale": "id"
       },
@@ -20039,9 +20094,9 @@
         "keyword": "Tempe Tahu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769670975194,
+        "last_search": 1770622683117,
         "created_at": 1769670975194,
         "locale": "id"
       },
@@ -25613,9 +25668,9 @@
         "keyword": "Aku Cah Kerjo",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770297749662,
+        "last_search": 1770622683116,
         "created_at": 1769670975177,
         "locale": "id"
       },
@@ -25624,9 +25679,9 @@
         "keyword": "Anak Lanang",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769945375657,
+        "last_search": 1770622683117,
         "created_at": 1769670975177,
         "locale": "id"
       },
@@ -32052,9 +32107,9 @@
         "keyword": "SATRU 2 -tela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770465899425,
+        "last_search": 1770622683117,
         "created_at": 1770465899424,
         "locale": "id"
       },
@@ -32661,9 +32716,9 @@
         "keyword": "Farel Prayoga",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769670975194,
+        "last_search": 1770622683117,
         "created_at": 1769395971034,
         "locale": "id"
       },
@@ -33392,6 +33447,17 @@
         "last_search": 1770562769318,
         "created_at": 1770562769318,
         "locale": "id"
+      },
+      {
+        "id": "kw_d1c017b1-0bd5-40b7-ba50-75caa056d99e",
+        "keyword": "Farel Prayoga - NYAWIJI -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770622683117,
+        "created_at": 1770622683117,
+        "locale": "id"
       }
     ],
     "i": [
@@ -33433,9 +33499,9 @@
         "keyword": "Intan Cha Cha",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769670975194,
+        "last_search": 1770622683117,
         "created_at": 1769360249303,
         "locale": "id"
       },
@@ -33686,9 +33752,9 @@
         "keyword": "Intan Cha Cha - Tempe Tahu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769670975194,
+        "last_search": 1770622683117,
         "created_at": 1769670975194,
         "locale": "id"
       },
