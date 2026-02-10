@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770717537816,
+    "last_updated": 1770717570997,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3886,6 +3886,17 @@
         "clicks": 0,
         "last_search": 1770717537762,
         "created_at": 1770717537762,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a7db39a8-58ca-4e02-8606-27da8c89391c",
+        "keyword": "Dandelions -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570961,
+        "created_at": 1770717570961,
         "locale": "id"
       }
     ],
@@ -12541,6 +12552,39 @@
         "last_search": 1770632823048,
         "created_at": 1770632823048,
         "locale": "id"
+      },
+      {
+        "id": "kw_c91a4e83-9d0f-4e53-976c-a5476f3e4034",
+        "keyword": "Mitski - My Love Mine All Mine",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570960,
+        "created_at": 1770717570960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_96128cf5-5767-4bf2-b39f-7197efc7df57",
+        "keyword": "Mitski",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570961,
+        "created_at": 1770717570960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2fd46fd9-3874-4d5d-9c9c-684a335ec14a",
+        "keyword": "My Love Mine All Mine",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570961,
+        "created_at": 1770717570961,
+        "locale": "id"
       }
     ],
     "h": [
@@ -14414,6 +14458,28 @@
         "clicks": 0,
         "last_search": 1770627218889,
         "created_at": 1770627218889,
+        "locale": "id"
+      },
+      {
+        "id": "kw_111a4b48-3acc-442f-87cb-575bb99e1a2b",
+        "keyword": "Jason Mraz - I'm Yours -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570961,
+        "created_at": 1770717570961,
+        "locale": "id"
+      },
+      {
+        "id": "kw_13ab9680-94c1-4184-bf6a-bb6a4dfe5f34",
+        "keyword": "Jason Mraz",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570961,
+        "created_at": 1770717570961,
         "locale": "id"
       }
     ],
@@ -18440,9 +18506,9 @@
         "keyword": "Nina -tela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770717537761,
+        "last_search": 1770717570959,
         "created_at": 1770717537761,
         "locale": "id"
       },
@@ -19986,6 +20052,61 @@
         "clicks": 0,
         "last_search": 1770717537761,
         "created_at": 1770717537761,
+        "locale": "id"
+      },
+      {
+        "id": "kw_342cf27b-ee05-4e26-af8f-992a143d357a",
+        "keyword": "Billie Eilish - WILDFLOWER -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570959,
+        "created_at": 1770717570959,
+        "locale": "id"
+      },
+      {
+        "id": "kw_88758dee-57f1-4634-9408-df4f80f209ff",
+        "keyword": "Billie Eilish",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570959,
+        "created_at": 1770717570959,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2c5c6cf2-c769-4c4b-9a89-158c9bec13bb",
+        "keyword": "Bad Liar -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570960,
+        "created_at": 1770717570960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0658fb31-13b2-44ea-9852-e1b88f6618e3",
+        "keyword": "Bob Marley & The Wailers - Three Little Birds",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570961,
+        "created_at": 1770717570961,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e659d8b6-3264-4534-a611-df539eeb03b7",
+        "keyword": "Bob Marley & The Wailers",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570961,
+        "created_at": 1770717570961,
         "locale": "id"
       }
     ],
@@ -22321,6 +22442,17 @@
         "last_search": 1770717537762,
         "created_at": 1770717537762,
         "locale": "id"
+      },
+      {
+        "id": "kw_2447c7fb-511e-4684-a01a-7757853d1ac6",
+        "keyword": "Three Little Birds",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570961,
+        "created_at": 1770717570961,
+        "locale": "id"
       }
     ],
     "e": [
@@ -23985,6 +24117,17 @@
         "clicks": 0,
         "last_search": 1770534993602,
         "created_at": 1770534993602,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4b6f1729-f86c-4d30-9887-e31b796dd848",
+        "keyword": "WILDFLOWER -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570960,
+        "created_at": 1770717570960,
         "locale": "id"
       }
     ],
@@ -26867,9 +27010,9 @@
         "keyword": "Adele",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770534993602,
+        "last_search": 1770717570961,
         "created_at": 1769758254205,
         "locale": "id"
       },
@@ -28324,6 +28467,39 @@
         "last_search": 1770632823065,
         "created_at": 1770632823065,
         "locale": "id"
+      },
+      {
+        "id": "kw_60af2ee4-3d8b-4c99-814d-06af147e5dfc",
+        "keyword": "Avenged Sevenfold - So Far Away",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570960,
+        "created_at": 1770717570960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_97c5a963-1fec-4c4b-8b71-71643e51a089",
+        "keyword": "Avenged Sevenfold",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570960,
+        "created_at": 1770717570960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_acd70195-f872-4a01-a266-a164e125d86d",
+        "keyword": "Adele - Set Fire To The Rain -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570961,
+        "created_at": 1770717570961,
+        "locale": "id"
       }
     ],
     "r": [
@@ -29700,6 +29876,28 @@
         "clicks": 0,
         "last_search": 1770630085313,
         "created_at": 1770630085313,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2984e4a1-58a3-4708-b8cc-81bcf97d11f3",
+        "keyword": "Ruth B. - Dandelions -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570961,
+        "created_at": 1770717570961,
+        "locale": "id"
+      },
+      {
+        "id": "kw_856048b0-b38b-4695-bed9-16d914a15294",
+        "keyword": "Ruth B.",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570961,
+        "created_at": 1770717570961,
         "locale": "id"
       }
     ],
@@ -33454,6 +33652,39 @@
         "last_search": 1770632823032,
         "created_at": 1770632823032,
         "locale": "id"
+      },
+      {
+        "id": "kw_ecd92ef3-5718-46a7-a3e3-51bc73f1336b",
+        "keyword": "Stand By Me -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570960,
+        "created_at": 1770717570960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cd554850-b6f0-43af-b3c5-b226537df942",
+        "keyword": "So Far Away",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570960,
+        "created_at": 1770717570960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ba0dec6e-7be3-46d2-870f-93911632a811",
+        "keyword": "Set Fire To The Rain -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570961,
+        "created_at": 1770717570961,
+        "locale": "id"
       }
     ],
     "y": [
@@ -35517,6 +35748,39 @@
         "last_search": 1770630085311,
         "created_at": 1770630085311,
         "locale": "id"
+      },
+      {
+        "id": "kw_99f630c1-0d97-4b05-a6a3-b0a92c75c11a",
+        "keyword": "Imagine Dragons - Bad Liar -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570960,
+        "created_at": 1770717570960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b449b880-2f0f-47c1-9b96-9137f15f303c",
+        "keyword": "Imagine Dragons",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570960,
+        "created_at": 1770717570960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f5328d7e-2c23-4b5b-8cda-91e470ebcb95",
+        "keyword": "I'm Yours -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570961,
+        "created_at": 1770717570961,
+        "locale": "id"
       }
     ],
     "o": [
@@ -36079,6 +36343,28 @@
         "clicks": 0,
         "last_search": 1770484286412,
         "created_at": 1770484286412,
+        "locale": "id"
+      },
+      {
+        "id": "kw_967d0c5b-16ff-46a2-b94d-9fa67768598f",
+        "keyword": "Oasis - Stand By Me -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570960,
+        "created_at": 1770717570960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3066e35c-fd65-4dc3-831a-5f12677239b9",
+        "keyword": "Oasis",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717570960,
+        "created_at": 1770717570960,
         "locale": "id"
       }
     ],
