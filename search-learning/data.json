@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770684838979,
+    "last_updated": 1770717537816,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1176,9 +1176,9 @@
         "keyword": "Dessy Anggreini Bangun - Kam Nina Pusuhku ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769583858979,
+        "last_search": 1770717537761,
         "created_at": 1769437339681,
         "locale": "id"
       },
@@ -1187,9 +1187,9 @@
         "keyword": "Dessy Anggreini Bangun",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769583858979,
+        "last_search": 1770717537761,
         "created_at": 1769437339681,
         "locale": "id"
       },
@@ -3876,6 +3876,17 @@
         "last_search": 1770632823032,
         "created_at": 1770632823032,
         "locale": "id"
+      },
+      {
+        "id": "kw_489f00e6-1d29-47a6-83b8-3e1ea8f87255",
+        "keyword": "Deukeut Tapi Anggang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717537762,
+        "created_at": 1770717537762,
+        "locale": "id"
       }
     ],
     "l": [
@@ -4170,9 +4181,9 @@
         "keyword": "Luv Me A Little",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769583858979,
+        "last_search": 1770717537761,
         "created_at": 1769437339681,
         "locale": "id"
       },
@@ -5635,9 +5646,9 @@
         "keyword": "Kam Nina Pusuhku",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769583858979,
+        "last_search": 1770717537761,
         "created_at": 1769437339681,
         "locale": "id"
       },
@@ -8444,6 +8455,17 @@
         "clicks": 0,
         "last_search": 1770630085311,
         "created_at": 1770630085311,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5c58b367-e4e8-459b-aba7-90644cfb4fad",
+        "keyword": "Kamana Cintana -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717537761,
+        "created_at": 1770717537761,
         "locale": "id"
       }
     ],
@@ -16218,9 +16240,9 @@
         "keyword": "Nina Wang feat. Dodhy",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769583858979,
+        "last_search": 1770717537762,
         "created_at": 1769437339681,
         "locale": "id"
       },
@@ -16229,9 +16251,9 @@
         "keyword": "Nina",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769583858979,
+        "last_search": 1770717537761,
         "created_at": 1769437339682,
         "locale": "id"
       },
@@ -18412,6 +18434,105 @@
         "last_search": 1770684838952,
         "created_at": 1770684838952,
         "locale": "id"
+      },
+      {
+        "id": "kw_972042f7-042f-4c08-88f3-3ad4208dd514",
+        "keyword": "Nina -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717537761,
+        "created_at": 1770717537761,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5d804e8c-b5df-4aa5-b10b-17ec14d059e7",
+        "keyword": "Nina - Kamana Cintana -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717537761,
+        "created_at": 1770717537761,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5c2e7425-0578-4602-aa06-54c1a642d2c3",
+        "keyword": "Nina - Ninggalkeun Rasa -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717537761,
+        "created_at": 1770717537761,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2d1b8341-b050-48e4-b588-916588433519",
+        "keyword": "Ninggalkeun Rasa -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717537761,
+        "created_at": 1770717537761,
+        "locale": "id"
+      },
+      {
+        "id": "kw_657980ab-514b-4ac6-83a6-0005d82b8f1c",
+        "keyword": "Nina - Beurat -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717537761,
+        "created_at": 1770717537761,
+        "locale": "id"
+      },
+      {
+        "id": "kw_497e942e-f1d5-46bf-8aac-4506f9e0b644",
+        "keyword": "Nana Nina",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717537762,
+        "created_at": 1770717537762,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8f2483c3-305b-4cae-a70d-bf9072dd457f",
+        "keyword": "Nina Wang feat. Dodhy - Aku Pamit Pergi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717537762,
+        "created_at": 1770717537762,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2f3f2980-366d-4903-8b42-b2d4ba64d6c3",
+        "keyword": "Nina - Teu Puguh Rasa -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717537762,
+        "created_at": 1770717537762,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f5ee3a9d-063b-45ee-8b9a-8c217b30d71e",
+        "keyword": "Nina - Deukeut Tapi Anggang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717537762,
+        "created_at": 1770717537762,
+        "locale": "id"
       }
     ],
     "b": [
@@ -19854,6 +19975,17 @@
         "clicks": 0,
         "last_search": 1770629255208,
         "created_at": 1770629255208,
+        "locale": "id"
+      },
+      {
+        "id": "kw_da94f160-d246-4db2-b791-35be65cb2b24",
+        "keyword": "Beurat -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717537761,
+        "created_at": 1770717537761,
         "locale": "id"
       }
     ],
@@ -22177,6 +22309,17 @@
         "clicks": 0,
         "last_search": 1770630085312,
         "created_at": 1770630085312,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d841fcd1-809b-4136-85f8-fc1f2ed173db",
+        "keyword": "Teu Puguh Rasa -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717537762,
+        "created_at": 1770717537762,
         "locale": "id"
       }
     ],
@@ -25110,6 +25253,28 @@
         "last_search": 1770630085311,
         "created_at": 1770630085311,
         "locale": "id"
+      },
+      {
+        "id": "kw_279fb94e-935a-45d1-9d89-c64cc45a5845",
+        "keyword": "Ceciwi Entertainment - Nana Nina",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717537761,
+        "created_at": 1770717537761,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a4c11b13-2b22-428a-9dd9-2516a3ef7bb0",
+        "keyword": "Ceciwi Entertainment",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717537761,
+        "created_at": 1770717537761,
+        "locale": "id"
       }
     ],
     "a": [
@@ -25910,9 +26075,9 @@
         "keyword": "Aku Pamit Pergi",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769583858979,
+        "last_search": 1770717537762,
         "created_at": 1769437339681,
         "locale": "id"
       },
@@ -34621,9 +34786,9 @@
         "keyword": "ILLENIUM - Luv Me A Little ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769583858979,
+        "last_search": 1770717537761,
         "created_at": 1769437339681,
         "locale": "id"
       },
@@ -34632,9 +34797,9 @@
         "keyword": "ILLENIUM",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769583858979,
+        "last_search": 1770717537761,
         "created_at": 1769437339681,
         "locale": "id"
       },
