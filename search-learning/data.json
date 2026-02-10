@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770717570997,
+    "last_updated": 1770717649142,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -5088,6 +5088,17 @@
         "last_search": 1770632823032,
         "created_at": 1770632823032,
         "locale": "id"
+      },
+      {
+        "id": "kw_9cbb5e09-51f5-4fab-9ec7-9d1fe1e5f4fa",
+        "keyword": "Lesung Pipi -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717649117,
+        "created_at": 1770717649117,
+        "locale": "id"
       }
     ],
     "k": [
@@ -8477,6 +8488,28 @@
         "clicks": 0,
         "last_search": 1770717537761,
         "created_at": 1770717537761,
+        "locale": "id"
+      },
+      {
+        "id": "kw_59f4e1f1-da6c-46a4-a55f-f66cd0d2c63c",
+        "keyword": "Kumpulan Gitar Feast -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717649117,
+        "created_at": 1770717649117,
+        "locale": "id"
+      },
+      {
+        "id": "kw_671191fb-6ac2-43dd-b15c-d98b1ec1e95d",
+        "keyword": "Kita ke Sana -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717649117,
+        "created_at": 1770717649117,
         "locale": "id"
       }
     ],
@@ -12846,9 +12879,9 @@
         "keyword": "Hindia",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770630085311,
+        "last_search": 1770717649117,
         "created_at": 1769437428365,
         "locale": "id"
       },
@@ -13451,10 +13484,54 @@
         "keyword": "Hindia - Cincin -tela.com",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1770717649117,
+        "created_at": 1770630085311,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3293abc4-a3f5-4499-a15d-8ed7616ccd56",
+        "keyword": "Hindia - Rumah Ke Rumah -tela.com",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1770630085311,
-        "created_at": 1770630085311,
+        "last_search": 1770717649117,
+        "created_at": 1770717649117,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3b9891b0-f54c-4c19-9cc9-785741c36fc0",
+        "keyword": "Hindia - Evaluasi -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717649117,
+        "created_at": 1770717649117,
+        "locale": "id"
+      },
+      {
+        "id": "kw_effba047-ea09-48a3-a86a-4a6dbbe63d94",
+        "keyword": "Hindia - everything u are -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717649117,
+        "created_at": 1770717649117,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d9f397de-3d8a-4472-bf8c-1fce74b355aa",
+        "keyword": "Hindia - Kita ke Sana -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717649117,
+        "created_at": 1770717649117,
         "locale": "id"
       }
     ],
@@ -18506,9 +18583,9 @@
         "keyword": "Nina -tela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770717570959,
+        "last_search": 1770717649117,
         "created_at": 1770717537761,
         "locale": "id"
       },
@@ -23181,6 +23258,28 @@
         "last_search": 1770632823032,
         "created_at": 1770632823032,
         "locale": "id"
+      },
+      {
+        "id": "kw_a395e610-1103-4c39-975c-47bce4073d82",
+        "keyword": "Evaluasi -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717649117,
+        "created_at": 1770717649117,
+        "locale": "id"
+      },
+      {
+        "id": "kw_74be1149-1623-41f5-9701-b2fec1ba257f",
+        "keyword": "everything u are -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717649117,
+        "created_at": 1770717649117,
+        "locale": "id"
       }
     ],
     "w": [
@@ -25391,9 +25490,9 @@
         "keyword": "Cincin -tela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770630085311,
+        "last_search": 1770717649117,
         "created_at": 1770630085311,
         "locale": "id"
       },
@@ -28915,9 +29014,9 @@
         "keyword": "Raim Laode",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770483688831,
+        "last_search": 1770717649117,
         "created_at": 1769510714274,
         "locale": "id"
       },
@@ -29898,6 +29997,28 @@
         "clicks": 0,
         "last_search": 1770717570961,
         "created_at": 1770717570961,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a8fdb40b-354a-4bec-b107-03ea4a6453c5",
+        "keyword": "Rumah Ke Rumah -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717649117,
+        "created_at": 1770717649117,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9749d12f-90e0-4089-80f2-03c0923f8edf",
+        "keyword": "Raim Laode - Lesung Pipi -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717649117,
+        "created_at": 1770717649117,
         "locale": "id"
       }
     ],
@@ -33685,6 +33806,17 @@
         "last_search": 1770717570961,
         "created_at": 1770717570961,
         "locale": "id"
+      },
+      {
+        "id": "kw_3a628d39-5b2f-4817-bd21-8565c15e29b3",
+        "keyword": "Serana -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717649117,
+        "created_at": 1770717649117,
+        "locale": "id"
       }
     ],
     "y": [
@@ -34366,9 +34498,9 @@
         "keyword": "For Revenge",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770632823031,
+        "last_search": 1770717649117,
         "created_at": 1769437428366,
         "locale": "id"
       },
@@ -34920,6 +35052,17 @@
         "clicks": 0,
         "last_search": 1770632823064,
         "created_at": 1770632823064,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4b8ec2b2-f0ad-4020-bb71-fce29fe3acfb",
+        "keyword": "For Revenge - Serana -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717649117,
+        "created_at": 1770717649117,
         "locale": "id"
       }
     ],
@@ -36365,6 +36508,17 @@
         "clicks": 0,
         "last_search": 1770717570960,
         "created_at": 1770717570960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_da147e57-5529-4733-8b64-7109a94badcf",
+        "keyword": "o,Tuan -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770717649117,
+        "created_at": 1770717649117,
         "locale": "id"
       }
     ],
