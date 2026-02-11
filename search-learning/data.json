@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770792431874,
+    "last_updated": 1770807124686,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1154,9 +1154,9 @@
         "keyword": "Dewa 19",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1770219375054,
+        "last_search": 1770807124644,
         "created_at": 1769423057828,
         "locale": "id"
       },
@@ -3909,6 +3909,50 @@
         "last_search": 1770782845875,
         "created_at": 1770782845875,
         "locale": "id"
+      },
+      {
+        "id": "kw_293290e5-f7ff-4159-a2ce-f725cf49c928",
+        "keyword": "Daftar Koleksi / Last Child -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770807124643,
+        "created_at": 1770807124643,
+        "locale": "id"
+      },
+      {
+        "id": "kw_33bbb602-9d4d-415b-900c-9a7c17f8e194",
+        "keyword": "Dewa 19 - Separuh Nafas -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770807124644,
+        "created_at": 1770807124644,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d47391ff-11a9-43b5-98b6-fef8ffe7c0e6",
+        "keyword": "Dengan NafasMu - UNGU -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770807124645,
+        "created_at": 1770807124645,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e1cfea04-1740-4cf1-99ce-b6d489a36f08",
+        "keyword": "Dengan NafasMu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770807124645,
+        "created_at": 1770807124645,
+        "locale": "id"
       }
     ],
     "l": [
@@ -4368,9 +4412,9 @@
         "keyword": "Last Child",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770632823032,
+        "last_search": 1770807124646,
         "created_at": 1769669355539,
         "locale": "id"
       },
@@ -4445,9 +4489,9 @@
         "keyword": "LAST CHILD - Seluruh Nafas Ini ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769694060365,
+        "last_search": 1770807124626,
         "created_at": 1769694060365,
         "locale": "id"
       },
@@ -4456,9 +4500,9 @@
         "keyword": "LAST CHILD",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769694060365,
+        "last_search": 1770807124627,
         "created_at": 1769694060365,
         "locale": "id"
       },
@@ -5109,6 +5153,17 @@
         "clicks": 0,
         "last_search": 1770717649117,
         "created_at": 1770717649117,
+        "locale": "id"
+      },
+      {
+        "id": "kw_38342a4a-9f56-4936-bb39-1df57f1edad3",
+        "keyword": "Last Child - Bernafas Tanpamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770807124646,
+        "created_at": 1770807124646,
         "locale": "id"
       }
     ],
@@ -13011,9 +13066,9 @@
         "keyword": "Hingga Tua Bersama",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769518999263,
+        "last_search": 1770807124643,
         "created_at": 1769518999263,
         "locale": "id"
       },
@@ -13871,9 +13926,9 @@
         "keyword": "Judika",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1770483688831,
+        "last_search": 1770807124643,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -14579,6 +14634,17 @@
         "clicks": 0,
         "last_search": 1770717570961,
         "created_at": 1770717570961,
+        "locale": "id"
+      },
+      {
+        "id": "kw_79104610-2d96-44a8-93ed-ae38be1afe8e",
+        "keyword": "Judika - Sampai Akhir",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770807124643,
+        "created_at": 1770807124643,
         "locale": "id"
       }
     ],
@@ -16603,9 +16669,9 @@
         "keyword": "Nidji",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769518999262,
+        "last_search": 1770807124646,
         "created_at": 1769510279125,
         "locale": "id"
       },
@@ -18709,6 +18775,28 @@
         "last_search": 1770717537762,
         "created_at": 1770717537762,
         "locale": "id"
+      },
+      {
+        "id": "kw_8370caf3-4983-4766-bb1d-29eae1204a47",
+        "keyword": "NOAH -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770807124646,
+        "created_at": 1770807124646,
+        "locale": "id"
+      },
+      {
+        "id": "kw_be01ba18-0771-4fc0-a275-123f43d21271",
+        "keyword": "Nidji - Sumpah Dan Cinta Matiku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770807124646,
+        "created_at": 1770807124646,
+        "locale": "id"
       }
     ],
     "b": [
@@ -20217,6 +20305,17 @@
         "clicks": 0,
         "last_search": 1770717570961,
         "created_at": 1770717570961,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3a91ca32-a1a8-4cf0-859d-b6df0edb8c6b",
+        "keyword": "Bernafas Tanpamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770807124646,
+        "created_at": 1770807124646,
         "locale": "id"
       }
     ],
@@ -29135,9 +29234,9 @@
         "keyword": "Rizky Febian",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770290666025,
+        "last_search": 1770807124643,
         "created_at": 1769518999262,
         "locale": "id"
       },
@@ -30052,6 +30151,17 @@
         "clicks": 0,
         "last_search": 1770717649117,
         "created_at": 1770717649117,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2fdcc55f-287d-4601-84ab-fec0d28285da",
+        "keyword": "Rizky Febian - Hingga Tua Bersama",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770807124643,
+        "created_at": 1770807124627,
         "locale": "id"
       }
     ],
@@ -31777,9 +31887,9 @@
         "keyword": "Separuh Aku",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769694060364,
+        "last_search": 1770807124646,
         "created_at": 1769694060364,
         "locale": "id"
       },
@@ -31821,9 +31931,9 @@
         "keyword": "Seluruh Nafas Ini",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769694060365,
+        "last_search": 1770807124627,
         "created_at": 1769694060365,
         "locale": "id"
       },
@@ -33849,6 +33959,83 @@
         "clicks": 0,
         "last_search": 1770717649117,
         "created_at": 1770717649117,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fb1b4fdc-9f47-449b-b685-9cdd8315edc9",
+        "keyword": "Sampai Akhir",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770807124644,
+        "created_at": 1770807124644,
+        "locale": "id"
+      },
+      {
+        "id": "kw_92ceee56-751c-4317-9a92-0ec50b3cc4d3",
+        "keyword": "Separuh Nafas -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770807124644,
+        "created_at": 1770807124644,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e72152b8-45d7-4193-89d1-cb7b9b92b8bc",
+        "keyword": "Siti Nurhaliza Feat. Cakra Khan - Seluruh Cinta ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770807124644,
+        "created_at": 1770807124644,
+        "locale": "id"
+      },
+      {
+        "id": "kw_753321d4-3387-4d52-bcf6-87bb3f2eb501",
+        "keyword": "Siti Nurhaliza Feat. Cakra Khan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770807124644,
+        "created_at": 1770807124644,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0d28b5f6-ec39-44c9-955d-7ef3da5818eb",
+        "keyword": "Seluruh Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770807124645,
+        "created_at": 1770807124645,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3241f7c7-e890-4c16-90a2-b2d157538beb",
+        "keyword": "Separuh Aku - NOAH -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770807124646,
+        "created_at": 1770807124646,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d45f7d3b-0aa4-400f-902d-7e93c8bfb61f",
+        "keyword": "Sumpah Dan Cinta Matiku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770807124646,
+        "created_at": 1770807124646,
         "locale": "id"
       }
     ],
@@ -37258,9 +37445,9 @@
         "keyword": "UNGU -tela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770551390324,
+        "last_search": 1770807124646,
         "created_at": 1770550577344,
         "locale": "id"
       }
