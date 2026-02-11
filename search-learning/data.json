@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770807124686,
+    "last_updated": 1770815330338,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -5165,6 +5165,17 @@
         "last_search": 1770807124646,
         "created_at": 1770807124646,
         "locale": "id"
+      },
+      {
+        "id": "kw_8e7f3f1c-84e7-4dcf-a896-4ce325a26c86",
+        "keyword": "Leda Lede -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770815330294,
+        "created_at": 1770815330294,
+        "locale": "id"
       }
     ],
     "k": [
@@ -8588,6 +8599,28 @@
         "last_search": 1770782845874,
         "created_at": 1770782845874,
         "locale": "id"
+      },
+      {
+        "id": "kw_d5858aca-45f2-4dc1-9fc1-c05448c32270",
+        "keyword": "Kumpulan Gitar Vadesta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770815330293,
+        "created_at": 1770815330277,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c5c05eb1-5cd5-4b18-8bd4-599899dbbb67",
+        "keyword": "Kesalahanmu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770815330294,
+        "created_at": 1770815330294,
+        "locale": "id"
       }
     ],
     "p": [
@@ -10514,6 +10547,17 @@
         "clicks": 0,
         "last_search": 1770684838952,
         "created_at": 1770684838952,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2c11238c-031c-461d-a7cb-5faa7f9780d1",
+        "keyword": "Perpisahan -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770815330294,
+        "created_at": 1770815330294,
         "locale": "id"
       }
     ],
@@ -25649,6 +25693,17 @@
         "last_search": 1770717537761,
         "created_at": 1770717537761,
         "locale": "id"
+      },
+      {
+        "id": "kw_ec324167-990f-4763-ac2e-740a67f96d43",
+        "keyword": "CKPTW",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770815330294,
+        "created_at": 1770815330294,
+        "locale": "id"
       }
     ],
     "a": [
@@ -28731,6 +28786,17 @@
         "last_search": 1770717570961,
         "created_at": 1770717570961,
         "locale": "id"
+      },
+      {
+        "id": "kw_4cbe29f6-5343-4726-b213-2c1dc2e239f6",
+        "keyword": "Anagata",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770815330294,
+        "created_at": 1770815330294,
+        "locale": "id"
       }
     ],
     "r": [
@@ -30163,6 +30229,17 @@
         "last_search": 1770807124643,
         "created_at": 1770807124627,
         "locale": "id"
+      },
+      {
+        "id": "kw_ed428e85-7fd4-4070-9d5d-df7ea92a0086",
+        "keyword": "Ranompo Balimu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770815330294,
+        "created_at": 1770815330294,
+        "locale": "id"
       }
     ],
     "s": [
@@ -31414,9 +31491,9 @@
         "keyword": "SAKTENANE",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770369072827,
+        "last_search": 1770815330294,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -31700,9 +31777,9 @@
         "keyword": "Saktenane 2",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1770473007559,
+        "last_search": 1770815330294,
         "created_at": 1769605035336,
         "locale": "id"
       },
@@ -34036,6 +34113,17 @@
         "clicks": 0,
         "last_search": 1770807124646,
         "created_at": 1770807124646,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b209494e-e6a1-4a25-b37f-5e4e1114b2b9",
+        "keyword": "Sampeyan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770815330294,
+        "created_at": 1770815330294,
         "locale": "id"
       }
     ],
@@ -36926,9 +37014,9 @@
         "keyword": "Vadesta Ft. Destya Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 14,
+        "impressions": 15,
         "clicks": 0,
-        "last_search": 1770473007559,
+        "last_search": 1770815330294,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -37047,9 +37135,9 @@
         "keyword": "Vadesta Ft. Destya Eka - Saktenane 2",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1770473007559,
+        "last_search": 1770815330294,
         "created_at": 1769703841678,
         "locale": "id"
       },
@@ -37058,9 +37146,9 @@
         "keyword": "Vadesta Ft. Destya Eka - SAKTENANE",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770369072827,
+        "last_search": 1770815330294,
         "created_at": 1769703841678,
         "locale": "id"
       },
@@ -37227,6 +37315,116 @@
         "clicks": 0,
         "last_search": 1770551224010,
         "created_at": 1770551224010,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8edbd0c0-d3c6-4a8d-b284-ae440e55bf7c",
+        "keyword": "Vadesta - Ranompo Balimu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770815330293,
+        "created_at": 1770815330293,
+        "locale": "id"
+      },
+      {
+        "id": "kw_88394ee4-93a8-4177-a71b-af88ac50bb3f",
+        "keyword": "Vadesta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770815330293,
+        "created_at": 1770815330293,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a90f844b-8c28-4313-a05e-e19d1e1481dd",
+        "keyword": "Vadesta - Kesalahanmu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770815330294,
+        "created_at": 1770815330294,
+        "locale": "id"
+      },
+      {
+        "id": "kw_873b1010-4fd3-43b4-8024-250bc92f8de0",
+        "keyword": "Vadesta Ft. Destya Eka - Sampeyan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770815330294,
+        "created_at": 1770815330294,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7f17c82d-7794-4990-b46a-1851d4280397",
+        "keyword": "Vadesta Ft Vanessazkl - Anagata",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770815330294,
+        "created_at": 1770815330294,
+        "locale": "id"
+      },
+      {
+        "id": "kw_97ce28ee-0f0f-4777-9bb0-2da618582e06",
+        "keyword": "Vadesta Ft Vanessazkl",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770815330294,
+        "created_at": 1770815330294,
+        "locale": "id"
+      },
+      {
+        "id": "kw_630a3dc2-9be3-436f-9482-ed75651dcfe0",
+        "keyword": "Vadesta - Perpisahan -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770815330294,
+        "created_at": 1770815330294,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3563fdb5-63d3-40af-a3ac-bfabb421cbf8",
+        "keyword": "Vadesta - Leda Lede -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770815330294,
+        "created_at": 1770815330294,
+        "locale": "id"
+      },
+      {
+        "id": "kw_48c27b47-088c-4482-8e48-886e56f64c17",
+        "keyword": "Vadesta ft. Nisa Ape - CKPTW",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770815330294,
+        "created_at": 1770815330294,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8e51cb7d-40be-41e4-a450-6482f85f4e3e",
+        "keyword": "Vadesta ft. Nisa Ape",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770815330294,
+        "created_at": 1770815330294,
         "locale": "id"
       }
     ],
