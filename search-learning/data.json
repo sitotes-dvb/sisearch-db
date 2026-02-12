@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770913200180,
+    "last_updated": 1770914798474,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3365,9 +3365,9 @@
         "keyword": "Dongker & Jason Ranti - disarankan di bandung ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770357692251,
+        "last_search": 1770914798429,
         "created_at": 1770357692251,
         "locale": "id"
       },
@@ -3376,9 +3376,9 @@
         "keyword": "Dongker & Jason Ranti",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770357692251,
+        "last_search": 1770914798429,
         "created_at": 1770357692251,
         "locale": "id"
       },
@@ -3387,9 +3387,9 @@
         "keyword": "disarankan di bandung",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770357692251,
+        "last_search": 1770914798429,
         "created_at": 1770357692251,
         "locale": "id"
       },
@@ -3409,9 +3409,9 @@
         "keyword": "Dan Bandung (Feat. Pidi Baiq",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770357692252,
+        "last_search": 1770914798429,
         "created_at": 1770357692252,
         "locale": "id"
       },
@@ -3996,6 +3996,28 @@
         "clicks": 0,
         "last_search": 1770913200126,
         "created_at": 1770913200126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_91ad58f1-0fd1-4712-880a-fff02ac7a32f",
+        "keyword": "Daftar Koleksi / Dongker -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770914798430,
+        "created_at": 1770914798430,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b2609c27-d5d8-4df5-8df6-f0f8bc7680a7",
+        "keyword": "Daftar Koleksi / Jason Ranti @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770914798431,
+        "created_at": 1770914798431,
         "locale": "id"
       }
     ],
@@ -5252,6 +5274,17 @@
         "clicks": 0,
         "last_search": 1770912619019,
         "created_at": 1770912619018,
+        "locale": "id"
+      },
+      {
+        "id": "kw_229f8cad-b768-4f5f-96af-4cfa1df9e618",
+        "keyword": "Lagunya Begini Nadanya Begitu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770914798431,
+        "created_at": 1770914798431,
         "locale": "id"
       }
     ],
@@ -8110,9 +8143,9 @@
         "keyword": "Kumpulan Gitar Jason Ranti",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770357692251,
+        "last_search": 1770914798430,
         "created_at": 1770357692251,
         "locale": "id"
       },
@@ -14388,9 +14421,9 @@
         "keyword": "Jason Ranti",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770912619018,
+        "last_search": 1770914798431,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -14685,9 +14718,9 @@
         "keyword": "Jason Ranti -tela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770357692251,
+        "last_search": 1770914798431,
         "created_at": 1770357692251,
         "locale": "id"
       },
@@ -14898,6 +14931,39 @@
         "clicks": 0,
         "last_search": 1770912619018,
         "created_at": 1770912619018,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a57eb853-3441-4871-af22-7f9230c7859a",
+        "keyword": "Jegeg Bulan - Uyak Janda -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770914798430,
+        "created_at": 1770914798429,
+        "locale": "id"
+      },
+      {
+        "id": "kw_caef24de-d411-469f-8c9d-41a15397e6b8",
+        "keyword": "Jegeg Bulan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770914798430,
+        "created_at": 1770914798430,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5f8e5c1f-4c6c-4d5b-8325-d64fc0540aac",
+        "keyword": "Jason Ranti - Lagunya Begini Nadanya Begitu ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770914798431,
+        "created_at": 1770914798431,
         "locale": "id"
       }
     ],
@@ -20581,6 +20647,17 @@
         "last_search": 1770807124646,
         "created_at": 1770807124646,
         "locale": "id"
+      },
+      {
+        "id": "kw_fdef9456-95f7-4875-98be-9374153d88fd",
+        "keyword": "Bandung Hari Ini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770914798431,
+        "created_at": 1770914798431,
+        "locale": "id"
       }
     ],
     "t": [
@@ -22459,9 +22536,9 @@
         "keyword": "The Panasdalam Bank - Jason Ranti -tela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770357692251,
+        "last_search": 1770914798431,
         "created_at": 1770357692251,
         "locale": "id"
       },
@@ -22470,9 +22547,9 @@
         "keyword": "The Panasdalam Bank",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770627218889,
+        "last_search": 1770914798431,
         "created_at": 1770357692251,
         "locale": "id"
       },
@@ -22481,9 +22558,9 @@
         "keyword": "The Panas Dalam - Dan Bandung (Feat. Pidi Baiq ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770357692251,
+        "last_search": 1770914798429,
         "created_at": 1770357692251,
         "locale": "id"
       },
@@ -22492,9 +22569,9 @@
         "keyword": "The Panas Dalam",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770357692251,
+        "last_search": 1770914798429,
         "created_at": 1770357692251,
         "locale": "id"
       },
@@ -29083,6 +29160,39 @@
         "last_search": 1770815330294,
         "created_at": 1770815330294,
         "locale": "id"
+      },
+      {
+        "id": "kw_e9380f93-fe12-47c2-805a-cead2b433c37",
+        "keyword": "Abimanyu X Lintang - Aku, Kamu Dan Bandung ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770914798430,
+        "created_at": 1770914798430,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8bc358bf-e8ca-4252-a7bc-416d966d6bba",
+        "keyword": "Abimanyu X Lintang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770914798430,
+        "created_at": 1770914798430,
+        "locale": "id"
+      },
+      {
+        "id": "kw_84553e1d-b011-4dfc-b695-563c3a4d1941",
+        "keyword": "Aku, Kamu Dan Bandung",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770914798431,
+        "created_at": 1770914798431,
+        "locale": "id"
       }
     ],
     "r": [
@@ -34938,9 +35048,9 @@
         "keyword": "for Revenge",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770632823032,
+        "last_search": 1770914798431,
         "created_at": 1769406982898,
         "locale": "id"
       },
@@ -35679,6 +35789,17 @@
         "clicks": 0,
         "last_search": 1770717649117,
         "created_at": 1770717649117,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e6751b11-eb7c-4645-baed-f33bf3539c10",
+        "keyword": "for Revenge - Bandung Hari Ini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770914798431,
+        "created_at": 1770914798431,
         "locale": "id"
       }
     ],
@@ -37966,6 +38087,17 @@
         "clicks": 0,
         "last_search": 1770807124646,
         "created_at": 1770550577344,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9a6f2fd1-9b27-4e24-b740-02be2e1156df",
+        "keyword": "Uyak Janda -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770914798430,
+        "created_at": 1770914798430,
         "locale": "id"
       }
     ],
