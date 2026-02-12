@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770914798474,
+    "last_updated": 1770915705915,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -5285,6 +5285,39 @@
         "clicks": 0,
         "last_search": 1770914798431,
         "created_at": 1770914798431,
+        "locale": "id"
+      },
+      {
+        "id": "kw_895f6885-4d3f-4d47-9178-2f2648044eea",
+        "keyword": "LP - Love Lines -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7740a900-e95a-4f11-a4c7-7f66fcb34057",
+        "keyword": "LP",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2bae631c-f576-4018-b827-daa98e58b280",
+        "keyword": "Love Lines -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
         "locale": "id"
       }
     ],
@@ -10746,6 +10779,28 @@
         "last_search": 1770913200126,
         "created_at": 1770913200126,
         "locale": "id"
+      },
+      {
+        "id": "kw_1e5d4bc4-be2c-424d-bef8-1f4627edb765",
+        "keyword": "Phil Wickham - Falling In Love",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7a9cb709-468a-42db-bcd4-9b9e87bbc124",
+        "keyword": "Phil Wickham",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
+        "locale": "id"
       }
     ],
     "m": [
@@ -12937,6 +12992,17 @@
         "last_search": 1770913200126,
         "created_at": 1770913200126,
         "locale": "id"
+      },
+      {
+        "id": "kw_3e39ef9d-6256-4407-86d9-46fe7dadb254",
+        "keyword": "Million Miles Apart -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705874,
+        "created_at": 1770915705874,
+        "locale": "id"
       }
     ],
     "h": [
@@ -13884,6 +13950,17 @@
         "clicks": 0,
         "last_search": 1770913200126,
         "created_at": 1770913200126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_538cc240-3f9f-432a-b231-57bcfe408c4b",
+        "keyword": "Heaven -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
         "locale": "id"
       }
     ],
@@ -23047,6 +23124,17 @@
         "last_search": 1770913200139,
         "created_at": 1770913200139,
         "locale": "id"
+      },
+      {
+        "id": "kw_51d867d8-c54f-4642-98bf-a9156e858881",
+        "keyword": "Thinking Out Loud",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705874,
+        "created_at": 1770915705873,
+        "locale": "id"
       }
     ],
     "e": [
@@ -23796,6 +23884,61 @@
         "clicks": 0,
         "last_search": 1770717649117,
         "created_at": 1770717649117,
+        "locale": "id"
+      },
+      {
+        "id": "kw_06650b85-c6bc-4822-9d35-43f2e3bb9064",
+        "keyword": "Elvis Presley - Can't Help Falling In Love",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705855,
+        "created_at": 1770915705855,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c27999e6-3bfe-432f-9fad-d2a7e4e658a3",
+        "keyword": "Elvis Presley",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705855,
+        "created_at": 1770915705855,
+        "locale": "id"
+      },
+      {
+        "id": "kw_32e50e87-d461-4bde-b243-24bfb07452d5",
+        "keyword": "Ed Sheeran - Heaven -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8767c03c-110c-4417-bfc7-f0353e7d3db3",
+        "keyword": "Ed Sheeran",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8ce30969-ffed-421f-b90d-dd1bb3354234",
+        "keyword": "Ed Sheeran - Thinking Out Loud",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705857,
+        "created_at": 1770915705857,
         "locale": "id"
       }
     ],
@@ -26066,6 +26209,39 @@
         "clicks": 0,
         "last_search": 1770913200126,
         "created_at": 1770913200126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2ccc517c-6e97-410f-95bb-74ad72eaa4fc",
+        "keyword": "Can't Help Falling In Love",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c7e5b31d-fd32-4a32-98ea-d946e4f68b97",
+        "keyword": "Coldplay - Feels Like I'm Falling In Love",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
+        "locale": "id"
+      },
+      {
+        "id": "kw_621cb552-d430-4f39-86f7-ef836881a094",
+        "keyword": "Coldplay",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
         "locale": "id"
       }
     ],
@@ -29012,9 +29188,9 @@
         "keyword": "Ali Gatie",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770534993601,
+        "last_search": 1770915705874,
         "created_at": 1770534993601,
         "locale": "id"
       },
@@ -29192,6 +29368,17 @@
         "clicks": 0,
         "last_search": 1770914798431,
         "created_at": 1770914798431,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fd16cdf0-e80b-4434-aeff-9cfa65800737",
+        "keyword": "Ali Gatie - Million Miles Apart -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705874,
+        "created_at": 1770915705874,
         "locale": "id"
       }
     ],
@@ -30635,6 +30822,28 @@
         "clicks": 0,
         "last_search": 1770815330294,
         "created_at": 1770815330294,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e219ff0e-63b1-422d-b1f5-0515e3c5a76d",
+        "keyword": "Rag'n'Bone Man - Fall in Love Again",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
+        "locale": "id"
+      },
+      {
+        "id": "kw_aac01e42-423f-441f-87f5-1b2b601c776f",
+        "keyword": "Rag'n'Bone Man",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
         "locale": "id"
       }
     ],
@@ -34532,6 +34741,28 @@
         "last_search": 1770913200138,
         "created_at": 1770913200126,
         "locale": "id"
+      },
+      {
+        "id": "kw_3dc12b63-b007-4125-b36d-481ca245bdc9",
+        "keyword": "Stephen Sanchez - Until I Found You",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
+        "locale": "id"
+      },
+      {
+        "id": "kw_46f66446-adf0-4ebc-a6a5-350b7dd42630",
+        "keyword": "Stephen Sanchez",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
+        "locale": "id"
       }
     ],
     "y": [
@@ -35800,6 +36031,72 @@
         "clicks": 0,
         "last_search": 1770914798431,
         "created_at": 1770914798431,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ffc4b5e7-f976-465b-a9c0-ea00c174b73c",
+        "keyword": "Feels Like I'm Falling In Love",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
+        "locale": "id"
+      },
+      {
+        "id": "kw_02ad967d-c04b-4647-92c1-f64c0b90799c",
+        "keyword": "Falling In Love",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ed3a5297-d0b2-49ef-85d5-6a566c35b9d7",
+        "keyword": "Forest Blakk - Fall Into Me -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bbb8c939-e2f9-45cb-9f85-77e6ac4a0270",
+        "keyword": "Forest Blakk",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
+        "locale": "id"
+      },
+      {
+        "id": "kw_032a1d18-1544-4967-aa8f-5ce1fa53a216",
+        "keyword": "Fall Into Me -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f0101e54-000b-47ce-84f4-f93d7e563c61",
+        "keyword": "Fall in Love Again",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
         "locale": "id"
       }
     ],
@@ -38098,6 +38395,17 @@
         "clicks": 0,
         "last_search": 1770914798430,
         "created_at": 1770914798430,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4f09240a-ff10-4b02-9ee1-b6c0e7bd2ed2",
+        "keyword": "Until I Found You",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770915705856,
+        "created_at": 1770915705856,
         "locale": "id"
       }
     ],
