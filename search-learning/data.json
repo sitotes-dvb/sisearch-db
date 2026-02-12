@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770912284710,
+    "last_updated": 1770912619076,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3953,6 +3953,28 @@
         "last_search": 1770807124645,
         "created_at": 1770807124645,
         "locale": "id"
+      },
+      {
+        "id": "kw_0bf5c184-8bd4-4655-89b6-4f5061610bbd",
+        "keyword": "Daftar Koleksi / Aku Jeje -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770912619018,
+        "created_at": 1770912619018,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7c113437-3075-4213-9b7a-4669dbd5bcee",
+        "keyword": "Daftar Koleksi / Sal Priadi -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770912619018,
+        "created_at": 1770912619018,
+        "locale": "id"
       }
     ],
     "l": [
@@ -4962,9 +4984,9 @@
         "keyword": "Lihat Kebunku",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770304112647,
+        "last_search": 1770912619018,
         "created_at": 1770304112647,
         "locale": "id"
       },
@@ -5175,6 +5197,39 @@
         "clicks": 0,
         "last_search": 1770815330294,
         "created_at": 1770815330294,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a2e2dbad-2544-4428-aca6-c4cf210636eb",
+        "keyword": "Lagu Anak -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770912619018,
+        "created_at": 1770912619018,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c9c7befe-de0d-4179-8411-6c4bd2512b60",
+        "keyword": "Lagu Kebun -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770912619018,
+        "created_at": 1770912619018,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b3e133ae-c9ee-4c07-9e11-8e0ad49c46ef",
+        "keyword": "Lagunya Begini Nadanya Begitu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770912619019,
+        "created_at": 1770912619018,
         "locale": "id"
       }
     ],
@@ -7978,9 +8033,9 @@
         "keyword": "KASIH IBU",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770304112647,
+        "last_search": 1770912619018,
         "created_at": 1770304112647,
         "locale": "id"
       },
@@ -8000,9 +8055,9 @@
         "keyword": "Kita usahakan rumah itu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770304112662,
+        "last_search": 1770912619019,
         "created_at": 1770304112662,
         "locale": "id"
       },
@@ -8631,6 +8686,28 @@
         "clicks": 0,
         "last_search": 1770821101070,
         "created_at": 1770821101070,
+        "locale": "id"
+      },
+      {
+        "id": "kw_99f7c062-1e63-4cff-a80b-876ccbf5e19a",
+        "keyword": "KASIH IBU - Lagu Anak -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770912619018,
+        "created_at": 1770912619018,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cb1ed954-1de1-48fa-9190-8ef1fa287f92",
+        "keyword": "Kumpulan Gitar Aku Jeje -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770912619018,
+        "created_at": 1770912619018,
         "locale": "id"
       }
     ],
@@ -14201,9 +14278,9 @@
         "keyword": "Jason Ranti",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770357692251,
+        "last_search": 1770912619018,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -14700,6 +14777,17 @@
         "clicks": 0,
         "last_search": 1770807124643,
         "created_at": 1770807124643,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9cb67ece-9dbc-4aef-bd18-c133c77c9877",
+        "keyword": "Jason Ranti - Lagunya Begini Nadanya Begitu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770912619018,
+        "created_at": 1770912619018,
         "locale": "id"
       }
     ],
@@ -15501,9 +15589,9 @@
         "keyword": "Gala bunga matahari",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770304112662,
+        "last_search": 1770912619019,
         "created_at": 1770304112662,
         "locale": "id"
       },
@@ -16504,9 +16592,9 @@
         "keyword": "Nosstress",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1770553100824,
+        "last_search": 1770912619018,
         "created_at": 1769430306099,
         "locale": "id"
       },
@@ -18851,6 +18939,17 @@
         "clicks": 0,
         "last_search": 1770807124646,
         "created_at": 1770807124646,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5d8e8b20-7227-40e7-a216-e39bbdc550e0",
+        "keyword": "Nosstress - Lagu Kebun -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770912619018,
+        "created_at": 1770912619018,
         "locale": "id"
       }
     ],
@@ -28319,9 +28418,9 @@
         "keyword": "Aku Jeje - Lihat Kebunku",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770304112647,
+        "last_search": 1770912619018,
         "created_at": 1770304112646,
         "locale": "id"
       },
@@ -28330,9 +28429,9 @@
         "keyword": "Aku Jeje",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770304112647,
+        "last_search": 1770912619018,
         "created_at": 1770304112647,
         "locale": "id"
       },
@@ -28341,9 +28440,9 @@
         "keyword": "Aku Jeje - Lihat Kebunku ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770304112647,
+        "last_search": 1770912619018,
         "created_at": 1770304112647,
         "locale": "id"
       },
@@ -33339,9 +33438,9 @@
         "keyword": "Sal Priadi",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770304112662,
+        "last_search": 1770912619019,
         "created_at": 1770215621098,
         "locale": "id"
       },
@@ -33471,9 +33570,9 @@
         "keyword": "Sal Priadi - Gala bunga matahari",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770304112661,
+        "last_search": 1770912619019,
         "created_at": 1770304112661,
         "locale": "id"
       },
@@ -33482,9 +33581,9 @@
         "keyword": "Sal Priadi - Kita usahakan rumah itu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770304112662,
+        "last_search": 1770912619019,
         "created_at": 1770304112662,
         "locale": "id"
       },
