@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770912619076,
+    "last_updated": 1770913200180,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3974,6 +3974,28 @@
         "clicks": 0,
         "last_search": 1770912619018,
         "created_at": 1770912619018,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a684b9e5-9d85-44b6-bbdb-0ae308f328de",
+        "keyword": "Daftar Koleksi / Iklim -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770913200126,
+        "created_at": 1770913200126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6fa3f91a-c7bd-4ed0-aa1b-6dc517ccb62d",
+        "keyword": "Daftar Koleksi / Lagu Malaysia -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770913200126,
+        "created_at": 1770913200126,
         "locale": "id"
       }
     ],
@@ -8709,6 +8731,28 @@
         "last_search": 1770912619018,
         "created_at": 1770912619018,
         "locale": "id"
+      },
+      {
+        "id": "kw_a6e9e878-5e79-4115-aa3e-4e1b79e34957",
+        "keyword": "Kumpulan Gitar Iklim -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770913200139,
+        "created_at": 1770913200139,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e0fed672-c7cb-4838-b618-5ee5cd795307",
+        "keyword": "Kasih Suci -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770913200139,
+        "created_at": 1770913200139,
+        "locale": "id"
       }
     ],
     "p": [
@@ -10647,6 +10691,28 @@
         "last_search": 1770815330294,
         "created_at": 1770815330294,
         "locale": "id"
+      },
+      {
+        "id": "kw_f7acec6d-581a-499c-9d58-820a7f79169b",
+        "keyword": "Persinggahan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770913200126,
+        "created_at": 1770913200126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_df4afe58-ad21-4fbc-9191-5f2a39ad75b0",
+        "keyword": "Persinggahan -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770913200126,
+        "created_at": 1770913200126,
+        "locale": "id"
       }
     ],
     "m": [
@@ -12569,9 +12635,9 @@
         "keyword": "Mubai",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770483688831,
+        "last_search": 1770913200126,
         "created_at": 1770361852310,
         "locale": "id"
       },
@@ -12826,6 +12892,17 @@
         "clicks": 0,
         "last_search": 1770717570961,
         "created_at": 1770717570961,
+        "locale": "id"
+      },
+      {
+        "id": "kw_30dd0954-c2be-4e84-9e0b-23b9caf58034",
+        "keyword": "Mubai - Hanya Persinggahan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770913200126,
+        "created_at": 1770913200126,
         "locale": "id"
       }
     ],
@@ -13741,6 +13818,39 @@
         "clicks": 0,
         "last_search": 1770717649117,
         "created_at": 1770717649117,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0dbd5852-8ca9-41d1-9f38-4479609678d9",
+        "keyword": "Hakikat Sebuah Cinta - Iklim",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770913200125,
+        "created_at": 1770913200125,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eac5a6f4-d285-42ff-8ba8-7f3a87a462c7",
+        "keyword": "Hakikat Sebuah Cinta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770913200126,
+        "created_at": 1770913200125,
+        "locale": "id"
+      },
+      {
+        "id": "kw_51e3b153-7b05-4c54-ae17-e2240c5b5fcb",
+        "keyword": "Hanya Persinggahan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770913200126,
+        "created_at": 1770913200126,
         "locale": "id"
       }
     ],
@@ -21084,9 +21194,9 @@
         "keyword": "Thomas Arya",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1770629255206,
+        "last_search": 1770913200139,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -22826,6 +22936,39 @@
         "clicks": 0,
         "last_search": 1770821101070,
         "created_at": 1770821101070,
+        "locale": "id"
+      },
+      {
+        "id": "kw_872baa78-a405-4f61-b283-bca3417fe415",
+        "keyword": "Tasya Rosmala - Persinggahan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770913200126,
+        "created_at": 1770913200126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3cae0f8c-d7b5-4d5b-a639-be32b4bdd830",
+        "keyword": "Tasya Rosmala",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770913200126,
+        "created_at": 1770913200126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4e30f63c-47db-4060-a14d-e8a1c7654e90",
+        "keyword": "Thomas Arya - Kasih Suci -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770913200139,
+        "created_at": 1770913200139,
         "locale": "id"
       }
     ],
@@ -25824,6 +25967,28 @@
         "clicks": 0,
         "last_search": 1770815330294,
         "created_at": 1770815330294,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8a15e0a3-3709-4374-8fb7-019e47391140",
+        "keyword": "Cut Rani - Persinggahan -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770913200126,
+        "created_at": 1770913200126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ca4aef8f-5822-4e47-9de7-b3d042cc7d98",
+        "keyword": "Cut Rani",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770913200126,
+        "created_at": 1770913200126,
         "locale": "id"
       }
     ],
@@ -34246,6 +34411,17 @@
         "last_search": 1770815330294,
         "created_at": 1770815330294,
         "locale": "id"
+      },
+      {
+        "id": "kw_a24ec405-5662-4a9c-a5cb-a40a940e876f",
+        "keyword": "Suci Dalam Debu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770913200138,
+        "created_at": 1770913200126,
+        "locale": "id"
       }
     ],
     "y": [
@@ -34408,9 +34584,9 @@
         "keyword": "Yelse",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770370715085,
+        "last_search": 1770913200126,
         "created_at": 1769669355539,
         "locale": "id"
       },
@@ -34643,6 +34819,17 @@
         "clicks": 0,
         "last_search": 1770627218889,
         "created_at": 1770627218889,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0de78d7e-7950-48e1-8588-23c5900d1149",
+        "keyword": "Yelse - Persinggahan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770913200126,
+        "created_at": 1770913200126,
         "locale": "id"
       }
     ],
@@ -36249,9 +36436,9 @@
         "keyword": "Iklim",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770361852310,
+        "last_search": 1770913200126,
         "created_at": 1770361852310,
         "locale": "id"
       },
@@ -36352,6 +36539,17 @@
         "clicks": 0,
         "last_search": 1770717570961,
         "created_at": 1770717570961,
+        "locale": "id"
+      },
+      {
+        "id": "kw_550093e7-e231-400c-9cf5-d46820f1c82e",
+        "keyword": "Iklim - Suci Dalam Debu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770913200126,
+        "created_at": 1770913200126,
         "locale": "id"
       }
     ],
