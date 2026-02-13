@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770994505613,
+    "last_updated": 1770995333330,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -329,9 +329,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 81,
+        "impressions": 82,
         "clicks": 0,
-        "last_search": 1770990651002,
+        "last_search": 1770995333271,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -461,9 +461,9 @@
         "keyword": "Denny Caknan - Sugeng Dalu",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770563070780,
+        "last_search": 1770995333271,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -659,9 +659,9 @@
         "keyword": "Daftar Koleksi / Denny Caknan @Chordtela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 14,
+        "impressions": 15,
         "clicks": 0,
-        "last_search": 1770971746420,
+        "last_search": 1770995333271,
         "created_at": 1769407631223,
         "locale": "id"
       },
@@ -3266,9 +3266,9 @@
         "keyword": "Dyah Novia - Sugeng Dalu Sayang",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770297857460,
+        "last_search": 1770995333271,
         "created_at": 1770297857460,
         "locale": "id"
       },
@@ -3277,9 +3277,9 @@
         "keyword": "Dyah Novia",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770297857460,
+        "last_search": 1770995333271,
         "created_at": 1770297857460,
         "locale": "id"
       },
@@ -3288,9 +3288,9 @@
         "keyword": "Denny Caknan - Selamat Malam",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770297857460,
+        "last_search": 1770995333272,
         "created_at": 1770297857460,
         "locale": "id"
       },
@@ -4106,6 +4106,17 @@
         "clicks": 0,
         "last_search": 1770994476771,
         "created_at": 1770994476771,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d6d2316f-8695-4085-9813-18f146de4243",
+        "keyword": "Daftar Koleksi / Dyah Novia @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770995333272,
+        "created_at": 1770995333272,
         "locale": "id"
       }
     ],
@@ -5083,9 +5094,9 @@
         "keyword": "Leona Zhen - Isih Sayang",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770297857460,
+        "last_search": 1770995333272,
         "created_at": 1770297857460,
         "locale": "id"
       },
@@ -5094,9 +5105,9 @@
         "keyword": "Leona Zhen",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770297857460,
+        "last_search": 1770995333272,
         "created_at": 1770297857460,
         "locale": "id"
       },
@@ -9280,6 +9291,17 @@
         "clicks": 0,
         "last_search": 1770994505477,
         "created_at": 1770994505477,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e6a53cfd-be01-4447-a32d-26f6a4d6cac5",
+        "keyword": "Kumpulan Gitar Dyah Novia -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770995333287,
+        "created_at": 1770995333287,
         "locale": "id"
       }
     ],
@@ -19430,9 +19452,9 @@
         "keyword": "Ndarboy Genk feat. Denny Caknan - Rungokno Aku ...",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770629392406,
+        "last_search": 1770995333271,
         "created_at": 1770048909404,
         "locale": "id"
       },
@@ -19441,9 +19463,9 @@
         "keyword": "Ndarboy Genk feat. Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770629392406,
+        "last_search": 1770995333271,
         "created_at": 1770048909404,
         "locale": "id"
       },
@@ -21357,9 +21379,9 @@
         "keyword": "BESAN",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770297857460,
+        "last_search": 1770995333272,
         "created_at": 1770297857460,
         "locale": "id"
       },
@@ -21966,6 +21988,28 @@
         "clicks": 0,
         "last_search": 1770994476771,
         "created_at": 1770994476771,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b6b6fda3-a164-416d-99e0-5fe7ca29a925",
+        "keyword": "Bekas Pacar - Imam S. Arifin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770995333287,
+        "created_at": 1770995333287,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d2b93f5c-b39b-47a3-8a98-e6718922c429",
+        "keyword": "Bekas Pacar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770995333287,
+        "created_at": 1770995333287,
         "locale": "id"
       }
     ],
@@ -26291,9 +26335,9 @@
         "keyword": "WARASTRA MUSIC - BESAN",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770297857460,
+        "last_search": 1770995333271,
         "created_at": 1770297857460,
         "locale": "id"
       },
@@ -26302,9 +26346,9 @@
         "keyword": "WARASTRA MUSIC",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770297857460,
+        "last_search": 1770995333271,
         "created_at": 1770297857460,
         "locale": "id"
       },
@@ -32226,9 +32270,9 @@
         "keyword": "Rungokno Aku",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770629392406,
+        "last_search": 1770995333271,
         "created_at": 1770048909405,
         "locale": "id"
       },
@@ -32965,9 +33009,9 @@
         "keyword": "Sugeng Dalu",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770563070780,
+        "last_search": 1770995333271,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -35979,9 +36023,9 @@
         "keyword": "Sugeng Dalu Sayang",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770297857460,
+        "last_search": 1770995333271,
         "created_at": 1770297857460,
         "locale": "id"
       },
@@ -35990,9 +36034,9 @@
         "keyword": "Selamat Malam",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770297857460,
+        "last_search": 1770995333272,
         "created_at": 1770297857460,
         "locale": "id"
       },
@@ -38592,9 +38636,9 @@
         "keyword": "Isih Sayang",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770369072843,
+        "last_search": 1770995333272,
         "created_at": 1769611865001,
         "locale": "id"
       },
@@ -39344,6 +39388,17 @@
         "clicks": 0,
         "last_search": 1770994476771,
         "created_at": 1770994476771,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6714c203-1483-4a41-8865-214bb7f38abe",
+        "keyword": "Imam S. Arifin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770995333287,
+        "created_at": 1770995333287,
         "locale": "id"
       }
     ],
