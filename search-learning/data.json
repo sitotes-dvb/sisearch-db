@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770991157852,
+    "last_updated": 1770991911412,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -4062,6 +4062,17 @@
         "clicks": 0,
         "last_search": 1770991066084,
         "created_at": 1770991066084,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fc6f1e7b-515c-41c4-baf0-7be830ba8523",
+        "keyword": "Daftar Koleksi / Esa Risty Laman 2 dari 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911372,
+        "created_at": 1770991911372,
         "locale": "id"
       }
     ],
@@ -9071,6 +9082,61 @@
         "clicks": 0,
         "last_search": 1770991157825,
         "created_at": 1770991157825,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bf807db1-d74d-4474-b5a2-82e4d7f90499",
+        "keyword": "Kasetyan Jati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911372,
+        "created_at": 1770991911372,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8f30a48c-c1c2-4859-9d6f-017537d7ec25",
+        "keyword": "Kumpulan Gitar Wahyu F Giri -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911372,
+        "created_at": 1770991911372,
+        "locale": "id"
+      },
+      {
+        "id": "kw_797c3a4f-630f-4971-894c-a75d995343df",
+        "keyword": "Katresnan Sejati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911372,
+        "created_at": 1770991911372,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7048e55c-3456-4d46-b3e5-3f537ee7235c",
+        "keyword": "Kumpulan Gitar Esa Risty -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911372,
+        "created_at": 1770991911372,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ed8d992a-7b87-405a-88a8-f30ed5cf0429",
+        "keyword": "Kembang Kahywangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911386,
+        "created_at": 1770991911372,
         "locale": "id"
       }
     ],
@@ -15548,6 +15614,17 @@
         "last_search": 1770991084262,
         "created_at": 1770991084262,
         "locale": "id"
+      },
+      {
+        "id": "kw_ae129957-3eba-4b7a-a734-b45c904d3949",
+        "keyword": "Jejantunging kalbu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911372,
+        "created_at": 1770991911372,
+        "locale": "id"
       }
     ],
     "g": [
@@ -21362,6 +21439,28 @@
         "last_search": 1770991157825,
         "created_at": 1770991157825,
         "locale": "id"
+      },
+      {
+        "id": "kw_70ba5ad3-3f5d-49e6-92c6-8928b4233335",
+        "keyword": "Bondhan Sanubari - Kembang Kahywangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911372,
+        "created_at": 1770991911372,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1da7ed78-1c1f-4181-a839-c5d5545ac444",
+        "keyword": "Bondhan Sanubari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911372,
+        "created_at": 1770991911372,
+        "locale": "id"
       }
     ],
     "t": [
@@ -24166,9 +24265,9 @@
         "keyword": "Esa Risty",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770302530822,
+        "last_search": 1770991911386,
         "created_at": 1769705686139,
         "locale": "id"
       },
@@ -24655,6 +24754,50 @@
         "last_search": 1770991084262,
         "created_at": 1770991084262,
         "locale": "id"
+      },
+      {
+        "id": "kw_e807af31-8fe5-4d29-997b-5e03996e019e",
+        "keyword": "Esa Risty Ft. Wahyu F Giri - Kasetyan Jati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911372,
+        "created_at": 1770991911371,
+        "locale": "id"
+      },
+      {
+        "id": "kw_106effbb-c3c1-4a2b-a7a8-da365f277cf8",
+        "keyword": "Esa Risty Ft. Wahyu F Giri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911372,
+        "created_at": 1770991911372,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0f18e00e-16a5-4dc8-9e5e-eda4130a54ab",
+        "keyword": "Esa Risty - Elingo Janjimu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911386,
+        "created_at": 1770991911386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_95a06897-ec07-4d2c-836a-64481185236d",
+        "keyword": "Elingo Janjimu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911386,
+        "created_at": 1770991911386,
+        "locale": "id"
       }
     ],
     "w": [
@@ -24729,9 +24872,9 @@
         "keyword": "Wahyu F Giri",
         "tags": [],
         "weight": 1,
-        "impressions": 21,
+        "impressions": 22,
         "clicks": 0,
-        "last_search": 1770792431852,
+        "last_search": 1770991911372,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -25602,6 +25745,39 @@
         "clicks": 0,
         "last_search": 1770717570960,
         "created_at": 1770717570960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fa13de7b-7139-4bca-ae9d-ea4e1b36dba4",
+        "keyword": "Wahyu F Giri - Jejantunging kalbu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911372,
+        "created_at": 1770991911372,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d38f5262-d410-40a2-a85a-8945696eb75a",
+        "keyword": "Wahyu F Giri - Sewates Gandrung",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911386,
+        "created_at": 1770991911386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2bff2506-1ed1-4a1c-88e0-515003785b66",
+        "keyword": "Wahyu F Giri - Sumandhing -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911386,
+        "created_at": 1770991911386,
         "locale": "id"
       }
     ],
@@ -30270,6 +30446,28 @@
         "clicks": 0,
         "last_search": 1770991157825,
         "created_at": 1770991157825,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4ffef4d7-8805-44ce-9249-886cefb863f8",
+        "keyword": "Arya Galih ft. Fira Ayudhia - Katresnan Sejati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911372,
+        "created_at": 1770991911372,
+        "locale": "id"
+      },
+      {
+        "id": "kw_886aa6b1-9d66-470f-a081-bf97fda89895",
+        "keyword": "Arya Galih ft. Fira Ayudhia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911372,
+        "created_at": 1770991911372,
         "locale": "id"
       }
     ],
@@ -35851,6 +36049,28 @@
         "clicks": 0,
         "last_search": 1770991157825,
         "created_at": 1770991157825,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1f37c489-101c-4acb-ba36-814b69e39531",
+        "keyword": "Sewates Gandrung",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911386,
+        "created_at": 1770991911386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_18878f41-d3fe-47d3-950f-6d181bad6d75",
+        "keyword": "Sumandhing -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991911386,
+        "created_at": 1770991911386,
         "locale": "id"
       }
     ],
