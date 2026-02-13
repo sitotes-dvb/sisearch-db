@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770991084360,
+    "last_updated": 1770991157852,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -6812,9 +6812,9 @@
         "keyword": "Koes Plus",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769747925962,
+        "last_search": 1770991157825,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -9028,6 +9028,50 @@
         "last_search": 1770989361761,
         "created_at": 1770989361761,
         "locale": "id"
+      },
+      {
+        "id": "kw_1a6ce651-1e93-449a-b738-260fdb9f852a",
+        "keyword": "Kugenggam Dunia - Poppy Mercury & Abiem Ngesti ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fdd3df54-661f-49ce-a44f-f5afb9ab7810",
+        "keyword": "Kugenggam Dunia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ca68cb56-4203-452b-97ee-fcc744d64ec7",
+        "keyword": "Kata Pujangga",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ae9c3bfe-2853-4a10-8331-68fad3946999",
+        "keyword": "Koes Plus - Bujangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
+        "locale": "id"
       }
     ],
     "p": [
@@ -11009,6 +11053,28 @@
         "clicks": 0,
         "last_search": 1770915705856,
         "created_at": 1770915705856,
+        "locale": "id"
+      },
+      {
+        "id": "kw_95b945b8-f2eb-4db4-8d6e-2129a361f744",
+        "keyword": "Poppy Mercury & Abiem Ngesti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ff77729c-4540-4068-9ea9-7c94a8a6f597",
+        "keyword": "Purnama Merindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157826,
+        "created_at": 1770991157826,
         "locale": "id"
       }
     ],
@@ -13267,6 +13333,39 @@
         "last_search": 1770991084262,
         "created_at": 1770991084262,
         "locale": "id"
+      },
+      {
+        "id": "kw_179ef57f-64ae-41a5-8d63-e359454aa61b",
+        "keyword": "Manga Jando Nan Bujang Cari",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ba0855eb-ce28-426c-8740-619b2306de6e",
+        "keyword": "Marsha Lavinia - Bilangan Rindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eb7c3b57-c387-49bc-9a95-258da09a016f",
+        "keyword": "Marsha Lavinia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
+        "locale": "id"
       }
     ],
     "h": [
@@ -14188,9 +14287,9 @@
         "keyword": "Hakikat Sebuah Cinta - Iklim",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770913200125,
+        "last_search": 1770991157825,
         "created_at": 1770913200125,
         "locale": "id"
       },
@@ -14199,9 +14298,9 @@
         "keyword": "Hakikat Sebuah Cinta",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770913200126,
+        "last_search": 1770991157825,
         "created_at": 1770913200125,
         "locale": "id"
       },
@@ -19894,9 +19993,9 @@
         "keyword": "Benci Kusangka Sayang",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769518492927,
+        "last_search": 1770991157825,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -21240,6 +21339,28 @@
         "clicks": 0,
         "last_search": 1770991084262,
         "created_at": 1770991084262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c7f41a85-f3da-43e7-8ec5-a9e9ee75fdc1",
+        "keyword": "Bilangan Rindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5aed91ab-31b9-4497-8121-f3588e85f448",
+        "keyword": "Bujangan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
         "locale": "id"
       }
     ],
@@ -23662,6 +23783,28 @@
         "clicks": 0,
         "last_search": 1770970359788,
         "created_at": 1770970359788,
+        "locale": "id"
+      },
+      {
+        "id": "kw_71395f9f-1299-4914-a042-8f874cb0c136",
+        "keyword": "Trio Lansek Manih - Manga Jando Nan Bujang Cari ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5c1bb7c9-b122-47d6-86f7-6021de2e8a8e",
+        "keyword": "Trio Lansek Manih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
         "locale": "id"
       }
     ],
@@ -30117,6 +30260,17 @@
         "last_search": 1770991084262,
         "created_at": 1770991084262,
         "locale": "id"
+      },
+      {
+        "id": "kw_d8cb83a5-dd66-4b1f-87c7-8a1c7a03db52",
+        "keyword": "Arai",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
+        "locale": "id"
       }
     ],
     "r": [
@@ -30235,9 +30389,9 @@
         "keyword": "Rhoma Irama",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769991414196,
+        "last_search": 1770991157825,
         "created_at": 1769407471814,
         "locale": "id"
       },
@@ -30686,9 +30840,9 @@
         "keyword": "Rita Sugiarto",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582688684,
+        "last_search": 1770991157825,
         "created_at": 1769582688684,
         "locale": "id"
       },
@@ -31637,6 +31791,28 @@
         "last_search": 1770991084262,
         "created_at": 1770991084262,
         "locale": "id"
+      },
+      {
+        "id": "kw_37b52e29-765e-41b9-ace0-644df9bbd098",
+        "keyword": "Rhoma Irama - Kata Pujangga",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f3375c2a-e0ac-4470-b1c7-46de67da47c2",
+        "keyword": "Rita Sugiarto - IMING IMING",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
+        "locale": "id"
       }
     ],
     "s": [
@@ -32195,9 +32371,9 @@
         "keyword": "Siti Nurhaliza",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770991084262,
+        "last_search": 1770991157825,
         "created_at": 1769407784909,
         "locale": "id"
       },
@@ -32723,9 +32899,9 @@
         "keyword": "Sonia",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770629255206,
+        "last_search": 1770991157825,
         "created_at": 1769509789798,
         "locale": "id"
       },
@@ -35654,6 +35830,28 @@
         "last_search": 1770991084262,
         "created_at": 1770991084262,
         "locale": "id"
+      },
+      {
+        "id": "kw_64227675-5d5e-4870-8ca3-380cf287b062",
+        "keyword": "Sonia - Benci Kusangka Sayang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
+        "locale": "id"
+      },
+      {
+        "id": "kw_34528f45-ea6f-4352-9968-edfbfb1a7e59",
+        "keyword": "Siti Nurhaliza - Purnama Merindu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
+        "locale": "id"
       }
     ],
     "y": [
@@ -37033,6 +37231,28 @@
         "last_search": 1770991084262,
         "created_at": 1770991084262,
         "locale": "id"
+      },
+      {
+        "id": "kw_05697f9a-1507-4c61-83d7-5f41519ebc22",
+        "keyword": "Fatwa Pujangga - Arai",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9718fd72-5b7c-4edd-976f-a3135c4c07c7",
+        "keyword": "Fatwa Pujangga",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
+        "locale": "id"
       }
     ],
     "i": [
@@ -37789,9 +38009,9 @@
         "keyword": "Iklim",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770913200126,
+        "last_search": 1770991157825,
         "created_at": 1770361852310,
         "locale": "id"
       },
@@ -37991,6 +38211,17 @@
         "clicks": 0,
         "last_search": 1770991084262,
         "created_at": 1770991084262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_63370266-5059-425f-95c2-f854f15e281b",
+        "keyword": "IMING IMING",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991157825,
+        "created_at": 1770991157825,
         "locale": "id"
       }
     ],
