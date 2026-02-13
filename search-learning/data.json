@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770970359827,
+    "last_updated": 1770970998895,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -329,9 +329,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 77,
+        "impressions": 78,
         "clicks": 0,
-        "last_search": 1770792431852,
+        "last_search": 1770970998854,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -384,9 +384,9 @@
         "keyword": "Denny Caknan - Sigar",
         "tags": [],
         "weight": 1,
-        "impressions": 11,
+        "impressions": 12,
         "clicks": 0,
-        "last_search": 1769944249058,
+        "last_search": 1770970998855,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -450,9 +450,9 @@
         "keyword": "Denny Caknan - Tunggal Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770555085497,
+        "last_search": 1770970998854,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -4041,6 +4041,17 @@
         "last_search": 1770970359789,
         "created_at": 1770970359789,
         "locale": "id"
+      },
+      {
+        "id": "kw_5701848b-b1e5-4c84-aeca-1afc4926d53a",
+        "keyword": "Denny Caknan - LOS DOL",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970998855,
+        "created_at": 1770970998855,
+        "locale": "id"
       }
     ],
     "l": [
@@ -5351,6 +5362,28 @@
         "clicks": 0,
         "last_search": 1770970359788,
         "created_at": 1770970359788,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4fed50b0-b1f9-4009-a1e7-40cfa61c60f4",
+        "keyword": "LOS DOL",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970998855,
+        "created_at": 1770970998855,
+        "locale": "id"
+      },
+      {
+        "id": "kw_13e6b35b-0ef0-4a5c-b057-674edf4dbf20",
+        "keyword": "Lapang Dada",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970998855,
+        "created_at": 1770970998855,
         "locale": "id"
       }
     ],
@@ -7175,9 +7208,9 @@
         "keyword": "Kumpulan Gitar Denny Caknan -tela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770792431852,
+        "last_search": 1770970998854,
         "created_at": 1769791972515,
         "locale": "id"
       },
@@ -8895,6 +8928,17 @@
         "clicks": 0,
         "last_search": 1770970359789,
         "created_at": 1770970359789,
+        "locale": "id"
+      },
+      {
+        "id": "kw_371f48e7-c1ed-46a0-9224-0e1b846bfd36",
+        "keyword": "Kumpulan Gitar Eka Jaya -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970998854,
+        "created_at": 1770970998854,
         "locale": "id"
       }
     ],
@@ -15163,6 +15207,17 @@
         "last_search": 1770916054641,
         "created_at": 1770916054641,
         "locale": "id"
+      },
+      {
+        "id": "kw_f450b540-a781-43d9-a644-9531622c1503",
+        "keyword": "Jika Itu Maumu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970998854,
+        "created_at": 1770970998854,
+        "locale": "id"
       }
     ],
     "g": [
@@ -21007,9 +21062,9 @@
         "keyword": "Tunggal Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 8,
+        "impressions": 9,
         "clicks": 0,
-        "last_search": 1770555085497,
+        "last_search": 1770970998854,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -26419,6 +26474,17 @@
         "last_search": 1770970359789,
         "created_at": 1770970359789,
         "locale": "id"
+      },
+      {
+        "id": "kw_ec536968-78d7-4fa0-a013-76403ab18d0c",
+        "keyword": "Cuci Tangan -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970998854,
+        "created_at": 1770970998854,
+        "locale": "id"
       }
     ],
     "a": [
@@ -27241,9 +27307,9 @@
         "keyword": "Angga Candra",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770297948724,
+        "last_search": 1770970998854,
         "created_at": 1769477147758,
         "locale": "id"
       },
@@ -29567,6 +29633,17 @@
         "last_search": 1770917326588,
         "created_at": 1770917326588,
         "locale": "id"
+      },
+      {
+        "id": "kw_c103626a-fbf1-4f7b-bdd0-87fb7e0cb1a4",
+        "keyword": "Angga Candra - Sekecewa Itu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970998854,
+        "created_at": 1770970998854,
+        "locale": "id"
       }
     ],
     "r": [
@@ -31161,9 +31238,9 @@
         "keyword": "Sigar",
         "tags": [],
         "weight": 1,
-        "impressions": 11,
+        "impressions": 12,
         "clicks": 0,
-        "last_search": 1769944249058,
+        "last_search": 1770970998855,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -32052,9 +32129,9 @@
         "keyword": "Sekecewa Itu",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769606173936,
+        "last_search": 1770970998854,
         "created_at": 1769477147758,
         "locale": "id"
       },
@@ -32250,9 +32327,9 @@
         "keyword": "Sheila On 7",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1770627857666,
+        "last_search": 1770970998855,
         "created_at": 1769511137014,
         "locale": "id"
       },
@@ -32613,9 +32690,9 @@
         "keyword": "Saktenane 3",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770369072827,
+        "last_search": 1770970998854,
         "created_at": 1769611865001,
         "locale": "id"
       },
@@ -34961,6 +35038,39 @@
         "last_search": 1770915705856,
         "created_at": 1770915705856,
         "locale": "id"
+      },
+      {
+        "id": "kw_04600b56-f85b-4418-8677-efea9174704a",
+        "keyword": "Seyla Amelia - Jika Itu Maumu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970998854,
+        "created_at": 1770970998854,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c333d60c-9c7b-4148-9de4-c1a7f4fedc26",
+        "keyword": "Seyla Amelia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970998854,
+        "created_at": 1770970998854,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9ab65715-2c12-4f94-bcb1-270cba4c7429",
+        "keyword": "Sheila On 7 - Lapang Dada",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970998855,
+        "created_at": 1770970998855,
+        "locale": "id"
       }
     ],
     "y": [
@@ -37189,6 +37299,28 @@
         "last_search": 1770970359788,
         "created_at": 1770970359788,
         "locale": "id"
+      },
+      {
+        "id": "kw_bfcd0779-8f73-4fd4-91ed-045710d7b48a",
+        "keyword": "Iksan Skuter - Cuci Tangan -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970998854,
+        "created_at": 1770970998854,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4d30a637-a8af-4e3b-8c97-9926fb57d798",
+        "keyword": "Iksan Skuter",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970998854,
+        "created_at": 1770970998854,
+        "locale": "id"
       }
     ],
     "o": [
@@ -37971,9 +38103,9 @@
         "keyword": "Vadesta Ft. Destya Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 15,
+        "impressions": 16,
         "clicks": 0,
-        "last_search": 1770815330294,
+        "last_search": 1770970998854,
         "created_at": 1769519200482,
         "locale": "id"
       },
@@ -38136,9 +38268,9 @@
         "keyword": "Vadesta Ft. Destya Eka - Saktenane 3",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770369072827,
+        "last_search": 1770970998854,
         "created_at": 1769703874522,
         "locale": "id"
       },
