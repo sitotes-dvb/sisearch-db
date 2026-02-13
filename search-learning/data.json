@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770990651044,
+    "last_updated": 1770991066123,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -4052,6 +4052,17 @@
         "last_search": 1770990651002,
         "created_at": 1770970998855,
         "locale": "id"
+      },
+      {
+        "id": "kw_fa7b3bd3-db00-4927-8a4d-1019ba222d91",
+        "keyword": "Driving To Texas -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066084,
+        "created_at": 1770991066084,
+        "locale": "id"
       }
     ],
     "l": [
@@ -5384,6 +5395,28 @@
         "clicks": 0,
         "last_search": 1770990651002,
         "created_at": 1770970998855,
+        "locale": "id"
+      },
+      {
+        "id": "kw_50697a0f-96e1-4a02-85cf-299eae5959ef",
+        "keyword": "lovely",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066081,
+        "created_at": 1770991066081,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2f925dfc-f6e7-44a2-a972-781a9a3e5e62",
+        "keyword": "Love Is Gone ft. Dylan Matthew (Acoustic",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066082,
+        "created_at": 1770991066082,
         "locale": "id"
       }
     ],
@@ -13168,6 +13201,28 @@
         "last_search": 1770989361749,
         "created_at": 1770989361749,
         "locale": "id"
+      },
+      {
+        "id": "kw_63d6d9dd-4ffe-4704-a297-89f95bd7f233",
+        "keyword": "Milky Chance - Fabulous -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066083,
+        "created_at": 1770991066083,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b3a2417b-fc0b-4aea-8c31-a0d888b21706",
+        "keyword": "Milky Chance",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066083,
+        "created_at": 1770991066083,
+        "locale": "id"
       }
     ],
     "h": [
@@ -14148,6 +14203,28 @@
         "clicks": 0,
         "last_search": 1770917326587,
         "created_at": 1770917326587,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1ddc9956-0105-4ea5-91ef-0a76d88a26fb",
+        "keyword": "Hayley Kiyoko - Greenlight -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066083,
+        "created_at": 1770991066083,
+        "locale": "id"
+      },
+      {
+        "id": "kw_86fbbe80-dacc-41c6-a8c1-590a4d5f571a",
+        "keyword": "Hayley Kiyoko",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066083,
+        "created_at": 1770991066083,
         "locale": "id"
       }
     ],
@@ -15251,6 +15328,50 @@
         "last_search": 1770990651002,
         "created_at": 1770970998854,
         "locale": "id"
+      },
+      {
+        "id": "kw_d2389f09-1af9-4d68-84a0-95842f68fe89",
+        "keyword": "Jamie Miller - In The Cards -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066081,
+        "created_at": 1770991066081,
+        "locale": "id"
+      },
+      {
+        "id": "kw_51acaa72-9200-44bd-ab78-19ead06b8ded",
+        "keyword": "Jamie Miller",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066081,
+        "created_at": 1770991066081,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ebee4c22-343a-4d0b-bde1-ffc9cd41b7c3",
+        "keyword": "Jada Facer - you, every time -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066084,
+        "created_at": 1770991066084,
+        "locale": "id"
+      },
+      {
+        "id": "kw_853e4aa9-41c3-4d75-aedb-d3f38e1d6dbc",
+        "keyword": "Jada Facer",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066084,
+        "created_at": 1770991066084,
+        "locale": "id"
       }
     ],
     "g": [
@@ -16286,6 +16407,17 @@
         "clicks": 0,
         "last_search": 1770782845874,
         "created_at": 1770782845874,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b144086a-3494-4cc3-9105-552395952777",
+        "keyword": "Greenlight -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066083,
+        "created_at": 1770991066083,
         "locale": "id"
       }
     ],
@@ -20965,6 +21097,50 @@
         "clicks": 0,
         "last_search": 1770989361749,
         "created_at": 1770989361749,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fc52b9c5-204b-4dec-aea3-0e4f5014be67",
+        "keyword": "Bon Jovi - Christmas Isn't Christmas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066081,
+        "created_at": 1770991066081,
+        "locale": "id"
+      },
+      {
+        "id": "kw_604de90e-7766-4a38-926a-0dcc3e56b0c1",
+        "keyword": "Bon Jovi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066081,
+        "created_at": 1770991066081,
+        "locale": "id"
+      },
+      {
+        "id": "kw_14f76467-4596-4fc5-b918-1e1ab808cc1e",
+        "keyword": "Billie Eilish, Khalid - lovely",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066081,
+        "created_at": 1770991066081,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3c727876-5c3e-4c18-9d24-ebf75f10afec",
+        "keyword": "Billie Eilish, Khalid",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066081,
+        "created_at": 1770991066081,
         "locale": "id"
       }
     ],
@@ -26550,6 +26726,39 @@
         "clicks": 0,
         "last_search": 1770990651002,
         "created_at": 1770970998854,
+        "locale": "id"
+      },
+      {
+        "id": "kw_482f2664-225a-4926-9d9e-5517b13532fe",
+        "keyword": "Christmas Isn't Christmas",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066081,
+        "created_at": 1770991066081,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0583b80e-c683-423e-b4b7-b653ace5a147",
+        "keyword": "CG5 - Strangest Thing",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066082,
+        "created_at": 1770991066082,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9521e056-dd22-4465-aa53-1a985f22eb58",
+        "keyword": "CG5",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066082,
+        "created_at": 1770991066082,
         "locale": "id"
       }
     ],
@@ -35148,6 +35357,61 @@
         "last_search": 1770990651002,
         "created_at": 1770970998855,
         "locale": "id"
+      },
+      {
+        "id": "kw_b19650ed-159e-48ec-90cd-a8b15768750d",
+        "keyword": "Shawn Mendes - Isn't That Enough",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066081,
+        "created_at": 1770991066044,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a15fc309-6403-40ad-83de-5bb24f0850f2",
+        "keyword": "Shawn Mendes",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066081,
+        "created_at": 1770991066081,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2e5a7ea9-ad67-4b3c-9fa2-e31bdf1cdf3d",
+        "keyword": "SLANDER - Love Is Gone ft. Dylan Matthew (Acoustic ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066081,
+        "created_at": 1770991066081,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9f9f7c7d-9c76-4597-ba9a-179dfa16029b",
+        "keyword": "SLANDER",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066082,
+        "created_at": 1770991066082,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7b5f1e54-fe11-4099-8baa-6c902005be00",
+        "keyword": "Strangest Thing",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066083,
+        "created_at": 1770991066083,
+        "locale": "id"
       }
     ],
     "y": [
@@ -35556,6 +35820,17 @@
         "clicks": 0,
         "last_search": 1770913200126,
         "created_at": 1770913200126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7ba42c44-31fd-4f7d-993c-ea325c404948",
+        "keyword": "you, every time -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066084,
+        "created_at": 1770991066084,
         "locale": "id"
       }
     ],
@@ -36483,6 +36758,17 @@
         "last_search": 1770915705856,
         "created_at": 1770915705856,
         "locale": "id"
+      },
+      {
+        "id": "kw_bee956bc-2274-4362-a69d-5521bc6340cf",
+        "keyword": "Fabulous -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066083,
+        "created_at": 1770991066083,
+        "locale": "id"
       }
     ],
     "i": [
@@ -37397,6 +37683,28 @@
         "clicks": 0,
         "last_search": 1770990651002,
         "created_at": 1770970998854,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7c0b9ddc-7f01-42e2-8cae-8694bf55fbd5",
+        "keyword": "Isn't That Enough",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066081,
+        "created_at": 1770991066081,
+        "locale": "id"
+      },
+      {
+        "id": "kw_22b960b9-ee2f-4599-97c5-8493fe506b4d",
+        "keyword": "In The Cards -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991066081,
+        "created_at": 1770991066081,
         "locale": "id"
       }
     ],
