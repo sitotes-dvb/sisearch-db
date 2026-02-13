@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770993255189,
+    "last_updated": 1770994471376,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -4073,6 +4073,17 @@
         "clicks": 0,
         "last_search": 1770991911372,
         "created_at": 1770991911372,
+        "locale": "id"
+      },
+      {
+        "id": "kw_751b5b44-f678-4f87-ab43-bcf42dd54de4",
+        "keyword": "Dangdut Inul Daratista",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471333,
+        "created_at": 1770994471333,
         "locale": "id"
       }
     ],
@@ -9193,6 +9204,28 @@
         "last_search": 1770993255132,
         "created_at": 1770993255132,
         "locale": "id"
+      },
+      {
+        "id": "kw_1192fb5b-e1ce-42e3-a1a5-b4276a7832f1",
+        "keyword": "Ku Kira Kau Rumah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471332,
+        "created_at": 1770994471332,
+        "locale": "id"
+      },
+      {
+        "id": "kw_66d0e6a5-c242-4cba-a749-747a657c97ad",
+        "keyword": "Ku Kira Kau Senang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471332,
+        "created_at": 1770994471332,
+        "locale": "id"
       }
     ],
     "p": [
@@ -13564,6 +13597,72 @@
         "last_search": 1770992702699,
         "created_at": 1770992702699,
         "locale": "id"
+      },
+      {
+        "id": "kw_07c14361-e0fa-4fce-968c-f8db7c788d01",
+        "keyword": "Masa Sepi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471333,
+        "created_at": 1770994471333,
+        "locale": "id"
+      },
+      {
+        "id": "kw_af7febda-63a1-424a-86ed-e2ec4c947660",
+        "keyword": "MAC - Main Belakang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471333,
+        "created_at": 1770994471333,
+        "locale": "id"
+      },
+      {
+        "id": "kw_86d730c1-f7f7-4efb-b3c2-5151f3d0675b",
+        "keyword": "MAC",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471333,
+        "created_at": 1770994471333,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3ebfc8a3-8b9a-4c3f-99df-64d889c5e28d",
+        "keyword": "Main Belakang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471333,
+        "created_at": 1770994471333,
+        "locale": "id"
+      },
+      {
+        "id": "kw_feb02174-fc93-454a-846f-24ec7c5c70b1",
+        "keyword": "Masa Lalu - Dangdut Inul Daratista",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471333,
+        "created_at": 1770994471333,
+        "locale": "id"
+      },
+      {
+        "id": "kw_941643c0-10d6-4ce2-b522-6bde0613e9ec",
+        "keyword": "Masa Lalu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471333,
+        "created_at": 1770994471333,
+        "locale": "id"
       }
     ],
     "h": [
@@ -14599,6 +14698,17 @@
         "clicks": 0,
         "last_search": 1770992702698,
         "created_at": 1770992702698,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0f215a80-ade0-4e5e-b9b9-cca0930b9300",
+        "keyword": "Hati-Hati Di Jalan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471334,
+        "created_at": 1770994471334,
         "locale": "id"
       }
     ],
@@ -16836,6 +16946,50 @@
         "clicks": 0,
         "last_search": 1770992702699,
         "created_at": 1770992702699,
+        "locale": "id"
+      },
+      {
+        "id": "kw_84e8ec3c-7b51-46d2-91e4-47e7212818b4",
+        "keyword": "Gunawan - Na Kira Ta Yaki -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471332,
+        "created_at": 1770994471332,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3ba9bec0-ed1b-4429-909d-e8083873c68e",
+        "keyword": "Gunawan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471332,
+        "created_at": 1770994471332,
+        "locale": "id"
+      },
+      {
+        "id": "kw_680805ed-aac5-4d3d-9c7a-96cb11179127",
+        "keyword": "Glenn Sebastian - Tapi Dia -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471333,
+        "created_at": 1770994471333,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2f026012-5b74-4685-a347-fdddfc92864f",
+        "keyword": "Glenn Sebastian",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471333,
+        "created_at": 1770994471333,
         "locale": "id"
       }
     ],
@@ -19996,6 +20150,17 @@
         "last_search": 1770993255148,
         "created_at": 1770993255148,
         "locale": "id"
+      },
+      {
+        "id": "kw_90f61e0b-c6a6-43cf-b693-0827dad91557",
+        "keyword": "Na Kira Ta Yaki -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471332,
+        "created_at": 1770994471332,
+        "locale": "id"
       }
     ],
     "b": [
@@ -20642,9 +20807,9 @@
         "keyword": "Bernadya",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769748226720,
+        "last_search": 1770994471333,
         "created_at": 1769748226720,
         "locale": "id"
       },
@@ -21647,6 +21812,17 @@
         "clicks": 0,
         "last_search": 1770991911372,
         "created_at": 1770991911372,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c29f8208-469a-40f3-ae63-59a694b7c856",
+        "keyword": "Bernadya - Masa Sepi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471333,
+        "created_at": 1770994471333,
         "locale": "id"
       }
     ],
@@ -22811,9 +22987,9 @@
         "keyword": "TULUS",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770993255132,
+        "last_search": 1770994471334,
         "created_at": 1769782560565,
         "locale": "id"
       },
@@ -24146,6 +24322,39 @@
         "clicks": 0,
         "last_search": 1770993255132,
         "created_at": 1770993255132,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2d394c9b-ae47-42f1-805a-3a126642350a",
+        "keyword": "Tapi Dia -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471333,
+        "created_at": 1770994471333,
+        "locale": "id"
+      },
+      {
+        "id": "kw_08f03135-a514-42cc-acd9-3299385d627c",
+        "keyword": "Tarada",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471334,
+        "created_at": 1770994471334,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b64971ca-7c2a-43ae-9141-f577ddfb1a2e",
+        "keyword": "TULUS - Hati-Hati Di Jalan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471334,
+        "created_at": 1770994471334,
         "locale": "id"
       }
     ],
@@ -25774,9 +25983,9 @@
         "keyword": "Wizz Baker",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770037595683,
+        "last_search": 1770994471334,
         "created_at": 1770037595683,
         "locale": "id"
       },
@@ -26075,6 +26284,17 @@
         "clicks": 0,
         "last_search": 1770993255148,
         "created_at": 1770993255148,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c3fdee0c-30a6-495d-9a64-f2955213996c",
+        "keyword": "Wizz Baker - Tarada",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471333,
+        "created_at": 1770994471333,
         "locale": "id"
       }
     ],
@@ -30809,6 +31029,39 @@
         "clicks": 0,
         "last_search": 1770993255148,
         "created_at": 1770993255148,
+        "locale": "id"
+      },
+      {
+        "id": "kw_58cfac93-1db7-4382-8d71-3d1d622475fc",
+        "keyword": "Amigdala - Ku Kira Kau Rumah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471332,
+        "created_at": 1770994471332,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6e9f249e-e84a-465f-bbfb-be9d64c1a527",
+        "keyword": "Amigdala",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471332,
+        "created_at": 1770994471332,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0b1ef27a-2a98-4f26-b6c3-195d9ab21166",
+        "keyword": "Aku Kira Aku Gila",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471333,
+        "created_at": 1770994471333,
         "locale": "id"
       }
     ],
@@ -36434,6 +36687,50 @@
         "clicks": 0,
         "last_search": 1770992702698,
         "created_at": 1770992702698,
+        "locale": "id"
+      },
+      {
+        "id": "kw_be0066ab-3644-4344-b1c1-3ad3ece96587",
+        "keyword": "SMVLL - Ku Kira Kau Senang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471332,
+        "created_at": 1770994471332,
+        "locale": "id"
+      },
+      {
+        "id": "kw_733c0c68-1fac-49ec-80db-0bf1a106ac2f",
+        "keyword": "SMVLL",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471332,
+        "created_at": 1770994471332,
+        "locale": "id"
+      },
+      {
+        "id": "kw_97905069-96d0-4721-8367-d63900b112e8",
+        "keyword": "Superglad - Aku Kira Aku Gila",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471333,
+        "created_at": 1770994471333,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bb264a03-dc15-4486-bcd7-c2a4fd6a5bad",
+        "keyword": "Superglad",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994471333,
+        "created_at": 1770994471333,
         "locale": "id"
       }
     ],
