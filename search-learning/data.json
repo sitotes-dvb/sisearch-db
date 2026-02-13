@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770917326610,
+    "last_updated": 1770970359827,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3200,9 +3200,9 @@
         "keyword": "D'Masiv - MERINDUKANMU",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770290666009,
+        "last_search": 1770970359788,
         "created_at": 1770290666009,
         "locale": "id"
       },
@@ -3211,9 +3211,9 @@
         "keyword": "D'Masiv",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770290666009,
+        "last_search": 1770970359789,
         "created_at": 1770290666009,
         "locale": "id"
       },
@@ -4029,6 +4029,17 @@
         "clicks": 0,
         "last_search": 1770917326587,
         "created_at": 1770917326587,
+        "locale": "id"
+      },
+      {
+        "id": "kw_81e50e3b-175c-48ee-a4f2-060aa19018df",
+        "keyword": "Daftar Koleksi / Yovie & Nuno @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970359789,
+        "created_at": 1770970359789,
         "locale": "id"
       }
     ],
@@ -5329,6 +5340,17 @@
         "clicks": 0,
         "last_search": 1770915705856,
         "created_at": 1770915705856,
+        "locale": "id"
+      },
+      {
+        "id": "kw_39b3e629-4673-44cf-ac1e-f4aa1d5781e0",
+        "keyword": "Lagi Lagi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970359788,
+        "created_at": 1770970359788,
         "locale": "id"
       }
     ],
@@ -8055,9 +8077,9 @@
         "keyword": "Khifnu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770290666009,
+        "last_search": 1770970359788,
         "created_at": 1770290666008,
         "locale": "id"
       },
@@ -8077,9 +8099,9 @@
         "keyword": "Kadung Merindu -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770290666026,
+        "last_search": 1770970359788,
         "created_at": 1770290666026,
         "locale": "id"
       },
@@ -8851,6 +8873,28 @@
         "clicks": 0,
         "last_search": 1770916054624,
         "created_at": 1770916054624,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8cf4e769-b328-4a5e-926a-5fbcb8550132",
+        "keyword": "Khifnu - Merindumu lagi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970359788,
+        "created_at": 1770970359788,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6d509cb3-1977-4b7f-9064-40788b8b94f0",
+        "keyword": "Kahitna",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970359789,
+        "created_at": 1770970359789,
         "locale": "id"
       }
     ],
@@ -11073,9 +11117,9 @@
         "keyword": "Meiska",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770290666026,
+        "last_search": 1770970359788,
         "created_at": 1769407784909,
         "locale": "id"
       },
@@ -11359,9 +11403,9 @@
         "keyword": "Merindu Lagi",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770290666009,
+        "last_search": 1770970359788,
         "created_at": 1769510958795,
         "locale": "id"
       },
@@ -12591,9 +12635,9 @@
         "keyword": "MERINDUKANMU",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770290666025,
+        "last_search": 1770970359789,
         "created_at": 1770290666025,
         "locale": "id"
       },
@@ -12613,9 +12657,9 @@
         "keyword": "Meiska - Kadung Merindu -",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770290666026,
+        "last_search": 1770970359788,
         "created_at": 1770290666026,
         "locale": "id"
       },
@@ -13035,6 +13079,17 @@
         "clicks": 0,
         "last_search": 1770915705874,
         "created_at": 1770915705874,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c4b4a2c6-bb0a-4cce-9cb9-01077c586092",
+        "keyword": "Merindumu lagi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970359788,
+        "created_at": 1770970359788,
         "locale": "id"
       }
     ],
@@ -22591,9 +22646,9 @@
         "keyword": "Tetap Merindu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770290666025,
+        "last_search": 1770970359788,
         "created_at": 1770290666025,
         "locale": "id"
       },
@@ -23222,6 +23277,17 @@
         "clicks": 0,
         "last_search": 1770917326588,
         "created_at": 1770917326587,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5786f727-cf9a-4792-aaa3-93ce54fc418e",
+        "keyword": "Tertinggal Disana (Ost. December With You",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970359788,
+        "created_at": 1770970359788,
         "locale": "id"
       }
     ],
@@ -24872,9 +24938,9 @@
         "keyword": "Wulan Merindu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770290666026,
+        "last_search": 1770970359788,
         "created_at": 1770290666026,
         "locale": "id"
       },
@@ -25820,9 +25886,9 @@
         "keyword": "Cici Paramida - Wulan Merindu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770290666026,
+        "last_search": 1770970359788,
         "created_at": 1770290666026,
         "locale": "id"
       },
@@ -25831,9 +25897,9 @@
         "keyword": "Cici Paramida",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770290666026,
+        "last_search": 1770970359788,
         "created_at": 1770290666026,
         "locale": "id"
       },
@@ -26330,6 +26396,28 @@
         "clicks": 0,
         "last_search": 1770915705856,
         "created_at": 1770915705856,
+        "locale": "id"
+      },
+      {
+        "id": "kw_aceb2a0d-f1c9-49e1-ae2b-77a170a12030",
+        "keyword": "Cantik - Kahitna",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970359789,
+        "created_at": 1770970359789,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a34a2cdf-279d-4aa4-b401-176073059c98",
+        "keyword": "Cantik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970359789,
+        "created_at": 1770970359789,
         "locale": "id"
       }
     ],
@@ -29982,9 +30070,9 @@
         "keyword": "Rizky Febian",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770807124643,
+        "last_search": 1770970359788,
         "created_at": 1769518999262,
         "locale": "id"
       },
@@ -30532,9 +30620,9 @@
         "keyword": "Rizky Febian - Tetap Merindu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770290666025,
+        "last_search": 1770970359788,
         "created_at": 1770290666025,
         "locale": "id"
       },
@@ -30554,9 +30642,9 @@
         "keyword": "Raissa Anggiani",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770290666026,
+        "last_search": 1770970359788,
         "created_at": 1770290666026,
         "locale": "id"
       },
@@ -30943,6 +31031,17 @@
         "clicks": 0,
         "last_search": 1770915705856,
         "created_at": 1770915705856,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6972205a-1945-4f05-89fc-553afccb0e15",
+        "keyword": "Raissa Anggiani - Lagi Lagi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970359788,
+        "created_at": 1770970359788,
         "locale": "id"
       }
     ],
@@ -34925,9 +35024,9 @@
         "keyword": "Yovie & Nuno",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770368049406,
+        "last_search": 1770970359788,
         "created_at": 1769510958795,
         "locale": "id"
       },
@@ -35178,9 +35277,9 @@
         "keyword": "Yovie & Nuno - Merindu Lagi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770290666009,
+        "last_search": 1770970359788,
         "created_at": 1770290666009,
         "locale": "id"
       },
@@ -37067,6 +37166,28 @@
         "clicks": 0,
         "last_search": 1770913200126,
         "created_at": 1770913200126,
+        "locale": "id"
+      },
+      {
+        "id": "kw_09f35b99-0261-4655-9d9b-400c3f56e084",
+        "keyword": "Indieincar - Tertinggal Disana (Ost. December With You ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970359788,
+        "created_at": 1770970359788,
+        "locale": "id"
+      },
+      {
+        "id": "kw_28f11ba1-1066-479f-a2b4-70a8ac582697",
+        "keyword": "Indieincar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770970359788,
+        "created_at": 1770970359788,
         "locale": "id"
       }
     ],
