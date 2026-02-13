@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770971746443,
+    "last_updated": 1770989361806,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -329,9 +329,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 79,
+        "impressions": 80,
         "clicks": 0,
-        "last_search": 1770971746420,
+        "last_search": 1770989361749,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -4047,9 +4047,9 @@
         "keyword": "Denny Caknan - LOS DOL",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770970998855,
+        "last_search": 1770989361749,
         "created_at": 1770970998855,
         "locale": "id"
       }
@@ -5369,9 +5369,9 @@
         "keyword": "LOS DOL",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770970998855,
+        "last_search": 1770989361749,
         "created_at": 1770970998855,
         "locale": "id"
       },
@@ -8939,6 +8939,28 @@
         "clicks": 0,
         "last_search": 1770970998854,
         "created_at": 1770970998854,
+        "locale": "id"
+      },
+      {
+        "id": "kw_01d7cef5-7f99-48fb-86bc-ca21d42477fc",
+        "keyword": "Kodaline - All I Want",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770989361761,
+        "created_at": 1770989361749,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0cceb701-b2a0-4b52-9f8d-34191c28d405",
+        "keyword": "Kodaline",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770989361761,
+        "created_at": 1770989361761,
         "locale": "id"
       }
     ],
@@ -13134,6 +13156,17 @@
         "clicks": 0,
         "last_search": 1770970359788,
         "created_at": 1770970359788,
+        "locale": "id"
+      },
+      {
+        "id": "kw_67588546-a32d-4820-872f-1264dfde45b1",
+        "keyword": "More Than Words",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770989361749,
+        "created_at": 1770989361749,
         "locale": "id"
       }
     ],
@@ -20922,6 +20955,17 @@
         "last_search": 1770916054641,
         "created_at": 1770916054641,
         "locale": "id"
+      },
+      {
+        "id": "kw_cd8bfd08-6a6f-4fd1-a82a-f213858c93dc",
+        "keyword": "Baby Doll",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770989361749,
+        "created_at": 1770989361749,
+        "locale": "id"
       }
     ],
     "t": [
@@ -24149,6 +24193,28 @@
         "last_search": 1770915705857,
         "created_at": 1770915705857,
         "locale": "id"
+      },
+      {
+        "id": "kw_72243e77-5c82-4bf2-a10a-89b2adada81e",
+        "keyword": "Extreme - More Than Words",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770989361749,
+        "created_at": 1770989361749,
+        "locale": "id"
+      },
+      {
+        "id": "kw_882bb4d3-f561-41db-a41c-8b7a8cae63a9",
+        "keyword": "Extreme",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770989361749,
+        "created_at": 1770989361749,
+        "locale": "id"
       }
     ],
     "w": [
@@ -25347,9 +25413,9 @@
         "keyword": "Cinta Tak Terpisahkan",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770821101070,
+        "last_search": 1770989361762,
         "created_at": 1769409730861,
         "locale": "id"
       },
@@ -25358,9 +25424,9 @@
         "keyword": "Cak Diqin ft Safitri",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770821101070,
+        "last_search": 1770989361762,
         "created_at": 1769409730861,
         "locale": "id"
       },
@@ -25787,9 +25853,9 @@
         "keyword": "Cinta Tak Terpisahkan - Cak Diqin ft Safitri",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770821101070,
+        "last_search": 1770989361762,
         "created_at": 1769876218021,
         "locale": "id"
       },
@@ -29643,6 +29709,17 @@
         "clicks": 0,
         "last_search": 1770970998854,
         "created_at": 1770970998854,
+        "locale": "id"
+      },
+      {
+        "id": "kw_92ede098-0f99-4876-8ab4-8bd496ff0dd5",
+        "keyword": "All I Want",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770989361762,
+        "created_at": 1770989361762,
         "locale": "id"
       }
     ],
@@ -38776,10 +38853,21 @@
         "keyword": "Utopia",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1770989361749,
+        "created_at": 1770916054640,
+        "locale": "id"
+      },
+      {
+        "id": "kw_648545c5-6d9b-46f5-892a-0d6b217714b2",
+        "keyword": "Utopia - Baby Doll",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1770916054641,
-        "created_at": 1770916054640,
+        "last_search": 1770989361749,
+        "created_at": 1770989361749,
         "locale": "id"
       }
     ],
