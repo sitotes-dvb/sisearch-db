@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770992702743,
+    "last_updated": 1770993255189,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -5462,6 +5462,17 @@
         "last_search": 1770991084262,
         "created_at": 1770991084262,
         "locale": "id"
+      },
+      {
+        "id": "kw_7edf8cce-39cd-41c1-a945-f88ef95bf502",
+        "keyword": "LESTARI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770993255132,
+        "created_at": 1770993255132,
+        "locale": "id"
       }
     ],
     "k": [
@@ -9089,9 +9100,9 @@
         "keyword": "Kasetyan Jati",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770991911372,
+        "last_search": 1770993255148,
         "created_at": 1770991911372,
         "locale": "id"
       },
@@ -9159,6 +9170,28 @@
         "clicks": 0,
         "last_search": 1770992702699,
         "created_at": 1770992702699,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5e1b5fe6-e712-4ef4-bd43-701ceee9e890",
+        "keyword": "Kumpulan Gitar Akbar Handoko -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770993255132,
+        "created_at": 1770993255132,
+        "locale": "id"
+      },
+      {
+        "id": "kw_aba84c42-2135-4af3-9e5f-802aa77f3f73",
+        "keyword": "Kusuma Wijaya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770993255132,
+        "created_at": 1770993255132,
         "locale": "id"
       }
     ],
@@ -10763,9 +10796,9 @@
         "keyword": "Pupuse Nelongso - Eric Sukir Genk ft Sarah Brillian ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770484286410,
+        "last_search": 1770993255132,
         "created_at": 1770484286410,
         "locale": "id"
       },
@@ -10774,9 +10807,9 @@
         "keyword": "Pupuse Nelongso",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770484286410,
+        "last_search": 1770993255132,
         "created_at": 1770484286410,
         "locale": "id"
       },
@@ -11185,6 +11218,17 @@
         "clicks": 0,
         "last_search": 1770992702698,
         "created_at": 1770992702698,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c55eb429-6b45-44f5-a7b6-4a213c6ad850",
+        "keyword": "PUSPITA NALA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770993255132,
+        "created_at": 1770993255132,
         "locale": "id"
       }
     ],
@@ -15719,9 +15763,9 @@
         "keyword": "Jejantunging kalbu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770991911372,
+        "last_search": 1770993255132,
         "created_at": 1770991911372,
         "locale": "id"
       }
@@ -19919,6 +19963,39 @@
         "last_search": 1770912619018,
         "created_at": 1770912619018,
         "locale": "id"
+      },
+      {
+        "id": "kw_4666fb86-e2a9-47cc-9532-1e7c0cbffe9e",
+        "keyword": "Nala",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770993255132,
+        "created_at": 1770993255132,
+        "locale": "id"
+      },
+      {
+        "id": "kw_862ff310-c5d9-4126-8ce1-110cab113396",
+        "keyword": "Niken Salindry Feat. Akbar Handoko - Wulan Wulangun ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770993255148,
+        "created_at": 1770993255148,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4ea1462c-09f8-43d0-804f-8154b700c2c8",
+        "keyword": "Niken Salindry Feat. Akbar Handoko",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770993255148,
+        "created_at": 1770993255148,
+        "locale": "id"
       }
     ],
     "b": [
@@ -22734,9 +22811,9 @@
         "keyword": "TULUS",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769782560565,
+        "last_search": 1770993255132,
         "created_at": 1769782560565,
         "locale": "id"
       },
@@ -24059,6 +24136,17 @@
         "last_search": 1770992702698,
         "created_at": 1770992702698,
         "locale": "id"
+      },
+      {
+        "id": "kw_010fb4cc-69f9-4929-8dc7-ec71ee0fa823",
+        "keyword": "TULUS - Nala",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770993255132,
+        "created_at": 1770993255132,
+        "locale": "id"
       }
     ],
     "e": [
@@ -24122,9 +24210,9 @@
         "keyword": "Eny Sagita",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1770782845875,
+        "last_search": 1770993255132,
         "created_at": 1769407631223,
         "locale": "id"
       },
@@ -24749,9 +24837,9 @@
         "keyword": "Eric Sukir Genk ft Sarah Brillian",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770484286410,
+        "last_search": 1770993255132,
         "created_at": 1770484286410,
         "locale": "id"
       },
@@ -24914,9 +25002,9 @@
         "keyword": "Esa Risty Ft. Wahyu F Giri - Kasetyan Jati",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770991911372,
+        "last_search": 1770993255148,
         "created_at": 1770991911371,
         "locale": "id"
       },
@@ -24925,9 +25013,9 @@
         "keyword": "Esa Risty Ft. Wahyu F Giri",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770991911372,
+        "last_search": 1770993255148,
         "created_at": 1770991911372,
         "locale": "id"
       },
@@ -24951,6 +25039,17 @@
         "clicks": 0,
         "last_search": 1770991911386,
         "created_at": 1770991911386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8cf8bfd8-10ac-4c81-bb70-409d4bdeb7be",
+        "keyword": "Eny Sagita - Kusuma Wijaya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770993255132,
+        "created_at": 1770993255132,
         "locale": "id"
       }
     ],
@@ -25026,9 +25125,9 @@
         "keyword": "Wahyu F Giri",
         "tags": [],
         "weight": 1,
-        "impressions": 22,
+        "impressions": 23,
         "clicks": 0,
-        "last_search": 1770991911372,
+        "last_search": 1770993255132,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -25906,9 +26005,9 @@
         "keyword": "Wahyu F Giri - Jejantunging kalbu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770991911372,
+        "last_search": 1770993255132,
         "created_at": 1770991911372,
         "locale": "id"
       },
@@ -25932,6 +26031,50 @@
         "clicks": 0,
         "last_search": 1770991911386,
         "created_at": 1770991911386,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8c905056-32bf-43b2-b640-ab7a3b8e52c9",
+        "keyword": "Wahyu F Giri - LESTARI",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770993255132,
+        "created_at": 1770993255132,
+        "locale": "id"
+      },
+      {
+        "id": "kw_288990ed-5a61-4483-a6b1-a88eb8ec3162",
+        "keyword": "Wulan Wulangun",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770993255148,
+        "created_at": 1770993255148,
+        "locale": "id"
+      },
+      {
+        "id": "kw_09a1123c-2b88-4cac-90f5-990e12de3064",
+        "keyword": "Wahyu F Giri Ft. Adinda Anggun - Asmaranala ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770993255148,
+        "created_at": 1770993255148,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9e42a5be-4deb-467d-be4f-d3165c200bce",
+        "keyword": "Wahyu F Giri Ft. Adinda Anggun",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770993255148,
+        "created_at": 1770993255148,
         "locale": "id"
       }
     ],
@@ -30633,6 +30776,39 @@
         "clicks": 0,
         "last_search": 1770991911372,
         "created_at": 1770991911372,
+        "locale": "id"
+      },
+      {
+        "id": "kw_42d9964f-a8b0-4254-b63a-36fc4ea431d0",
+        "keyword": "Akbar Handoko - PUSPITA NALA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770993255132,
+        "created_at": 1770993255131,
+        "locale": "id"
+      },
+      {
+        "id": "kw_01925320-9c7a-4449-9e5e-7938ef41c755",
+        "keyword": "Akbar Handoko",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770993255132,
+        "created_at": 1770993255132,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6fbdf922-71e7-49ce-982e-c2179c68a6f7",
+        "keyword": "Asmaranala",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770993255148,
+        "created_at": 1770993255148,
         "locale": "id"
       }
     ],
