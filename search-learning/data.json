@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770994471376,
+    "last_updated": 1770994476813,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1154,9 +1154,9 @@
         "keyword": "Dewa 19",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1770807124644,
+        "last_search": 1770994476771,
         "created_at": 1769423057828,
         "locale": "id"
       },
@@ -4084,6 +4084,28 @@
         "clicks": 0,
         "last_search": 1770994471333,
         "created_at": 1770994471333,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a12145c5-3308-4a31-b962-a105ceea82de",
+        "keyword": "Dewa 19 - Kirana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476770,
+        "locale": "id"
+      },
+      {
+        "id": "kw_faa16fad-fa7b-4e2e-bbff-e70f8d9377a5",
+        "keyword": "Dewa 19 - Aku Disini Untukmu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
         "locale": "id"
       }
     ],
@@ -9226,6 +9248,28 @@
         "last_search": 1770994471332,
         "created_at": 1770994471332,
         "locale": "id"
+      },
+      {
+        "id": "kw_959a674e-93ef-41a0-b6c6-0cf653ea50e4",
+        "keyword": "Kirana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
+        "locale": "id"
+      },
+      {
+        "id": "kw_af8f4390-6364-439f-abda-67acfde766a0",
+        "keyword": "KEPIKIRAN KANGEN",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
+        "locale": "id"
       }
     ],
     "p": [
@@ -11263,6 +11307,50 @@
         "last_search": 1770993255132,
         "created_at": 1770993255132,
         "locale": "id"
+      },
+      {
+        "id": "kw_0c55fd39-df05-4f40-b2d9-2d61e2d39e0e",
+        "keyword": "Perunggu - Pikiran Yang Matang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9948a738-e914-40c6-9431-702eb83f7423",
+        "keyword": "Perunggu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
+        "locale": "id"
+      },
+      {
+        "id": "kw_58c1991f-9574-4873-a6ec-21b1df5e0220",
+        "keyword": "Pikiran Yang Matang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1cfbfdea-b066-4fa2-8ca1-6d983c8703c0",
+        "keyword": "Pikir Keri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
+        "locale": "id"
       }
     ],
     "m": [
@@ -13141,9 +13229,9 @@
         "keyword": "Mojang Priangan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770357692266,
+        "last_search": 1770994476771,
         "created_at": 1770357692266,
         "locale": "id"
       },
@@ -13658,10 +13746,32 @@
         "keyword": "Masa Lalu",
         "tags": [],
         "weight": 1,
+        "impressions": 2,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994471333,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b40642bb-e450-484c-9ffc-b94f0b39e8cc",
+        "keyword": "Masih Ada - Ello",
+        "tags": [],
+        "weight": 1,
         "impressions": 1,
         "clicks": 0,
-        "last_search": 1770994471333,
-        "created_at": 1770994471333,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
+        "locale": "id"
+      },
+      {
+        "id": "kw_936ce84e-c774-4033-8082-f7ba56463f1a",
+        "keyword": "Masih Ada",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
         "locale": "id"
       }
     ],
@@ -17142,9 +17252,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 55,
+        "impressions": 56,
         "clicks": 0,
-        "last_search": 1770917326587,
+        "last_search": 1770994476771,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -20161,6 +20271,17 @@
         "last_search": 1770994471332,
         "created_at": 1770994471332,
         "locale": "id"
+      },
+      {
+        "id": "kw_54592b05-6109-46a4-962c-34536b2edf9d",
+        "keyword": "NDX AKA - Pikir Keri",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
+        "locale": "id"
       }
     ],
     "b": [
@@ -21823,6 +21944,17 @@
         "clicks": 0,
         "last_search": 1770994471333,
         "created_at": 1770994471333,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9fd4c627-ea1b-4d52-bf1d-10c040aa2f27",
+        "keyword": "Buruak Parangai",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
         "locale": "id"
       }
     ],
@@ -25260,6 +25392,39 @@
         "last_search": 1770993255132,
         "created_at": 1770993255132,
         "locale": "id"
+      },
+      {
+        "id": "kw_d846a74b-fa9f-40f8-9ec2-9d9efe322cb2",
+        "keyword": "Elkasih Reborn - Rasa -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dd6c0615-f316-4fde-9626-c9ce16501e1c",
+        "keyword": "Elkasih Reborn",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5466eb1a-aac5-4953-a21f-405ac9115104",
+        "keyword": "Ello",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
+        "locale": "id"
       }
     ],
     "w": [
@@ -27760,6 +27925,28 @@
         "clicks": 0,
         "last_search": 1770992702698,
         "created_at": 1770992702698,
+        "locale": "id"
+      },
+      {
+        "id": "kw_15c91a70-6dd0-4f09-899c-b1f3d558462d",
+        "keyword": "Chord Dini Kurnia Feat. Mufly Key - KEPIKIRAN KANGEN",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d69e852f-e91a-436d-9fe2-bce016152b1b",
+        "keyword": "Chord Dini Kurnia Feat. Mufly Key",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
         "locale": "id"
       }
     ],
@@ -31063,6 +31250,17 @@
         "last_search": 1770994471333,
         "created_at": 1770994471333,
         "locale": "id"
+      },
+      {
+        "id": "kw_6252bab9-28f9-42bd-83d2-41e5c8909cff",
+        "keyword": "Aku Disini Untukmu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
+        "locale": "id"
       }
     ],
     "r": [
@@ -32604,6 +32802,17 @@
         "clicks": 0,
         "last_search": 1770991157825,
         "created_at": 1770991157825,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7b1f8b92-63e1-4602-b4d7-b3b1019fc934",
+        "keyword": "Rasa -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
         "locale": "id"
       }
     ],
@@ -35847,9 +36056,9 @@
         "keyword": "Sunda Woles - Mojang Priangan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770357692266,
+        "last_search": 1770994476771,
         "created_at": 1770357692252,
         "locale": "id"
       },
@@ -35858,9 +36067,9 @@
         "keyword": "Sunda Woles",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770357692266,
+        "last_search": 1770994476771,
         "created_at": 1770357692266,
         "locale": "id"
       },
@@ -39103,6 +39312,28 @@
         "last_search": 1770991157825,
         "created_at": 1770991157825,
         "locale": "id"
+      },
+      {
+        "id": "kw_8798809e-13e5-4a76-b610-1fbb063e35fc",
+        "keyword": "Indah Delvia - Buruak Parangai",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
+        "locale": "id"
+      },
+      {
+        "id": "kw_767358ff-ba28-42e6-b118-c308929d9796",
+        "keyword": "Indah Delvia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
+        "locale": "id"
       }
     ],
     "o": [
@@ -40729,6 +40960,28 @@
         "clicks": 0,
         "last_search": 1770562769317,
         "created_at": 1770562769317,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7f6049e9-2e84-4559-92f7-dbaf5be744a9",
+        "keyword": "Zizan - Masa Lalu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1d27d031-8d28-4367-97e2-b00f334a8bf5",
+        "keyword": "Zizan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770994476771,
+        "created_at": 1770994476771,
         "locale": "id"
       }
     ]
