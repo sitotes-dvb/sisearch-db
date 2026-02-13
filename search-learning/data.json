@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770991911412,
+    "last_updated": 1770992702743,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -6361,9 +6361,9 @@
         "keyword": "Kangen Band",
         "tags": [],
         "weight": 1,
-        "impressions": 11,
+        "impressions": 12,
         "clicks": 0,
-        "last_search": 1770562769318,
+        "last_search": 1770992702698,
         "created_at": 1769582566047,
         "locale": "id"
       },
@@ -6933,9 +6933,9 @@
         "keyword": "Kangen Band - Karma",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769758674000,
+        "last_search": 1770992702698,
         "created_at": 1769758674000,
         "locale": "id"
       },
@@ -6944,9 +6944,9 @@
         "keyword": "Karma",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769758674000,
+        "last_search": 1770992702698,
         "created_at": 1769758674000,
         "locale": "id"
       },
@@ -7725,9 +7725,9 @@
         "keyword": "Karma -",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770380896860,
+        "last_search": 1770992702698,
         "created_at": 1770025486832,
         "locale": "id"
       },
@@ -9137,6 +9137,28 @@
         "clicks": 0,
         "last_search": 1770991911386,
         "created_at": 1770991911372,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b0747fcd-2854-4263-902b-b147685e5813",
+        "keyword": "Karma Ka Anugrah - Fresly Nikijuluw",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770992702699,
+        "created_at": 1770992702699,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fb4b728b-bd8d-41ac-a155-20b8afc19e6e",
+        "keyword": "Karma Ka Anugrah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770992702699,
+        "created_at": 1770992702699,
         "locale": "id"
       }
     ],
@@ -11141,6 +11163,28 @@
         "clicks": 0,
         "last_search": 1770991157826,
         "created_at": 1770991157826,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1b6eb7e1-004d-4d11-9df5-6001230ae6da",
+        "keyword": "POMPI feat ADE ARA - HUTANG KARMA 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770992702698,
+        "created_at": 1770992702698,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bbba4a8a-3ac9-462b-9fb4-edb54e831b3d",
+        "keyword": "POMPI feat ADE ARA",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770992702698,
+        "created_at": 1770992702698,
         "locale": "id"
       }
     ],
@@ -13432,6 +13476,50 @@
         "last_search": 1770991157825,
         "created_at": 1770991157825,
         "locale": "id"
+      },
+      {
+        "id": "kw_35a4c8ee-e014-4345-804f-bd236bb5faa4",
+        "keyword": "Madilyn Bailey -Tastes Like Karma",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770992702698,
+        "created_at": 1770992702698,
+        "locale": "id"
+      },
+      {
+        "id": "kw_04bd4d70-b982-4634-a266-5665cd4a725b",
+        "keyword": "Murta Ibas Karma",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770992702699,
+        "created_at": 1770992702699,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a8f8e156-d020-4276-b195-7c152857b82d",
+        "keyword": "Moses Bandwidth - Karma",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770992702699,
+        "created_at": 1770992702699,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8c277ff0-a96b-4f18-8a72-a3593b54eaab",
+        "keyword": "Moses Bandwidth",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770992702699,
+        "created_at": 1770992702699,
+        "locale": "id"
       }
     ],
     "h": [
@@ -14456,6 +14544,17 @@
         "clicks": 0,
         "last_search": 1770991084262,
         "created_at": 1770991084262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e993c1f8-531f-40f0-82b9-e7b6faa6126c",
+        "keyword": "HUTANG KARMA 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770992702698,
+        "created_at": 1770992702698,
         "locale": "id"
       }
     ],
@@ -16480,9 +16579,9 @@
         "keyword": "Guyon Waton",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770380896860,
+        "last_search": 1770992702699,
         "created_at": 1770380896860,
         "locale": "id"
       },
@@ -16682,6 +16781,17 @@
         "clicks": 0,
         "last_search": 1770991084262,
         "created_at": 1770991084262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5d1dcdd9-217a-4449-8801-fff42faa5b35",
+        "keyword": "Guyon Waton - Karma",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770992702699,
+        "created_at": 1770992702699,
         "locale": "id"
       }
     ],
@@ -23905,6 +24015,50 @@
         "last_search": 1770991157825,
         "created_at": 1770991157825,
         "locale": "id"
+      },
+      {
+        "id": "kw_4eaeb8b6-5ce2-4ab1-ab9b-51c5e76bc055",
+        "keyword": "Taylor Swift - Karma -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770992702698,
+        "created_at": 1770992702697,
+        "locale": "id"
+      },
+      {
+        "id": "kw_16a72976-0fb1-4ffd-b256-81f16da376fb",
+        "keyword": "Taylor Swift",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770992702698,
+        "created_at": 1770992702698,
+        "locale": "id"
+      },
+      {
+        "id": "kw_77149f8c-c8c6-413f-8c7b-84fe0c84f41b",
+        "keyword": "Taylor Swift ft. Ice Spice - Karma",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770992702698,
+        "created_at": 1770992702698,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0efcf51d-65a8-4de3-b164-25f2654a5107",
+        "keyword": "Taylor Swift ft. Ice Spice",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770992702698,
+        "created_at": 1770992702698,
+        "locale": "id"
       }
     ],
     "e": [
@@ -25875,9 +26029,9 @@
         "keyword": "Cokelat",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769748764074,
+        "last_search": 1770992702698,
         "created_at": 1769407471814,
         "locale": "id"
       },
@@ -27232,6 +27386,17 @@
         "clicks": 0,
         "last_search": 1770991084262,
         "created_at": 1770991084262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9d976a8a-4ea8-4099-acde-f2fd88ee693e",
+        "keyword": "Cokelat - Karma",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770992702698,
+        "created_at": 1770992702698,
         "locale": "id"
       }
     ],
@@ -36072,6 +36237,28 @@
         "last_search": 1770991911386,
         "created_at": 1770991911386,
         "locale": "id"
+      },
+      {
+        "id": "kw_5c45428a-dbc7-41e3-80c7-f5a4d7f7eb57",
+        "keyword": "Siska Jorank - Murta Ibas Karma",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770992702698,
+        "created_at": 1770992702698,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cface0a4-e4dd-4a2f-9a79-f66b65b3c439",
+        "keyword": "Siska Jorank",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770992702698,
+        "created_at": 1770992702698,
+        "locale": "id"
       }
     ],
     "y": [
@@ -36720,9 +36907,9 @@
         "keyword": "Fresly Nikijuluw",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1770462209215,
+        "last_search": 1770992702699,
         "created_at": 1769428790060,
         "locale": "id"
       },
