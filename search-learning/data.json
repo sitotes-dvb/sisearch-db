@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770991066123,
+    "last_updated": 1770991084360,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -5417,6 +5417,39 @@
         "clicks": 0,
         "last_search": 1770991066082,
         "created_at": 1770991066082,
+        "locale": "id"
+      },
+      {
+        "id": "kw_067e2a2e-4974-4573-82e8-a9f6f1cf13ce",
+        "keyword": "Lesti - Insan Biasa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0c420f5c-ba61-4321-b200-64436220d5da",
+        "keyword": "Lesti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_157dfdde-a499-4b4f-b03b-5b9b81d62ed8",
+        "keyword": "Luar Biasa -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
         "locale": "id"
       }
     ],
@@ -13223,6 +13256,17 @@
         "last_search": 1770991066083,
         "created_at": 1770991066083,
         "locale": "id"
+      },
+      {
+        "id": "kw_c0acde7d-fbda-4132-8ab4-a449513b0d11",
+        "keyword": "Maafkanlah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
       }
     ],
     "h": [
@@ -14226,6 +14270,28 @@
         "last_search": 1770991066083,
         "created_at": 1770991066083,
         "locale": "id"
+      },
+      {
+        "id": "kw_450be7a3-8aef-49c8-8c26-999ba2771985",
+        "keyword": "Hanya Insan Biasa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ad954c01-937a-4d41-91d7-195b7b033293",
+        "keyword": "Hampa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
       }
     ],
     "j": [
@@ -15092,9 +15158,9 @@
         "keyword": "Jihan Audy Feat Gerry Mahesa",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770361852311,
+        "last_search": 1770991084262,
         "created_at": 1770361852311,
         "locale": "id"
       },
@@ -15371,6 +15437,17 @@
         "clicks": 0,
         "last_search": 1770991066084,
         "created_at": 1770991066084,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4fcd8207-da75-4f27-be87-e59fa3506216",
+        "keyword": "Jihan Audy Feat Gerry Mahesa - Maafkanlah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
         "locale": "id"
       }
     ],
@@ -16418,6 +16495,17 @@
         "clicks": 0,
         "last_search": 1770991066083,
         "created_at": 1770991066083,
+        "locale": "id"
+      },
+      {
+        "id": "kw_72e08c1d-229f-4101-bbae-e927ffeadd32",
+        "keyword": "Gubuk Jadi Istana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
         "locale": "id"
       }
     ],
@@ -21142,6 +21230,17 @@
         "last_search": 1770991066081,
         "created_at": 1770991066081,
         "locale": "id"
+      },
+      {
+        "id": "kw_f1b96144-23a7-446e-9919-0858fe7eff3c",
+        "keyword": "Bukan Cinta Biasa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
       }
     ],
     "t": [
@@ -24391,6 +24490,28 @@
         "last_search": 1770989361749,
         "created_at": 1770989361749,
         "locale": "id"
+      },
+      {
+        "id": "kw_0ba546db-7f37-4d22-93cd-76201bed1534",
+        "keyword": "Era Syaqira - Hanya Insan Biasa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6f467f6e-2cdf-42a1-a972-651280e5e2c9",
+        "keyword": "Era Syaqira",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
       }
     ],
     "w": [
@@ -26759,6 +26880,39 @@
         "clicks": 0,
         "last_search": 1770991066082,
         "created_at": 1770991066082,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f703e3fc-c025-4869-9b1b-0ccbee22660a",
+        "keyword": "Chomel - Andai Hatiku Bersuara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ee86627f-5238-4370-ba71-eed1f55498bf",
+        "keyword": "Chomel",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1a73e225-1960-427a-9364-3254313eef59",
+        "keyword": "Cinta Insan Biasa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
         "locale": "id"
       }
     ],
@@ -29930,6 +30084,39 @@
         "last_search": 1770989361762,
         "created_at": 1770989361762,
         "locale": "id"
+      },
+      {
+        "id": "kw_3f2f64e4-88dd-43f6-8ec2-94b89e1df771",
+        "keyword": "Arief & Yollanda - Hanya Insan Biasa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f9caf819-88b3-46d1-b480-ce2b78022655",
+        "keyword": "Arief & Yollanda",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6d45b73c-de40-42aa-963d-f8cd8e41fc29",
+        "keyword": "Andai Hatiku Bersuara",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
       }
     ],
     "r": [
@@ -31406,6 +31593,50 @@
         "last_search": 1770970359788,
         "created_at": 1770970359788,
         "locale": "id"
+      },
+      {
+        "id": "kw_f9e44ede-04dc-4dc6-a297-7842d3647cfb",
+        "keyword": "Rheka Restu ft. Iwan Samuel - Cinta Insan Biasa ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_acf54d91-ef00-43c5-980e-6db8f3d98cc4",
+        "keyword": "Rheka Restu ft. Iwan Samuel",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3016e17d-2fb1-46cf-90f2-7fef77264ee8",
+        "keyword": "Romansya - Hampa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c2a2972f-4ca8-483f-bae8-cbb3420902aa",
+        "keyword": "Romansya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
       }
     ],
     "s": [
@@ -31964,9 +32195,9 @@
         "keyword": "Siti Nurhaliza",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769407784909,
+        "last_search": 1770991084262,
         "created_at": 1769407784909,
         "locale": "id"
       },
@@ -35412,6 +35643,17 @@
         "last_search": 1770991066083,
         "created_at": 1770991066083,
         "locale": "id"
+      },
+      {
+        "id": "kw_561a86ed-e461-4112-9eb0-c033437f5f72",
+        "keyword": "Siti Nurhaliza - Bukan Cinta Biasa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
       }
     ],
     "y": [
@@ -36769,6 +37011,28 @@
         "last_search": 1770991066083,
         "created_at": 1770991066083,
         "locale": "id"
+      },
+      {
+        "id": "kw_7dd362b7-1292-4629-92d7-26b58adf460e",
+        "keyword": "Fazura - Luar Biasa -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_19dc4ea5-39fb-4360-ab0b-4de54f925e06",
+        "keyword": "Fazura",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
       }
     ],
     "i": [
@@ -37393,9 +37657,9 @@
         "keyword": "IPANK",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770215682958,
+        "last_search": 1770991084262,
         "created_at": 1770215682958,
         "locale": "id"
       },
@@ -37705,6 +37969,28 @@
         "clicks": 0,
         "last_search": 1770991066081,
         "created_at": 1770991066081,
+        "locale": "id"
+      },
+      {
+        "id": "kw_22603810-3a8d-424d-b74a-864952a27746",
+        "keyword": "Insan Biasa",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d8b3fce3-9e25-4183-a0ba-4209d4037a5e",
+        "keyword": "IPANK - Gubuk Jadi Istana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1770991084262,
+        "created_at": 1770991084262,
         "locale": "id"
       }
     ],
