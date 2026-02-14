@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1771056344460,
+    "last_updated": 1771075490980,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -2782,9 +2782,9 @@
         "keyword": "Dini Chan - Sedia Aku Sebelum Hujan Datang ...",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770916054624,
+        "last_search": 1771075490934,
         "created_at": 1770040365773,
         "locale": "id"
       },
@@ -2793,9 +2793,9 @@
         "keyword": "Dini Chan",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770916054624,
+        "last_search": 1771075490934,
         "created_at": 1770040365773,
         "locale": "id"
       },
@@ -2804,9 +2804,9 @@
         "keyword": "Daftar Koleksi / Dini Chan @Chordtela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770916054624,
+        "last_search": 1771075490934,
         "created_at": 1770040365773,
         "locale": "id"
       },
@@ -4128,6 +4128,17 @@
         "clicks": 0,
         "last_search": 1771056344416,
         "created_at": 1771056344416,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0d697a1f-8d14-4a0d-9f9d-1ea0eb0c0d34",
+        "keyword": "Daftar Koleksi / Idgitaf @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771075490934,
+        "created_at": 1771075490934,
         "locale": "id"
       }
     ],
@@ -9045,9 +9056,9 @@
         "keyword": "Kumpulan Gitar Dini Chan -tela.com",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770916054624,
+        "last_search": 1771075490934,
         "created_at": 1770916054624,
         "locale": "id"
       },
@@ -9324,6 +9335,17 @@
         "clicks": 0,
         "last_search": 1771056344402,
         "created_at": 1771056344402,
+        "locale": "id"
+      },
+      {
+        "id": "kw_597e5d28-3278-4e47-b458-bcd6a572bce3",
+        "keyword": "Kumpulan Gitar Idgitaf",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771075490934,
+        "created_at": 1771075490933,
         "locale": "id"
       }
     ],
@@ -13031,9 +13053,9 @@
         "keyword": "Motif Band - Mengapa Kau Pergi ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770916054624,
+        "last_search": 1771075490934,
         "created_at": 1770040365773,
         "locale": "id"
       },
@@ -13042,9 +13064,9 @@
         "keyword": "Motif Band",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770916054624,
+        "last_search": 1771075490934,
         "created_at": 1770040365773,
         "locale": "id"
       },
@@ -13053,9 +13075,9 @@
         "keyword": "Mengapa Kau Pergi",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770916054624,
+        "last_search": 1771075490934,
         "created_at": 1770040365773,
         "locale": "id"
       },
@@ -13858,9 +13880,9 @@
         "keyword": "Hujan Kemarin",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769522415615,
+        "last_search": 1771075490935,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -14874,6 +14896,17 @@
         "clicks": 0,
         "last_search": 1770994471334,
         "created_at": 1770994471334,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4893e2e8-4913-4b46-89cb-e8bb5471c899",
+        "keyword": "Hujan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771075490934,
+        "created_at": 1771075490934,
         "locale": "id"
       }
     ],
@@ -22107,9 +22140,9 @@
         "keyword": "Taxi Band - Hujan Kemarin",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769522415615,
+        "last_search": 1771075490935,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -22118,9 +22151,9 @@
         "keyword": "Taxi Band",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769522415615,
+        "last_search": 1771075490935,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -35649,9 +35682,9 @@
         "keyword": "Sedia Aku Sebelum Hujan",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770916054624,
+        "last_search": 1771075490933,
         "created_at": 1770040365773,
         "locale": "id"
       },
@@ -35660,9 +35693,9 @@
         "keyword": "Sedia Aku Sebelum Hujan Datang",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770916054624,
+        "last_search": 1771075490934,
         "created_at": 1770040365773,
         "locale": "id"
       },
@@ -37050,6 +37083,17 @@
         "clicks": 0,
         "last_search": 1770994471333,
         "created_at": 1770994471333,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e6b0289d-4865-4265-a75a-b44d4dac8f79",
+        "keyword": "Satu-Satu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771075490935,
+        "created_at": 1771075490935,
         "locale": "id"
       }
     ],
@@ -38955,9 +38999,9 @@
         "keyword": "Idgitaf - Sedia Aku Sebelum Hujan",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770916054624,
+        "last_search": 1771075490933,
         "created_at": 1770040365773,
         "locale": "id"
       },
@@ -38966,9 +39010,9 @@
         "keyword": "Idgitaf",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770916054624,
+        "last_search": 1771075490933,
         "created_at": 1770040365773,
         "locale": "id"
       },
@@ -39454,6 +39498,17 @@
         "clicks": 0,
         "last_search": 1770995333287,
         "created_at": 1770995333287,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8bce0ec1-f384-4d7f-b97b-8179a40b0662",
+        "keyword": "Idgitaf - Satu-Satu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771075490935,
+        "created_at": 1771075490935,
         "locale": "id"
       }
     ],
@@ -40910,9 +40965,9 @@
         "keyword": "Utopia",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770989361749,
+        "last_search": 1771075490934,
         "created_at": 1770916054640,
         "locale": "id"
       },
@@ -40925,6 +40980,17 @@
         "clicks": 0,
         "last_search": 1770989361749,
         "created_at": 1770989361749,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a48b270e-b9f4-4fef-9285-3d38c92080b5",
+        "keyword": "Utopia - Hujan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771075490934,
+        "created_at": 1771075490934,
         "locale": "id"
       }
     ],
