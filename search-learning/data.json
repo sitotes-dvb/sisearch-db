@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1770995333330,
+    "last_updated": 1771056344460,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3805,9 +3805,9 @@
         "keyword": "dangdut Iis Dahlia",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770917326587,
+        "last_search": 1771056344401,
         "created_at": 1770630085311,
         "locale": "id"
       },
@@ -3816,9 +3816,9 @@
         "keyword": "Defri Juliant feat. Puspa Indah - Seringgit Dua Kupang ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770917326587,
+        "last_search": 1771056344415,
         "created_at": 1770630085311,
         "locale": "id"
       },
@@ -3827,9 +3827,9 @@
         "keyword": "Defri Juliant feat. Puspa Indah",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770917326587,
+        "last_search": 1771056344415,
         "created_at": 1770630085311,
         "locale": "id"
       },
@@ -3849,9 +3849,9 @@
         "keyword": "Dua Kursi",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770917326588,
+        "last_search": 1771056344416,
         "created_at": 1770630085313,
         "locale": "id"
       },
@@ -4025,9 +4025,9 @@
         "keyword": "Dua Cincin",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770917326587,
+        "last_search": 1771056344401,
         "created_at": 1770917326587,
         "locale": "id"
       },
@@ -4117,6 +4117,17 @@
         "clicks": 0,
         "last_search": 1770995333272,
         "created_at": 1770995333272,
+        "locale": "id"
+      },
+      {
+        "id": "kw_231d5e04-d493-422e-b28f-8969578dc80f",
+        "keyword": "Dua Kursi - Rita Sugiarto",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771056344416,
+        "created_at": 1771056344416,
         "locale": "id"
       }
     ],
@@ -9303,6 +9314,17 @@
         "last_search": 1770995333287,
         "created_at": 1770995333287,
         "locale": "id"
+      },
+      {
+        "id": "kw_9b788042-5090-49dd-9da5-c8d38b4cf111",
+        "keyword": "Kumpulan Gitar Hello",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771056344402,
+        "created_at": 1771056344402,
+        "locale": "id"
       }
     ],
     "p": [
@@ -11170,9 +11192,9 @@
         "keyword": "Payung Hitam - dangdut Iis Dahlia",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770917326587,
+        "last_search": 1771056344401,
         "created_at": 1770630085311,
         "locale": "id"
       },
@@ -11181,9 +11203,9 @@
         "keyword": "Payung Hitam",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770917326587,
+        "last_search": 1771056344401,
         "created_at": 1770630085311,
         "locale": "id"
       },
@@ -14067,9 +14089,9 @@
         "keyword": "Hindia",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770917326587,
+        "last_search": 1771056344402,
         "created_at": 1769437428365,
         "locale": "id"
       },
@@ -14100,9 +14122,9 @@
         "keyword": "Hindia - Cincin",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769437428366,
+        "last_search": 1771056344402,
         "created_at": 1769437428366,
         "locale": "id"
       },
@@ -14661,9 +14683,9 @@
         "keyword": "Hello",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770917326587,
+        "last_search": 1771056344401,
         "created_at": 1770630085311,
         "locale": "id"
       },
@@ -14782,9 +14804,9 @@
         "keyword": "Hello - Dua Cincin",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770917326587,
+        "last_search": 1771056344401,
         "created_at": 1770917326587,
         "locale": "id"
       },
@@ -17285,9 +17307,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 56,
+        "impressions": 57,
         "clicks": 0,
-        "last_search": 1770994476771,
+        "last_search": 1771056344401,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -20101,9 +20123,9 @@
         "keyword": "Nyanda Jadi Kawin",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770917326587,
+        "last_search": 1771056344401,
         "created_at": 1770630085311,
         "locale": "id"
       },
@@ -20314,6 +20336,17 @@
         "clicks": 0,
         "last_search": 1770994476771,
         "created_at": 1770994476771,
+        "locale": "id"
+      },
+      {
+        "id": "kw_25721e8f-4914-4a59-8aa8-a6f0572aa3e7",
+        "keyword": "NDX AKA - Dua Cincin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771056344401,
+        "created_at": 1771056344401,
         "locale": "id"
       }
     ],
@@ -24318,9 +24351,9 @@
         "keyword": "Topeng Dewa - Ayu Soraya",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770630085312,
+        "last_search": 1771056344415,
         "created_at": 1770630085312,
         "locale": "id"
       },
@@ -24329,9 +24362,9 @@
         "keyword": "Topeng Dewa",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770917326588,
+        "last_search": 1771056344415,
         "created_at": 1770630085312,
         "locale": "id"
       },
@@ -26810,9 +26843,9 @@
         "keyword": "Cincin",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769437428366,
+        "last_search": 1771056344402,
         "created_at": 1769437428366,
         "locale": "id"
       },
@@ -27756,9 +27789,9 @@
         "keyword": "Caca Handika",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770917326587,
+        "last_search": 1771056344401,
         "created_at": 1770630085311,
         "locale": "id"
       },
@@ -28002,6 +28035,28 @@
         "clicks": 0,
         "last_search": 1770994476771,
         "created_at": 1770994476771,
+        "locale": "id"
+      },
+      {
+        "id": "kw_521454db-2766-4a31-8c57-ee938b6be1b5",
+        "keyword": "Caca Handika - Cincin Putih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771056344401,
+        "created_at": 1771056344401,
+        "locale": "id"
+      },
+      {
+        "id": "kw_7518633c-d3c1-4906-9fbd-32f05f4882cf",
+        "keyword": "Cincin Putih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771056344401,
+        "created_at": 1771056344401,
         "locale": "id"
       }
     ],
@@ -31036,9 +31091,9 @@
         "keyword": "Ayu Soraya",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770630085312,
+        "last_search": 1771056344415,
         "created_at": 1770630085312,
         "locale": "id"
       },
@@ -31885,9 +31940,9 @@
         "keyword": "Rita Sugiarto",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770991157825,
+        "last_search": 1771056344416,
         "created_at": 1769582688684,
         "locale": "id"
       },
@@ -36595,9 +36650,9 @@
         "keyword": "Seringgit Dua Kupang",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770917326587,
+        "last_search": 1771056344415,
         "created_at": 1770630085312,
         "locale": "id"
       },
@@ -39208,9 +39263,9 @@
         "keyword": "Isty Julistry - Nyanda Jadi Kawin",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770917326587,
+        "last_search": 1771056344401,
         "created_at": 1770630085311,
         "locale": "id"
       },
@@ -39219,9 +39274,9 @@
         "keyword": "Isty Julistry",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770917326587,
+        "last_search": 1771056344401,
         "created_at": 1770630085311,
         "locale": "id"
       },
