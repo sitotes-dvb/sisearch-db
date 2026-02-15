@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1771075490980,
+    "last_updated": 1771122645883,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -4139,6 +4139,39 @@
         "clicks": 0,
         "last_search": 1771075490934,
         "created_at": 1771075490934,
+        "locale": "id"
+      },
+      {
+        "id": "kw_de28576e-4689-454d-acb5-4f1c2fd14c7b",
+        "keyword": "Demi Semesta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771122645824,
+        "created_at": 1771122645824,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5ce3c34b-7fea-4849-8919-19684e42e679",
+        "keyword": "Daftar Koleksi / For Revenge @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771122645824,
+        "created_at": 1771122645824,
+        "locale": "id"
+      },
+      {
+        "id": "kw_563d3ae3-820e-4d49-ba8d-865005dcb9df",
+        "keyword": "Dunia Berhenti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771122645825,
+        "created_at": 1771122645825,
         "locale": "id"
       }
     ],
@@ -10015,9 +10048,9 @@
         "keyword": "Perayaan Mati Rasa - Umay Shahab feat. Natania Karin ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769583885578,
+        "last_search": 1771122645824,
         "created_at": 1769583885578,
         "locale": "id"
       },
@@ -10026,9 +10059,9 @@
         "keyword": "Perayaan Mati Rasa",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769583885578,
+        "last_search": 1771122645824,
         "created_at": 1769583885578,
         "locale": "id"
       },
@@ -11427,6 +11460,28 @@
         "clicks": 0,
         "last_search": 1770994476771,
         "created_at": 1770994476771,
+        "locale": "id"
+      },
+      {
+        "id": "kw_eb7d9223-c01e-4505-bd62-2f9eefd24aa4",
+        "keyword": "Pulang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771122645823,
+        "created_at": 1771122645823,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d570593c-f885-4dc9-8860-58217c1c2df9",
+        "keyword": "Permainan Menunggu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771122645824,
+        "created_at": 1771122645824,
         "locale": "id"
       }
     ],
@@ -13850,6 +13905,17 @@
         "last_search": 1770994476771,
         "created_at": 1770994476771,
         "locale": "id"
+      },
+      {
+        "id": "kw_4beac92d-424a-4e8c-9082-15648607ff97",
+        "keyword": "Menyerah Dalam Diam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771122645824,
+        "created_at": 1771122645824,
+        "locale": "id"
       }
     ],
     "h": [
@@ -16075,6 +16141,28 @@
         "clicks": 0,
         "last_search": 1770993255132,
         "created_at": 1770991911372,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8b8203a7-6367-43ec-9ca4-d56ae1d9e03b",
+        "keyword": "Jeda",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771122645823,
+        "created_at": 1771122645823,
+        "locale": "id"
+      },
+      {
+        "id": "kw_96bdda23-cf3f-46b4-afab-5d402259fe13",
+        "keyword": "Jentaka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771122645824,
+        "created_at": 1771122645824,
         "locale": "id"
       }
     ],
@@ -20380,6 +20468,39 @@
         "clicks": 0,
         "last_search": 1771056344401,
         "created_at": 1771056344401,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0aa4bae2-6f3b-40e0-b64e-bd249d46490d",
+        "keyword": "No Revenge - Menyerah Dalam Diam",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771122645824,
+        "created_at": 1771122645824,
+        "locale": "id"
+      },
+      {
+        "id": "kw_63c88715-674e-4559-a90f-8839cf74f059",
+        "keyword": "No Revenge",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771122645824,
+        "created_at": 1771122645824,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3d27420e-6adc-4f03-b6a2-653428e48884",
+        "keyword": "No Revenge - Dunia Berhenti",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771122645825,
+        "created_at": 1771122645825,
         "locale": "id"
       }
     ],
@@ -31135,9 +31256,9 @@
         "keyword": "Ada Selamanya",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770632823065,
+        "last_search": 1771122645825,
         "created_at": 1770632823065,
         "locale": "id"
       },
@@ -37798,9 +37919,9 @@
         "keyword": "For Revenge",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770717649117,
+        "last_search": 1771122645823,
         "created_at": 1769437428366,
         "locale": "id"
       },
@@ -38337,9 +38458,9 @@
         "keyword": "For Revenge & Fiersa Besari - Ada Selamanya ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770632823048,
+        "last_search": 1771122645825,
         "created_at": 1770632823048,
         "locale": "id"
       },
@@ -38348,9 +38469,9 @@
         "keyword": "For Revenge & Fiersa Besari",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770632823064,
+        "last_search": 1771122645825,
         "created_at": 1770632823064,
         "locale": "id"
       },
@@ -38495,6 +38616,61 @@
         "clicks": 0,
         "last_search": 1770991157825,
         "created_at": 1770991157825,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e0c3fe01-bcf6-44fc-912d-052584e97af7",
+        "keyword": "For Revenge - Pulang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771122645823,
+        "created_at": 1771122645823,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0deeb046-2826-4657-bb99-78a239f0bb4e",
+        "keyword": "For Revenge - Jeda",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771122645823,
+        "created_at": 1771122645823,
+        "locale": "id"
+      },
+      {
+        "id": "kw_98c0aa72-51f2-438c-93f8-ad54f7772c69",
+        "keyword": "For Revenge - Permainan Menunggu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771122645824,
+        "created_at": 1771122645823,
+        "locale": "id"
+      },
+      {
+        "id": "kw_aadbb32e-c73a-4f7d-9de3-b8b3bc42cd0e",
+        "keyword": "For Revenge - Demi Semesta",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771122645824,
+        "created_at": 1771122645824,
+        "locale": "id"
+      },
+      {
+        "id": "kw_22e6a859-bcd2-498f-b07f-12191490be68",
+        "keyword": "For Revenge - Jentaka",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771122645824,
+        "created_at": 1771122645824,
         "locale": "id"
       }
     ],
@@ -40789,9 +40965,9 @@
         "keyword": "Umay Shahab feat. Natania Karin",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769583885578,
+        "last_search": 1771122645824,
         "created_at": 1769583885578,
         "locale": "id"
       },
