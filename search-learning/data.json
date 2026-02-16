@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1771255238823,
+    "last_updated": 1771255303040,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -22888,9 +22888,9 @@
         "keyword": "Tekomlaku feat. Ervinsof",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1770475646206,
+        "last_search": 1771255302984,
         "created_at": 1769506432225,
         "locale": "id"
       },
@@ -23273,9 +23273,9 @@
         "keyword": "Tekomlaku feat. Ervinsof - Raiso Ngapusi",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770475646206,
+        "last_search": 1771255302984,
         "created_at": 1769703958513,
         "locale": "id"
       },
@@ -32061,9 +32061,9 @@
         "keyword": "Raiso Ngapusi",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1770475646206,
+        "last_search": 1771255302984,
         "created_at": 1769506432225,
         "locale": "id"
       },
