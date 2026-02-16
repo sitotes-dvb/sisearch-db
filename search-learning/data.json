@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1771145709424,
+    "last_updated": 1771255238823,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -4184,6 +4184,39 @@
         "last_search": 1771145709367,
         "created_at": 1771145709367,
         "locale": "id"
+      },
+      {
+        "id": "kw_e955d09d-517b-4a70-accd-f200875375f4",
+        "keyword": "Daftar Koleksi / GMLT @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771255238778,
+        "created_at": 1771255238778,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2f079943-5c87-4a3f-9cb4-ad22641abb47",
+        "keyword": "Dhe Baz ft. Putri Kristya - Ngertenono",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771255238779,
+        "created_at": 1771255238779,
+        "locale": "id"
+      },
+      {
+        "id": "kw_40efce3f-b881-4bed-9d64-80d060505288",
+        "keyword": "Dhe Baz ft. Putri Kristya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771255238779,
+        "created_at": 1771255238779,
+        "locale": "id"
       }
     ],
     "l": [
@@ -5712,9 +5745,9 @@
         "keyword": "Kumpulan Gitar NDX A.K.A",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1770555085497,
+        "last_search": 1771255238779,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -13938,6 +13971,17 @@
         "last_search": 1771122645824,
         "created_at": 1771122645824,
         "locale": "id"
+      },
+      {
+        "id": "kw_14d69faf-28b6-4b15-8cf3-8f97e4ee460c",
+        "keyword": "Manot",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771255238779,
+        "created_at": 1771255238779,
+        "locale": "id"
       }
     ],
     "h": [
@@ -16260,9 +16304,9 @@
         "keyword": "GildCoustic",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769757769515,
+        "last_search": 1771255238779,
         "created_at": 1769396521655,
         "locale": "id"
       },
@@ -16832,9 +16876,9 @@
         "keyword": "GMLT",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769878149439,
+        "last_search": 1771255238778,
         "created_at": 1769878149439,
         "locale": "id"
       },
@@ -17310,6 +17354,61 @@
         "last_search": 1770994471333,
         "created_at": 1770994471333,
         "locale": "id"
+      },
+      {
+        "id": "kw_c865c435-16aa-4abc-a60d-945122b3ddd4",
+        "keyword": "GMLT - Ngertenono Ati -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771255238778,
+        "created_at": 1771255238778,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e28faf64-ef15-49af-871d-758933a86dcd",
+        "keyword": "GMLT - Ngertenono Ati 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771255238778,
+        "created_at": 1771255238778,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8dd11d08-7de6-4ee5-b685-9497f5b2a3ee",
+        "keyword": "GildCoustic - Manot",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771255238779,
+        "created_at": 1771255238779,
+        "locale": "id"
+      },
+      {
+        "id": "kw_4823846d-91c1-4c3c-b248-cca301a9b952",
+        "keyword": "Gavin Project feat. Suci Tacik - Ngertenono Atiku ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771255238779,
+        "created_at": 1771255238779,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b446d958-04d8-4d37-b92f-493be9e51835",
+        "keyword": "Gavin Project feat. Suci Tacik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771255238779,
+        "created_at": 1771255238779,
+        "locale": "id"
       }
     ],
     "n": [
@@ -17461,9 +17560,9 @@
         "keyword": "NDX AKA",
         "tags": [],
         "weight": 1,
-        "impressions": 57,
+        "impressions": 58,
         "clicks": 0,
-        "last_search": 1771056344401,
+        "last_search": 1771255238778,
         "created_at": 1769395894349,
         "locale": "id"
       },
@@ -17758,9 +17857,9 @@
         "keyword": "Ngertenono Ati",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1769912332424,
+        "last_search": 1771255238778,
         "created_at": 1769407733906,
         "locale": "id"
       },
@@ -19309,9 +19408,9 @@
         "keyword": "NDX AKA - Ngertenono Ati",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769912332424,
+        "last_search": 1771255238777,
         "created_at": 1769878149439,
         "locale": "id"
       },
@@ -20534,6 +20633,50 @@
         "clicks": 0,
         "last_search": 1771122645825,
         "created_at": 1771122645825,
+        "locale": "id"
+      },
+      {
+        "id": "kw_336e529c-2084-46d5-83de-c9e8d7396c36",
+        "keyword": "Ngertenono Ati -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771255238778,
+        "created_at": 1771255238778,
+        "locale": "id"
+      },
+      {
+        "id": "kw_529f20a9-9932-49da-b717-c305086e5d47",
+        "keyword": "Ngertenono Ati 2",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771255238778,
+        "created_at": 1771255238778,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0467b7e7-9c2b-4c1b-935d-68ae4414f941",
+        "keyword": "Ngertenono",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771255238779,
+        "created_at": 1771255238779,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b77a7847-c384-46ef-a67b-b54a39ea6d61",
+        "keyword": "Ngertenono Atiku",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771255238779,
+        "created_at": 1771255238779,
         "locale": "id"
       }
     ],
@@ -36144,9 +36287,9 @@
         "keyword": "Sasya Arkhisna",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770629392407,
+        "last_search": 1771255238778,
         "created_at": 1770048909405,
         "locale": "id"
       },
@@ -37292,6 +37435,50 @@
         "clicks": 0,
         "last_search": 1771145709367,
         "created_at": 1771145709367,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ddd6fcfc-381b-490f-9dae-ad1fdac5d94c",
+        "keyword": "Sasya Arkhisna - Ora Masuk Akal",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771255238778,
+        "created_at": 1771255238778,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c03a4721-a830-464c-8ae7-8155355aae3b",
+        "keyword": "Suliyana - Sukur Kepus",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771255238778,
+        "created_at": 1771255238778,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9c5dba6c-0c65-4798-85ae-fde9bb69c497",
+        "keyword": "Suliyana",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771255238779,
+        "created_at": 1771255238778,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3ff5320d-4309-4e43-8a7b-803658765722",
+        "keyword": "Sukur Kepus",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771255238779,
+        "created_at": 1771255238779,
         "locale": "id"
       }
     ],
@@ -40358,6 +40545,17 @@
         "clicks": 0,
         "last_search": 1770717649117,
         "created_at": 1770717649117,
+        "locale": "id"
+      },
+      {
+        "id": "kw_715e3545-3851-4dd5-a71b-91864ff5af1a",
+        "keyword": "Ora Masuk Akal",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771255238778,
+        "created_at": 1771255238778,
         "locale": "id"
       }
     ],
