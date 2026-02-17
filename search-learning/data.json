@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1771255303040,
+    "last_updated": 1771340341532,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -318,9 +318,9 @@
         "keyword": "Denny Caknan - Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 25,
+        "impressions": 26,
         "clicks": 0,
-        "last_search": 1770739182378,
+        "last_search": 1771340341470,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -329,9 +329,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 82,
+        "impressions": 83,
         "clicks": 0,
-        "last_search": 1770995333271,
+        "last_search": 1771340341470,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -4217,6 +4217,39 @@
         "last_search": 1771255238779,
         "created_at": 1771255238779,
         "locale": "id"
+      },
+      {
+        "id": "kw_35db9302-4abc-4952-9775-72790249cacc",
+        "keyword": "Dutkustik - Los Gak Rewel -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340341470,
+        "created_at": 1771340341470,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6d239322-e6eb-4698-a0a0-bf75b40c189c",
+        "keyword": "Dutkustik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340341470,
+        "created_at": 1771340341470,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bb3cbd19-190f-4771-9e4a-9cf693d0b0f4",
+        "keyword": "Diaz feat. Rita Alodya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340341471,
+        "created_at": 1771340341471,
+        "locale": "id"
       }
     ],
     "l": [
@@ -4269,9 +4302,9 @@
         "keyword": "LAVORA Ft Ena Vika",
         "tags": [],
         "weight": 1,
-        "impressions": 17,
+        "impressions": 18,
         "clicks": 0,
-        "last_search": 1770792431852,
+        "last_search": 1771340341470,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -4379,9 +4412,9 @@
         "keyword": "LAVORA - HTS",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769410290382,
+        "last_search": 1771340341470,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -4390,9 +4423,9 @@
         "keyword": "LAVORA",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770475560463,
+        "last_search": 1771340341470,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -4412,9 +4445,9 @@
         "keyword": "Lavora ft. Destya Eka",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769760095553,
+        "last_search": 1771340341469,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -4808,9 +4841,9 @@
         "keyword": "Lavora ft. Destya Eka - Sewates Konco",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769760095553,
+        "last_search": 1771340341469,
         "created_at": 1769760095553,
         "locale": "id"
       },
@@ -5615,6 +5648,17 @@
         "clicks": 0,
         "last_search": 1770993255132,
         "created_at": 1770993255132,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bda3ce14-c3c0-47f0-96b1-3dd126a28f3f",
+        "keyword": "Los Gak Rewel -",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340341470,
+        "created_at": 1771340341470,
         "locale": "id"
       }
     ],
@@ -9434,6 +9478,28 @@
         "clicks": 0,
         "last_search": 1771145709367,
         "created_at": 1771145709367,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3e0cae8b-bd21-4699-8a35-e462ac83498b",
+        "keyword": "Konco Mesra",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340341470,
+        "created_at": 1771340341470,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c8784a8a-ea93-406d-bdbf-a9ca9970409a",
+        "keyword": "Konco Rindu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340341470,
+        "created_at": 1771340341470,
         "locale": "id"
       }
     ],
@@ -13982,6 +14048,17 @@
         "last_search": 1771255238779,
         "created_at": 1771255238779,
         "locale": "id"
+      },
+      {
+        "id": "kw_25cfcfc8-7b0e-4813-8985-22df7a915f71",
+        "keyword": "Mung Sewates Konco",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340341471,
+        "created_at": 1771340341470,
+        "locale": "id"
       }
     ],
     "h": [
@@ -14199,9 +14276,9 @@
         "keyword": "HTS",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769410290382,
+        "last_search": 1771340341470,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -15114,9 +15191,9 @@
         "keyword": "Jihan Audy",
         "tags": [],
         "weight": 1,
-        "impressions": 10,
+        "impressions": 11,
         "clicks": 0,
-        "last_search": 1770916054641,
+        "last_search": 1771340341470,
         "created_at": 1769360249302,
         "locale": "id"
       },
@@ -16240,6 +16317,17 @@
         "clicks": 0,
         "last_search": 1771145709367,
         "created_at": 1771145709367,
+        "locale": "id"
+      },
+      {
+        "id": "kw_29de94fb-5b2f-4b51-9abf-29cb671a6b60",
+        "keyword": "Jihan Audy - Konco Rindu -tela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340341470,
+        "created_at": 1771340341470,
         "locale": "id"
       }
     ],
@@ -18132,9 +18220,9 @@
         "keyword": "Nella Kharisma",
         "tags": [],
         "weight": 1,
-        "impressions": 21,
+        "impressions": 22,
         "clicks": 0,
-        "last_search": 1770994505477,
+        "last_search": 1771340341470,
         "created_at": 1769428790060,
         "locale": "id"
       },
@@ -20677,6 +20765,28 @@
         "clicks": 0,
         "last_search": 1771255238779,
         "created_at": 1771255238779,
+        "locale": "id"
+      },
+      {
+        "id": "kw_45b6cf8a-f131-440b-b47b-f102e95d5309",
+        "keyword": "Nella Kharisma - Konco Mesra",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340341470,
+        "created_at": 1771340341470,
+        "locale": "id"
+      },
+      {
+        "id": "kw_edb0d686-e300-4dee-a9b4-ff1dcaf44ab2",
+        "keyword": "Nella Kharisma - Mung Sewates Konco",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340341470,
+        "created_at": 1771340341470,
         "locale": "id"
       }
     ],
@@ -25884,9 +25994,9 @@
         "keyword": "Wirang",
         "tags": [],
         "weight": 1,
-        "impressions": 29,
+        "impressions": 30,
         "clicks": 0,
-        "last_search": 1770739182378,
+        "last_search": 1771340341470,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -31764,9 +31874,9 @@
         "keyword": "Rasah Bali - LAVORA Ft Ena Vika",
         "tags": [],
         "weight": 1,
-        "impressions": 15,
+        "impressions": 16,
         "clicks": 0,
-        "last_search": 1770792431852,
+        "last_search": 1771340341469,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -31775,9 +31885,9 @@
         "keyword": "Rasah Bali",
         "tags": [],
         "weight": 1,
-        "impressions": 17,
+        "impressions": 18,
         "clicks": 0,
-        "last_search": 1770792431852,
+        "last_search": 1771340341470,
         "created_at": 1769395314317,
         "locale": "id"
       },
@@ -34109,9 +34219,9 @@
         "keyword": "Sewates Konco",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769760095553,
+        "last_search": 1771340341469,
         "created_at": 1769410290382,
         "locale": "id"
       },
@@ -37480,6 +37590,17 @@
         "last_search": 1771255238779,
         "created_at": 1771255238779,
         "locale": "id"
+      },
+      {
+        "id": "kw_4e3c0872-2f94-475b-bd97-7821b10a07de",
+        "keyword": "Sewates Konco - Diaz feat. Rita Alodya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340341471,
+        "created_at": 1771340341471,
+        "locale": "id"
       }
     ],
     "y": [
@@ -39087,9 +39208,9 @@
         "keyword": "Intan Chacha",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769582439065,
+        "last_search": 1771340341470,
         "created_at": 1769510714274,
         "locale": "id"
       },
@@ -39949,6 +40070,17 @@
         "clicks": 0,
         "last_search": 1771075490935,
         "created_at": 1771075490935,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d3ff5a47-1178-413e-a23c-0b9350dd4e39",
+        "keyword": "Intan Chacha - Konco Mesra",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340341470,
+        "created_at": 1771340341470,
         "locale": "id"
       }
     ],
