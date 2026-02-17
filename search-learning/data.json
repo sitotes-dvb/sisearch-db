@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1771341252487,
+    "last_updated": 1771343536481,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3365,9 +3365,9 @@
         "keyword": "Dongker & Jason Ranti - disarankan di bandung ...",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770914798429,
+        "last_search": 1771343536437,
         "created_at": 1770357692251,
         "locale": "id"
       },
@@ -3376,9 +3376,9 @@
         "keyword": "Dongker & Jason Ranti",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770914798429,
+        "last_search": 1771343536437,
         "created_at": 1770357692251,
         "locale": "id"
       },
@@ -3387,9 +3387,9 @@
         "keyword": "disarankan di bandung",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770914798429,
+        "last_search": 1771343536437,
         "created_at": 1770357692251,
         "locale": "id"
       },
@@ -7065,9 +7065,9 @@
         "keyword": "Koes Plus",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770991157825,
+        "last_search": 1771343536437,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -9320,9 +9320,9 @@
         "keyword": "Koes Plus - Bujangan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770991157825,
+        "last_search": 1771343536437,
         "created_at": 1770991157825,
         "locale": "id"
       },
@@ -14135,6 +14135,39 @@
         "clicks": 0,
         "last_search": 1771341252443,
         "created_at": 1771341252443,
+        "locale": "id"
+      },
+      {
+        "id": "kw_6bf6e68e-5cf9-4390-a6df-9032fe07b58e",
+        "keyword": "Myfriends Band - Mantan Bajingan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771343536437,
+        "created_at": 1771343536437,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8f1694bb-9087-44a5-84ba-cb078537465b",
+        "keyword": "Myfriends Band",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771343536437,
+        "created_at": 1771343536437,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f6fec374-765d-4c89-af81-de39731ef050",
+        "keyword": "Mantan Bajingan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771343536437,
+        "created_at": 1771343536437,
         "locale": "id"
       }
     ],
@@ -22545,9 +22578,9 @@
         "keyword": "Bujangan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770991157825,
+        "last_search": 1771343536437,
         "created_at": 1770991157825,
         "locale": "id"
       },
@@ -25203,6 +25236,17 @@
         "last_search": 1771340383197,
         "created_at": 1771145709367,
         "locale": "id"
+      },
+      {
+        "id": "kw_549a16bd-5349-4d52-9729-cbb0854a9f9a",
+        "keyword": "Temen Ngaku Temen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771343536437,
+        "created_at": 1771343536437,
+        "locale": "id"
       }
     ],
     "e": [
@@ -26140,6 +26184,17 @@
         "last_search": 1770994476771,
         "created_at": 1770994476771,
         "locale": "id"
+      },
+      {
+        "id": "kw_2ff2516f-bfa3-47f9-b682-e0cad6006025",
+        "keyword": "Emang Dasar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771343536437,
+        "created_at": 1771343536437,
+        "locale": "id"
       }
     ],
     "w": [
@@ -26159,9 +26214,9 @@
         "keyword": "WALI",
         "tags": [],
         "weight": 1,
-        "impressions": 14,
+        "impressions": 15,
         "clicks": 0,
-        "last_search": 1770383332099,
+        "last_search": 1771343536437,
         "created_at": 1769359994199,
         "locale": "id"
       },
@@ -27175,6 +27230,17 @@
         "clicks": 0,
         "last_search": 1770994471333,
         "created_at": 1770994471333,
+        "locale": "id"
+      },
+      {
+        "id": "kw_65993bf4-8abd-4788-bd3e-0ccad637ed93",
+        "keyword": "WALI - Emang Dasar",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771343536437,
+        "created_at": 1771343536437,
         "locale": "id"
       }
     ],
@@ -32052,6 +32118,28 @@
         "clicks": 0,
         "last_search": 1771341252443,
         "created_at": 1771341252443,
+        "locale": "id"
+      },
+      {
+        "id": "kw_64c69180-62c7-4dcf-a309-6efb4fe92b69",
+        "keyword": "Anjar Ox's - Temen Ngaku Temen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771343536437,
+        "created_at": 1771343536437,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dadb5cfe-ec20-4e96-b498-6914d2744f65",
+        "keyword": "Anjar Ox's",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771343536437,
+        "created_at": 1771343536437,
         "locale": "id"
       }
     ],
