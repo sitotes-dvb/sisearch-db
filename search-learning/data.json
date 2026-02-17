@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1771340341532,
+    "last_updated": 1771340383232,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -4250,6 +4250,17 @@
         "last_search": 1771340341471,
         "created_at": 1771340341471,
         "locale": "id"
+      },
+      {
+        "id": "kw_303d7956-3f6b-49d4-9344-f27f5a5e8aad",
+        "keyword": "Daftar Koleksi / Sal Priadi @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340383196,
+        "created_at": 1771340383196,
+        "locale": "id"
       }
     ],
     "l": [
@@ -5660,6 +5671,39 @@
         "last_search": 1771340341470,
         "created_at": 1771340341470,
         "locale": "id"
+      },
+      {
+        "id": "kw_b0974bce-ac17-4a91-b961-9217ecde03ec",
+        "keyword": "Lomba Sihir - Lomba Sihir!",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340383197,
+        "created_at": 1771340383197,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e2e76d67-99fc-4bb3-b452-90cde753951c",
+        "keyword": "Lomba Sihir",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340383197,
+        "created_at": 1771340383197,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5f0351e2-7ca9-42d0-8f90-094471883512",
+        "keyword": "Lomba Sihir!",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340383197,
+        "created_at": 1771340383197,
+        "locale": "id"
       }
     ],
     "k": [
@@ -6449,9 +6493,9 @@
         "keyword": "Kita Usahakan Lagi",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770627857666,
+        "last_search": 1771340383196,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -8484,9 +8528,9 @@
         "keyword": "Kita usahakan rumah itu",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770912619019,
+        "last_search": 1771340383196,
         "created_at": 1770304112662,
         "locale": "id"
       },
@@ -14059,6 +14103,17 @@
         "last_search": 1771340341471,
         "created_at": 1771340341470,
         "locale": "id"
+      },
+      {
+        "id": "kw_332f5f59-acb9-4f18-b669-fa7cb3449ea9",
+        "keyword": "Mesra-mesraannya kecil-kecilan dulu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340383197,
+        "created_at": 1771340383197,
+        "locale": "id"
       }
     ],
     "h": [
@@ -16329,6 +16384,28 @@
         "last_search": 1771340341470,
         "created_at": 1771340341470,
         "locale": "id"
+      },
+      {
+        "id": "kw_89dd0b01-d131-421d-b9a8-a587d96819af",
+        "keyword": "Jayadi - Terima Kasih",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340383197,
+        "created_at": 1771340383197,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d1d36206-0578-4d48-8009-c83597456077",
+        "keyword": "Jayadi",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340383197,
+        "created_at": 1771340383197,
+        "locale": "id"
       }
     ],
     "g": [
@@ -17516,9 +17593,9 @@
         "keyword": "Nadin Amizah",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770488200548,
+        "last_search": 1771340383197,
         "created_at": 1769354018053,
         "locale": "id"
       },
@@ -20788,6 +20865,28 @@
         "last_search": 1771340341470,
         "created_at": 1771340341470,
         "locale": "id"
+      },
+      {
+        "id": "kw_5105290b-26a3-45dd-bd8e-010d040d3898",
+        "keyword": "Nanti Kita Seperti Ini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340383197,
+        "created_at": 1771340383197,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5580d1d8-b8d6-4c02-ba38-d5255c389748",
+        "keyword": "Nadin Amizah - Ah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340383197,
+        "created_at": 1771340383197,
+        "locale": "id"
       }
     ],
     "b": [
@@ -21170,9 +21269,9 @@
         "keyword": "Batas Senja",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770627857666,
+        "last_search": 1771340383196,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -21676,9 +21775,9 @@
         "keyword": "Batas Senja - Kita Usahakan Lagi",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770627857666,
+        "last_search": 1771340383196,
         "created_at": 1770026601864,
         "locale": "id"
       },
@@ -22483,6 +22582,50 @@
         "clicks": 0,
         "last_search": 1770995333287,
         "created_at": 1770995333287,
+        "locale": "id"
+      },
+      {
+        "id": "kw_118206b6-a830-4561-be39-0d550f98d008",
+        "keyword": "Betrand Putra Onsu - Bila Memang Kamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340383196,
+        "created_at": 1771340383196,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d8ef978c-4ad1-471f-a917-9bdadcedc370",
+        "keyword": "Betrand Putra Onsu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340383196,
+        "created_at": 1771340383196,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0ec2a420-c673-4273-80db-2ba83afabe26",
+        "keyword": "Bila Memang Kamu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340383196,
+        "created_at": 1771340383196,
+        "locale": "id"
+      },
+      {
+        "id": "kw_dbdc115d-ca03-44d0-bb42-81b3229e9712",
+        "keyword": "Batas Senja - Nanti Kita Seperti Ini",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340383197,
+        "created_at": 1771340383197,
         "locale": "id"
       }
     ],
@@ -25022,9 +25165,9 @@
         "keyword": "Terima Kasih",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1771145709367,
+        "last_search": 1771340383197,
         "created_at": 1771145709367,
         "locale": "id"
       }
@@ -31833,6 +31976,39 @@
         "last_search": 1770994476771,
         "created_at": 1770994476771,
         "locale": "id"
+      },
+      {
+        "id": "kw_b34fc98c-1fd5-41f4-84aa-444666b0349e",
+        "keyword": "Amin Paling Serius - Sal Priadi & Nadin Amizah (Versi C ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340383196,
+        "created_at": 1771340383196,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f50d7d74-06c1-4ce2-b1df-45da232f4c91",
+        "keyword": "Amin Paling Serius",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340383196,
+        "created_at": 1771340383196,
+        "locale": "id"
+      },
+      {
+        "id": "kw_5540fcdf-9193-4079-b498-105deffde41f",
+        "keyword": "Ah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340383197,
+        "created_at": 1771340383197,
+        "locale": "id"
       }
     ],
     "r": [
@@ -36463,9 +36639,9 @@
         "keyword": "Sal Priadi",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770912619019,
+        "last_search": 1771340383196,
         "created_at": 1770215621098,
         "locale": "id"
       },
@@ -36606,9 +36782,9 @@
         "keyword": "Sal Priadi - Kita usahakan rumah itu",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770912619019,
+        "last_search": 1771340383196,
         "created_at": 1770304112662,
         "locale": "id"
       },
@@ -37600,6 +37776,28 @@
         "clicks": 0,
         "last_search": 1771340341471,
         "created_at": 1771340341471,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a3b3445c-bee8-4042-82e2-5db68d900147",
+        "keyword": "Sal Priadi & Nadin Amizah (Versi C",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340383197,
+        "created_at": 1771340383197,
+        "locale": "id"
+      },
+      {
+        "id": "kw_0d88b99f-7008-425b-b0f0-3557f647105f",
+        "keyword": "Sal Priadi - Mesra-mesraannya kecil-kecilan dulu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771340383197,
+        "created_at": 1771340383197,
         "locale": "id"
       }
     ],
