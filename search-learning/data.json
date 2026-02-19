@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1771510534691,
+    "last_updated": 1771511878303,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -38162,6 +38162,17 @@
         "last_search": 1771510534648,
         "created_at": 1771510534648,
         "locale": "id"
+      },
+      {
+        "id": "kw_a8597bb6-612e-4a3b-a4eb-3667c0013674",
+        "keyword": "Surat Cinta Untuk Starla",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771511878263,
+        "created_at": 1771511878263,
+        "locale": "id"
       }
     ],
     "y": [
@@ -41847,6 +41858,28 @@
         "clicks": 0,
         "last_search": 1770815330294,
         "created_at": 1770815330294,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a268eb27-40b1-4d48-b910-4a6bd2a635a5",
+        "keyword": "Virgoun - Surat Cinta Untuk Starla",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771511878263,
+        "created_at": 1771511878263,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fc8f4134-dc79-4d7c-a7d7-1e36b588db0d",
+        "keyword": "Virgoun",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771511878263,
+        "created_at": 1771511878263,
         "locale": "id"
       }
     ],
