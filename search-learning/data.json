@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1771768816470,
+    "last_updated": 1771769019148,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -3365,9 +3365,9 @@
         "keyword": "Dongker & Jason Ranti - disarankan di bandung ...",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1771510534647,
+        "last_search": 1771769019088,
         "created_at": 1770357692251,
         "locale": "id"
       },
@@ -3376,9 +3376,9 @@
         "keyword": "Dongker & Jason Ranti",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1771510534647,
+        "last_search": 1771769019088,
         "created_at": 1770357692251,
         "locale": "id"
       },
@@ -3387,9 +3387,9 @@
         "keyword": "disarankan di bandung",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1771510534647,
+        "last_search": 1771769019088,
         "created_at": 1770357692251,
         "locale": "id"
       },
@@ -7219,9 +7219,9 @@
         "keyword": "Koes Plus",
         "tags": [],
         "weight": 1,
-        "impressions": 4,
+        "impressions": 5,
         "clicks": 0,
-        "last_search": 1771343536437,
+        "last_search": 1771769019107,
         "created_at": 1769747894346,
         "locale": "id"
       },
@@ -9474,9 +9474,9 @@
         "keyword": "Koes Plus - Bujangan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1771343536437,
+        "last_search": 1771769019107,
         "created_at": 1770991157825,
         "locale": "id"
       },
@@ -12041,9 +12041,9 @@
         "keyword": "Marjinal",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1771341252443,
+        "last_search": 1771769019105,
         "created_at": 1769407471815,
         "locale": "id"
       },
@@ -14362,9 +14362,9 @@
         "keyword": "Myfriends Band - Mantan Bajingan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1771343536437,
+        "last_search": 1771769019106,
         "created_at": 1771343536437,
         "locale": "id"
       },
@@ -14373,9 +14373,9 @@
         "keyword": "Myfriends Band",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1771343536437,
+        "last_search": 1771769019106,
         "created_at": 1771343536437,
         "locale": "id"
       },
@@ -14384,9 +14384,9 @@
         "keyword": "Mantan Bajingan",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1771343536437,
+        "last_search": 1771769019106,
         "created_at": 1771343536437,
         "locale": "id"
       },
@@ -14410,6 +14410,17 @@
         "clicks": 0,
         "last_search": 1771343833177,
         "created_at": 1771343833177,
+        "locale": "id"
+      },
+      {
+        "id": "kw_be7ccf37-664b-4c28-9238-609659faec68",
+        "keyword": "Marjinal - Aparat Bangsat",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771769019105,
+        "created_at": 1771769019088,
         "locale": "id"
       }
     ],
@@ -21918,9 +21929,9 @@
         "keyword": "Bernadya",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1770994471333,
+        "last_search": 1771769019107,
         "created_at": 1769748226720,
         "locale": "id"
       },
@@ -22897,9 +22908,9 @@
         "keyword": "Bujangan",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1771343536437,
+        "last_search": 1771769019107,
         "created_at": 1770991157825,
         "locale": "id"
       },
@@ -23022,6 +23033,17 @@
         "clicks": 0,
         "last_search": 1771766428407,
         "created_at": 1771766428407,
+        "locale": "id"
+      },
+      {
+        "id": "kw_21223dc2-9fd3-4128-b59f-d7d2453698c7",
+        "keyword": "Bernadya - Untungnya, Hidup Harus Tetap Berjalan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771769019107,
+        "created_at": 1771769019107,
         "locale": "id"
       }
     ],
@@ -25572,9 +25594,9 @@
         "keyword": "Temen Ngaku Temen",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1771343536437,
+        "last_search": 1771769019107,
         "created_at": 1771343536437,
         "locale": "id"
       },
@@ -26575,9 +26597,9 @@
         "keyword": "Emang Dasar",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1771343536437,
+        "last_search": 1771769019106,
         "created_at": 1771343536437,
         "locale": "id"
       }
@@ -26599,9 +26621,9 @@
         "keyword": "WALI",
         "tags": [],
         "weight": 1,
-        "impressions": 15,
+        "impressions": 16,
         "clicks": 0,
-        "last_search": 1771343536437,
+        "last_search": 1771769019106,
         "created_at": 1769359994199,
         "locale": "id"
       },
@@ -27622,9 +27644,9 @@
         "keyword": "WALI - Emang Dasar",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1771343536437,
+        "last_search": 1771769019106,
         "created_at": 1771343536437,
         "locale": "id"
       }
@@ -32532,9 +32554,9 @@
         "keyword": "Anjar Ox's - Temen Ngaku Temen",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1771343536437,
+        "last_search": 1771769019106,
         "created_at": 1771343536437,
         "locale": "id"
       },
@@ -32543,9 +32565,9 @@
         "keyword": "Anjar Ox's",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1771343536437,
+        "last_search": 1771769019106,
         "created_at": 1771343536437,
         "locale": "id"
       },
@@ -32591,6 +32613,17 @@
         "clicks": 0,
         "last_search": 1771765302959,
         "created_at": 1771765302959,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ba17bfdf-b850-461d-802a-b23584e104ae",
+        "keyword": "Aparat Bangsat",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771769019106,
+        "created_at": 1771769019105,
         "locale": "id"
       }
     ],
@@ -42443,6 +42476,17 @@
         "clicks": 0,
         "last_search": 1771075490934,
         "created_at": 1771075490934,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8d77213b-59c1-4252-80c2-c3984a450c57",
+        "keyword": "Untungnya, Hidup Harus Tetap Berjalan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771769019107,
+        "created_at": 1771769019107,
         "locale": "id"
       }
     ],
