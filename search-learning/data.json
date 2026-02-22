@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1771511878303,
+    "last_updated": 1771765303018,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -329,9 +329,9 @@
         "keyword": "Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 84,
+        "impressions": 85,
         "clicks": 0,
-        "last_search": 1771341252442,
+        "last_search": 1771765302957,
         "created_at": 1769395121042,
         "locale": "id"
       },
@@ -516,9 +516,9 @@
         "keyword": "Denny Caknan - Jajalen Aku",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770792431852,
+        "last_search": 1771765302958,
         "created_at": 1769397199479,
         "locale": "id"
       },
@@ -4047,9 +4047,9 @@
         "keyword": "Denny Caknan - LOS DOL",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770990651002,
+        "last_search": 1771765302957,
         "created_at": 1770970998855,
         "locale": "id"
       },
@@ -4234,9 +4234,9 @@
         "keyword": "Dutkustik",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1771340341470,
+        "last_search": 1771765302958,
         "created_at": 1771340341470,
         "locale": "id"
       },
@@ -4337,6 +4337,28 @@
         "clicks": 0,
         "last_search": 1771510534648,
         "created_at": 1771510534647,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bd7805f8-0560-4689-b7a4-49ca69399eb2",
+        "keyword": "Daftar Koleksi / Lek Dahlan @Chordtela.com",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771765302958,
+        "created_at": 1771765302958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9955f39e-e343-4e2d-b78a-d6d0eb52c16b",
+        "keyword": "Dutkustik - Los Gak Rewel",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771765302958,
+        "created_at": 1771765302958,
         "locale": "id"
       }
     ],
@@ -4830,9 +4852,9 @@
         "keyword": "Lyla",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769669678030,
+        "last_search": 1771765302958,
         "created_at": 1769669678030,
         "locale": "id"
       },
@@ -5655,9 +5677,9 @@
         "keyword": "LOS DOL",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770990651002,
+        "last_search": 1771765302957,
         "created_at": 1770970998855,
         "locale": "id"
       },
@@ -5792,6 +5814,50 @@
         "last_search": 1771477679971,
         "created_at": 1771477679971,
         "locale": "id"
+      },
+      {
+        "id": "kw_2995c872-84c0-419e-b5e5-b8809f17ea83",
+        "keyword": "Lek Dahlan - Jogo Benik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771765302958,
+        "created_at": 1771765302957,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e79a56dc-93ee-4db8-929d-24ecf2206118",
+        "keyword": "Lek Dahlan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771765302958,
+        "created_at": 1771765302958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_fc2ab8db-4637-4a54-ba68-f6a1cc78f949",
+        "keyword": "Los Gak Rewel",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771765302958,
+        "created_at": 1771765302958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_083b9ca4-8e6c-4742-a385-97edde0f91fc",
+        "keyword": "Lyla - Tak kan Ada",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771765302958,
+        "created_at": 1771765302958,
+        "locale": "id"
       }
     ],
     "k": [
@@ -5899,9 +5965,9 @@
         "keyword": "Kumpulan Gitar Denny Caknan",
         "tags": [],
         "weight": 1,
-        "impressions": 15,
+        "impressions": 16,
         "clicks": 0,
-        "last_search": 1771341252442,
+        "last_search": 1771765302958,
         "created_at": 1769395314316,
         "locale": "id"
       },
@@ -11769,6 +11835,17 @@
         "last_search": 1771343833177,
         "created_at": 1771343833177,
         "locale": "id"
+      },
+      {
+        "id": "kw_79f5bff6-7184-4029-a3c4-c96500b83318",
+        "keyword": "Problems",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771765302958,
+        "created_at": 1771765302958,
+        "locale": "id"
       }
     ],
     "m": [
@@ -15488,9 +15565,9 @@
         "keyword": "Jajalen Aku",
         "tags": [],
         "weight": 1,
-        "impressions": 9,
+        "impressions": 10,
         "clicks": 0,
-        "last_search": 1770792431852,
+        "last_search": 1771765302958,
         "created_at": 1769397199479,
         "locale": "id"
       },
@@ -16614,6 +16691,17 @@
         "clicks": 0,
         "last_search": 1771341252443,
         "created_at": 1771341252443,
+        "locale": "id"
+      },
+      {
+        "id": "kw_45dc00a0-3ac1-41dc-9864-c97b3c65ccd2",
+        "keyword": "Jogo Benik",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771765302958,
+        "created_at": 1771765302958,
         "locale": "id"
       }
     ],
@@ -21107,6 +21195,17 @@
         "last_search": 1771340383197,
         "created_at": 1771340383197,
         "locale": "id"
+      },
+      {
+        "id": "kw_07663c23-8a34-41d4-a0cd-47ac3e06c0cb",
+        "keyword": "Ngempit Botol",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771765302958,
+        "created_at": 1771765302958,
+        "locale": "id"
       }
     ],
     "b": [
@@ -25422,6 +25521,28 @@
         "clicks": 0,
         "last_search": 1771510534648,
         "created_at": 1771510534648,
+        "locale": "id"
+      },
+      {
+        "id": "kw_a682ad77-5451-48ee-8d12-28456a7cd3b9",
+        "keyword": "Tak kan Ada",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771765302958,
+        "created_at": 1771765302958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3e0a4466-72af-4ee4-b380-4ea048cc7add",
+        "keyword": "Takdok Jodoh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771765302959,
+        "created_at": 1771765302959,
         "locale": "id"
       }
     ],
@@ -32338,6 +32459,50 @@
         "clicks": 0,
         "last_search": 1771343536437,
         "created_at": 1771343536437,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9740c373-e039-4ce1-9e86-b160c9155eae",
+        "keyword": "Aerosmith, YUNGBLUD - Problems",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771765302958,
+        "created_at": 1771765302958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e8e2aeb7-a86d-4a44-a8d9-39898d45c5c8",
+        "keyword": "Aerosmith, YUNGBLUD",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771765302958,
+        "created_at": 1771765302958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_23e44d30-a4b3-4774-a40f-b3b1cfc9b941",
+        "keyword": "Adam ZBP - Takdok Jodoh",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771765302959,
+        "created_at": 1771765302958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d234c566-3ca7-4bda-aec5-0a301ba7acfb",
+        "keyword": "Adam ZBP",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771765302959,
+        "created_at": 1771765302959,
         "locale": "id"
       }
     ],
@@ -39780,9 +39945,9 @@
         "keyword": "Intan Chacha",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1771340341470,
+        "last_search": 1771765302958,
         "created_at": 1769510714274,
         "locale": "id"
       },
@@ -40653,6 +40818,17 @@
         "clicks": 0,
         "last_search": 1771340341470,
         "created_at": 1771340341470,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ac54128b-317b-4eda-9122-f0c61ddff93c",
+        "keyword": "Intan Chacha - Ngempit Botol",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771765302958,
+        "created_at": 1771765302958,
         "locale": "id"
       }
     ],
