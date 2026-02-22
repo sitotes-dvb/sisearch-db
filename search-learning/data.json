@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1771765303018,
+    "last_updated": 1771766428449,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -1902,9 +1902,9 @@
         "keyword": "Di Batas Kota Ini - Tommy J Pisa",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769760517514,
+        "last_search": 1771766428406,
         "created_at": 1769759672427,
         "locale": "id"
       },
@@ -1913,9 +1913,9 @@
         "keyword": "Di Batas Kota Ini",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769760517514,
+        "last_search": 1771766428406,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -7483,9 +7483,9 @@
         "keyword": "Kota",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1769760517514,
+        "last_search": 1771766428406,
         "created_at": 1769759672432,
         "locale": "id"
       },
@@ -7538,9 +7538,9 @@
         "keyword": "kota ini tak sama tanpamu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769760095553,
+        "last_search": 1771766428406,
         "created_at": 1769760095553,
         "locale": "id"
       },
@@ -9710,6 +9710,17 @@
         "last_search": 1771345405721,
         "created_at": 1771345405721,
         "locale": "id"
+      },
+      {
+        "id": "kw_675d8c2d-c4c5-4569-8562-2d2e65a53eb8",
+        "keyword": "Kau Pemeran Utama Di Sebuah Opera",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771766428406,
+        "created_at": 1771766428406,
+        "locale": "id"
       }
     ],
     "p": [
@@ -10268,9 +10279,9 @@
         "keyword": "Piche Kota - Bahagia Lagi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769517639264,
+        "last_search": 1771766428407,
         "created_at": 1769517639264,
         "locale": "id"
       },
@@ -10279,9 +10290,9 @@
         "keyword": "Piche Kota",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770627857654,
+        "last_search": 1771766428407,
         "created_at": 1769517639264,
         "locale": "id"
       },
@@ -16703,6 +16714,28 @@
         "last_search": 1771765302958,
         "created_at": 1771765302958,
         "locale": "id"
+      },
+      {
+        "id": "kw_b213fa4f-620d-49fc-bdb4-84e19f143a76",
+        "keyword": "JKT48 - Seventeen",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771766428406,
+        "created_at": 1771766428406,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cab3df42-6117-4952-8b06-8a374b8c0221",
+        "keyword": "JKT48",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771766428406,
+        "created_at": 1771766428406,
+        "locale": "id"
       }
     ],
     "g": [
@@ -17901,9 +17934,9 @@
         "keyword": "Nadin Amizah",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1771340383197,
+        "last_search": 1771766428407,
         "created_at": 1769354018053,
         "locale": "id"
       },
@@ -18693,9 +18726,9 @@
         "keyword": "Nina",
         "tags": [],
         "weight": 1,
-        "impressions": 6,
+        "impressions": 7,
         "clicks": 0,
-        "last_search": 1770912284653,
+        "last_search": 1771766428406,
         "created_at": 1769437339682,
         "locale": "id"
       },
@@ -19001,9 +19034,9 @@
         "keyword": "Nadhif Basalamah",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769760095553,
+        "last_search": 1771766428406,
         "created_at": 1769518999262,
         "locale": "id"
       },
@@ -19760,9 +19793,9 @@
         "keyword": "Nadhif Basalamah - kota ini tak sama tanpamu ...",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769760095553,
+        "last_search": 1771766428406,
         "created_at": 1769760095553,
         "locale": "id"
       },
@@ -21206,6 +21239,17 @@
         "last_search": 1771765302958,
         "created_at": 1771765302958,
         "locale": "id"
+      },
+      {
+        "id": "kw_1bbe4f41-0dbd-4d3b-868b-8ba0d77775e3",
+        "keyword": "Nadin Amizah - Bertaut",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771766428407,
+        "created_at": 1771766428407,
+        "locale": "id"
       }
     ],
     "b": [
@@ -21566,9 +21610,9 @@
         "keyword": "Bahagia Lagi",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769517639264,
+        "last_search": 1771766428407,
         "created_at": 1769517639264,
         "locale": "id"
       },
@@ -22946,6 +22990,17 @@
         "last_search": 1771340383197,
         "created_at": 1771340383197,
         "locale": "id"
+      },
+      {
+        "id": "kw_2f7eb15a-e2df-41f5-8569-f4b18142c31f",
+        "keyword": "Bertaut",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771766428407,
+        "created_at": 1771766428407,
+        "locale": "id"
       }
     ],
     "t": [
@@ -23768,9 +23823,9 @@
         "keyword": "Tommy J Pisa",
         "tags": [],
         "weight": 1,
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
-        "last_search": 1770218270043,
+        "last_search": 1771766428406,
         "created_at": 1769669620389,
         "locale": "id"
       },
@@ -23900,9 +23955,9 @@
         "keyword": "The Jansen",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770291349354,
+        "last_search": 1771766428406,
         "created_at": 1769747925962,
         "locale": "id"
       },
@@ -25543,6 +25598,17 @@
         "clicks": 0,
         "last_search": 1771765302959,
         "created_at": 1771765302959,
+        "locale": "id"
+      },
+      {
+        "id": "kw_747720b8-2fcd-4400-9f57-fa3fdaed1a90",
+        "keyword": "The Jansen - Kau Pemeran Utama Di Sebuah Opera ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771766428406,
+        "created_at": 1771766428406,
         "locale": "id"
       }
     ],
@@ -28438,9 +28504,9 @@
         "keyword": "Celengan Rindu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770297948724,
+        "last_search": 1771766428406,
         "created_at": 1770297948724,
         "locale": "id"
       },
@@ -30530,9 +30596,9 @@
         "keyword": "Adhitia Sofyan - Sesuatu Di Jogja",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770357692266,
+        "last_search": 1771766428407,
         "created_at": 1769747925962,
         "locale": "id"
       },
@@ -30541,9 +30607,9 @@
         "keyword": "Adhitia Sofyan",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770357692266,
+        "last_search": 1771766428407,
         "created_at": 1769747925962,
         "locale": "id"
       },
@@ -34076,9 +34142,9 @@
         "keyword": "Seventeen",
         "tags": [],
         "weight": 1,
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
-        "last_search": 1770550577344,
+        "last_search": 1771766428406,
         "created_at": 1769360020300,
         "locale": "id"
       },
@@ -36078,9 +36144,9 @@
         "keyword": "Sesuatu Di Jogja",
         "tags": [],
         "weight": 1,
-        "impressions": 3,
+        "impressions": 4,
         "clicks": 0,
-        "last_search": 1770357692266,
+        "last_search": 1771766428407,
         "created_at": 1769747925962,
         "locale": "id"
       },
@@ -39327,9 +39393,9 @@
         "keyword": "Fiersa Besari - Celengan Rindu",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770297948724,
+        "last_search": 1771766428406,
         "created_at": 1770297948724,
         "locale": "id"
       },
@@ -39338,9 +39404,9 @@
         "keyword": "Fiersa Besari",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770297948724,
+        "last_search": 1771766428406,
         "created_at": 1770297948724,
         "locale": "id"
       },
@@ -39967,9 +40033,9 @@
         "keyword": "Iwan Fals",
         "tags": [],
         "weight": 1,
-        "impressions": 15,
+        "impressions": 16,
         "clicks": 0,
-        "last_search": 1770627857666,
+        "last_search": 1771766428406,
         "created_at": 1769517639265,
         "locale": "id"
       },
@@ -40132,9 +40198,9 @@
         "keyword": "Iwan Fals - Kota",
         "tags": [],
         "weight": 1,
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
-        "last_search": 1769760517514,
+        "last_search": 1771766428406,
         "created_at": 1769760327977,
         "locale": "id"
       },
