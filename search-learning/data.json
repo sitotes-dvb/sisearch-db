@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": 1771773963664,
+    "last_updated": 1771782686003,
     "strategy": "prefix-grouped",
     "version": 2
   },
@@ -4359,6 +4359,28 @@
         "clicks": 0,
         "last_search": 1771773963603,
         "created_at": 1771765302958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3b3d1966-d807-472d-83dd-92831d832657",
+        "keyword": "Dewi Zega - Kenangan Yang Tersimpan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685962,
+        "created_at": 1771782685962,
+        "locale": "id"
+      },
+      {
+        "id": "kw_f6289109-d414-40c1-b3bc-49cc964a0709",
+        "keyword": "Dewi Zega",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685962,
+        "created_at": 1771782685962,
         "locale": "id"
       }
     ],
@@ -9732,6 +9754,39 @@
         "last_search": 1771767561462,
         "created_at": 1771767561462,
         "locale": "id"
+      },
+      {
+        "id": "kw_196e0f41-febd-4a14-af90-9a356953313c",
+        "keyword": "Kata Maaf Takan Membunuhmu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685961,
+        "created_at": 1771782685960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b46ab366-4767-448b-b9a4-b173dc821bcc",
+        "keyword": "Kenangan Yang Tersimpan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685962,
+        "created_at": 1771782685962,
+        "locale": "id"
+      },
+      {
+        "id": "kw_cb3c3714-bd00-43d4-a2f6-3449d7fe9ba1",
+        "keyword": "Keliru",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685962,
+        "created_at": 1771782685962,
+        "locale": "id"
       }
     ],
     "p": [
@@ -11867,6 +11922,28 @@
         "clicks": 0,
         "last_search": 1771773963602,
         "created_at": 1771765302958,
+        "locale": "id"
+      },
+      {
+        "id": "kw_e51dced7-f879-4ad0-9c86-2721a3b4b80d",
+        "keyword": "Pesan Dari Hati - Ruri Wantogia feat. Cynthia ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685961,
+        "created_at": 1771782685961,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c7998caf-9b82-453e-ab20-4de0126c0918",
+        "keyword": "Pesan Dari Hati",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685961,
+        "created_at": 1771782685961,
         "locale": "id"
       }
     ],
@@ -15479,6 +15556,28 @@
         "clicks": 0,
         "last_search": 1771075490934,
         "created_at": 1771075490934,
+        "locale": "id"
+      },
+      {
+        "id": "kw_d631f958-577d-4800-8a68-38dff667a712",
+        "keyword": "Hendri Endico - Rasa Yang Tersimpan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685962,
+        "created_at": 1771782685962,
+        "locale": "id"
+      },
+      {
+        "id": "kw_233def42-c016-4939-a3ab-0cdb46129137",
+        "keyword": "Hendri Endico",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685962,
+        "created_at": 1771782685962,
         "locale": "id"
       }
     ],
@@ -22424,9 +22523,9 @@
         "keyword": "Bonet Less",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1770357811189,
+        "last_search": 1771782685960,
         "created_at": 1770357811189,
         "locale": "id"
       },
@@ -23044,6 +23143,17 @@
         "clicks": 0,
         "last_search": 1771769019107,
         "created_at": 1771769019107,
+        "locale": "id"
+      },
+      {
+        "id": "kw_2e54d246-9ad5-4da1-9cba-d5cdb293e1c8",
+        "keyword": "Bonet Less - Tersimpan Dalam Nama",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685960,
+        "created_at": 1771782685960,
         "locale": "id"
       }
     ],
@@ -25654,6 +25764,61 @@
         "last_search": 1771766428406,
         "created_at": 1771766428406,
         "locale": "id"
+      },
+      {
+        "id": "kw_500238fc-5957-4653-acd4-a127c68340a1",
+        "keyword": "Tersimpan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685960,
+        "created_at": 1771782685960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_addc0b43-8a4b-4483-92db-f8813086cd66",
+        "keyword": "Tersimpan Dalam Nama",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685960,
+        "created_at": 1771782685960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_33691cb2-a7f3-41c9-96c6-202296b51296",
+        "keyword": "Titip Rindu Buat Ayah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685961,
+        "created_at": 1771782685961,
+        "locale": "id"
+      },
+      {
+        "id": "kw_25a01227-0643-47b5-b1a2-ccac9736889a",
+        "keyword": "The Virgin - Cinta Terlarang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685962,
+        "created_at": 1771782685962,
+        "locale": "id"
+      },
+      {
+        "id": "kw_246608ea-bf58-4bba-915c-0fe285492fc4",
+        "keyword": "The Virgin",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685962,
+        "created_at": 1771782685962,
+        "locale": "id"
       }
     ],
     "e": [
@@ -26601,6 +26766,28 @@
         "clicks": 0,
         "last_search": 1771769019106,
         "created_at": 1771343536437,
+        "locale": "id"
+      },
+      {
+        "id": "kw_bc8db947-dbe6-4db0-80f5-e9e79b25c927",
+        "keyword": "Ebiet G. Ade - Titip Rindu Buat Ayah",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685961,
+        "created_at": 1771782685961,
+        "locale": "id"
+      },
+      {
+        "id": "kw_ce590978-7694-4188-8479-6b307dbd4fbf",
+        "keyword": "Ebiet G. Ade",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685961,
+        "created_at": 1771782685961,
         "locale": "id"
       }
     ],
@@ -29190,6 +29377,17 @@
         "clicks": 0,
         "last_search": 1771345405721,
         "created_at": 1771345405721,
+        "locale": "id"
+      },
+      {
+        "id": "kw_8074b4c3-a42e-4d20-9f88-63266a3032af",
+        "keyword": "Cinta Terlarang",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685962,
+        "created_at": 1771782685962,
         "locale": "id"
       }
     ],
@@ -34178,6 +34376,50 @@
         "last_search": 1770994476771,
         "created_at": 1770994476771,
         "locale": "id"
+      },
+      {
+        "id": "kw_e241b8cc-a52c-4004-a894-6cd11f4b419d",
+        "keyword": "Ruri Wantogia feat. Cynthia",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685962,
+        "created_at": 1771782685962,
+        "locale": "id"
+      },
+      {
+        "id": "kw_9f041352-1de3-4b53-8287-e43660c69ed9",
+        "keyword": "Rasa Yang Tersimpan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685962,
+        "created_at": 1771782685962,
+        "locale": "id"
+      },
+      {
+        "id": "kw_c6017dc2-d679-485f-908b-a8daffa5b499",
+        "keyword": "Ruth Sahanaya - Keliru",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685962,
+        "created_at": 1771782685962,
+        "locale": "id"
+      },
+      {
+        "id": "kw_3406c224-0608-4879-a371-bf2b62beb3c4",
+        "keyword": "Ruth Sahanaya",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685962,
+        "created_at": 1771782685962,
+        "locale": "id"
       }
     ],
     "s": [
@@ -35638,9 +35880,9 @@
         "keyword": "Superiots",
         "tags": [],
         "weight": 1,
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
-        "last_search": 1769582688684,
+        "last_search": 1771782685960,
         "created_at": 1769582688684,
         "locale": "id"
       },
@@ -38458,6 +38700,28 @@
         "clicks": 0,
         "last_search": 1771511878263,
         "created_at": 1771511878263,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b2dd7d16-ad9e-4408-ac10-c23de4bc7ec8",
+        "keyword": "Selalu Tersimpan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685960,
+        "created_at": 1771782685960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_b6d3a152-ecf7-49bd-86af-5b19e982961d",
+        "keyword": "Superiots - Kata Maaf Takan Membunuhmu",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685960,
+        "created_at": 1771782685960,
         "locale": "id"
       }
     ],
@@ -41569,6 +41833,28 @@
         "last_search": 1771768816447,
         "created_at": 1771768816447,
         "locale": "id"
+      },
+      {
+        "id": "kw_53e0916d-7d30-4177-bedd-018ac51da771",
+        "keyword": "Our Story - Tersimpan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685960,
+        "created_at": 1771782685960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_62d7c8d4-fdc9-4815-be66-d835c1f2daf6",
+        "keyword": "Our Story",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685960,
+        "created_at": 1771782685960,
+        "locale": "id"
       }
     ],
     "x": [
@@ -42188,6 +42474,28 @@
         "clicks": 0,
         "last_search": 1771511878263,
         "created_at": 1771511878263,
+        "locale": "id"
+      },
+      {
+        "id": "kw_73991597-eea9-41ca-8669-952c194f8c9a",
+        "keyword": "Valdy Nyonk X Zinidin Zidan - Selalu Tersimpan ...",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685960,
+        "created_at": 1771782685960,
+        "locale": "id"
+      },
+      {
+        "id": "kw_1a330561-73ae-44c9-ad71-313c37bb0e13",
+        "keyword": "Valdy Nyonk X Zinidin Zidan",
+        "tags": [],
+        "weight": 1,
+        "impressions": 1,
+        "clicks": 0,
+        "last_search": 1771782685960,
+        "created_at": 1771782685960,
         "locale": "id"
       }
     ],
