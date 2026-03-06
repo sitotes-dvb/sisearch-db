@@ -1,0 +1,1087 @@
+{
+  "version": 5,
+  "shardLevel": 2,
+  "migratedAt": 1772777023292,
+  "totalKeywords": 3901,
+  "totalShards": 215,
+  "shards": [
+    {
+      "key": "da",
+      "count": 129,
+      "size": 15700
+    },
+    {
+      "key": "de",
+      "count": 128,
+      "size": 14600
+    },
+    {
+      "key": "ka",
+      "count": 115,
+      "size": 12613
+    },
+    {
+      "key": "ma",
+      "count": 107,
+      "size": 11759
+    },
+    {
+      "key": "sa",
+      "count": 97,
+      "size": 10480
+    },
+    {
+      "key": "ku",
+      "count": 88,
+      "size": 10332
+    },
+    {
+      "key": "se",
+      "count": 81,
+      "size": 8653
+    },
+    {
+      "key": "pe",
+      "count": 78,
+      "size": 8624
+    },
+    {
+      "key": "ke",
+      "count": 73,
+      "size": 7837
+    },
+    {
+      "key": "na",
+      "count": 72,
+      "size": 8146
+    },
+    {
+      "key": "nd",
+      "count": 71,
+      "size": 8502
+    },
+    {
+      "key": "la",
+      "count": 70,
+      "size": 7741
+    },
+    {
+      "key": "ja",
+      "count": 62,
+      "size": 6838
+    },
+    {
+      "key": "te",
+      "count": 62,
+      "size": 6749
+    },
+    {
+      "key": "di",
+      "count": 59,
+      "size": 6682
+    },
+    {
+      "key": "me",
+      "count": 59,
+      "size": 6407
+    },
+    {
+      "key": "ta",
+      "count": 59,
+      "size": 6434
+    },
+    {
+      "key": "an",
+      "count": 57,
+      "size": 6463
+    },
+    {
+      "key": "ar",
+      "count": 53,
+      "size": 6027
+    },
+    {
+      "key": "ci",
+      "count": 53,
+      "size": 5784
+    },
+    {
+      "key": "th",
+      "count": 48,
+      "size": 5670
+    },
+    {
+      "key": "ba",
+      "count": 46,
+      "size": 5179
+    },
+    {
+      "key": "ha",
+      "count": 46,
+      "size": 5182
+    },
+    {
+      "key": "su",
+      "count": 44,
+      "size": 4894
+    },
+    {
+      "key": "wa",
+      "count": 44,
+      "size": 4918
+    },
+    {
+      "key": "ra",
+      "count": 43,
+      "size": 4728
+    },
+    {
+      "key": "be",
+      "count": 42,
+      "size": 4613
+    },
+    {
+      "key": "sh",
+      "count": 42,
+      "size": 4877
+    },
+    {
+      "key": "pa",
+      "count": 41,
+      "size": 4570
+    },
+    {
+      "key": "gu",
+      "count": 40,
+      "size": 4578
+    },
+    {
+      "key": "ni",
+      "count": 39,
+      "size": 4456
+    },
+    {
+      "key": "ak",
+      "count": 38,
+      "size": 4208
+    },
+    {
+      "key": "ng",
+      "count": 38,
+      "size": 4106
+    },
+    {
+      "key": "no",
+      "count": 34,
+      "size": 3879
+    },
+    {
+      "key": "si",
+      "count": 34,
+      "size": 3776
+    },
+    {
+      "key": "ko",
+      "count": 32,
+      "size": 3427
+    },
+    {
+      "key": "pu",
+      "count": 32,
+      "size": 3629
+    },
+    {
+      "key": "fo",
+      "count": 31,
+      "size": 3689
+    },
+    {
+      "key": "fa",
+      "count": 30,
+      "size": 3405
+    },
+    {
+      "key": "wi",
+      "count": 30,
+      "size": 3367
+    },
+    {
+      "key": "ki",
+      "count": 29,
+      "size": 3179
+    },
+    {
+      "key": "ri",
+      "count": 29,
+      "size": 3319
+    },
+    {
+      "key": "ga",
+      "count": 28,
+      "size": 3130
+    },
+    {
+      "key": "other",
+      "count": 28,
+      "size": 3103
+    },
+    {
+      "key": "ca",
+      "count": 27,
+      "size": 3006
+    },
+    {
+      "key": "ne",
+      "count": 27,
+      "size": 3056
+    },
+    {
+      "key": "ch",
+      "count": 26,
+      "size": 3197
+    },
+    {
+      "key": "in",
+      "count": 26,
+      "size": 3043
+    },
+    {
+      "key": "ji",
+      "count": 26,
+      "size": 2969
+    },
+    {
+      "key": "va",
+      "count": 26,
+      "size": 3102
+    },
+    {
+      "key": "bi",
+      "count": 24,
+      "size": 2731
+    },
+    {
+      "key": "pi",
+      "count": 24,
+      "size": 2751
+    },
+    {
+      "key": "bu",
+      "count": 23,
+      "size": 2537
+    },
+    {
+      "key": "hi",
+      "count": 23,
+      "size": 2607
+    },
+    {
+      "key": "st",
+      "count": 23,
+      "size": 2692
+    },
+    {
+      "key": "ay",
+      "count": 22,
+      "size": 2563
+    },
+    {
+      "key": "bo",
+      "count": 22,
+      "size": 2545
+    },
+    {
+      "key": "el",
+      "count": 22,
+      "size": 2449
+    },
+    {
+      "key": "mi",
+      "count": 22,
+      "size": 2574
+    },
+    {
+      "key": "re",
+      "count": 22,
+      "size": 2451
+    },
+    {
+      "key": "tr",
+      "count": 22,
+      "size": 2528
+    },
+    {
+      "key": "he",
+      "count": 21,
+      "size": 2350
+    },
+    {
+      "key": "mo",
+      "count": 21,
+      "size": 2273
+    },
+    {
+      "key": "ro",
+      "count": 21,
+      "size": 2356
+    },
+    {
+      "key": "al",
+      "count": 20,
+      "size": 2200
+    },
+    {
+      "key": "du",
+      "count": 20,
+      "size": 2199
+    },
+    {
+      "key": "le",
+      "count": 20,
+      "size": 2212
+    },
+    {
+      "key": "lo",
+      "count": 19,
+      "size": 2038
+    },
+    {
+      "key": "vi",
+      "count": 19,
+      "size": 2104
+    },
+    {
+      "key": "or",
+      "count": 18,
+      "size": 1996
+    },
+    {
+      "key": "so",
+      "count": 17,
+      "size": 1963
+    },
+    {
+      "key": "sy",
+      "count": 17,
+      "size": 2023
+    },
+    {
+      "key": "ti",
+      "count": 17,
+      "size": 1938
+    },
+    {
+      "key": "ad",
+      "count": 16,
+      "size": 1785
+    },
+    {
+      "key": "iw",
+      "count": 16,
+      "size": 1869
+    },
+    {
+      "key": "sl",
+      "count": 16,
+      "size": 1824
+    },
+    {
+      "key": "un",
+      "count": 16,
+      "size": 1813
+    },
+    {
+      "key": "ce",
+      "count": 15,
+      "size": 1763
+    },
+    {
+      "key": "en",
+      "count": 15,
+      "size": 1775
+    },
+    {
+      "key": "ru",
+      "count": 15,
+      "size": 1673
+    },
+    {
+      "key": "yo",
+      "count": 15,
+      "size": 1746
+    },
+    {
+      "key": "zi",
+      "count": 15,
+      "size": 1720
+    },
+    {
+      "key": "af",
+      "count": 14,
+      "size": 1719
+    },
+    {
+      "key": "do",
+      "count": 14,
+      "size": 1654
+    },
+    {
+      "key": "gi",
+      "count": 14,
+      "size": 1543
+    },
+    {
+      "key": "ju",
+      "count": 14,
+      "size": 1625
+    },
+    {
+      "key": "to",
+      "count": 14,
+      "size": 1689
+    },
+    {
+      "key": "ap",
+      "count": 13,
+      "size": 1573
+    },
+    {
+      "key": "as",
+      "count": 13,
+      "size": 1454
+    },
+    {
+      "key": "dh",
+      "count": 13,
+      "size": 1556
+    },
+    {
+      "key": "er",
+      "count": 13,
+      "size": 1484
+    },
+    {
+      "key": "il",
+      "count": 13,
+      "size": 1535
+    },
+    {
+      "key": "ny",
+      "count": 13,
+      "size": 1417
+    },
+    {
+      "key": "tu",
+      "count": 13,
+      "size": 1492
+    },
+    {
+      "key": "fe",
+      "count": 12,
+      "size": 1514
+    },
+    {
+      "key": "mu",
+      "count": 12,
+      "size": 1337
+    },
+    {
+      "key": "ab",
+      "count": 11,
+      "size": 1281
+    },
+    {
+      "key": "ag",
+      "count": 11,
+      "size": 1368
+    },
+    {
+      "key": "pr",
+      "count": 11,
+      "size": 1206
+    },
+    {
+      "key": "ya",
+      "count": 11,
+      "size": 1262
+    },
+    {
+      "key": "ai",
+      "count": 10,
+      "size": 1132
+    },
+    {
+      "key": "ev",
+      "count": 10,
+      "size": 1100
+    },
+    {
+      "key": "fr",
+      "count": 10,
+      "size": 1220
+    },
+    {
+      "key": "li",
+      "count": 10,
+      "size": 1192
+    },
+    {
+      "key": "rh",
+      "count": 10,
+      "size": 1222
+    },
+    {
+      "key": "cu",
+      "count": 9,
+      "size": 1033
+    },
+    {
+      "key": "lu",
+      "count": 9,
+      "size": 1020
+    },
+    {
+      "key": "sr",
+      "count": 9,
+      "size": 1104
+    },
+    {
+      "key": "fi",
+      "count": 8,
+      "size": 926
+    },
+    {
+      "key": "om",
+      "count": 8,
+      "size": 952
+    },
+    {
+      "key": "ye",
+      "count": 8,
+      "size": 933
+    },
+    {
+      "key": "am",
+      "count": 7,
+      "size": 862
+    },
+    {
+      "key": "av",
+      "count": 7,
+      "size": 819
+    },
+    {
+      "key": "co",
+      "count": 7,
+      "size": 813
+    },
+    {
+      "key": "go",
+      "count": 7,
+      "size": 839
+    },
+    {
+      "key": "hu",
+      "count": 7,
+      "size": 800
+    },
+    {
+      "key": "ik",
+      "count": 7,
+      "size": 860
+    },
+    {
+      "key": "ip",
+      "count": 7,
+      "size": 847
+    },
+    {
+      "key": "is",
+      "count": 7,
+      "size": 815
+    },
+    {
+      "key": "je",
+      "count": 7,
+      "size": 844
+    },
+    {
+      "key": "kh",
+      "count": 7,
+      "size": 795
+    },
+    {
+      "key": "kr",
+      "count": 7,
+      "size": 838
+    },
+    {
+      "key": "oj",
+      "count": 7,
+      "size": 819
+    },
+    {
+      "key": "ed",
+      "count": 6,
+      "size": 709
+    },
+    {
+      "key": "es",
+      "count": 6,
+      "size": 781
+    },
+    {
+      "key": "gl",
+      "count": 6,
+      "size": 742
+    },
+    {
+      "key": "sk",
+      "count": 6,
+      "size": 723
+    },
+    {
+      "key": "we",
+      "count": 6,
+      "size": 670
+    },
+    {
+      "key": "aa",
+      "count": 5,
+      "size": 667
+    },
+    {
+      "key": "aj",
+      "count": 5,
+      "size": 574
+    },
+    {
+      "key": "eg",
+      "count": 5,
+      "size": 590
+    },
+    {
+      "key": "gm",
+      "count": 5,
+      "size": 625
+    },
+    {
+      "key": "id",
+      "count": 5,
+      "size": 623
+    },
+    {
+      "key": "jo",
+      "count": 5,
+      "size": 611
+    },
+    {
+      "key": "my",
+      "count": 5,
+      "size": 617
+    },
+    {
+      "key": "nu",
+      "count": 5,
+      "size": 648
+    },
+    {
+      "key": "on",
+      "count": 5,
+      "size": 593
+    },
+    {
+      "key": "po",
+      "count": 5,
+      "size": 654
+    },
+    {
+      "key": "tt",
+      "count": 5,
+      "size": 657
+    },
+    {
+      "key": "wu",
+      "count": 5,
+      "size": 597
+    },
+    {
+      "key": "xa",
+      "count": 5,
+      "size": 640
+    },
+    {
+      "key": "br",
+      "count": 4,
+      "size": 501
+    },
+    {
+      "key": "ek",
+      "count": 4,
+      "size": 502
+    },
+    {
+      "key": "ge",
+      "count": 4,
+      "size": 498
+    },
+    {
+      "key": "im",
+      "count": 4,
+      "size": 501
+    },
+    {
+      "key": "kl",
+      "count": 4,
+      "size": 469
+    },
+    {
+      "key": "nj",
+      "count": 4,
+      "size": 465
+    },
+    {
+      "key": "ol",
+      "count": 4,
+      "size": 532
+    },
+    {
+      "key": "ov",
+      "count": 4,
+      "size": 513
+    },
+    {
+      "key": "ut",
+      "count": 4,
+      "size": 487
+    },
+    {
+      "key": "wo",
+      "count": 4,
+      "size": 518
+    },
+    {
+      "key": "yu",
+      "count": 4,
+      "size": 503
+    },
+    {
+      "key": "ae",
+      "count": 3,
+      "size": 391
+    },
+    {
+      "key": "az",
+      "count": 3,
+      "size": 391
+    },
+    {
+      "key": "dj",
+      "count": 3,
+      "size": 399
+    },
+    {
+      "key": "dr",
+      "count": 3,
+      "size": 382
+    },
+    {
+      "key": "em",
+      "count": 3,
+      "size": 385
+    },
+    {
+      "key": "fd",
+      "count": 3,
+      "size": 417
+    },
+    {
+      "key": "it",
+      "count": 3,
+      "size": 366
+    },
+    {
+      "key": "ly",
+      "count": 3,
+      "size": 381
+    },
+    {
+      "key": "mc",
+      "count": 3,
+      "size": 405
+    },
+    {
+      "key": "op",
+      "count": 3,
+      "size": 371
+    },
+    {
+      "key": "ve",
+      "count": 3,
+      "size": 399
+    },
+    {
+      "key": "wh",
+      "count": 3,
+      "size": 383
+    },
+    {
+      "key": "xx",
+      "count": 3,
+      "size": 397
+    },
+    {
+      "key": "cg",
+      "count": 2,
+      "size": 271
+    },
+    {
+      "key": "dy",
+      "count": 2,
+      "size": 288
+    },
+    {
+      "key": "dz",
+      "count": 2,
+      "size": 277
+    },
+    {
+      "key": "eb",
+      "count": 2,
+      "size": 295
+    },
+    {
+      "key": "ex",
+      "count": 2,
+      "size": 279
+    },
+    {
+      "key": "gn",
+      "count": 2,
+      "size": 281
+    },
+    {
+      "key": "ic",
+      "count": 2,
+      "size": 295
+    },
+    {
+      "key": "jk",
+      "count": 2,
+      "size": 269
+    },
+    {
+      "key": "lp",
+      "count": 2,
+      "size": 274
+    },
+    {
+      "key": "mr",
+      "count": 2,
+      "size": 323
+    },
+    {
+      "key": "oa",
+      "count": 2,
+      "size": 281
+    },
+    {
+      "key": "oc",
+      "count": 2,
+      "size": 277
+    },
+    {
+      "key": "ou",
+      "count": 2,
+      "size": 277
+    },
+    {
+      "key": "ph",
+      "count": 2,
+      "size": 289
+    },
+    {
+      "key": "ps",
+      "count": 2,
+      "size": 310
+    },
+    {
+      "key": "sc",
+      "count": 2,
+      "size": 288
+    },
+    {
+      "key": "sm",
+      "count": 2,
+      "size": 278
+    },
+    {
+      "key": "tg",
+      "count": 2,
+      "size": 321
+    },
+    {
+      "key": "uc",
+      "count": 2,
+      "size": 294
+    },
+    {
+      "key": "wk",
+      "count": 2,
+      "size": 273
+    },
+    {
+      "key": "xe",
+      "count": 2,
+      "size": 284
+    },
+    {
+      "key": "30",
+      "count": 2,
+      "size": 277
+    },
+    {
+      "key": "ah",
+      "count": 1,
+      "size": 160
+    },
+    {
+      "key": "at",
+      "count": 1,
+      "size": 176
+    },
+    {
+      "key": "au",
+      "count": 1,
+      "size": 191
+    },
+    {
+      "key": "aw",
+      "count": 1,
+      "size": 176
+    },
+    {
+      "key": "ck",
+      "count": 1,
+      "size": 163
+    },
+    {
+      "key": "cr",
+      "count": 1,
+      "size": 172
+    },
+    {
+      "key": "gr",
+      "count": 1,
+      "size": 170
+    },
+    {
+      "key": "ht",
+      "count": 1,
+      "size": 161
+    },
+    {
+      "key": "iz",
+      "count": 1,
+      "size": 169
+    },
+    {
+      "key": "ld",
+      "count": 1,
+      "size": 161
+    },
+    {
+      "key": "mb",
+      "count": 1,
+      "size": 174
+    },
+    {
+      "key": "nr",
+      "count": 1,
+      "size": 166
+    },
+    {
+      "key": "ob",
+      "count": 1,
+      "size": 171
+    },
+    {
+      "key": "pl",
+      "count": 1,
+      "size": 169
+    },
+    {
+      "key": "ry",
+      "count": 1,
+      "size": 164
+    },
+    {
+      "key": "sw",
+      "count": 1,
+      "size": 173
+    },
+    {
+      "key": "uj",
+      "count": 1,
+      "size": 169
+    },
+    {
+      "key": "um",
+      "count": 1,
+      "size": 189
+    },
+    {
+      "key": "ur",
+      "count": 1,
+      "size": 168
+    },
+    {
+      "key": "us",
+      "count": 1,
+      "size": 179
+    },
+    {
+      "key": "uy",
+      "count": 1,
+      "size": 178
+    },
+    {
+      "key": "wp",
+      "count": 1,
+      "size": 172
+    },
+    {
+      "key": "zo",
+      "count": 1,
+      "size": 191
+    },
+    {
+      "key": "11",
+      "count": 1,
+      "size": 168
+    },
+    {
+      "key": "13",
+      "count": 1,
+      "size": 166
+    },
+    {
+      "key": "22",
+      "count": 1,
+      "size": 168
+    },
+    {
+      "key": "29",
+      "count": 1,
+      "size": 162
+    },
+    {
+      "key": "60",
+      "count": 1,
+      "size": 166
+    }
+  ],
+  "totalSize": 446538,
+  "avgKeywordsPerShard": 18.144186046511628,
+  "compressionFormat": "array"
+}
